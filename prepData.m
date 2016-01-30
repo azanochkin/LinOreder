@@ -1,4 +1,4 @@
-dateBegin = '2014/07/01';
+dateBegin = '2011/07/01';
 MainTable = rangeBankInit;
 maskDate = (MainTable.date>=datenum(dateBegin,'yyyy/mm/dd'));
 range = 5:11;
@@ -13,26 +13,34 @@ subArr = subArr{maskMinRates,:};
 %
 fprintf('-- > emitents with 2 or greater ranks: %i\n',size(subArr,1));
 %% schulze
-[NE,E] = lossMatrixLin(subArr);
-rankVecSH = schulze(NE);
-getPenalty(rankVecSH,NE,E)
-%% best Insertion
-[NE,E] = lossMatrixLin(subArr);
+lossMat = lossMatrixLin(subArr);
+rankVecSH = schulze2(lossMat);
+getPenalty(rankVecSH,lossMat)
+%% bestInsertion
+lossMat = lossMatrixLin(subArr);
 tic
-%rankVecBI1 = multistart(@bestInsertionNew, NE, E , 0);
-[rankVecBI1,kemDistVec] = multistart(@(n,e)insertion(bestInsertion2(n,e),n,e), NE, E , 1000);
+rankVecBI = insertionRnd(bestInsertion(lossMat),lossMat);
 toc
-%getPenalty(rankVecBI1,NE,E)
-[~,ind] = sort(rankVecBI1);
-ans = [subArr,rankVecBI1];
-array2table(ans(ind,:));
-%% optimization
-rankVecI = insertion(rankVecBI1, NE, E);
-%getPenalty(rankVecI,NE,E)
-[~,ind] = sort(rankVecI);
-ans = [subArr,rankVecI];
-array2table(ans(ind,:));
-%% best Insertion with sort NaNs
+%% Memetic
+lossMat = lossMatrixLin(subArr);
+tic
+rankVecMA = memetic(lossMat);
+toc
+%%  ChanKoby
+lossMat = lossMatrixLin(subArr);
+tic
+rankVecCK = ChanKoby(bestInsertion(lossMat), lossMat, @insertion, 10);
+toc
+%% Multistart
+lossMat = lossMatrixLin(subArr);
+tic
+[rankVecMS,kemDistVecI] = multistart(@(lMat)insertion(bestInsertion(lMat),lMat),...
+                                lossMat, 10);
+toc
+%
+[~,ind] = sort(kemDistVecI);
+array2table([subArr,rankVecMS(:,ind)]);
+%% best Insertion with sort NaNs_ old
 [ans,ind] = sort(sum(~isnan(subArr),2));
 [NE,E] = lossMatrixLin(subArr(ind,:));
 rankVecBI2 = heuristAlgrthmLin2(NE, E , 100);

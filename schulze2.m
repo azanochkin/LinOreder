@@ -1,17 +1,23 @@
-function rankVec = schulze2(lossMatNE,lossMatE)
-    summRelMat
-    nAltert = size(summRelMat,1);
-    maskMat = summRelMat>=summRelMat';
-    tmpSummRelMat = summRelMat;
-    tmpSummRelMat(1:nAltert+1:nAltert^2) = max(tmpSummRelMat,[],2);
-    for i = 1:nAltert
-        for j =1:nAltert
-            tmpMask = maskMat(j,:);
-            tmpRepRow = repmat(tmpSummRelMat(j,tmpMask),nAltert,1);
-            tmpMat = min(tmpSummRelMat(tmpMask,:),tmpRepRow');
-            tmpSummRelMat(j,:) = max(tmpMat);
+function rankVec = schulze2(lossMat)
+    %%
+    lossMat = -lossMat;
+    nAltert = size(lossMat,1);
+    minMat = min(lossMat,lossMat');
+    schNELossMat = lossMat - minMat;
+    %%
+    schNELossMat(1:nAltert+1:nAltert^2) = max(schNELossMat,[],2);
+    for i = 1:nAltert %??
+        for j = 1:nAltert
+            tmpRepRow = repmat(schNELossMat(j,:),nAltert,1);
+            tmpMat = min(schNELossMat,tmpRepRow');
+            schNELossMat(j,:) = max(tmpMat);
         end
     end
-    [~,~,rankVec] = unique(-sum(tmpSummRelMat));
+    relMat = logical(schNELossMat);
+    relMat(1:nAltert+1:nAltert^2) = true;
+    if logical(double(relMat)*relMat)~=relMat
+        error('not trancitive')
+    end
+    [~,~,rankVec] = unique(sum(relMat));
 end
 

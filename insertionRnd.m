@@ -1,27 +1,17 @@
-function [ newRankVec, kemenyDist ] = insertion(rankVec, lossMat)
-    function pen = remPen(curPos,nePenVec,eqPenVec,maskEq)
-        iskEq = maskEq(curPos);
-        if curPos < length(maskEq)
-            iskEq = iskEq || maskEq(curPos+1);
-        end
-        r = sum(~maskEq(1:curPos));
-        if iskEq
-            pen = eqPenVec(r);
-        else
-            pen = nePenVec(r);
-        end
-    end
+function [ newRankVec, kemenyDist ] = insertionRnd(rankVec, lossMat)
     nAltern = size(lossMat,1);
     newRankVec = zeros(nAltern,1);
     [sortRankVec,altOrder] = sort(rankVec(:));
     maskEq = [false; (sortRankVec(1:end-1)==sortRankVec(2:end))];
     kemenyDist = getPenalty(rankVec,lossMat);
-    k = 1;
     numGrid = 1:nAltern;
     cntr = 0;
-    while k <= nAltern
+    kGrid = randi(nAltern,1,2*nAltern);
+    kGrid = [kGrid,  1:nAltern, 1:nAltern];
+    for k = kGrid
         cntr = cntr+1;
         l = altOrder(k);
+        % стоисть вставки
         kMask = true(nAltern,1);
         kMask(k) = false;
         lVec = lossMat(altOrder(kMask),l)';
@@ -31,7 +21,18 @@ function [ newRankVec, kemenyDist ] = insertion(rankVec, lossMat)
             tmpMaskEq(k) = tmpMaskEq(k) && maskEq(k);
         end
         [nePenVec,eqPenVec] = getInsertPen(lVec, gVec, tmpMaskEq);
-        takePen = remPen(k,nePenVec,eqPenVec,maskEq);
+        % стоимость изъ€ти€
+        iskEq = maskEq(k);
+        if k < nAltern
+            iskEq = iskEq || maskEq(k+1);
+        end
+        r = sum(~maskEq(1:k));
+        if iskEq
+            takePen = eqPenVec(r);
+        else
+            takePen = nePenVec(r);
+        end
+        %
         [n,isEq,minPen] = bestInsPos(nePenVec,eqPenVec);
         if minPen < takePen
             tmpNumGrid = numGrid([~tmpMaskEq; true]);
@@ -56,15 +57,7 @@ function [ newRankVec, kemenyDist ] = insertion(rankVec, lossMat)
             altOrder(lDiap) = altOrder(rDiap);
             altOrder(n) = l;
             kemenyDist = kemenyDist + minPen - takePen;
-            k = min(k-1,n);
-            %
-%             newRankVec(altOrder) = cumsum(~maskEq);
-%             realPenalty = getPenalty(newRankVec,lossMat);
-%             fprintf('INSERTION(in)> real: %i , comp: %i \n',realPenalty, kemenyDist);
-            %
         end
-        %
-        k = k + 1;
     end
     newRankVec(altOrder) = cumsum(~maskEq);
     realPenalty = getPenalty(newRankVec,lossMat);

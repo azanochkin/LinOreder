@@ -1,7 +1,7 @@
-function rankVec = schulze(summRelMat)
-    nAltert = size(summRelMat,1);
-    maskMat = summRelMat>=summRelMat';
-    tmpSummRelMat = summRelMat;
+function rankVec = schulze(lossMat)
+    nAltert = size(lossMat,1);
+    maskMat = lossMat>=lossMat';
+    tmpSummRelMat = lossMat;
     tmpSummRelMat(~maskMat) = 0;
     tmpSummRelMat(1:nAltert+1:nAltert^2) = max(tmpSummRelMat,[],2);
     for i = 1:nAltert

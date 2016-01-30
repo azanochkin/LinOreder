@@ -1,4 +1,4 @@
-function [lossMatNE, lossMatE] = lossMatrixLin(rankVecMat)
+function lossMat = lossMatrixLin(rankVecMat)
     nAltern = size(rankVecMat,1);
     nExperts = size(rankVecMat,2);
     lossMatE = zeros(nAltern);
@@ -15,5 +15,6 @@ function [lossMatNE, lossMatE] = lossMatrixLin(rankVecMat)
     end
     lossMatNE(1:(nAltern+1):nAltern^2) = zeros(nAltern,1);
     lossMatE(1:(nAltern+1):nAltern^2) = zeros(nAltern,1);
+    lossMat = lossMatNE - (lossMatNE + lossMatNE' - lossMatE);
 end
 
