@@ -1,20 +1,14 @@
 function lossMat = lossMatrixLin(rankVecMat)
     nAltern = size(rankVecMat,1);
     nExperts = size(rankVecMat,2);
-    lossMatE = zeros(nAltern);
-    lossMatNE = zeros(nAltern);
+    lossMat = zeros(nAltern);
     for i = 1:nExperts
-        tmp = repmat(rankVecMat(:,i),1,nAltern);
-        tmpNE = tmp>tmp';
-        lossMatNE = lossMatNE + 1 - (tmpNE' - tmpNE);
-        tmpE = tmp==tmp';
-        lossMatE = lossMatE + 1 - tmpE;
-        tmpNan = isnan(tmp)|isnan(tmp');
-        lossMatNE = lossMatNE - tmpNan;
-        lossMatE = lossMatE - tmpNan;
+        repRankMat = repmat(rankVecMat(:,i),1,nAltern);
+        maskLE = repRankMat <= repRankMat';
+        lossMat(maskLE) = lossMat(maskLE) - 1;
+        maskG = repRankMat > repRankMat';
+        lossMat(maskG) = lossMat(maskG) + 1;
     end
-    lossMatNE(1:(nAltern+1):nAltern^2) = zeros(nAltern,1);
-    lossMatE(1:(nAltern+1):nAltern^2) = zeros(nAltern,1);
-    lossMat = lossMatNE - (lossMatNE + lossMatNE' - lossMatE);
+    lossMat(1:(nAltern+1):nAltern^2) = zeros(nAltern,1);
 end
 

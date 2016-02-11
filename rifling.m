@@ -8,6 +8,7 @@ function consRankVec = rifling( proxRankVec, kemRankMat )
     end
     minDist = min(distVec);
     indMin = find(distVec == minDist);
+    consRankMat = zeros(size(kemRankMat,1),length(indMin));
     for i = 1:length(indMin)
         rankVec = kemRankMat(:,indMin(i));
         consRankMat(:,i) = classify1(rankVec,rankVec(pMask),proxRankVec(pMask),false);
