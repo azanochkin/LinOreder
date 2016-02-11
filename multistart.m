@@ -20,7 +20,7 @@ function [rankVec,kemenyDist] = multistart( optimFnc, lossMat, varargin )
     end
     [~,ind] = min(kemenyDist);
     realPenalty = getPenalty(rankVec(:,ind),lossMat);
-    plot(sort(kemenyDist,'descend'),'-.^');
+    plot(sort(kemenyDist,'descend'),'-.^g');
     fprintf('MULTISTART> real: %i , comp: %i \n',realPenalty, kemenyDist(ind));
 end
 

@@ -1,4 +1,4 @@
-function [ newRankVec, kemenyDist ] = insertion(rankVec, lossMat)
+function [ newRankVec, kemenyDist ] = insertion(rankVec, lossMat, varargin)
     function pen = remPen(curPos,nePenVec,eqPenVec,maskEq)
         iskEq = maskEq(curPos);
         if curPos < length(maskEq)
@@ -10,6 +10,11 @@ function [ newRankVec, kemenyDist ] = insertion(rankVec, lossMat)
         else
             pen = nePenVec(r);
         end
+    end
+    if nargin == 2
+        isEqPrior = true;
+    else
+        isEqPrior = varargin{1};
     end
     nAltern = size(lossMat,1);
     newRankVec = zeros(nAltern,1);
@@ -32,7 +37,7 @@ function [ newRankVec, kemenyDist ] = insertion(rankVec, lossMat)
         end
         [nePenVec,eqPenVec] = getInsertPen(lVec, gVec, tmpMaskEq);
         takePen = remPen(k,nePenVec,eqPenVec,maskEq);
-        [n,isEq,minPen] = bestInsPos(nePenVec,eqPenVec);
+        [n,isEq,minPen] = bestInsPos(nePenVec,eqPenVec,isEqPrior);
         if minPen < takePen
             tmpNumGrid = numGrid([~tmpMaskEq; true]);
             n = tmpNumGrid(n);   
@@ -67,7 +72,7 @@ function [ newRankVec, kemenyDist ] = insertion(rankVec, lossMat)
         k = k + 1;
     end
     newRankVec(altOrder) = cumsum(~maskEq);
-    realPenalty = getPenalty(newRankVec,lossMat);
-    fprintf('INSERTION> real: %i , comp: %i , counter: %i\n',realPenalty, kemenyDist, cntr);            
+%     realPenalty = getPenalty(newRankVec,lossMat);
+%     fprintf('INSERTION> real: %i , comp: %i , counter: %i\n',realPenalty, kemenyDist, cntr);            
 end
 

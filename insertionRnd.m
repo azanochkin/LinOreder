@@ -33,7 +33,7 @@ function [ newRankVec, kemenyDist ] = insertionRnd(rankVec, lossMat)
             takePen = nePenVec(r);
         end
         %
-        [n,isEq,minPen] = bestInsPos(nePenVec,eqPenVec);
+        [n,isEq,minPen] = bestInsPos(nePenVec,eqPenVec,true);
         if minPen < takePen
             tmpNumGrid = numGrid([~tmpMaskEq; true]);
             n = tmpNumGrid(n);   

@@ -1,7 +1,10 @@
-function [ind,isEq,minPen] = bestInsPos(nePenVec,eqPenVec)
+function [ind,isEq,minPen] = bestInsPos(nePenVec,eqPenVec,isEqPrior)
     [minNePen,indNePen] = min(nePenVec);
     [minEqPen,indEqPen] = min(eqPenVec);
-    isEq = minEqPen <= minNePen;
+    isEq = minEqPen < minNePen;
+    if minEqPen == minNePen
+        isEq = isEqPrior;
+    end 
     if isEq
         minPen = minEqPen;
         %ind = indEqPen;
