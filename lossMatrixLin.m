@@ -11,4 +11,3 @@ function lossMat = lossMatrixLin(rankVecMat)
     end
     lossMat(1:(nAltern+1):nAltern^2) = zeros(nAltern,1);
 end
-

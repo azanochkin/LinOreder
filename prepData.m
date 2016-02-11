@@ -1,9 +1,9 @@
-dateBegin = '2008/07/01';
+dateBegin = '2011/07/01';
 MainTable = rangeBankInit;
 maskDate = (MainTable.date>=datenum(dateBegin,'yyyy/mm/dd'));
 range = 5:11;
 initRankMat = MainTable(maskDate,range);
-maskMinRates = sum(~ismissing(initRankMat),2)>=1;
+maskMinRates = sum(~ismissing(initRankMat),2)>=2;
 initRankMat = initRankMat{maskMinRates,:};
 %
 % sA = subArr;
@@ -25,7 +25,7 @@ toc
 %% Memetic
 lossMat = lossMatrixLin(initRankMat);
 tic
-[rankVecMA, penVecMA] = memetic(lossMat,30,30,10,0.1,5,100,20);
+[rankVecMA, penVecMA] = memetic(lossMat,30,30,10,0.1,5,30,20);
 toc
 %%  ChanKoby
 lossMat = lossMatrixLin(initRankMat);
