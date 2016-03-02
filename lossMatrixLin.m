@@ -5,8 +5,8 @@ function lossMat = lossMatrixLin(rankVecMat)
     for i = 1:nExperts
         repRankMat = repmat(rankVecMat(:,i),1,nAltern);
         maskLE = repRankMat <= repRankMat';
-        lossMat(maskLE) = lossMat(maskLE) - 1;
         maskG = repRankMat > repRankMat';
+        lossMat(maskLE) = lossMat(maskLE) - 1;
         lossMat(maskG) = lossMat(maskG) + 1;
     end
     lossMat(1:(nAltern+1):nAltern^2) = zeros(nAltern,1);

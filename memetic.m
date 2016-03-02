@@ -15,6 +15,10 @@ function [ newRankVec, kemenyDist ]  = memetic( lossMat, nPopulation,...
     end
     function [newKemDistVec, newRankMat, nDiff] = getBest(kemDistVec, rankMat, nBest)
         maskUniq = fndUnique(rankMat);
+        %
+        maskUniq = find(maskUniq);
+        maskUniq = [maskUniq, maskUniq(1)*ones(1,nBest-length(maskUniq)) ];
+        %
         newKemDistVec = kemDistVec(maskUniq);
         newRankMat = rankMat(:,maskUniq);
         %

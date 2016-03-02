@@ -39,7 +39,7 @@ function rankMat = taskShareSC(timeVec, nscRankMat, iscRankMat, OptimFnc )
     %lossMat = lossMatrixLin(initRankMat(maskMinRates,:));
     lossMat = fullLossMat(maskMinRates,maskMinRates);
     indLossEq = fndLossEq(lossMat);
-    fprintf('lossMat: %i\n',sum(indLossEq == (1:length(indLossEq))'));
+    fprintf('Alternatives in lossMat: %i\n',sum(indLossEq == (1:length(indLossEq))'));
     grpLossMat = groupLossMatrix(lossMat, indLossEq);
     %
     [tmpRankMat, ~] = OptimFnc(grpLossMat);
