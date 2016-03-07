@@ -39,7 +39,8 @@ function [rankVec,kemenyDist] = bestInsertion(lossMat,varargin)
         %kemenyDist = kemenyDist + kemAdd;
     end
     rankVec = zeros(nAltern,1);
-    rankVec(altOrder) = cumsum(~maskEq);
+    posVec = find(~maskEq);
+    rankVec(altOrder) = posVec(cumsum(~maskEq));
     kemenyDist = getPenalty(rankVec,lossMat);
 %     realPenalty = getPenalty(rankVec,lossMat);
 %     fprintf('BEST_INSERTION> real: %i , comp: %i \n',realPenalty, kemenyDist);

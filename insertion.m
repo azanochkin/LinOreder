@@ -17,7 +17,6 @@ function [ newRankVec, kemenyDist ] = insertion(rankVec, lossMat, varargin)
         isEqPrior = varargin{1};
     end
     nAltern = size(lossMat,1);
-    newRankVec = zeros(nAltern,1);
     [sortRankVec,altOrder] = sort(rankVec(:));
     maskEq = [false; (sortRankVec(1:end-1)==sortRankVec(2:end))];
     kemenyDist = getPenalty(rankVec,lossMat);
@@ -71,7 +70,9 @@ function [ newRankVec, kemenyDist ] = insertion(rankVec, lossMat, varargin)
         %
         k = k + 1;
     end
-    newRankVec(altOrder) = cumsum(~maskEq);
+    newRankVec = zeros(nAltern,1);
+    posVec = find(~maskEq);
+    newRankVec(altOrder) = posVec(cumsum(~maskEq));
 %     realPenalty = getPenalty(newRankVec,lossMat);
 %     fprintf('INSERTION> real: %i , comp: %i , counter: %i\n',realPenalty, kemenyDist, cntr);            
 end
