@@ -1,8 +1,8 @@
-function lossMat = lossMatrix(timeVec, prefRankMat, subRankMat)
+function lossMat = lossMatrix(timeVec, prefRankMat, subRankMat, varargin)
     nAltern = size(prefRankMat,1);
     nExperts = size(prefRankMat,2);
     lossMat = zeros(nAltern);
-    relMatArr = relationMatrix(timeVec, prefRankMat, subRankMat);
+    relMatArr = relationMatrix(timeVec, prefRankMat, subRankMat, varargin{:});
     for i = 1:nExperts
         maskLE = relMatArr(:,:,i);
         maskG = ~maskLE & maskLE';
