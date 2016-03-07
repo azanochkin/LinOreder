@@ -1,5 +1,5 @@
 function rankMat = taskShareSC(timeVec, nscRankMat, iscRankMat, OptimFnc )
-    function indEq = fndLossEq(lossMat)
+    function indEq = fndEqElLossMatrix(lossMat)
         nAltern = size(lossMat,1);
         indEq = zeros(nAltern,1);
         mask = true(nAltern,1);
@@ -29,6 +29,8 @@ function rankMat = taskShareSC(timeVec, nscRankMat, iscRankMat, OptimFnc )
         dMat = diag(dVec(mask));
         lossMat = dMat*initLossMat(mask,mask)*dMat;
     end
+    % фиксировать рандом
+    rng(1);
     % удалить повторы и убрать единичные наблюдения
     maskMinRates = sum(~(isnan(nscRankMat)&isnan(iscRankMat)),2)>=2;
     %
@@ -36,9 +38,9 @@ function rankMat = taskShareSC(timeVec, nscRankMat, iscRankMat, OptimFnc )
 %     fprintf('rankMat: %i\n',sum(indEq == (1:sum(maskMinRates))'));
     %
     fullLossMat = lossMatrix(timeVec,nscRankMat,iscRankMat);
-    %lossMat = lossMatrixLin(initRankMat(maskMinRates,:));
     lossMat = fullLossMat(maskMinRates,maskMinRates);
-    indLossEq = fndLossEq(lossMat);
+    %lossMat = fullLossMat;
+    indLossEq = fndEqElLossMatrix(lossMat);
     fprintf('Alternatives in lossMat: %i\n',sum(indLossEq == (1:length(indLossEq))'));
     grpLossMat = groupLossMatrix(lossMat, indLossEq);
     %
