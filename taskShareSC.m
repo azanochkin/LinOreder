@@ -32,6 +32,8 @@ function rankMat = taskShareSC(timeVec, nscRankMat, iscRankMat, isEqConsid, Opti
     [indEqVec, isFrstUniqVec] = fndEqElLossMatrix(lossMat);
     grpLossMat = groupLossMatrix(lossMat, indEqVec);
     fprintf('Alternatives in lossMat: %i\n',sum(isFrstUniqVec));
+    % 
+    buzdShare( grpLossMat );
     % Optimization
     rankMat(isFrstUniqVec,:) = OptimFnc(grpLossMat);
     rankMat = rankMat(indEqVec,:);

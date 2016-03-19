@@ -1,6 +1,6 @@
 function [ newRankVec, kemenyDist ]  = memetic( lossMat, nPopulation,...
         nCrossover, nMutation, alphaMut, nMinDiff, nIterMain, nIterPost)
-    function mask = fndUnique(rankMat)
+    function mask = fndUniqRank(rankMat)
         n = size(rankMat,2);
         mask = true(1,n);
         for ii = 1:n
@@ -14,7 +14,7 @@ function [ newRankVec, kemenyDist ]  = memetic( lossMat, nPopulation,...
         end
     end
     function [newKemDistVec, newRankMat, nDiff] = getBest(kemDistVec, rankMat, nBest)
-        maskUniq = fndUnique(rankMat);
+        maskUniq = fndUniqRank(rankMat);
         %
         maskUniq = find(maskUniq);
         maskUniq = [maskUniq, maskUniq(1)*ones(1,nBest-length(maskUniq)) ];
