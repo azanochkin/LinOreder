@@ -1,0 +1,1555 @@
+date;entity;sector;MDSCIsc;MDSCNsc;SPIsc;SPNsc;FCHIsc;FCHNsc;EXPC;NRAC;RUSCIsc;RUSCNsc;AKMC
+733590;Газпром;Нефтегазовый;6;NaN;8;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Роснефть НК;Нефтегазовый;7;NaN;9;NaN;9;NaN;NaN;NaN;NaN;NaN;NaN
+733590;ЛУКОЙЛ НК;Нефтегазовый;8;NaN;9;1;9;NaN;NaN;NaN;NaN;NaN;NaN
+733590;ЮКОС НК, ОАО;Нефтегазовый;NaN;NaN;23;23;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Транснефть АК;Нефтегазовый;5;0;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Транснефтепродукт АК;Нефтегазовый;NaN;NaN;12;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;РЖД;Транспорт;6;0;7;0;7;0;NaN;NaN;NaN;NaN;NaN
+733590;Мосэнерго (ТГК-3);Электроэнергетика;NaN;NaN;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Татэнерго;Электроэнергетика;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+733590;Иркутскэнерго;Электроэнергетика;13;4;13;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Кузбассэнерго (ТГК-12);Электроэнергетика;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+733590;Татнефть;Нефтегазовый;NaN;NaN;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;2
+733590;Северсталь;Металлургический;12;NaN;11;2;11;3;NaN;NaN;NaN;NaN;NaN
+733590;ММК;Металлургический;12;2;11;2;11;NaN;NaN;NaN;NaN;NaN;NaN
+733590;ЧТПЗ;Металлургический;13;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Каустик Волгоград;Химпром, минудобрения;NaN;NaN;16;11;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Казаньоргсинтез;Химпром, минудобрения;NaN;NaN;15;8;15;NaN;NaN;NaN;NaN;NaN;NaN
+733590;АвтоВАЗ;Автомобили и запчасти;NaN;NaN;NaN;NaN;15;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Пласткард;Химпром, минудобрения;NaN;NaN;16;11;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Искитимцемент;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+733590;Концерн Калина;Химпром, минудобрения;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Лебедянский;Пищевая промышленность и с/х;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;НМТП;Транспорт;10;1;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;ДВМП;Транспорт;13;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Совкомфлот;Транспорт;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Уралсвязьинформ;Телекоммуникации;NaN;NaN;12;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+733590;Ростелеком Центр;Телекоммуникации;NaN;NaN;13;4;14;10;NaN;6;NaN;NaN;NaN
+733590;Ростелеком Волга;Телекоммуникации;NaN;NaN;12;3;12;4;NaN;5;NaN;NaN;NaN
+733590;Волгоградэлектросвязь;Телекоммуникации;13;5;14;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Сибирьтелеком;Телекоммуникации;NaN;NaN;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Дальсвязь;Телекоммуникации;NaN;NaN;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Северо-Западный Телеком;Телекоммуникации;NaN;NaN;12;3;12;4;NaN;NaN;NaN;NaN;NaN
+733590;Ингосстрах;Страхование;NaN;NaN;9;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Мострансавто ГУП МО;Транспорт;NaN;NaN;16;10;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Водоканал С-Пб ГУП;ЖКХ;9;0;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;МГТС;Телекоммуникации;12;3;12;2;NaN;NaN;NaN;3;NaN;NaN;NaN
+733590;Распадская;Горнодобыча;12;3;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN
+733590;Вагонмаш;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+733590;НЛМК;Металлургический;10;1;10;1;10;2;NaN;NaN;NaN;NaN;NaN
+733590;Нижнекамскнефтехим;Химпром, минудобрения;13;5;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN
+733590;АстраханьЭнерго;Электроэнергетика;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+733590;Комстар-ОТС;Телекоммуникации;12;NaN;12;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Ренова;Финанс.сервисы;NaN;NaN;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Мотовилихинские Заводы;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;2
+733590;Иркут НПК;Машиностроение;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Роствертол;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+733590;Группа ЛСР;Строительство;13;4;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN
+733590;РАДИОНЕТ;Телекоммуникации;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+733590;Альянс САК;Страхование;NaN;NaN;9;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Сбербанк КИБ;Финанс.сервисы;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Альянс СК;Страхование;NaN;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;БЭМЗ им. Калинина;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+733590;Кузбассразрезуголь УК;Горнодобыча;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;РАО ЕЭС;Электроэнергетика;NaN;NaN;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;ВымпелКом;Телекоммуникации;11;NaN;10;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Ростелеком;Телекоммуникации;NaN;NaN;12;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Интеко;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+733590;ЕвроХим МХК;Химпром, минудобрения;NaN;NaN;11;2;12;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Русс-Инвест ИК;Финанс.сервисы;NaN;NaN;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+733590;Нутринвестхолдинг;Пищевая промышленность и с/х;NaN;NaN;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Алроса АК;Горнодобыча;11;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;ЛЕКСГАРАНТ;Страхование;NaN;NaN;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Система АФК;Финанс.сервисы;12;NaN;12;NaN;12;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Аэрофлот;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;1
+733590;Галс-Девелопмент;Строительство;13;NaN;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+733590;МегаФон;Телекоммуникации;8;NaN;10;1;10;2;NaN;NaN;NaN;NaN;NaN
+733590;Камская Долина;Строительство;NaN;NaN;15;9;NaN;NaN;4;NaN;NaN;NaN;NaN
+733590;Юнити РЕ СПК;Страхование;NaN;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;ЛенСпецСМУ ССМО;Строительство;NaN;NaN;14;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Новатэк;Нефтегазовый;9;NaN;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Северная верфь ССЗ СПб;Машиностроение;NaN;NaN;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Ренессанс Капитал;Финанс.сервисы;NaN;NaN;12;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Москва Ре;Строительство;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Газпром нефть;Нефтегазовый;10;NaN;9;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Норильский Никель ГМК;Металлургический;8;0;9;1;9;NaN;NaN;NaN;NaN;NaN;NaN
+733590;КААД;Транспорт;NaN;NaN;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Финанс Лизинг;Финанс.сервисы;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;ОМЗ;Машиностроение;NaN;NaN;16;11;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Транстелеком;Телекоммуникации;NaN;NaN;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN
+733590;Паркет-Холл;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+733590;АИЖК;Финанс.сервисы;6;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Стройкорпорация Элис;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+733590;Агроторг;Ритейл;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;МТС;Телекоммуникации;11;NaN;12;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+733590;Велес Капитал ИК;Финанс.сервисы;NaN;NaN;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Джей Эф Си Интернешнл;Пищевая промышленность и с/х;NaN;NaN;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;МОИТК;Финанс.сервисы;NaN;NaN;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;МГ Групп;Строительство;14;6;NaN;NaN;14;9;3;NaN;NaN;NaN;NaN
+733590;УРАЛСИБ ЛК;Финанс.сервисы;NaN;NaN;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Росагролизинг;Финанс.сервисы;NaN;NaN;NaN;NaN;8;1;NaN;NaN;NaN;NaN;NaN
+733590;Трубная МетКомп;Металлургический;12;3;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;ИКМО;Финанс.сервисы;NaN;NaN;15;8;NaN;NaN;NaN;NaN;NaN;NaN;3
+733590;ФСК ЕЭС;Электроэнергетика;8;0;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;ВБД ПП;Пищевая промышленность и с/х;12;NaN;12;3;NaN;NaN;NaN;4;NaN;NaN;NaN
+733590;Соллерс;Автомобили и запчасти;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+733590;Связьинвестнефтехим;Финанс.сервисы;10;NaN;NaN;NaN;9;NaN;NaN;NaN;NaN;NaN;NaN
+733590;ИСТ КОММЕРЦ ИГ, ООО;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+733590;Копейка ТД;Ритейл;NaN;NaN;18;18;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;ВТБ-Лизинг;Финанс.сервисы;NaN;NaN;7;0;7;NaN;NaN;NaN;NaN;NaN;NaN
+733590;ВИКА УК;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+733590;СИТРОНИКС;Телекоммуникации;15;NaN;NaN;NaN;15;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Никосхим-Инвест;Химпром, минудобрения;NaN;NaN;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Рэйл Лизинг;Финанс.сервисы;NaN;NaN;16;11;19;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Энел Россия;Электроэнергетика;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;МОЭСК;Электроэнергетика;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;МРСК Центра;Электроэнергетика;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+733590;РусГидро;Электроэнергетика;9;NaN;9;0;9;1;NaN;NaN;NaN;NaN;NaN
+733590;ОГК-1, ОАО;Электроэнергетика;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;ОГК-6;Электроэнергетика;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+733590;СИБУР Холдинг;Нефтегазовый;11;NaN;NaN;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN
+733590;ВТБ Лизинг Финанс;Финанс.сервисы;NaN;NaN;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;ИКС 5 ФИНАНС;Ритейл;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Росвеб Офис;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4
+733955;Газпром;Нефтегазовый;7;NaN;8;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Роснефть НК;Нефтегазовый;7;NaN;9;NaN;9;NaN;NaN;NaN;NaN;NaN;NaN
+733955;ЛУКОЙЛ НК;Нефтегазовый;8;NaN;9;1;9;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Транснефть АК;Нефтегазовый;7;0;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Транснефтепродукт АК;Нефтегазовый;NaN;NaN;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;РЖД;Транспорт;7;0;8;0;8;0;NaN;NaN;NaN;NaN;NaN
+733955;Мосэнерго (ТГК-3);Электроэнергетика;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Татэнерго;Электроэнергетика;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+733955;Якутскэнерго;Электроэнергетика;NaN;NaN;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+733955;Татнефть;Нефтегазовый;11;NaN;NaN;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Северсталь;Металлургический;12;NaN;11;2;12;4;NaN;NaN;NaN;NaN;NaN
+733955;ММК;Металлургический;12;3;11;2;11;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Казаньоргсинтез;Химпром, минудобрения;NaN;NaN;23;23;20;NaN;NaN;NaN;NaN;NaN;NaN
+733955;АвтоВАЗ;Автомобили и запчасти;NaN;NaN;NaN;NaN;15;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Искитимцемент;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+733955;Концерн Калина;Химпром, минудобрения;NaN;NaN;NaN;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;НМТП;Транспорт;10;1;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Совкомфлот;Транспорт;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Уралсвязьинформ;Телекоммуникации;NaN;NaN;13;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+733955;Ростелеком Центр;Телекоммуникации;NaN;NaN;13;4;13;5;NaN;6;NaN;NaN;NaN
+733955;Ростелеком Волга;Телекоммуникации;NaN;NaN;12;3;12;4;NaN;5;NaN;NaN;NaN
+733955;Волгоградэлектросвязь;Телекоммуникации;13;5;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Сибирьтелеком;Телекоммуникации;NaN;NaN;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Дальсвязь;Телекоммуникации;NaN;NaN;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Северо-Западный Телеком;Телекоммуникации;NaN;NaN;12;3;12;4;NaN;NaN;NaN;NaN;NaN
+733955;Ингосстрах;Страхование;NaN;NaN;9;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Мострансавто ГУП МО;Транспорт;NaN;NaN;19;19;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Водоканал С-Пб ГУП;ЖКХ;9;0;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Мосводоканал;ЖКХ;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;МГТС;Телекоммуникации;12;3;11;2;NaN;NaN;NaN;3;NaN;NaN;NaN
+733955;Распадская;Горнодобыча;13;4;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN
+733955;Вагонмаш;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+733955;НЛМК;Металлургический;10;1;9;1;10;2;NaN;NaN;NaN;NaN;NaN
+733955;Нижнекамскнефтехим;Химпром, минудобрения;13;5;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+733955;Чебоксарский АгрегатЗд;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+733955;Промтрактор;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+733955;Комстар-ОТС;Телекоммуникации;12;NaN;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Мотовилихинские Заводы;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+733955;Иркут НПК;Машиностроение;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Роствертол;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+733955;Курганмашзавод;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+733955;Группа ЛСР;Строительство;15;8;NaN;NaN;15;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Альянс САК;Страхование;NaN;NaN;9;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Сбербанк КИБ;Финанс.сервисы;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Лидер УК;Финанс.сервисы;NaN;NaN;NaN;NaN;12;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Альянс СК;Страхование;NaN;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Обувь России;Лёгкая промышленность;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+733955;ВЭБ-лизинг;Финанс.сервисы;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN
+733955;ИнВест-Полис;Страхование;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;БЭМЗ им. Калинина;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6
+733955;Кузбассразрезуголь УК;Горнодобыча;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Интурист;Путешествия. досуг;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+733955;Синтерра;Телекоммуникации;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+733955;ВымпелКом;Телекоммуникации;11;NaN;10;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Ростелеком;Телекоммуникации;NaN;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;СОГАЗ;Страхование;NaN;NaN;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;ЕвроХим МХК;Химпром, минудобрения;NaN;NaN;11;2;11;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Русс-Инвест ИК;Финанс.сервисы;NaN;NaN;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+733955;Алроса АК;Горнодобыча;12;NaN;NaN;NaN;14;NaN;NaN;NaN;NaN;NaN;NaN
+733955;ЛЕКСГАРАНТ;Страхование;NaN;NaN;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Система АФК;Финанс.сервисы;13;NaN;11;NaN;12;NaN;1;NaN;NaN;NaN;1
+733955;Аэрофлот;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;1
+733955;Галс-Девелопмент;Строительство;15;9;NaN;NaN;14;8;3;6;11;NaN;3
+733955;МегаФон;Телекоммуникации;8;NaN;10;1;10;2;NaN;NaN;NaN;NaN;NaN
+733955;Камская Долина;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN;NaN
+733955;Юнити РЕ СПК;Страхование;NaN;5;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;ЛенСпецСМУ ССМО;Строительство;NaN;NaN;14;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Новатэк;Нефтегазовый;9;NaN;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Итера НГК;Нефтегазовый;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+733955;Ренессанс Капитал;Финанс.сервисы;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Москва Ре;Строительство;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Газпром нефть;Нефтегазовый;9;NaN;9;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Норильский Никель ГМК;Металлургический;8;0;9;1;9;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Финанс Лизинг;Финанс.сервисы;18;17;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;ОМЗ;Машиностроение;NaN;NaN;16;11;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Транстелеком;Телекоммуникации;NaN;NaN;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN
+733955;Паркет-Холл;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+733955;АИЖК;Финанс.сервисы;7;0;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Менеджмент-Консалтинг;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;0;NaN;NaN;NaN;NaN
+733955;Стройкорпорация Элис;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+733955;Таттелеком;Телекоммуникации;NaN;NaN;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Агроторг;Ритейл;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;МТС;Телекоммуникации;11;NaN;11;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+733955;Велес Капитал ИК;Финанс.сервисы;NaN;NaN;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;ГраждСамолеты Сухого;Машиностроение;NaN;NaN;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+733955;Джей Эф Си Интернешнл;Пищевая промышленность и с/х;NaN;NaN;16;11;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;МОИТК;Финанс.сервисы;NaN;NaN;19;19;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;МГ Групп;Строительство;NaN;NaN;NaN;NaN;20;20;3;NaN;NaN;NaN;NaN
+733955;УРАЛСИБ ЛК;Финанс.сервисы;NaN;NaN;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN
+733955;ПЛЦ;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+733955;Росагролизинг;Финанс.сервисы;NaN;NaN;NaN;NaN;9;1;NaN;NaN;NaN;NaN;NaN
+733955;Трубная МетКомп;Металлургический;13;5;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;ФСК ЕЭС;Электроэнергетика;8;0;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;ВБД ПП;Пищевая промышленность и с/х;12;NaN;12;3;NaN;NaN;NaN;5;NaN;NaN;NaN
+733955;Соллерс;Автомобили и запчасти;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+733955;Связьинвестнефтехим;Финанс.сервисы;10;NaN;NaN;NaN;9;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Сэтл Групп;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+733955;ИСТ КОММЕРЦ ИГ, ООО;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+733955;Объединенные кондитеры;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+733955;Копейка ТД;Ритейл;NaN;NaN;16;11;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;ВТБ-Лизинг;Финанс.сервисы;NaN;NaN;8;0;8;NaN;NaN;NaN;NaN;NaN;NaN
+733955;ВИКА УК;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+733955;РуссНефть НК;Нефтегазовый;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;2
+733955;СИТРОНИКС;Телекоммуникации;15;NaN;NaN;NaN;15;NaN;2;4;10;NaN;3
+733955;Рэйл Лизинг;Финанс.сервисы;NaN;NaN;22;22;21;NaN;NaN;NaN;NaN;NaN;NaN
+733955;СТС Лизинг;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+733955;Энел Россия;Электроэнергетика;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;МОЭСК;Электроэнергетика;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Элемент Лизинг;Финанс.сервисы;NaN;NaN;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;МОЭК;Электроэнергетика;NaN;NaN;10;1;10;2;NaN;NaN;NaN;NaN;NaN
+733955;МРСК Центра;Электроэнергетика;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+733955;РусГидро;Электроэнергетика;9;NaN;9;0;10;2;NaN;NaN;NaN;NaN;NaN
+733955;ОГК-1, ОАО;Электроэнергетика;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;ОГК-6;Электроэнергетика;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+733955;СИБУР Холдинг;Нефтегазовый;11;NaN;NaN;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN
+733955;ВТБ Лизинг Финанс;Финанс.сервисы;NaN;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;РОСНАНО;Технологии;NaN;NaN;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;ТрансКонтейнер;Транспорт;11;2;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+733955;ИКС 5 ФИНАНС;Ритейл;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Газпром;Нефтегазовый;7;NaN;8;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Роснефть НК;Нефтегазовый;7;NaN;9;NaN;9;NaN;NaN;NaN;NaN;NaN;NaN
+734320;ЛУКОЙЛ НК;Нефтегазовый;8;NaN;9;1;9;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Транснефть АК;Нефтегазовый;7;0;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Транснефтепродукт АК;Нефтегазовый;NaN;NaN;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;РЖД;Транспорт;7;0;8;0;8;0;NaN;NaN;NaN;NaN;NaN
+734320;Мосэнерго (ТГК-3);Электроэнергетика;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Татэнерго;Электроэнергетика;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+734320;Кубаньэнерго;Электроэнергетика;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+734320;Ленэнерго;Электроэнергетика;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Якутскэнерго;Электроэнергетика;NaN;NaN;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+734320;Татнефть;Нефтегазовый;11;NaN;NaN;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Северсталь;Металлургический;12;NaN;12;3;13;5;NaN;NaN;NaN;NaN;NaN
+734320;ММК;Металлургический;12;3;NaN;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN
+734320;ЧТПЗ;Металлургический;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734320;Казаньоргсинтез;Химпром, минудобрения;NaN;NaN;NaN;NaN;21;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Акрон;Химпром, минудобрения;NaN;NaN;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN
+734320;АвтоВАЗ;Автомобили и запчасти;NaN;NaN;NaN;NaN;15;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Концерн Калина;Химпром, минудобрения;NaN;NaN;NaN;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Нарзан;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734320;НМТП;Транспорт;10;1;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Совкомфлот;Транспорт;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Уралсвязьинформ;Телекоммуникации;NaN;NaN;13;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+734320;Ростелеком Центр;Телекоммуникации;NaN;NaN;12;3;11;3;NaN;6;NaN;NaN;NaN
+734320;Ростелеком Волга;Телекоммуникации;NaN;NaN;12;3;11;3;NaN;5;NaN;NaN;NaN
+734320;Волгоградэлектросвязь;Телекоммуникации;13;5;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Сибирьтелеком;Телекоммуникации;NaN;NaN;NaN;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Дальсвязь;Телекоммуникации;12;3;NaN;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Северо-Западный Телеком;Телекоммуникации;NaN;NaN;12;3;11;3;NaN;NaN;NaN;NaN;NaN
+734320;Металлсервис;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734320;Ингосстрах;Страхование;NaN;NaN;9;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Мострансавто ГУП МО;Транспорт;NaN;NaN;19;19;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Водоканал С-Пб ГУП;ЖКХ;9;0;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Мосводоканал;ЖКХ;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;МГТС;Телекоммуникации;12;3;11;2;NaN;NaN;1;2;6;NaN;1
+734320;Распадская;Горнодобыча;13;4;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN
+734320;НЛМК;Металлургический;10;1;9;0;10;2;NaN;NaN;NaN;NaN;NaN
+734320;Нижнекамскнефтехим;Химпром, минудобрения;13;5;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+734320;Комстар-ОТС;Телекоммуникации;12;NaN;11;2;NaN;NaN;2;4;6;NaN;1
+734320;Мотовилихинские Заводы;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734320;Иркут НПК;Машиностроение;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Роствертол;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+734320;УОМЗ ПО;Машиностроение;NaN;NaN;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Группа ЛСР;Строительство;14;7;NaN;NaN;15;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Альянс САК;Страхование;NaN;NaN;9;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Сбербанк КИБ;Финанс.сервисы;NaN;NaN;13;4;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Лидер УК;Финанс.сервисы;NaN;NaN;NaN;NaN;12;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Альянс СК;Страхование;NaN;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Обувь России;Лёгкая промышленность;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;ВЭБ-лизинг;Финанс.сервисы;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN
+734320;ИнВест-Полис;Страхование;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Мечел;Металлургический;13;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+734320;Кузбассразрезуголь УК;Горнодобыча;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Интурист;Путешествия. досуг;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;2
+734320;Синтерра;Телекоммуникации;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+734320;ВымпелКом;Телекоммуникации;11;NaN;10;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Ростелеком;Телекоммуникации;NaN;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;СОГАЗ;Страхование;NaN;NaN;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;ЕвроХим МХК;Химпром, минудобрения;NaN;NaN;11;2;11;3;NaN;NaN;NaN;NaN;NaN
+734320;Русс-Инвест ИК;Финанс.сервисы;NaN;NaN;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+734320;Алроса АК;Горнодобыча;12;NaN;13;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN
+734320;ЛЕКСГАРАНТ;Страхование;NaN;NaN;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Система АФК;Финанс.сервисы;12;NaN;11;NaN;12;4;1;NaN;7;NaN;1
+734320;Аэрофлот;Транспорт;NaN;NaN;NaN;NaN;10;2;NaN;NaN;NaN;NaN;1
+734320;Сбербанк Лизинг;Финанс.сервисы;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN
+734320;МегаФон;Телекоммуникации;7;NaN;9;0;10;2;NaN;NaN;NaN;NaN;NaN
+734320;Юнити РЕ СПК;Страхование;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;ЛенСпецСМУ ССМО;Строительство;NaN;NaN;14;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Новатэк;Нефтегазовый;9;NaN;9;1;9;1;NaN;NaN;NaN;NaN;NaN
+734320;Итера НГК;Нефтегазовый;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+734320;Ренессанс Капитал;Финанс.сервисы;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Москва Ре;Строительство;NaN;NaN;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Газпром нефть;Нефтегазовый;9;NaN;9;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Норильский Никель ГМК;Металлургический;8;0;9;1;9;NaN;NaN;NaN;NaN;NaN;NaN
+734320;ОМЗ;Машиностроение;NaN;NaN;15;8;NaN;NaN;2;NaN;NaN;NaN;NaN
+734320;Транстелеком;Телекоммуникации;NaN;NaN;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN
+734320;АИЖК;Финанс.сервисы;7;0;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Полиметалл;Горнодобыча;NaN;NaN;NaN;NaN;14;8;NaN;NaN;NaN;NaN;NaN
+734320;Таттелеком;Телекоммуникации;NaN;NaN;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Агроторг;Ритейл;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;СУЭК;Горнодобыча;13;4;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;МТС;Телекоммуникации;11;NaN;11;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+734320;Велес Капитал ИК;Финанс.сервисы;NaN;NaN;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;ГраждСамолеты Сухого;Машиностроение;NaN;NaN;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+734320;МОИТК;Финанс.сервисы;NaN;NaN;23;23;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;РУСАЛ;Металлургический;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734320;УРАЛСИБ ЛК;Финанс.сервисы;NaN;NaN;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Росагролизинг;Финанс.сервисы;NaN;NaN;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+734320;Трубная МетКомп;Металлургический;13;5;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;ФСК ЕЭС;Электроэнергетика;8;0;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;ВБД ПП;Пищевая промышленность и с/х;12;NaN;12;3;NaN;NaN;NaN;5;NaN;NaN;NaN
+734320;Соллерс;Автомобили и запчасти;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734320;Связьинвестнефтехим;Финанс.сервисы;10;NaN;NaN;NaN;9;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Сэтл Групп;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;ИСТ КОММЕРЦ ИГ, ООО;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+734320;Объединенные кондитеры;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+734320;Копейка ТД;Ритейл;NaN;NaN;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;ВТБ-Лизинг;Финанс.сервисы;NaN;NaN;8;0;8;NaN;NaN;NaN;NaN;NaN;NaN
+734320;РуссНефть НК;Нефтегазовый;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734320;СИТРОНИКС;Телекоммуникации;15;NaN;NaN;NaN;15;NaN;2;4;10;NaN;3
+734320;СММ;СМИ;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;3
+734320;ЮТэйр-Финанс;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734320;Энел Россия;Электроэнергетика;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;МОЭСК;Электроэнергетика;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Элемент Лизинг;Финанс.сервисы;NaN;NaN;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;МОЭК;Электроэнергетика;NaN;NaN;10;1;10;2;NaN;NaN;NaN;NaN;NaN
+734320;МРСК Центра;Электроэнергетика;NaN;NaN;12;3;NaN;NaN;NaN;4;NaN;NaN;NaN
+734320;РусГидро;Электроэнергетика;10;1;10;1;10;2;NaN;NaN;NaN;NaN;NaN
+734320;Группа Черкизово;Пищевая промышленность и с/х;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;ТГК-2;Электроэнергетика;NaN;NaN;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+734320;Золото Селигдара;Горнодобыча;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734320;ОГК-1, ОАО;Электроэнергетика;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;ОГК-6;Электроэнергетика;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+734320;СИБУР Холдинг;Нефтегазовый;11;NaN;NaN;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Виктория ГК;Ритейл;NaN;NaN;NaN;NaN;15;11;NaN;NaN;NaN;NaN;NaN
+734320;ВТБ Лизинг Финанс;Финанс.сервисы;NaN;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Атомэнергопром;Электроэнергетика;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Национальная Медиа Группа;СМИ;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;РОСНАНО;Технологии;NaN;NaN;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;ТрансКонтейнер;Транспорт;11;2;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+734320;Селигдар;Горнодобыча;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734320;ИКС 5 ФИНАНС;Ритейл;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Газпром;Нефтегазовый;7;NaN;8;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Роснефть НК;Нефтегазовый;7;NaN;9;NaN;9;NaN;NaN;NaN;NaN;NaN;NaN
+734685;ЛУКОЙЛ НК;Нефтегазовый;8;NaN;9;1;9;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Транснефть АК;Нефтегазовый;7;0;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Транснефтепродукт АК;Нефтегазовый;NaN;NaN;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;РЖД;Транспорт;7;0;8;0;8;0;NaN;NaN;NaN;NaN;NaN
+734685;Мосэнерго (ТГК-3);Электроэнергетика;NaN;NaN;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Кубаньэнерго;Электроэнергетика;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+734685;Ленэнерго;Электроэнергетика;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Якутскэнерго;Электроэнергетика;NaN;NaN;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+734685;Татнефть;Нефтегазовый;11;NaN;NaN;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Северсталь;Металлургический;11;NaN;11;2;12;4;NaN;NaN;NaN;NaN;NaN
+734685;ММК;Металлургический;12;3;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+734685;Кокс Кемерово;Металлургический;14;7;14;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Казаньоргсинтез;Химпром, минудобрения;NaN;NaN;NaN;NaN;19;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Акрон;Химпром, минудобрения;13;4;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN
+734685;Куйбышевазот;Химпром, минудобрения;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+734685;АвтоВАЗ;Автомобили и запчасти;NaN;NaN;NaN;NaN;15;11;NaN;NaN;NaN;NaN;NaN
+734685;Концерн Калина;Химпром, минудобрения;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Нарзан;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;НМТП;Транспорт;12;3;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Совкомфлот;Транспорт;9;0;9;0;9;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Ростелеком Волга;Телекоммуникации;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+734685;Металлсервис;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734685;Ингосстрах;Страхование;NaN;NaN;9;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Водоканал С-Пб ГУП;ЖКХ;8;0;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Мосводоканал;ЖКХ;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;МГТС;Телекоммуникации;NaN;NaN;11;2;NaN;NaN;NaN;NaN;NaN;NaN;1
+734685;Распадская;Горнодобыча;13;4;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN
+734685;НЛМК;Металлургический;9;0;9;0;9;1;NaN;NaN;NaN;NaN;NaN
+734685;Нижнекамскнефтехим;Химпром, минудобрения;12;3;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+734685;Комстар-ОТС;Телекоммуникации;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;1
+734685;Мотовилихинские Заводы;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734685;Иркут НПК;Машиностроение;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Роствертол;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+734685;УОМЗ ПО;Машиностроение;NaN;NaN;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Группа ЛСР;Строительство;14;7;NaN;NaN;14;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Альянс САК;Страхование;NaN;NaN;9;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Сбербанк КИБ;Финанс.сервисы;NaN;NaN;13;4;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;РЕСО-Гарантия;Страхование;NaN;NaN;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Лидер УК;Финанс.сервисы;NaN;NaN;NaN;NaN;12;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Альянс СК;Страхование;NaN;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Обувь России;Лёгкая промышленность;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;ВЭБ-лизинг;Финанс.сервисы;NaN;NaN;7;0;8;0;NaN;NaN;NaN;NaN;NaN
+734685;ИнВест-Полис;Страхование;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Мечел;Металлургический;13;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+734685;Кузбассразрезуголь УК;Горнодобыча;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Интурист;Путешествия. досуг;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;2
+734685;Синтерра;Телекоммуникации;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+734685;Энергогарант САК;Страхование;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;ВымпелКом;Телекоммуникации;12;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Ростелеком;Телекоммуникации;NaN;NaN;10;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;СОГАЗ;Страхование;NaN;NaN;9;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;ЕвроХим МХК;Химпром, минудобрения;NaN;NaN;11;2;11;3;NaN;NaN;NaN;NaN;NaN
+734685;Русс-Инвест ИК;Финанс.сервисы;14;7;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+734685;Теле2-Санкт-Петербург;Телекоммуникации;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;1
+734685;Алроса АК;Горнодобыча;12;NaN;12;NaN;12;NaN;NaN;NaN;NaN;NaN;NaN
+734685;ЛЕКСГАРАНТ;Страхование;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Система АФК;Финанс.сервисы;12;NaN;11;NaN;12;4;1;NaN;7;NaN;1
+734685;Аэрофлот;Транспорт;NaN;NaN;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+734685;Сбербанк Лизинг;Финанс.сервисы;NaN;NaN;NaN;NaN;8;0;NaN;NaN;NaN;NaN;NaN
+734685;Транснефть СК;Страхование;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;МегаФон;Телекоммуникации;7;NaN;9;0;10;2;NaN;NaN;NaN;NaN;NaN
+734685;Юнити РЕ СПК;Страхование;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;ЛенСпецСМУ ССМО;Строительство;NaN;NaN;14;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Новатэк;Нефтегазовый;9;NaN;9;1;9;1;NaN;NaN;NaN;NaN;NaN
+734685;Итера НГК;Нефтегазовый;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+734685;БКЕ;Нефтегазовый;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN
+734685;Ренессанс Капитал;Финанс.сервисы;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Москва Ре;Строительство;NaN;NaN;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Газпром нефть;Нефтегазовый;9;NaN;9;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Норильский Никель ГМК;Металлургический;8;0;9;1;9;NaN;NaN;NaN;NaN;NaN;NaN
+734685;ОМЗ;Машиностроение;NaN;NaN;15;8;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;Транстелеком;Телекоммуникации;NaN;NaN;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN
+734685;АИЖК;Финанс.сервисы;7;0;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Полиметалл;Горнодобыча;NaN;NaN;NaN;NaN;14;8;NaN;NaN;NaN;NaN;NaN
+734685;Таттелеком;Телекоммуникации;NaN;NaN;NaN;NaN;12;NaN;NaN;NaN;NaN;NaN;NaN
+734685;СУЭК;Горнодобыча;13;4;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;МТС;Телекоммуникации;11;NaN;11;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+734685;Велес Капитал ИК;Финанс.сервисы;NaN;NaN;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;ГраждСамолеты Сухого;Машиностроение;NaN;NaN;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+734685;Балтийский берег;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+734685;Металлоинвест ХК;Металлургический;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;РУСАЛ;Металлургический;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+734685;УРАЛСИБ ЛК;Финанс.сервисы;NaN;NaN;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Росагролизинг;Финанс.сервисы;NaN;NaN;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+734685;Трубная МетКомп;Металлургический;13;5;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;ФСК ЕЭС;Электроэнергетика;8;0;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Соллерс;Автомобили и запчасти;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734685;Связьинвестнефтехим;Финанс.сервисы;10;NaN;NaN;NaN;9;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Сэтл Групп;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Объединенные кондитеры;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;14;7;NaN;NaN;NaN;NaN;NaN
+734685;ВТБ-Лизинг;Финанс.сервисы;NaN;NaN;8;0;8;0;NaN;NaN;NaN;NaN;NaN
+734685;РуссНефть НК;Нефтегазовый;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;СИТРОНИКС;Телекоммуникации;15;NaN;NaN;NaN;15;12;2;4;10;NaN;NaN
+734685;СММ;СМИ;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;3
+734685;Моя Клиника;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;Магнит;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN
+734685;ЮТэйр-Финанс;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;Группа ГМС;;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;РосинтерРесторХолд;Путешествия. досуг;NaN;NaN;15;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Энел Россия;Электроэнергетика;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;МОЭСК;Электроэнергетика;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Аэроэкспресс;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734685;Синергия;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;14;7;NaN;NaN;NaN;NaN;NaN
+734685;Элемент Лизинг;Финанс.сервисы;NaN;NaN;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;МОЭК;Электроэнергетика;NaN;NaN;11;2;10;2;NaN;NaN;NaN;NaN;NaN
+734685;МРСК Центра;Электроэнергетика;NaN;NaN;12;3;NaN;NaN;NaN;3;NaN;NaN;NaN
+734685;РусГидро;Электроэнергетика;10;1;10;1;10;2;NaN;NaN;NaN;NaN;NaN
+734685;Группа Черкизово;Пищевая промышленность и с/х;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;ТГК-2;Электроэнергетика;NaN;NaN;NaN;NaN;17;15;NaN;NaN;NaN;NaN;NaN
+734685;Золото Селигдара;Горнодобыча;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+734685;Дальневост ГенерКомп;;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;ОГК-1, ОАО;Электроэнергетика;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;СИБУР Холдинг;Нефтегазовый;11;NaN;NaN;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN
+734685;ВТБ Лизинг Финанс;Финанс.сервисы;NaN;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Атомэнергопром;Электроэнергетика;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Первая Грузовая компания;;NaN;NaN;9;1;9;1;NaN;NaN;NaN;NaN;NaN
+734685;Национальная Медиа Группа;СМИ;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;РОСНАНО;Технологии;NaN;NaN;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Россети;Электроэнергетика;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;ОбъединКондитерыФинанс;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;ТрансКонтейнер;Транспорт;12;3;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+734685;Селигдар;Горнодобыча;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+734685;ИКС 5 ФИНАНС;Ритейл;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Газпром;Нефтегазовый;7;NaN;8;NaN;8;0;NaN;NaN;NaN;NaN;NaN
+735051;Роснефть НК;Нефтегазовый;7;NaN;9;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN
+735051;ЛУКОЙЛ НК;Нефтегазовый;8;NaN;9;1;9;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Транснефть АК;Нефтегазовый;7;0;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;РЖД;Транспорт;7;0;8;0;8;0;NaN;NaN;NaN;NaN;NaN
+735051;Мосэнерго (ТГК-3);Электроэнергетика;NaN;NaN;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Ленэнерго;Электроэнергетика;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Якутскэнерго;Электроэнергетика;NaN;NaN;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+735051;Башнефть;Нефтегазовый;11;2;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+735051;Татнефть;Нефтегазовый;11;NaN;NaN;NaN;10;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Якутуголь ХК;Нефтегазовый;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735051;Северсталь;Металлургический;10;NaN;10;1;12;4;NaN;NaN;NaN;NaN;NaN
+735051;ММК;Металлургический;12;3;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+735051;ЧТПЗ;Металлургический;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Кокс Кемерово;Металлургический;14;7;14;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Казаньоргсинтез;Химпром, минудобрения;NaN;NaN;NaN;NaN;17;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Акрон;Химпром, минудобрения;13;4;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN
+735051;Уралкалий;Химпром, минудобрения;9;0;9;0;9;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Куйбышевазот;Химпром, минудобрения;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;1
+735051;АвтоВАЗ;Автомобили и запчасти;NaN;NaN;NaN;NaN;15;11;NaN;NaN;NaN;NaN;NaN
+735051;Нарзан;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Стройтрансгаз;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735051;НМТП;Транспорт;12;3;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Совкомфлот;Транспорт;11;2;9;0;9;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Ростелеком Волга;Телекоммуникации;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735051;Металлсервис;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735051;Ингосстрах;Страхование;NaN;NaN;9;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Водоканал С-Пб ГУП;ЖКХ;8;0;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Мосводоканал;ЖКХ;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Распадская;Горнодобыча;13;4;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN
+735051;Якутуглестрой;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;ГАЗ;Автомобили и запчасти;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735051;НЛМК;Металлургический;9;0;9;0;9;1;NaN;NaN;NaN;NaN;NaN
+735051;Нижнекамскнефтехим;Химпром, минудобрения;12;3;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+735051;РУСАЛ Братск;Металлургический;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735051;Иркут НПК;Машиностроение;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Наука НПО;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735051;УОМЗ ПО;Машиностроение;NaN;NaN;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Группа ЛСР;Строительство;14;7;NaN;NaN;14;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Трансаэро АК;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735051;РЕСО-Гарантия;Страхование;NaN;NaN;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Альянс СК;Страхование;NaN;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Обувь России;Лёгкая промышленность;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Помощь СО;Страхование;NaN;NaN;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;ВЭБ-лизинг;Финанс.сервисы;NaN;NaN;7;0;8;0;NaN;NaN;NaN;NaN;NaN
+735051;ИнВест-Полис;Страхование;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Мечел;Металлургический;13;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735051;СИБМЕТИНВЕСТ;Металлургический;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Кузбассразрезуголь УК;Горнодобыча;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Синтерра;Телекоммуникации;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735051;Энергогарант САК;Страхование;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;ВымпелКом;Телекоммуникации;12;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Ростелеком;Телекоммуникации;NaN;NaN;10;NaN;9;1;NaN;NaN;NaN;NaN;NaN
+735051;СОГАЗ;Страхование;NaN;NaN;9;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;ЕвроХим МХК;Химпром, минудобрения;NaN;NaN;11;2;11;3;NaN;NaN;NaN;NaN;NaN
+735051;Русс-Инвест ИК;Финанс.сервисы;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Теле2-Санкт-Петербург;Телекоммуникации;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;1
+735051;Алроса АК;Горнодобыча;12;NaN;12;NaN;12;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Каркаде;Ритейл;NaN;NaN;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+735051;ЛЕКСГАРАНТ;Страхование;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Южный Кузбасс;Горнодобыча;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735051;Система АФК;Финанс.сервисы;12;NaN;11;NaN;12;4;1;NaN;6;0;1
+735051;Аэрофлот;Транспорт;NaN;NaN;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+735051;Сбербанк Лизинг;Финанс.сервисы;NaN;NaN;NaN;NaN;8;0;NaN;NaN;NaN;NaN;NaN
+735051;Транснефть СК;Страхование;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;МегаФон;Телекоммуникации;9;NaN;9;0;10;2;NaN;NaN;NaN;NaN;NaN
+735051;Юнити РЕ СПК;Страхование;NaN;NaN;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;ЛенСпецСМУ ССМО;Строительство;NaN;NaN;14;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Новатэк;Нефтегазовый;9;NaN;9;1;9;1;NaN;NaN;NaN;NaN;NaN
+735051;Интер РАО;Электроэнергетика;NaN;NaN;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+735051;Итера НГК;Нефтегазовый;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN
+735051;БКЕ;Нефтегазовый;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN
+735051;ПИК ГК;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735051;Ренессанс Капитал;Финанс.сервисы;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Москва Ре;Строительство;NaN;NaN;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Тандер;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN
+735051;Газпром нефть;Нефтегазовый;9;NaN;9;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Норильский Никель ГМК;Металлургический;8;0;9;1;10;NaN;NaN;NaN;NaN;NaN;NaN
+735051;ОМЗ;Машиностроение;NaN;NaN;15;8;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Транстелеком;Телекоммуникации;NaN;NaN;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+735051;Пермский Моторный Завод;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;АИЖК;Финанс.сервисы;7;0;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Полиметалл;Горнодобыча;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN
+735051;Таттелеком;Телекоммуникации;NaN;NaN;NaN;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN
+735051;ТАИФ-НК;Нефтегазовый;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735051;Европлан;Финанс.сервисы;NaN;NaN;NaN;NaN;12;4;NaN;NaN;NaN;NaN;NaN
+735051;ИРИА;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735051;СУЭК;Горнодобыча;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;МТС;Телекоммуникации;11;NaN;11;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+735051;Велес Капитал ИК;Финанс.сервисы;NaN;NaN;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;ГраждСамолеты Сухого;Машиностроение;NaN;NaN;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+735051;Балтийский берег;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735051;Мортон-РСО;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+735051;Металлоинвест ХК;Металлургический;12;3;NaN;NaN;12;4;NaN;NaN;NaN;NaN;NaN
+735051;РУСАЛ;Металлургический;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735051;УРАЛСИБ ЛК;Финанс.сервисы;NaN;NaN;NaN;NaN;12;NaN;NaN;NaN;NaN;NaN;NaN
+735051;ЕПК;Машиностроение;NaN;NaN;13;4;NaN;NaN;NaN;3;NaN;NaN;NaN
+735051;Росагролизинг;Финанс.сервисы;NaN;NaN;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+735051;Трубная МетКомп;Металлургический;13;5;13;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;ФСК ЕЭС;Электроэнергетика;8;0;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Соллерс;Автомобили и запчасти;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735051;Связьинвестнефтехим;Финанс.сервисы;10;NaN;NaN;NaN;9;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Сэтл Групп;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Объединенные кондитеры;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;14;7;NaN;NaN;NaN;NaN;NaN
+735051;ВТБ-Лизинг;Финанс.сервисы;NaN;NaN;8;0;8;0;NaN;NaN;NaN;NaN;NaN
+735051;Коммерц Инвестментс;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735051;ФИЛЕНТА;Недвижимость;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Аптечная сеть 36.6;Фармацевтика;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735051;РуссНефть НК;Нефтегазовый;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735051;Строитель;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;СИТРОНИКС;Телекоммуникации;15;NaN;NaN;NaN;15;12;NaN;4;NaN;NaN;NaN
+735051;СММ;СМИ;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;3
+735051;СПБ ОЙЛ;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;ЕвразХолдинг Финанс;Металлургический;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Моя Клиника;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;РСГ-Финанс;Финанс.сервисы;NaN;NaN;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;ЦентрРостовскийДепозит;;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+735051;СтройЭкология;;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;Стивилон;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Магнит;Ритейл;NaN;NaN;12;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN
+735051;Элемент-Трейд;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735051;Мир мягкой игрушки;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+735051;ЮТэйр-Финанс;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735051;Группа ГМС;;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;РосинтерРесторХолд;Путешествия. досуг;NaN;NaN;15;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Виват-трейд;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Энел Россия;Электроэнергетика;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;МОЭСК;Электроэнергетика;11;2;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Аэроэкспресс;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735051;Синергия;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;14;7;NaN;NaN;NaN;NaN;NaN
+735051;Элемент Лизинг;Финанс.сервисы;NaN;NaN;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;МОЭК;Электроэнергетика;NaN;NaN;11;2;10;2;NaN;NaN;NaN;NaN;NaN
+735051;МРСК Центра;Электроэнергетика;NaN;NaN;12;3;NaN;NaN;NaN;3;NaN;NaN;NaN
+735051;РусГидро;Электроэнергетика;10;1;10;1;10;2;NaN;NaN;NaN;NaN;NaN
+735051;ТГК-1;Электроэнергетика;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735051;АиФ-МедиаПресса-финанс;СМИ;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735051;Группа Черкизово;Пищевая промышленность и с/х;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;ТГК-2;Электроэнергетика;NaN;NaN;NaN;NaN;19;19;NaN;NaN;NaN;NaN;NaN
+735051;Золото Селигдара;Горнодобыча;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735051;Дальневост ГенерКомп;;NaN;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;ЦентрОбувь ТД;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+735051;СИБУР Холдинг;Нефтегазовый;11;NaN;NaN;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN
+735051;ЭГК;;NaN;NaN;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;ВТБ Лизинг Финанс;Финанс.сервисы;NaN;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Атомэнергопром;Электроэнергетика;NaN;NaN;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Обувьрус;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Первая Грузовая компания;;NaN;NaN;9;1;10;2;NaN;NaN;NaN;NaN;NaN
+735051;Юникстейт;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+735051;Главная дорога;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735051;Мираторг АПХ;;NaN;NaN;NaN;NaN;14;8;NaN;NaN;NaN;NaN;NaN
+735051;Промтрансинвест;;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735051;Национальная Медиа Группа;СМИ;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Волга Инженерная Группа;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735051;СевВостУгольКомп;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735051;ТЕНЕКС-Сервис;;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;НефтеТрансСервис;;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735051;ЭР-Телеком Холдинг;;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;РОСНАНО;Технологии;NaN;NaN;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Россети;Электроэнергетика;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;ОбъединКондитерыФинанс;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735051;ТрансКонтейнер;Транспорт;12;3;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+735051;Селигдар;Горнодобыча;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735051;ИКС 5 ФИНАНС;Ритейл;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Росгосстрах;Страхование;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Газпром;Нефтегазовый;7;NaN;8;NaN;8;0;NaN;NaN;NaN;NaN;NaN
+735416;Роснефть НК;Нефтегазовый;7;NaN;8;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN
+735416;ЛУКОЙЛ НК;Нефтегазовый;8;NaN;8;0;9;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Транснефть АК;Нефтегазовый;7;0;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;РЖД;Транспорт;7;0;8;0;8;0;NaN;NaN;NaN;NaN;NaN
+735416;Мосэнерго (ТГК-3);Электроэнергетика;NaN;NaN;11;2;10;2;NaN;NaN;NaN;NaN;NaN
+735416;Ленэнерго;Электроэнергетика;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Мосэлектрощит;Электроэнергетика;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735416;Якутскэнерго;Электроэнергетика;NaN;NaN;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+735416;Башнефть;Нефтегазовый;11;2;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+735416;Татнефть;Нефтегазовый;10;NaN;NaN;NaN;10;NaN;NaN;NaN;NaN;NaN;NaN
+735416;ЯТЭК;Нефтегазовый;NaN;NaN;NaN;NaN;15;10;NaN;NaN;NaN;NaN;NaN
+735416;Якутуголь ХК;Нефтегазовый;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735416;Северсталь;Металлургический;10;NaN;10;1;11;3;NaN;NaN;NaN;NaN;NaN
+735416;ММК;Металлургический;12;3;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+735416;Кокс Кемерово;Металлургический;14;7;15;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Казаньоргсинтез;Химпром, минудобрения;NaN;NaN;NaN;NaN;17;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Акрон;Химпром, минудобрения;13;4;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN
+735416;Уралкалий;Химпром, минудобрения;9;0;9;0;9;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Куйбышевазот;Химпром, минудобрения;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;0
+735416;Уралмашзавод;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Уралхиммаш;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;АвтоВАЗ;Автомобили и запчасти;NaN;NaN;NaN;NaN;15;11;NaN;NaN;NaN;NaN;NaN
+735416;Архангельский ЦБК;Леспром, бумага;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;Нарзан;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;Стройтрансгаз;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735416;Туапсинский МТП;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735416;НМТП;Транспорт;12;3;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;ДВМП;Транспорт;NaN;NaN;12;NaN;13;5;NaN;NaN;NaN;NaN;NaN
+735416;Совкомфлот;Транспорт;12;3;10;1;11;NaN;NaN;NaN;NaN;NaN;NaN
+735416;ЮТЭйр АвиаКомп;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;Ростелеком Волга;Телекоммуникации;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735416;Салмо;Лёгкая промышленность;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Ингосстрах;Страхование;NaN;NaN;9;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Московское РечПар-во;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Водоканал С-Пб ГУП;ЖКХ;8;0;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Мосводоканал;ЖКХ;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Серебрянский Цемент Завод;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Распадская;Горнодобыча;13;4;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN
+735416;Якутуглестрой;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;ГАЗ;Автомобили и запчасти;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735416;НЛМК;Металлургический;9;0;10;1;9;1;NaN;NaN;NaN;NaN;NaN
+735416;Азот Кемерово;Химпром, минудобрения;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;1
+735416;Газпром нефтехим Салават;Химпром, минудобрения;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;Нижнекамскнефтехим;Химпром, минудобрения;12;3;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+735416;РУСАЛ Братск;Металлургический;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;Аргументы и факты;СМИ;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735416;Иркут НПК;Машиностроение;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Наука НПО;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;УОМЗ ПО;Машиностроение;NaN;NaN;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;АрсеналМашинострЗд;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+735416;Группа ЛСР;Строительство;14;7;NaN;NaN;14;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Трансаэро АК;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;Росгосстрах ООО;Страхование;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Жива СО;Страхование;NaN;NaN;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;РЕСО-Гарантия;Страхование;NaN;NaN;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Альянс СК;Страхование;NaN;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Почта России;Транспорт;NaN;NaN;NaN;NaN;8;0;NaN;NaN;NaN;NaN;NaN
+735416;Обувь России;Лёгкая промышленность;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;МегаФон Финанс;Телекоммуникации;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Помощь СО;Страхование;NaN;NaN;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;ВЭБ-лизинг;Финанс.сервисы;NaN;NaN;7;0;8;0;NaN;NaN;NaN;NaN;NaN
+735416;ПОЛИТЕКС;СМИ;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;ИнВест-Полис;Страхование;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Мечел;Металлургический;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735416;СИБМЕТИНВЕСТ;Металлургический;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Кузбассразрезуголь УК;Горнодобыча;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Газпромбанк-инвест;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;Энергогарант САК;Страхование;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;ВымпелКом;Телекоммуникации;12;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Ростелеком;Телекоммуникации;NaN;NaN;10;NaN;9;1;NaN;NaN;NaN;NaN;NaN
+735416;СОГАЗ;Страхование;NaN;NaN;9;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;ЕвроХим МХК;Химпром, минудобрения;NaN;NaN;11;2;11;3;NaN;NaN;NaN;NaN;NaN
+735416;Русс-Инвест ИК;Финанс.сервисы;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;КРОСТ ПСФ;Недвижимость;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735416;Теле2-Санкт-Петербург;Телекоммуникации;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;1
+735416;Алроса АК;Горнодобыча;12;NaN;12;NaN;12;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Каркаде;Ритейл;NaN;NaN;NaN;NaN;12;4;NaN;NaN;NaN;NaN;NaN
+735416;ЛЕКСГАРАНТ;Страхование;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Южный Кузбасс;Горнодобыча;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735416;СУ-155;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Система АФК;Финанс.сервисы;12;NaN;11;NaN;12;4;1;NaN;6;0;1
+735416;Аэрофлот;Транспорт;NaN;NaN;NaN;NaN;12;4;NaN;NaN;NaN;NaN;NaN
+735416;Сбербанк Лизинг;Финанс.сервисы;NaN;NaN;NaN;NaN;8;0;NaN;NaN;NaN;NaN;NaN
+735416;Транснефть СК;Страхование;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;МегаФон;Телекоммуникации;9;NaN;9;0;10;2;NaN;NaN;NaN;NaN;NaN
+735416;Юнити РЕ СПК;Страхование;NaN;NaN;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;ЛенСпецСМУ ССМО;Строительство;NaN;NaN;14;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Новатэк;Нефтегазовый;9;NaN;9;1;9;1;NaN;NaN;NaN;NaN;NaN
+735416;Интрарос;Торговля оборудованием;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Интер РАО;Электроэнергетика;10;1;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+735416;Нижне-Ленское;Горнодобыча;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;БКЕ;Нефтегазовый;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN
+735416;Евразийский;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;ПИК ГК;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735416;Москва Ре;Строительство;NaN;NaN;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Тандер;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN
+735416;Газпром нефть;Нефтегазовый;9;NaN;9;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;НИПИ ИнжГео;Технологии;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Норильский Никель ГМК;Металлургический;8;NaN;9;1;10;NaN;NaN;NaN;NaN;NaN;NaN
+735416;ОМЗ;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Транстелеком;Телекоммуникации;NaN;NaN;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+735416;АИЖК;Финанс.сервисы;7;0;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Базовый Элемент;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;Полиметалл;Горнодобыча;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN
+735416;Таттелеком;Телекоммуникации;NaN;NaN;NaN;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Европлан;Финанс.сервисы;NaN;NaN;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+735416;Наука-СвязьООО;Телекоммуникации;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;ИРИА;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735416;СУЭК;Горнодобыча;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;МТС;Телекоммуникации;11;NaN;11;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+735416;Велес Капитал ИК;Финанс.сервисы;NaN;NaN;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;ГраждСамолеты Сухого;Машиностроение;NaN;NaN;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+735416;Платежный Центр РНКО;Финанс.сервисы;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Рамблер Интернет Холдинг;СМИ;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735416;Гиперцентр;Недвижимость;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+735416;Балтийский берег;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735416;ВТБ Страхование СК;Страхование;NaN;NaN;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Мортон-РСО;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735416;Металлоинвест ХК;Металлургический;11;2;12;NaN;12;4;NaN;NaN;NaN;NaN;NaN
+735416;РУСАЛ;Металлургический;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;УРАЛСИБ ЛК;Финанс.сервисы;NaN;NaN;NaN;NaN;12;NaN;NaN;NaN;NaN;NaN;NaN
+735416;ЕПК;Машиностроение;NaN;NaN;12;3;NaN;NaN;NaN;3;NaN;NaN;NaN
+735416;О`КЕЙ;Ритейл;NaN;NaN;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Росагролизинг;Финанс.сервисы;NaN;NaN;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+735416;Трубная МетКомп;Металлургический;13;5;13;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;ФСК ЕЭС;Электроэнергетика;9;0;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Соллерс;Автомобили и запчасти;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735416;Связьинвестнефтехим;Финанс.сервисы;10;NaN;NaN;NaN;9;NaN;NaN;NaN;NaN;NaN;NaN
+735416;ФосАгро;Химпром, минудобрения;9;0;9;0;10;2;NaN;NaN;NaN;NaN;NaN
+735416;ГТЛК;Финанс.сервисы;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Объединенные кондитеры;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;14;7;NaN;NaN;NaN;NaN;NaN
+735416;Полипласт;Химпром, минудобрения;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735416;Металл-групп;Металлургический;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;ВТБ-Лизинг;Финанс.сервисы;NaN;NaN;8;0;8;0;NaN;NaN;NaN;NaN;NaN
+735416;Коммерц Инвестментс;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;Кордиант;Автомобили и запчасти;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;ФИЛЕНТА;Недвижимость;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Аптечная сеть 36.6;Фармацевтика;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735416;РуссНефть НК;Нефтегазовый;12;3;13;4;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Строитель;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;СММ;СМИ;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;3
+735416;СПБ ОЙЛ;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;ЕвразХолдинг Финанс;Металлургический;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;СПб Реновация;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Моя Клиника;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Уралмаш НГО Холдинг;;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;РСГ-Финанс;Финанс.сервисы;NaN;NaN;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;ЦентрРостовскийДепозит;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;СтройЭкология;;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;Стивилон;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Магнит;Ритейл;NaN;NaN;11;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN
+735416;Лента ООО;Ритейл;NaN;NaN;13;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+735416;Мир мягкой игрушки;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+735416;ЮТэйр-Финанс;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;Группа ГМС;;NaN;NaN;13;4;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;РосинтерРесторХолд;Путешествия. досуг;NaN;NaN;15;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;СИБЭКО;Электроэнергетика;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;Антипинский НПЗ;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735416;ГПБ-Высокие технологии;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Арекс;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Русская Медная Компания;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN
+735416;Виват-трейд;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;РосЕвроДевел-Красноярск;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;РЭС;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Энел Россия;Электроэнергетика;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;МОЭСК;Электроэнергетика;11;2;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Аэроэкспресс;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;1;4;NaN;NaN;NaN
+735416;Синергия;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;14;7;NaN;NaN;NaN;NaN;NaN
+735416;Элемент Лизинг;Финанс.сервисы;NaN;NaN;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;МОЭК;Электроэнергетика;NaN;NaN;12;3;10;2;NaN;NaN;NaN;NaN;NaN
+735416;МРСК Центра;Электроэнергетика;NaN;NaN;11;2;NaN;NaN;NaN;2;NaN;NaN;NaN
+735416;РусГидро;Электроэнергетика;10;1;10;1;10;2;NaN;NaN;NaN;NaN;NaN
+735416;Хабаровский аэропорт;;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Группа Черкизово;Пищевая промышленность и с/х;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;МРСК Урала;Электроэнергетика;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;РФА-Инвест;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Золото Селигдара;Горнодобыча;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735416;Дальневост ГенерКомп;;NaN;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;ЦентрОбувь ТД;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+735416;СИБУР Холдинг;Нефтегазовый;10;NaN;NaN;NaN;10;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Правоурмийское;Металлургический;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;ЭГК;;NaN;NaN;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;МРСК Центра и Приволжья;Электроэнергетика;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Пионер ГК;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+735416;ВТБ Лизинг Финанс;Финанс.сервисы;NaN;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Эко-Инжиниринг;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Атомэнергопром;Электроэнергетика;NaN;NaN;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;АФГ Националь;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735416;Обувьрус;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Юникстейт;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+735416;Лайф ФК;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+735416;Кингкоул;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+735416;Главная дорога;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735416;ГПФ;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Мираторг АПХ;;NaN;NaN;NaN;NaN;14;8;NaN;NaN;NaN;NaN;NaN
+735416;Стройгазмонтаж;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN
+735416;Промтрансинвест;;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;Национальная Медиа Группа;СМИ;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Газпром капитал;Нефтегазовый;NaN;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;АСЦ-Холдинг;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735416;Волга Инженерная Группа;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735416;ГарантФонд Забайкальск;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;9;3;NaN
+735416;НациональнаяНеруднаяКомп;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735416;СевВостУгольКомп;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735416;ЭФЭСк ГК;Электроэнергетика;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;ТЕНЕКС-Сервис;;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;НефтеТрансСервис;;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;РИК;;NaN;NaN;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;ЭР-Телеком Холдинг;;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;РОСНАНО;Технологии;NaN;NaN;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Россети;Электроэнергетика;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Автодор ГК;Строительство;NaN;NaN;NaN;NaN;8;0;NaN;NaN;NaN;NaN;NaN
+735416;ОбъединКондитерыФинанс;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;ТрансКонтейнер;Транспорт;12;3;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+735416;МРСК Волги;Электроэнергетика;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Селигдар;Горнодобыча;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735416;Вертолеты России;Машиностроение;11;2;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+735416;ИКС 5 ФИНАНС;Ритейл;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Росгосстрах;Страхование;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Газпром;Нефтегазовый;7;NaN;8;NaN;8;0;NaN;NaN;NaN;NaN;NaN
+735781;Роснефть НК;Нефтегазовый;7;NaN;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;ЛУКОЙЛ НК;Нефтегазовый;8;NaN;9;0;8;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Транснефть АК;Нефтегазовый;7;0;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;РЖД;Транспорт;7;0;8;0;8;0;NaN;NaN;NaN;NaN;NaN
+735781;Мосэнерго (ТГК-3);Электроэнергетика;NaN;NaN;11;2;10;2;NaN;NaN;NaN;NaN;NaN
+735781;Ленэнерго;Электроэнергетика;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Мосэлектрощит;Электроэнергетика;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735781;Башнефть;Нефтегазовый;11;2;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+735781;Татнефть;Нефтегазовый;9;0;NaN;NaN;9;NaN;NaN;NaN;NaN;NaN;NaN
+735781;ЯТЭК;Нефтегазовый;NaN;NaN;NaN;NaN;15;10;NaN;NaN;NaN;NaN;NaN
+735781;Якутуголь ХК;Нефтегазовый;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735781;Северсталь;Металлургический;10;NaN;10;1;10;2;NaN;NaN;NaN;NaN;NaN
+735781;ММК;Металлургический;12;3;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+735781;Ашинский МетЗд;Металлургический;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+735781;Кокс Кемерово;Металлургический;14;7;15;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Казаньоргсинтез;Химпром, минудобрения;NaN;NaN;NaN;NaN;15;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Акрон;Химпром, минудобрения;13;4;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN
+735781;Уралкалий;Химпром, минудобрения;9;0;9;0;9;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Куйбышевазот;Химпром, минудобрения;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;0
+735781;Минудобрения Россошь;Химпром, минудобрения;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Уралмашзавод;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Уралхиммаш;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;ГМС Ливгидромаш;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735781;КАМАЗ;Автомобили и запчасти;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Архангельский ЦБК;Леспром, бумага;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Нарзан;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;КрЭВРЗ;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+735781;Стройтрансгаз;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735781;Заречье им. Кушнарева;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Туапсинский МТП;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735781;НМТП;Транспорт;12;3;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;ДВМП;Транспорт;NaN;NaN;13;NaN;14;7;NaN;NaN;NaN;NaN;NaN
+735781;Совкомфлот;Транспорт;12;3;10;1;12;NaN;NaN;NaN;NaN;NaN;NaN
+735781;ЮТЭйр АвиаКомп;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Салмо;Лёгкая промышленность;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Ингосстрах;Страхование;NaN;NaN;9;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Гостиница Белград;Путешествия. досуг;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Московское РечПар-во;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Гостиница Советская;Путешествия. досуг;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Водоканал С-Пб ГУП;ЖКХ;8;0;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Мосводоканал;ЖКХ;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Дормост;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Серебрянский Цемент Завод;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Распадская;Горнодобыча;14;7;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN
+735781;Якутуглестрой;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Силовые Машины;Машиностроение;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Сетевая Компания;;NaN;NaN;NaN;NaN;NaN;NaN;0;NaN;NaN;NaN;NaN
+735781;ГАЗ;Автомобили и запчасти;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735781;НЛМК;Металлургический;9;0;10;1;9;1;NaN;NaN;NaN;NaN;NaN
+735781;Азот Кемерово;Химпром, минудобрения;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;1
+735781;Газпром нефтехим Салават;Химпром, минудобрения;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Нижнекамскнефтехим;Химпром, минудобрения;12;3;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;РУСАЛ Братск;Металлургический;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;АС АМУР;Металлургический;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735781;Иркут НПК;Машиностроение;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;УОМЗ ПО;Машиностроение;NaN;NaN;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;250 ЗЖБИ;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735781;ТЭПК;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735781;Междуречье;Горнодобыча;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Группа ЛСР;Строительство;14;7;NaN;NaN;14;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Трансаэро АК;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Артсистемстрой;Прочие;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+735781;Охотный Ряд Делюкс;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Росгосстрах ООО;Страхование;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Самолет Девелопмент;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Жива СО;Страхование;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Перовский ТД;Путешествия. досуг;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Органика синтез;Химпром, минудобрения;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+735781;РЕСО-Гарантия;Страхование;NaN;NaN;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;ЦентрИнновационныхРешений;Технологии;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;12;9;NaN
+735781;Гостиница Сибирь;Путешествия. досуг;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Новые ФитингТех;Технологии;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;НациональнСурьмянаяКомп;Металлургический;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Альянс СК;Страхование;NaN;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Шерризон-Норд;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;РоссийскКоммуналСистемы;ЖКХ;NaN;NaN;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN
+735781;Почта России;Транспорт;NaN;NaN;NaN;NaN;8;0;NaN;NaN;NaN;NaN;NaN
+735781;ДОРАДО;Прочие;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Обувь России;Лёгкая промышленность;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;МегаФон Финанс;Телекоммуникации;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Помощь СО;Страхование;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;ВЭБ-лизинг;Финанс.сервисы;NaN;NaN;8;0;8;0;NaN;NaN;NaN;NaN;NaN
+735781;ПОЛИТЕКС;СМИ;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;ИнВест-Полис;Страхование;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Мечел;Металлургический;16;12;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735781;СИБМЕТИНВЕСТ;Металлургический;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Кузбассразрезуголь УК;Горнодобыча;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Газпромбанк-инвест;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Экспо-Плаза;Путешествия. досуг;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+735781;Энергогарант САК;Страхование;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;ВымпелКом;Телекоммуникации;12;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Ростелеком;Телекоммуникации;NaN;NaN;10;NaN;9;1;NaN;NaN;NaN;NaN;NaN
+735781;СТРАВЕ;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;СОГАЗ;Страхование;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Т2 РТК ХОЛДИНГ;Телекоммуникации;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;1
+735781;ЕвроХим МХК;Химпром, минудобрения;NaN;NaN;11;2;11;3;NaN;NaN;NaN;NaN;NaN
+735781;Русс-Инвест ИК;Финанс.сервисы;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;ИСР Транс;Прочие;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;ИНТЕРМАРС;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;ИНГЕОКОМ КРК;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;КРОСТ ПСФ;Недвижимость;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735781;Теле2-Санкт-Петербург;Телекоммуникации;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;1
+735781;ЖКХ РС(Я);ЖКХ;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Алроса АК;Горнодобыча;12;NaN;12;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Каркаде;Ритейл;NaN;NaN;NaN;NaN;12;4;NaN;NaN;NaN;NaN;NaN
+735781;ЛЕКСГАРАНТ;Страхование;NaN;NaN;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Южный Кузбасс;Горнодобыча;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735781;СУ-155;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Система АФК;Финанс.сервисы;12;NaN;11;NaN;12;4;0;NaN;6;0;0
+735781;Аэрофлот;Транспорт;NaN;NaN;NaN;NaN;12;4;NaN;NaN;NaN;NaN;NaN
+735781;Сбербанк Лизинг;Финанс.сервисы;NaN;NaN;NaN;NaN;8;0;NaN;NaN;NaN;NaN;NaN
+735781;Транснефть СК;Страхование;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;ГлавТоргПродукт;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+735781;МегаФон;Телекоммуникации;9;NaN;9;0;10;2;NaN;NaN;NaN;NaN;NaN
+735781;ЛенСпецСМУ ССМО;Строительство;NaN;NaN;13;4;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Новатэк;Нефтегазовый;9;NaN;9;1;9;1;NaN;NaN;NaN;NaN;NaN
+735781;Интрарос;Торговля оборудованием;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Интер РАО;Электроэнергетика;10;1;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+735781;Кварт Тюмень;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;ЮУГПК;Горнодобыча;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Уралнефтегазпром;Нефтегазовый;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+735781;БТУ;Технологии;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735781;ВосточнаяГорноруднаяКомп;Горнодобыча;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735781;Стройжилинвест;Недвижимость;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN
+735781;Назаровская ГРЭС;Электроэнергетика;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735781;Евразийский;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;ПИК ГК;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735781;Пересвет-Инвест;Недвижимость;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+735781;Москва Ре;Строительство;NaN;NaN;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Тандер;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN
+735781;Газпром нефть;Нефтегазовый;8;NaN;9;0;8;1;NaN;NaN;NaN;NaN;NaN
+735781;НИПИ ИнжГео;Технологии;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Норильский Никель ГМК;Металлургический;8;NaN;9;1;10;NaN;NaN;NaN;NaN;NaN;NaN
+735781;ОМЗ;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Моспромстрой;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;9;3;NaN
+735781;Транстелеком;Телекоммуникации;NaN;NaN;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+735781;АИЖК;Финанс.сервисы;7;0;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Регион ИК;Финанс.сервисы;NaN;NaN;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Базовый Элемент;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Полиметалл;Горнодобыча;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN
+735781;ЛАЙСА ЖдРекламноеАг-во;СМИ;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735781;Таттелеком;Телекоммуникации;NaN;NaN;NaN;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Сибирская ИК;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Европлан;Финанс.сервисы;NaN;NaN;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+735781;Наука-СвязьООО;Телекоммуникации;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;ИРИА;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735781;МТС;Телекоммуникации;11;NaN;10;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+735781;Велес Капитал ИК;Финанс.сервисы;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;ГраждСамолеты Сухого;Машиностроение;NaN;NaN;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+735781;Платежный Центр РНКО;Финанс.сервисы;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Рамблер Интернет Холдинг;СМИ;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735781;ФИНРЭЙТ;Недвижимость;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+735781;Гиперцентр;Недвижимость;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+735781;Балтийский берег;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;1
+735781;ПЕНОПЛЭКС Спб;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Бийскэнерго;Электроэнергетика;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;ВТБ Страхование СК;Страхование;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Мортон-РСО;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735781;Металлоинвест ХК;Металлургический;11;2;11;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+735781;РУСАЛ;Металлургический;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;УРАЛСИБ ЛК;Финанс.сервисы;NaN;NaN;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN
+735781;ЕПК;Машиностроение;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;О`КЕЙ;Ритейл;NaN;NaN;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN
+735781;Росагролизинг;Финанс.сервисы;NaN;NaN;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+735781;Трубная МетКомп;Металлургический;13;5;13;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;ПГК;Транспорт;NaN;NaN;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+735781;ИРВИН 2;Фармацевтика;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;ФСК ЕЭС;Электроэнергетика;9;0;9;0;8;0;NaN;NaN;NaN;NaN;NaN
+735781;Связьинвестнефтехим;Финанс.сервисы;9;NaN;NaN;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN
+735781;ФосАгро;Химпром, минудобрения;9;0;9;0;10;2;NaN;NaN;NaN;NaN;NaN
+735781;ГТЛК;Финанс.сервисы;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Объединенные кондитеры;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+735781;Полипласт;Химпром, минудобрения;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735781;ПРЕМЬЕР ОИЛ;Автомобили и запчасти;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Пивдом;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Металл-групп;Металлургический;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;ВТБ-Лизинг;Финанс.сервисы;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Коммерц Инвестментс;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Кордиант;Автомобили и запчасти;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;ФИЛЕНТА;Недвижимость;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Аптечная сеть 36.6;Фармацевтика;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735781;РуссНефть НК;Нефтегазовый;12;3;14;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Строитель;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;СММ;СМИ;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;2
+735781;Искра Москва;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;12;9;NaN
+735781;СПБ ОЙЛ;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;ЭлектрБилеты Е-Тикетс;Телекоммуникации;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;РЖД-Развитие вокзалов;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Хорус Финанс;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;ЕвразХолдинг Финанс;Металлургический;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;СПб Реновация;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Моя Клиника;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Ларкан;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Уралмаш НГО Холдинг;;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;РСГ-Финанс;Финанс.сервисы;NaN;NaN;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;НьюХауТрейд;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;12;9;NaN
+735781;ЦентрРостовскийДепозит;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;РЕГИОН-ИНВЕСТ ООО;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;9;NaN
+735781;СтройЭкология;;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;Стивилон;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Олета;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Магнит;Ритейл;NaN;NaN;11;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN
+735781;Лента ООО;Ритейл;NaN;NaN;13;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+735781;Светотехническая компания;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Арктика;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Мир мягкой игрушки;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+735781;ЮТэйр-Финанс;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Группа ГМС;;NaN;NaN;14;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;СИБЭКО;Электроэнергетика;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Антипинский НПЗ;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735781;Лойд;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;13;10;NaN
+735781;ГПБ-Высокие технологии;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Арекс;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Дельта-холдинг;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+735781;Виват-трейд;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Дельта Финанс;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;9;NaN
+735781;РосЕвроДевел-Красноярск;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Статус (Москва);;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Глобал1;;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;РЭС;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Бор ГХК;Химпром, минудобрения;NaN;NaN;NaN;NaN;NaN;NaN;NaN;21;NaN;NaN;NaN
+735781;Энел Россия;Электроэнергетика;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;МОЭСК;Электроэнергетика;11;2;11;2;10;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Аэроэкспресс;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;1;3;NaN;NaN;NaN
+735781;Концерн Лусине;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+735781;Синергия;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;14;7;NaN;NaN;NaN;NaN;NaN
+735781;Элемент Лизинг;Финанс.сервисы;NaN;NaN;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;ИнвестСовТех;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;МОЭК;Электроэнергетика;NaN;NaN;12;3;11;3;NaN;NaN;NaN;NaN;NaN
+735781;МРСК Центра;Электроэнергетика;NaN;NaN;11;2;NaN;NaN;NaN;2;NaN;NaN;NaN
+735781;РусГидро;Электроэнергетика;10;1;10;1;10;2;NaN;NaN;NaN;NaN;NaN
+735781;МГИиС;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+735781;Хабаровский аэропорт;;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Группа Черкизово;Пищевая промышленность и с/х;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;МРСК Урала;Электроэнергетика;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;РФА-Инвест;Финанс.сервисы;NaN;NaN;15;9;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Золото Селигдара;Горнодобыча;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+735781;Дальневост ГенерКомп;;NaN;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;ЦентрОбувь ТД;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+735781;ХФЛ Финанс;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;СИБУР Холдинг;Нефтегазовый;10;NaN;NaN;NaN;10;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Евразия недвижимость;Недвижимость;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+735781;Правоурмийское;Металлургический;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Ниагара;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+735781;МИРС;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;МРСК Центра и Приволжья;Электроэнергетика;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Пионер ГК;Строительство;NaN;NaN;15;9;NaN;NaN;NaN;6;NaN;NaN;NaN
+735781;ВТБ Лизинг Финанс;Финанс.сервисы;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Эко-Инжиниринг;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Атомэнергопром;Электроэнергетика;8;0;9;0;8;0;NaN;NaN;NaN;NaN;NaN
+735781;АФГ Националь;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735781;Обувьрус;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Юникстейт;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+735781;Лайф ФК;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+735781;КВАРТСТРОЙ;;NaN;NaN;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Голден Фандс;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;12;9;NaN
+735781;Кингкоул;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+735781;Главная дорога;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735781;КД Групп;;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;ГПФ;;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Мираторг АПХ;;NaN;NaN;NaN;NaN;14;7;NaN;NaN;NaN;NaN;NaN
+735781;Стройгазмонтаж;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN
+735781;Информинвестгрупп;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735781;Промтрансинвест;;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Национальная Медиа Группа;СМИ;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Газпром капитал;Нефтегазовый;NaN;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;АСЦ-Холдинг;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735781;Сервистрансклининг;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735781;НТЦ;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;ГЕОТЕК Сейсморазв;Нефтегазовый;NaN;NaN;14;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Дельта-Финанс;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;9;NaN
+735781;РегионИнвест Москва;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+735781;Волга Инженерная Группа;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735781;ГарантФонд Забайкальск;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;9;3;NaN
+735781;НациональнаяНеруднаяКомп;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735781;СевВостУгольКомп;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735781;Курорты Югры;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;ЭФЭСк ГК;Электроэнергетика;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;РТИ;;NaN;NaN;NaN;NaN;NaN;NaN;1;3;NaN;NaN;NaN
+735781;Русь АПК;;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Платинум Недвижимость;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Управление отходами;ЖКХ;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735781;НДК;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Строй Престиж;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+735781;ТЕНЕКС-Сервис;;NaN;NaN;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;НефтеТрансСервис;;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Гранд-Маркет-Ф;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;РИК;;NaN;NaN;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;ЭР-Телеком Холдинг;;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;РОСНАНО;Технологии;NaN;NaN;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Россети;Электроэнергетика;10;1;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;ФПК;;8;0;9;NaN;9;1;NaN;NaN;NaN;NaN;NaN
+735781;Автодор ГК;Строительство;NaN;NaN;NaN;NaN;8;0;NaN;NaN;NaN;NaN;NaN
+735781;ОбъединКондитерыФинанс;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;ТрансКонтейнер;Транспорт;12;3;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+735781;Совхоз Московский+;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;АКМ Лоджистикс;;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+735781;Ак Барс Строй;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735781;МРСК Волги;Электроэнергетика;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Нефтегазоптимизация;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+735781;Селигдар;Горнодобыча;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+735781;Вертолеты России;Машиностроение;11;2;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+735781;ИКС 5 ФИНАНС;Ритейл;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;УНГП-Финанс;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;9;NaN
+736146;Росгосстрах;Страхование;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Газпром;Нефтегазовый;10;NaN;9;NaN;9;0;NaN;NaN;NaN;NaN;NaN
+736146;Роснефть НК;Нефтегазовый;10;NaN;10;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;ЛУКОЙЛ НК;Нефтегазовый;10;NaN;9;0;9;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Транснефть АК;Нефтегазовый;10;1;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;РЖД;Транспорт;10;1;9;0;9;0;NaN;NaN;NaN;NaN;NaN
+736146;Мосэнерго (ТГК-3);Электроэнергетика;NaN;NaN;11;2;10;2;NaN;NaN;NaN;NaN;NaN
+736146;Ленэнерго;Электроэнергетика;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Мосэлектрощит;Электроэнергетика;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+736146;Башнефть;Нефтегазовый;10;1;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+736146;Татнефть;Нефтегазовый;10;1;NaN;NaN;9;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Северсталь;Металлургический;10;NaN;10;1;10;2;NaN;NaN;NaN;NaN;NaN
+736146;ММК;Металлургический;12;3;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+736146;Ашинский МетЗд;Металлургический;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+736146;Кокс Кемерово;Металлургический;14;7;14;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Казаньоргсинтез;Химпром, минудобрения;NaN;NaN;NaN;NaN;15;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Акрон;Химпром, минудобрения;13;4;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN
+736146;Уралкалий;Химпром, минудобрения;10;1;10;1;9;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Куйбышевазот;Химпром, минудобрения;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;0
+736146;Минудобрения Россошь;Химпром, минудобрения;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Уралмашзавод;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Уралхиммаш;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;КАМАЗ;Автомобили и запчасти;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Архангельский ЦБК;Леспром, бумага;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;КрЭВРЗ;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;Заречье им. Кушнарева;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Черноерковское;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;Цимлянский;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;Туапсинский МТП;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+736146;НМТП;Транспорт;12;3;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;ДВМП;Транспорт;NaN;NaN;15;NaN;15;12;NaN;NaN;NaN;NaN;NaN
+736146;Порт Ванино;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Сахалинское МорПар-во;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Совкомфлот;Транспорт;13;5;10;1;12;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Салмо;Лёгкая промышленность;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Ленгипротранс;Технологии;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;Балтийский лизинг ОАО;Финанс.сервисы;NaN;NaN;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+736146;Ингосстрах;Страхование;NaN;NaN;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Гостиница Белград;Путешествия. досуг;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Краснодаргоргаз;Нефтегазовый;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Водоканал С-Пб ГУП;ЖКХ;11;2;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Мосводоканал;ЖКХ;NaN;NaN;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Серебрянский Цемент Завод;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Распадская;Горнодобыча;14;7;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN
+736146;Якутуглестрой;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Силовые Машины;Машиностроение;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Лихоборский автосервис;Автомобили и запчасти;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;Сетевая Компания;;NaN;NaN;NaN;NaN;NaN;NaN;0;NaN;NaN;NaN;NaN
+736146;ГАЗ;Автомобили и запчасти;NaN;NaN;NaN;NaN;NaN;NaN;2;4;NaN;NaN;NaN
+736146;НЛМК;Металлургический;10;1;10;1;9;1;NaN;NaN;NaN;NaN;NaN
+736146;Газпром нефтехим Салават;Химпром, минудобрения;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Нижнекамскнефтехим;Химпром, минудобрения;12;3;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;РУСАЛ Братск;Металлургический;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;АС АМУР;Металлургический;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;Иркут НПК;Машиностроение;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;УОМЗ ПО;Машиностроение;NaN;NaN;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Плутон;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+736146;250 ЗЖБИ;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+736146;Торговый дом ЦВУП;Недвижимость;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;ТЭПК;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+736146;Союз Святого Иоанна Воина;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Плаза;Путешествия. досуг;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;ЦентрИнновационРазвития;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Конданефть НК;Нефтегазовый;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;СПЕЦ;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;Междуречье;Горнодобыча;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Группа ЛСР;Строительство;14;7;NaN;NaN;14;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Артсистемстрой;Прочие;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;13;10;NaN
+736146;Охотный Ряд Делюкс;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Росгосстрах ООО;Страхование;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Самолет Девелопмент;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Валентин Юдашкин;Лёгкая промышленность;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Жива СО;Страхование;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Перовский ТД;Путешествия. досуг;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Органика синтез;Химпром, минудобрения;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;РЕСО-Гарантия;Страхование;NaN;NaN;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;ЦентрИнновационныхРешений;Технологии;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;13;10;NaN
+736146;Новые ФитингТех;Технологии;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;НациональнСурьмянаяКомп;Металлургический;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Арктикгаз;Нефтегазовый;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;ЖЛПК;Леспром, бумага;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Шерризон-Норд;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Почта России;Транспорт;NaN;NaN;NaN;NaN;9;0;NaN;0;NaN;NaN;NaN
+736146;ДОРАДО;Прочие;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Обувь России;Лёгкая промышленность;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;МегаФон Финанс;Телекоммуникации;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Помощь СО;Страхование;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;ЕвроСтрой;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;ВЭБ-лизинг;Финанс.сервисы;NaN;NaN;9;0;9;0;NaN;NaN;NaN;NaN;NaN
+736146;Темпторг;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;ПОЛИТЕКС;СМИ;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;11;8;NaN
+736146;ИнВест-Полис;Страхование;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Мечел;Металлургический;NaN;17;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;СИБМЕТИНВЕСТ;Металлургический;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Мактрен-Нафта;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Газпромбанк-инвест;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;ЦентрСтрой;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;Экспо-Плаза;Путешествия. досуг;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;Олма ИФ;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Снежная долина;Недвижимость;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;12;9;NaN
+736146;Энергогарант САК;Страхование;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;ВымпелКом;Телекоммуникации;12;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Ростелеком;Телекоммуникации;NaN;NaN;10;NaN;9;1;NaN;NaN;NaN;NaN;NaN
+736146;СТРАВЕ;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;СОГАЗ;Страхование;NaN;NaN;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Магистраль Двух Столиц;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;0;NaN;NaN;NaN;NaN
+736146;Т2 РТК ХОЛДИНГ;Телекоммуникации;NaN;NaN;NaN;NaN;13;5;1;NaN;NaN;NaN;1
+736146;ЕвроХим МХК;Химпром, минудобрения;NaN;NaN;11;2;11;3;NaN;NaN;NaN;NaN;NaN
+736146;Русс-Инвест ИК;Финанс.сервисы;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;ДК Девелопмент;Недвижимость;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;МАКРОН-СТ;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;ИНТЕРМАРС;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;КРОСТ ПСФ;Недвижимость;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;Теле2-Санкт-Петербург;Телекоммуникации;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;1
+736146;ЖКХ РС(Я);ЖКХ;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Алроса АК;Горнодобыча;11;NaN;12;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Донское золото;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;Стандарт-Инвест;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;ШОКОЛАД ТРЦ;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;Каркаде;Ритейл;NaN;NaN;NaN;NaN;12;4;NaN;NaN;NaN;NaN;NaN
+736146;Москворецкое;Недвижимость;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Алютера;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;12;9;NaN
+736146;ЛЕКСГАРАНТ;Страхование;NaN;NaN;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Южный Кузбасс;Горнодобыча;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+736146;СУ-155;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN;NaN
+736146;ПЕТЕРБУРГСТРОЙ;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Система АФК;Финанс.сервисы;13;NaN;11;NaN;12;4;1;NaN;6;0;0
+736146;ГарденХиллс;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Аэрофлот;Транспорт;NaN;NaN;NaN;NaN;12;4;NaN;NaN;NaN;NaN;NaN
+736146;Согласие СК;Страхование;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Сбербанк Лизинг;Финанс.сервисы;NaN;NaN;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN
+736146;Транснефть СК;Страхование;NaN;NaN;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Эдисонэнерго;Электроэнергетика;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;ГлавТоргПродукт;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+736146;МегаФон;Телекоммуникации;10;NaN;9;0;10;2;NaN;NaN;NaN;NaN;NaN
+736146;ЛенСпецСМУ ССМО;Строительство;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Ангстрем Трейдинг;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;Новатэк;Нефтегазовый;10;1;10;1;9;1;NaN;NaN;NaN;NaN;NaN
+736146;Интрарос;Торговля оборудованием;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Интер РАО;Электроэнергетика;11;2;NaN;NaN;9;1;NaN;NaN;NaN;NaN;NaN
+736146;ИНГА;Торговля оборудованием;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Жилище;Недвижимость;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;ЮУГПК;Горнодобыча;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Уралнефтегазпром;Нефтегазовый;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;Агора Трейд;Торговля оборудованием;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+736146;БКЗ;Путешествия. досуг;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+736146;БТУ;Технологии;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;ВосточнаяГорноруднаяКомп;Горнодобыча;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;Стройжилинвест;Недвижимость;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN
+736146;Назаровская ГРЭС;Электроэнергетика;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;Завод ЭЛКАП;Телекоммуникации;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Эркафарм;Фармацевтика;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Евразийский;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;ПИК ГК;Строительство;NaN;NaN;14;7;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Пересвет-Инвест;Недвижимость;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+736146;Москва Ре;Строительство;NaN;NaN;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Интерфлора;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+736146;ОлеФинИнвест;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;ЖелезныеДорогиЯкутии;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+736146;Тандер;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN
+736146;Газпром нефть;Нефтегазовый;10;NaN;10;1;9;1;NaN;NaN;NaN;NaN;NaN
+736146;Русс Аутдор;СМИ;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;НИПИ ИнжГео;Технологии;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Норильский Никель ГМК;Металлургический;10;1;9;0;9;NaN;NaN;NaN;NaN;NaN;NaN
+736146;ОМЗ;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Моспромстрой;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;9;3;NaN
+736146;Транстелеком;Телекоммуникации;NaN;NaN;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+736146;Олма ИК;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;АИЖК;Финанс.сервисы;10;1;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Регион ИК;Финанс.сервисы;NaN;NaN;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Базовый Элемент;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Космотрас;Машиностроение;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Полиметалл;Горнодобыча;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN
+736146;ЛАЙСА ЖдРекламноеАг-во;СМИ;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+736146;Таттелеком;Телекоммуникации;NaN;NaN;NaN;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Домодедово МА;Транспорт;NaN;NaN;10;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Сибирская ИК;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Европлан;Финанс.сервисы;NaN;NaN;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+736146;Мир Упаковки;Прочие;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Автобан ДСК;Строительство;13;4;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Наука-СвязьООО;Телекоммуникации;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;ОРИОН ООО;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;А ПЛЮС ПАРК КОЛПИНО;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Мэйл.Ру;Телекоммуникации;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;МТС;Телекоммуникации;10;NaN;10;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+736146;Велес Капитал ИК;Финанс.сервисы;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;ГраждСамолеты Сухого;Машиностроение;NaN;NaN;NaN;NaN;12;4;NaN;NaN;NaN;NaN;NaN
+736146;Платежный Центр РНКО;Финанс.сервисы;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Рамблер Интернет Холдинг;СМИ;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;ФИНРЭЙТ;Недвижимость;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;Балтийский берег;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;1
+736146;ПЕНОПЛЭКС Спб;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Бийскэнерго;Электроэнергетика;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Гарант СДК;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;0;NaN
+736146;ВТБ Страхование СК;Страхование;NaN;NaN;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Мортон-РСО;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+736146;Металлоинвест ХК;Металлургический;11;2;11;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+736146;РУСАЛ;Металлургический;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;УРАЛСИБ ЛК;Финанс.сервисы;NaN;NaN;NaN;NaN;14;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Кубаньагро-Приазовье;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;О`КЕЙ;Ритейл;NaN;NaN;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN
+736146;Росагролизинг;Финанс.сервисы;NaN;NaN;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+736146;Трубная МетКомп;Металлургический;13;5;13;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;ПГК;Транспорт;NaN;NaN;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+736146;ИРВИН 2;Фармацевтика;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;ФСК ЕЭС;Электроэнергетика;10;1;10;1;9;0;NaN;NaN;NaN;NaN;NaN
+736146;Связьинвестнефтехим;Финанс.сервисы;11;NaN;NaN;NaN;9;NaN;NaN;NaN;NaN;NaN;NaN
+736146;ОВК Финанс;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;1
+736146;ФосАгро;Химпром, минудобрения;10;1;9;0;10;2;NaN;NaN;NaN;NaN;NaN
+736146;ГТЛК;Финанс.сервисы;NaN;NaN;13;4;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Краус-М;Недвижимость;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Объединенные кондитеры;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+736146;Полипласт;Химпром, минудобрения;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+736146;ПРЕМЬЕР ОИЛ;Автомобили и запчасти;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;РЕСОТРАСТ;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;МПРТ;Технологии;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;ВТБ-Лизинг;Финанс.сервисы;NaN;NaN;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Коммерц Инвестментс;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;ФИЛЕНТА;Недвижимость;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Аптечная сеть 36.6;Фармацевтика;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+736146;ОПИН;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;РуссНефть НК;Нефтегазовый;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Строитель;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;СММ;СМИ;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;2
+736146;РосСтрой;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Новопетровская ЗернКомп;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;Коммерцпроект;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;БИК;Страхование;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;13;10;NaN
+736146;Искра Москва;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;13;10;NaN
+736146;СПБ ОЙЛ;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Краснобродский Южный;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+736146;Хорус Финанс;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;ЕвразХолдинг Финанс;Металлургический;NaN;NaN;12;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;СПб Реновация;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Моя Клиника;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;АФ-Групп ТоргКомп;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;Альянс-Энерджи;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Ларкан;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Синема Инвест Ижевск;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;ОРИОН ТРЕЙДИНГ;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN
+736146;Соломенский лесозавод;Леспром, бумага;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;12;9;NaN
+736146;Р1;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;Главкачество ТД;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;Сигма ООО;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;КМК-Оникс;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;Уралмаш НГО Холдинг;;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;НПС;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;РСГ-Финанс;Финанс.сервисы;NaN;NaN;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Шпалерная УК;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;НьюХауТрейд;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;13;10;NaN
+736146;ЦентрРостовскийДепозит;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;РЕГИОН-ИНВЕСТ ООО;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;9;NaN
+736146;СтройЭкология;;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Стивилон;;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Меркурий;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Эктив Телеком;Телекоммуникации;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Олета;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Магнит;Ритейл;NaN;NaN;10;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN
+736146;Нефтьсервисхолдинг;Нефтегазовый;13;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Лента ООО;Ритейл;NaN;NaN;13;NaN;12;4;NaN;2;NaN;NaN;NaN
+736146;Светотехническая компания;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;СтройФорм;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;Мир мягкой игрушки;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+736146;ГрандНэкст;;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;СИБЭКО;Электроэнергетика;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Антипинский НПЗ;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+736146;Лойд;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;13;10;NaN
+736146;ГПБ-Высокие технологии;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Арекс;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Дельта-холдинг;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;Дельта Финанс;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;9;NaN
+736146;РосЕвроДевел-Красноярск;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Статус (Москва);;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Глобал1;;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Тройка Лизинг;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;Энел Россия;Электроэнергетика;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;МОЭСК;Электроэнергетика;11;2;12;3;10;2;NaN;NaN;NaN;NaN;NaN
+736146;Аэроэкспресс;Транспорт;NaN;NaN;NaN;NaN;NaN;NaN;1;3;NaN;NaN;NaN
+736146;Концерн Лусине;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;Синергия;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+736146;Элемент Лизинг;Финанс.сервисы;NaN;NaN;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;ИнвестСовТех;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;МРСК Центра;Электроэнергетика;NaN;NaN;12;3;NaN;NaN;NaN;2;NaN;NaN;NaN
+736146;РусГидро;Электроэнергетика;11;2;11;2;10;2;NaN;NaN;NaN;NaN;NaN
+736146;МГИиС;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;Группа Черкизово;Пищевая промышленность и с/х;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;МРСК Урала;Электроэнергетика;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Золото Селигдара;Горнодобыча;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+736146;Дальневост ГенерКомп;;NaN;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Золотая Нива;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;Первое КоллекторБюро;Прочие;NaN;NaN;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;ЦентрОбувь ТД;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN
+736146;ХФЛ Финанс;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;СИБУР Холдинг;Нефтегазовый;10;NaN;NaN;NaN;10;NaN;NaN;NaN;NaN;NaN;NaN
+736146;ЕвропейскиеПолиграф-техн;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;КОТАР;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Техинвест Балашиха;;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Мосстрой-17;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;Т Плюс;Электроэнергетика;NaN;NaN;NaN;NaN;NaN;NaN;0;NaN;NaN;NaN;NaN
+736146;Евразия недвижимость;Недвижимость;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;Ангстрем СПб;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;Правоурмийское;Металлургический;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Ниагара;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;МИРС;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;МРСК Центра и Приволжья;Электроэнергетика;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Пионер ГК;Строительство;NaN;NaN;15;8;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;ВТБ Лизинг Финанс;Финанс.сервисы;NaN;NaN;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Эко-Инжиниринг;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Атомэнергопром;Электроэнергетика;10;1;10;1;9;0;NaN;NaN;NaN;NaN;NaN
+736146;АФГ Националь;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;Обувьрус;Ритейл;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Юникстейт;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;ДЕКРА КОНСТРАКШН;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;Лайф ФК;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;РегионНефтеТрейд;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;Газпром-Медиа Холдинг;;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Голден Фандс;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;13;10;NaN
+736146;Кингкоул;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;Главная дорога;Строительство;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;1
+736146;КД Групп;;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Русская аквакультура;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;2
+736146;Мираторг АПХ;;NaN;NaN;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+736146;Стройгазмонтаж;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN
+736146;Информинвестгрупп;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;Промтрансинвест;;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;ТГ-Терминал;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Национальная Медиа Группа;СМИ;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Газпром капитал;Нефтегазовый;NaN;NaN;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;АСЦ-Холдинг;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+736146;Даверна;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Сервистрансклининг;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+736146;НТЦ;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;ГЕОТЕК Сейсморазв;Нефтегазовый;NaN;NaN;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;ВЕКАСТРОЙ;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;Дельта-Финанс;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;9;NaN
+736146;РегионИнвест Москва;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;Волга Инженерная Группа;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;Полтавская ЗернКомп;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;ГарантФонд Забайкальск;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;9;3;NaN
+736146;НациональнаяНеруднаяКомп;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+736146;Приманыческий;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;СевВостУгольКомп;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;Курорты Югры;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;БерезкаГаз Обь;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+736146;Крона Групп;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;РТИ;;NaN;NaN;NaN;NaN;NaN;NaN;1;3;NaN;NaN;NaN
+736146;ИСК Ямал Альянс;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;10;6;NaN
+736146;Русь АПК;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;ОТК Магистраль;;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Платинум Недвижимость;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Ривьера;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Управление отходами;ЖКХ;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;1
+736146;НДК;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Строй Престиж;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;ТЕНЕКС-Сервис;;NaN;NaN;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;НефтеТрансСервис;;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;РИК;;NaN;NaN;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;ЭР-Телеком Холдинг;;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;РОСНАНО;Технологии;NaN;NaN;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Россети;Электроэнергетика;11;2;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;БЭТ;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+736146;ФПК;;10;1;10;NaN;10;1;NaN;NaN;NaN;NaN;NaN
+736146;Автодор ГК;Строительство;NaN;NaN;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN
+736146;ОбъединКондитерыФинанс;Пищевая промышленность и с/х;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;ТрансКонтейнер;Транспорт;12;3;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+736146;МЕГАКОМ;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+736146;Центр Экспертных Решений;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;Совхоз Московский+;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Хортекс–Центр;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Русская Платина;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+736146;Ак Барс Строй;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;МРСК Волги;Электроэнергетика;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;ТПГК;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+736146;Смарт Финанс Групп;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;ВиЭф Сервисес;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+736146;Нефтегазоптимизация;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;ИНТЭК-Западная Сибирь;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Селигдар;Горнодобыча;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+736146;Содействие;;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;11;8;NaN
+736146;Инвестгеосервис;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Опторг;;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;12;9;NaN
+736146;ЛИИН;;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+736146;Вертолеты России;Машиностроение;12;3;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+736146;ИКС 5 ФИНАНС;Ритейл;NaN;NaN;12;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Сервис-ВС;;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;УНГП-Финанс;Финанс.сервисы;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;9;NaN

@@ -1,0 +1,2432 @@
+date;entity_id;entity;sector;MDS_Bank;SP_Bank;FCH_Bank;EXP_Bank;NRA_Bank;RUS_Bank;AKM_Bank
+01-Jul-2015;5061;Внешэкономбанк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2015;32520;Банк ВТБ;Банки;NaN;1;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;32537;Сбербанк России;Банки;1;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2015;100011;ЕвразийскийБанкРазвит;Банки;NaN;0;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;5435949;Александровский Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;5437279;Энергомашбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;5838400;Морской банк;Банки;9;NaN;NaN;2;4;NaN;NaN
+01-Jul-2015;9105019;Социнвестбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2015;9107126;Финансовый стандарт КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;9108414;МеталлургКомБанк;Банки;7;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2015;9108437;НовыйПромышлБанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;9109307;Владбизнесбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9116299;Радиотехбанк НКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9116419;О.К. Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;9116810;Ассоциация КБ;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2015;9123046;Акция АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;9139030;Совкомбанк;Банки;NaN;6;5;NaN;NaN;3;NaN
+01-Jul-2015;9141558;МТИ-Банк;Банки;NaN;NaN;NaN;NaN;NaN;14;NaN
+01-Jul-2015;9143037;ГАЗТРАНСБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9143050;Новация АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;9144918;Енисей АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;9155046;Курскпромбанк;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2015;9156011;Липецккомбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9185544;Проинвестбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9188382;МПСБ КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;9224343;Банк Левобережный;Банки;NaN;NaN;6;1;NaN;NaN;NaN
+01-Jul-2015;9227873;Плюс Банк;Банки;NaN;NaN;NaN;NaN;7;NaN;NaN
+01-Jul-2015;9227917;СИБЭС Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9231468;Русский Трастовый Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2015;9233102;Заубер Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9241018;Дальневосточный банк;Банки;5;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;9246045;ДОНКОМБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9251146;ОРБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9251548;Промсельхозбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9253174;Уральский МежрегионБанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9253317;Первоуральскбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;9253642;Уралтрансбанк;Банки;NaN;NaN;12;NaN;NaN;NaN;NaN
+01-Jul-2015;9263511;Тамбовкредитпромбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9264195;Народный банк РТ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2015;9265013;Татсоцбанк;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2015;9265198;ТАТАГРОПРОМБАНК;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;9265467;Автоградбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9265674;Заречье АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;9265763;Анкор Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;9265941;Энергобанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9265964;Камский КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9265987;Банк Аверс;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2015;9268282;Запсибкомбанк;Банки;NaN;5;NaN;1;NaN;NaN;NaN
+01-Jul-2015;9268709;Банк ЮГРА;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9269011;Ижкомбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;2
+01-Jul-2015;9271054;Роял Кредит Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9272303;Азиатско-ТихоокеанскБанк;Банки;7;NaN;6;1;NaN;NaN;NaN
+01-Jul-2015;9275017;Солид Банк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2015;9278990;Банк Снежинский;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9282017;Евразийский банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9282454;Невский Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9284542;НИКО-Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9284565;Русь ОИКБ;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2015;9286268;Банк СБРР;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;9286274;БДБ КБ;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2015;9286357;Чувашкредитпромбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9287233;Банк Таатта;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9288273;Кредпромбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9301178;Экономбанк АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;9301192;Связь-Банк АКБ;Банки;NaN;3;3;NaN;NaN;NaN;NaN
+01-Jul-2015;9306717;Банк Первомайский;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9306769;Банк Венец;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2015;9307450;Айви Банк;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2015;9307556;СДМ-Банк КБ;Банки;NaN;NaN;6;NaN;NaN;3;NaN
+01-Jul-2015;9307562;Интеркоммерц КБ;Банки;NaN;9;NaN;NaN;4;NaN;NaN
+01-Jul-2015;9307651;ВУЗ-Банк;Банки;NaN;NaN;NaN;NaN;NaN;7;NaN
+01-Jul-2015;9307757;НоваховКапиталБанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9307770;ИнвестиционныйСоюз КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2015;9307935;Таурус Банк;Банки;NaN;NaN;NaN;10;NaN;NaN;NaN
+01-Jul-2015;9308296;Лесбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9308343;Петрокоммерц КБ;Банки;7;4;NaN;1;NaN;3;NaN
+01-Jul-2015;9308403;Фора-Банк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9309383;СтарБанк;Банки;NaN;NaN;NaN;3;NaN;NaN;3
+01-Jul-2015;9309443;Акцепт КБ;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2015;9309519;ЗЕМКОМБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9309638;Сургутнефтегазбанк;Банки;NaN;NaN;NaN;2;2;NaN;NaN
+01-Jul-2015;9309822;Аспект АБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;9309839;Банк Кузнецкий;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2015;9316294;Тальменка-Банк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;9317031;ГЛОБЭКСБАНК;Банки;NaN;3;4;NaN;NaN;NaN;NaN
+01-Jul-2015;9317135;МИнБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9317460;М БАНК;Банки;NaN;NaN;NaN;NaN;NaN;12;NaN
+01-Jul-2015;9317619;Балтика АКБ;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2015;9318608;БАНК РСБ 24;Банки;9;NaN;NaN;3;NaN;NaN;2
+01-Jul-2015;9318941;Московский Кредитный Банк;Банки;4;3;3;0;NaN;2;NaN
+01-Jul-2015;9320752;СКБ-Банк;Банки;7;NaN;NaN;1;NaN;3;NaN
+01-Jul-2015;9610444;Альфа-Банк;Банки;NaN;2;1;NaN;0;0;NaN
+01-Jul-2015;9610839;Еврофинанс Моснарбанк АКБ;Банки;4;NaN;6;NaN;NaN;NaN;NaN
+01-Jul-2015;9620046;Банк МНХБ;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2015;9620230;Агросоюз КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9620276;Башкомснаббанк;Банки;NaN;NaN;NaN;NaN;6;NaN;2
+01-Jul-2015;9620767;Банк Возрождение;Банки;4;3;NaN;NaN;NaN;2;NaN
+01-Jul-2015;9620885;М2М Прайвет Банк;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2015;9790127;БАНК РКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;9801322;Новопокровский КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9801500;Челиндбанк АКБ;Банки;NaN;NaN;4;NaN;NaN;6;NaN
+01-Jul-2015;9801517;Банк Премьер Кредит;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;9801575;ЧЕЛЯБИНВЕСТБАНК;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2015;9801670;Холмсккомбанк;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2015;9801871;Советский банк;Банки;NaN;NaN;NaN;5;NaN;NaN;NaN
+01-Jul-2015;9804094;МДМ Банк;Банки;9;5;NaN;NaN;2;5;NaN
+01-Jul-2015;9804102;Банк Российский Кредит;Банки;18;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;9804148;Россия АБ;Банки;NaN;NaN;NaN;0;NaN;NaN;NaN
+01-Jul-2015;9804622;СИБНЕФТЕБАНК;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;9804728;Банк Санкт-Петербург;Банки;NaN;NaN;4;0;NaN;NaN;NaN
+01-Jul-2015;9806035;Банк АВБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;9806207;Кольцо Урала КБ;Банки;NaN;9;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9806271;Темпбанк МАБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2015;9806561;Экспресс-Кредит АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;9806578;МБСПб;Банки;NaN;7;NaN;NaN;NaN;9;NaN
+01-Jul-2015;9806868;ЦентроКредит АКБ;Банки;NaN;7;NaN;NaN;3;NaN;NaN
+01-Jul-2015;9807224;Прио-Внешторгбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9807247;ЮниКредит Банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2015;9807336;ГУТА-БАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9807359;РосинтерБанк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;9807543;Урал ФД АКБ;Банки;9;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9807649;ИРС АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9807684;Банк ГПБ;Банки;2;1;1;0;NaN;0;NaN
+01-Jul-2015;9807804;ХКФ Банк;Банки;7;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;9808117;Кредит-Москва АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9808755;Волго-Камский банк;Банки;NaN;NaN;NaN;7;NaN;NaN;NaN
+01-Jul-2015;9809068;ВОКБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;9809128;УБРиР;Банки;NaN;8;NaN;NaN;2;NaN;NaN
+01-Jul-2015;10041566;Региональный кредит КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;10163980;КЕДР КБ;Банки;15;NaN;12;NaN;NaN;NaN;NaN
+01-Jul-2015;10245961;Ставропольпромстройбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;10253149;ЕвроситиБанк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;10332973;Восточный Экспресс КБ;Банки;9;NaN;8;2;NaN;NaN;NaN
+01-Jul-2015;10561293;Банк Вологжанин;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;10658812;Саровбизнесбанк;Банки;NaN;NaN;NaN;NaN;NaN;3;NaN
+01-Jul-2015;10668259;НБД-Банк;Банки;5;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;10731360;Иваново КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;10844124;Элита банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2015;10874390;Камчатпрофитбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;10919075;Хлынов КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;11707493;Русфинанс Банк;Банки;1;1;0;NaN;NaN;NaN;NaN
+01-Jul-2015;11921234;Форштадт АКБ;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2015;12187601;ЛЕНОБЛБАНК;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;12507282;ХМБ Открытие;Банки;3;3;NaN;NaN;0;2;NaN
+01-Jul-2015;12844128;Еврокоммерц КБ;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2015;12925200;КС-Банк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;13000065;Спурт АКБ;Банки;NaN;NaN;9;NaN;NaN;8;NaN
+01-Jul-2015;13000543;Девон-Кредит АБ;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2015;13001745;Ак Барс АКБ;Банки;5;NaN;4;NaN;NaN;3;NaN
+01-Jul-2015;13001900;Камский Горизонт КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;13001981;Акибанк;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;13068554;БыстроБанк;Банки;7;NaN;8;NaN;NaN;NaN;NaN
+01-Jul-2015;13243000;РосДорБанк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;14284024;РИАБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;16249960;АйМаниБанк;Банки;12;NaN;NaN;NaN;NaN;7;NaN
+01-Jul-2015;16250087;Эл Банк;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2015;16578422;БКС Банк;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2015;16582292;Русский Ипотечный Банк;Банки;NaN;NaN;NaN;2;6;NaN;NaN
+01-Jul-2015;17023028;Интерактивный Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;17180609;Ланта-Банк КБ;Банки;NaN;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2015;17226837;Альба-Альянс КБ;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;17317770;Чайна Констракшн Банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2015;17337293;БТФ КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;17502837;Нэклис-Банк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;17504207;Пересвет АКБ;Банки;NaN;4;6;0;NaN;2;NaN
+01-Jul-2015;17507529;Нефтепромбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;17507909;Алеф-банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2015;17508352;Финпромбанк АКБ;Банки;9;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;17508783;Образование АКИБ;Банки;9;9;NaN;NaN;4;NaN;1
+01-Jul-2015;17512023;Банк Интеза;Банки;2;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;17514743;Транснациональный банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2015;17516067;МТС-Банк;Банки;NaN;NaN;6;NaN;NaN;4;1
+01-Jul-2015;17522116;РОСБАНК;Банки;1;NaN;0;NaN;NaN;0;NaN
+01-Jul-2015;17523370;Русский Стандарт Банк;Банки;9;6;9;NaN;NaN;7;NaN
+01-Jul-2015;17525770;Российский Капитал АКБ;Банки;10;NaN;4;0;2;NaN;NaN
+01-Jul-2015;17526367;Банк Солидарность;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2015;17526516;Век АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;17526887;Банк ФК Открытие;Банки;5;3;NaN;NaN;0;2;NaN
+01-Jul-2015;17527415;Абсолют Банк;Банки;5;NaN;6;0;NaN;NaN;NaN
+01-Jul-2015;17531233;ОФК Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;17532103;Банк Клиентский;Банки;NaN;NaN;NaN;6;NaN;NaN;NaN
+01-Jul-2015;17534020;Пробизнесбанк АКБ;Банки;9;NaN;8;NaN;NaN;4;NaN
+01-Jul-2015;17534094;Связной Банк;Банки;NaN;NaN;NaN;7;NaN;NaN;NaN
+01-Jul-2015;17534194;Банк СОЮЗ;Банки;NaN;6;NaN;NaN;NaN;9;NaN
+01-Jul-2015;17535627;МеталлИнвестБанк;Банки;7;NaN;NaN;NaN;3;NaN;NaN
+01-Jul-2015;17536845;БНКВ;Банки;NaN;NaN;NaN;3;NaN;8;NaN
+01-Jul-2015;17537224;Межтрастбанк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;17537626;БЭНК ОФ ЧАЙНА;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2015;17539789;Генбанк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;17541272;Новикомбанк АКБ;Банки;7;NaN;8;1;NaN;NaN;NaN
+01-Jul-2015;17541355;Инг Банк (Евразия);Банки;0;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2015;17541800;Мосуралбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;17543549;БИНБАНК;Банки;NaN;7;NaN;1;2;1;NaN
+01-Jul-2015;17543992;МежрегионКлирингБанк;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2015;17544201;Гарант-Инвест КБ;Банки;NaN;NaN;NaN;NaN;NaN;7;NaN
+01-Jul-2015;17546341;Экономикс-Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;17546909;МеждФинКлуб АКБ;Банки;7;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2015;17546938;Банк РасчетовИСбережений;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;17667493;Трансстройбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;18166936;НЗБанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;18511570;Денизбанк Москва;Банки;NaN;NaN;1;NaN;NaN;NaN;NaN
+01-Jul-2015;18753303;Мидзухо Банк(Москва);Банки;NaN;NaN;NaN;NaN;1;NaN;NaN
+01-Jul-2015;18866059;ДельтаКредит КБ;Банки;1;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2015;18933034;МСП БАНК;Банки;1;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;20501862;Креди Агриколь КИБ;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2015;20606880;ВТБ 24;Банки;1;NaN;NaN;NaN;NaN;0;NaN
+01-Jul-2015;20921624;Веста ИБ;Банки;NaN;NaN;NaN;2;7;NaN;NaN
+01-Jul-2015;20986262;СИБСОЦБАНК;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2015;21182608;Газбанк КБ;Банки;9;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2015;21291250;Солидарность КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;21293615;Унифин КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;21301875;Земский банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;21417572;ФорБанк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;21553996;Банк КУБ;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2015;21768455;Ермак НГАБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;21887160;МеждународКоммерБанк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;22360041;РусЮгбанк КБ;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2015;22498791;КОР АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;22779691;Промэнергобанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;22881700;Энерготрансбанк КБ;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2015;23618116;Пойдём! КБ;Банки;NaN;NaN;NaN;NaN;NaN;7;NaN
+01-Jul-2015;23773638;ИТ Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2015;23807805;МИРАФ-БАНК;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;23832312;Инбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;24153783;Росэнергобанк;Банки;9;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2015;24635252;Промрегионбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;25054072;Меткомбанк;Банки;8;NaN;NaN;1;3;NaN;NaN
+01-Jul-2015;25102440;НЕВАСТРОЙИНВЕСТ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;26237308;Транскапиталбанк АКБ;Банки;5;NaN;NaN;0;NaN;NaN;NaN
+01-Jul-2015;26482634;Кранбанк АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;26781450;Банк Северный Кредит;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;26902728;Банк Агророс;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;27068718;АлтайБизнес-Банк АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;27089962;Зернобанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;27210292;Центр-Инвест КБ;Банки;4;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;27297123;ИнвестКапиталБанк;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2015;27456165;Таврический АКБ;Банки;NaN;21;NaN;NaN;NaN;19;NaN
+01-Jul-2015;27800243;Актив Банк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;28880304;БАНК ГОРОД;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;29034830;Ситибанк КБ;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2015;29039419;Банк Инноваций и Развития;Банки;NaN;9;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;29055884;Русский Торговый Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;29058032;Экономический Союз КБ;Банки;NaN;NaN;NaN;NaN;NaN;10;NaN
+01-Jul-2015;29287152;ПИР Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2015;29288039;Центрально-ЕвропБанк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;29288571;РИТЦ банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4
+01-Jul-2015;29289642;Банк БКФ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;29289903;Славия АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;29290881;Тинькофф Банк;Банки;7;NaN;5;NaN;NaN;NaN;NaN
+01-Jul-2015;29292006;Держава АКБ;Банки;9;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2015;29292450;ОПМ-Банк КБ;Банки;NaN;NaN;NaN;10;NaN;NaN;NaN
+01-Jul-2015;29292940;Банк Москвы АКБ;Банки;NaN;1;NaN;NaN;NaN;1;NaN
+01-Jul-2015;29293553;Инвестторгбанк АКБ;Банки;8;7;NaN;NaN;3;NaN;NaN
+01-Jul-2015;29293885;ОТП Банк;Банки;3;NaN;3;NaN;NaN;NaN;NaN
+01-Jul-2015;29293916;ТЭМБР-БАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;29294100;СВА АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;29294134;Автоторгбанк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;29294382;Кросна-Банк АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;29295418;СТРАТЕГИЯ АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;29295677;Росавтобанк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;29296062;НРБанк;Банки;9;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2015;29296174;Юниаструм Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;29296820;Синко-Банк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;29298144;Эргобанк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;29298210;Мосводоканалбанк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;29300705;Евромет АКБ;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2015;29303313;ИШБАНК;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2015;29304028;Авангард АКБ;Банки;7;NaN;NaN;NaN;NaN;3;NaN
+01-Jul-2015;29304075;Банк Развитие-Столица;Банки;NaN;7;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;29304086;Интеркредит КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;29305039;Пульс Столицы КБ;Банки;NaN;NaN;NaN;NaN;NaN;14;NaN
+01-Jul-2015;29306151;ИНВЕСТСОЦБАНК;Банки;NaN;NaN;NaN;NaN;NaN;10;NaN
+01-Jul-2015;29306211;РГС Банк;Банки;7;NaN;NaN;2;3;NaN;NaN
+01-Jul-2015;29306234;Экспобанк;Банки;NaN;NaN;8;NaN;NaN;3;NaN
+01-Jul-2015;29306553;Нацинвестпромбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;29307251;ФДБ КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;29308428;НС Банк;Банки;9;NaN;NaN;2;4;NaN;NaN
+01-Jul-2015;29309115;Анталбанк КБ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2015;29310827;Открытие Банк;Банки;NaN;3;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;29313754;ЯР-Банк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2015;29314653;МФБанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;29317321;Руна-банк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;29318786;Банк Жилфинанс;Банки;NaN;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2015;29320033;Русстройбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;29323250;Транспортный КБ;Банки;NaN;NaN;NaN;10;NaN;NaN;NaN
+01-Jul-2015;29323770;Банк ИПБ;Банки;NaN;8;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;29325987;Банк Зенит;Банки;NaN;NaN;4;NaN;NaN;3;NaN
+01-Jul-2015;29351447;Межтопэнергобанк АКБ;Банки;NaN;8;NaN;NaN;3;NaN;NaN
+01-Jul-2015;29351619;Фондсервисбанк;Банки;NaN;NaN;NaN;NaN;5;10;NaN
+01-Jul-2015;29351625;Европлан Банк;Банки;NaN;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2015;29351677;Легион АКБ;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2015;29351683;БАНК ИТБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;29351758;РМБ КБ;Банки;9;NaN;NaN;NaN;3;NaN;NaN
+01-Jul-2015;29351826;ИнтрастБанк АКБ;Банки;NaN;NaN;NaN;6;NaN;NaN;6
+01-Jul-2015;29351921;Лайтбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;29393440;ЛОКО-Банк КБ;Банки;6;NaN;6;1;NaN;NaN;NaN
+01-Jul-2015;29465091;НК Банк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;31029552;ПетербургСоцКомБанк;Банки;7;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;31233726;УралКапиталБанк;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2015;31452865;Алмазэргиэнбанк АКБ;Банки;NaN;NaN;4;2;NaN;NaN;NaN
+01-Jul-2015;31616551;Байкалбанк АКБ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2015;32020814;БАНК УРАЛСИБ;Банки;NaN;NaN;NaN;NaN;NaN;5;NaN
+01-Jul-2015;32237844;Алтайкапиталбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2015;32293624;Кубань Кредит КБ;Банки;9;NaN;NaN;NaN;NaN;6;NaN
+01-Jul-2015;32350782;ЮГ-Инвестбанк АБ;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2015;32542275;Банк Резерв;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;32838957;СЭБ Банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2015;33240417;Экспресс-Волга АКБ;Банки;NaN;NaN;NaN;NaN;NaN;7;NaN
+01-Jul-2015;33480073;Развитие КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;33549575;АК Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;33618850;ПримСоцБанк СКБ;Банки;NaN;NaN;6;NaN;NaN;NaN;NaN
+01-Jul-2015;33730725;Траст Капитал Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;5
+01-Jul-2015;33797120;РБР АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;33863696;ИнтехБанк;Банки;NaN;NaN;NaN;2;NaN;NaN;2
+01-Jul-2015;33863779;РОСТ БАНК;Банки;NaN;21;NaN;3;NaN;NaN;NaN
+01-Jul-2015;33863839;Татфондбанк АИКБ;Банки;7;7;NaN;2;3;NaN;1
+01-Jul-2015;34003547;Банк Йошкар-Ола;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2015;34236369;БАНК СГБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;34336540;Прайм Финанс Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;34579715;Джей энд Ти Банк;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2015;34922679;Агропромкредит КБ;Банки;7;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;35333241;НОТА-Банк;Банки;7;7;NaN;1;NaN;NaN;NaN
+01-Jul-2015;35385723;ББР Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;35485784;Горбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2015;35697262;Приморье АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2015;35867089;Эксперт Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;35959503;Мегаполис КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;36260426;Стройлесбанк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;36392180;Оренбург КБ;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2015;36425689;Екатеринбург Банк;Банки;NaN;NaN;NaN;NaN;NaN;8;NaN
+01-Jul-2015;36689974;Углеметбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2015;36727054;КОШЕЛЕВ-БАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;39435553;Банк БФА;Банки;NaN;7;NaN;1;NaN;NaN;NaN
+01-Jul-2015;39464738;БалтИнвестБанк;Банки;8;NaN;NaN;NaN;NaN;NaN;1
+01-Jul-2015;40002380;Нефтяной Альянс КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;40008023;Евроазиатский ИнвестБанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;40092236;ПроКоммерцБанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;40092868;СБ Банк;Банки;20;23;NaN;10;20;NaN;NaN
+01-Jul-2015;40093098;Нордеа Банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2015;40097897;Мастер-Капитал АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;40099936;БФГ-Кредит КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2015;40100094;Рублев КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;2
+01-Jul-2015;40133419;Внешпромбанк;Банки;7;5;NaN;0;2;NaN;NaN
+01-Jul-2015;40148343;Промсвязьбанк;Банки;NaN;3;5;NaN;1;3;NaN
+01-Jul-2015;40152398;Гранд Инвест Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;40154919;Военно-Промбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;40198845;Росевробанк;Банки;4;NaN;4;NaN;2;NaN;NaN
+01-Jul-2015;40204899;Москомбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;40275706;Профит Банк КБ;Банки;NaN;NaN;NaN;5;NaN;NaN;NaN
+01-Jul-2015;40354914;Интерпромбанк КБ;Банки;9;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2015;40356362;Маст-банк КБ;Банки;NaN;NaN;NaN;10;NaN;NaN;NaN
+01-Jul-2015;40449715;Эйч-эс-би-си Банк (РР);Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2015;40654823;Соверен Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;40654987;Банк Казани КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;40696454;Газэнергобанк;Банки;NaN;NaN;NaN;NaN;NaN;7;NaN
+01-Jul-2015;40772422;Дагэнергобанк;Банки;NaN;NaN;NaN;10;NaN;NaN;NaN
+01-Jul-2015;41028826;СИАБ;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2015;41684074;Банк ЦЕРИХ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2015;41761171;Оранжевый КБ;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2015;42530114;ФИА-банк КБ;Банки;NaN;NaN;NaN;4;8;NaN;NaN
+01-Jul-2015;42771875;Вега-Банк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;42809477;Союзный КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;42881635;ВсероссБРР;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;42943661;Райффайзенбанк;Банки;2;1;0;NaN;NaN;NaN;NaN
+01-Jul-2015;42949184;Первый ЧешскоРоссийКБ;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;43433198;Банк Траст;Банки;NaN;NaN;NaN;3;NaN;6;NaN
+01-Jul-2015;44400887;Данске банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2015;44999855;Русьуниверсалбанк;Банки;NaN;NaN;9;NaN;NaN;NaN;NaN
+01-Jul-2015;46224302;Хакасский МБ;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2015;46360991;Кредит Европа Банк;Банки;5;NaN;4;NaN;NaN;NaN;NaN
+01-Jul-2015;52597303;МИА КБ;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;52750822;Россельхозбанк;Банки;NaN;NaN;1;NaN;NaN;NaN;NaN
+01-Jul-2015;54949060;РФИ Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;55000731;Ренессанс Кредит КБ;Банки;NaN;7;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;55951900;Крайинвестбанк;Банки;NaN;7;9;NaN;NaN;NaN;NaN
+01-Jul-2015;56641478;Москоммерцбанк;Банки;NaN;NaN;14;NaN;4;NaN;NaN
+01-Jul-2015;56657657;СМП Банк;Банки;NaN;NaN;NaN;1;2;NaN;NaN
+01-Jul-2015;58130187;Дил-банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;58221378;Натиксис Банк;Банки;2;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;58986098;БНП Париба Банк;Банки;NaN;1;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;59055502;Новый Век КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;59718514;Нацкорпбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;59735056;Банк НационалСтандарт;Банки;9;7;NaN;1;NaN;NaN;NaN
+01-Jul-2015;59753858;Миллениум Банк;Банки;NaN;NaN;NaN;NaN;NaN;8;NaN
+01-Jul-2015;59833333;ТРОЙКА-Д БАНК;Банки;NaN;NaN;NaN;NaN;6;8;NaN
+01-Jul-2015;61670884;Сумитомо Мицуи Рус Банк;Банки;NaN;1;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;70130365;Банк НФК;Банки;9;7;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;70170324;БРТ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2015;72049182;Банк РЕСО Кредит;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;77816597;Форус Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;83086298;АйСиБиСи Банк;Банки;NaN;1;NaN;NaN;NaN;NaN;NaN
+01-Jul-2015;84844298;Банк БЦК-Москва;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2015;86656951;МеждСтройБанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;89581716;НОВОЕ ВРЕМЯ КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2015;93316090;Тюменьагропромбанк;Банки;NaN;NaN;NaN;10;NaN;NaN;NaN
+01-Jul-2015;93583023;Первобанк;Банки;9;NaN;8;NaN;3;NaN;NaN
+01-Jul-2015;93976946;Ермак-Брокер БК;Банки;NaN;NaN;NaN;NaN;7;NaN;NaN
+01-Jul-2015;96520787;Банк Оф Токио (Евразия);Банки;NaN;1;NaN;NaN;0;NaN;NaN
+01-Jul-2015;96537839;НКЦ Банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2015;96538365;Юнистрим КБ;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2014;5061;Внешэкономбанк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2014;32520;Банк ВТБ;Банки;NaN;0;1;NaN;NaN;NaN;NaN
+01-Jul-2014;32537;Сбербанк России;Банки;0;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2014;100011;ЕвразийскийБанкРазвит;Банки;NaN;0;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;5435949;Александровский Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;5437279;Энергомашбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;5838400;Морской банк;Банки;9;NaN;NaN;2;4;NaN;NaN
+01-Jul-2014;6905897;Стройкредит КБ;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2014;9105019;Социнвестбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2014;9107126;Финансовый стандарт КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9108414;МеталлургКомБанк;Банки;7;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;9108437;НовыйПромышлБанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;9109307;Владбизнесбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9116299;Радиотехбанк НКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9116419;О.К. Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;9116810;Ассоциация КБ;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2014;9123046;Акция АКБ;Банки;NaN;NaN;NaN;NaN;NaN;15;NaN
+01-Jul-2014;9131011;БИНБАНК Тверь;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9136304;Норвик Банк;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2014;9139030;Совкомбанк;Банки;7;7;NaN;1;NaN;3;NaN
+01-Jul-2014;9141558;МТИ-Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;9143037;ГАЗТРАНСБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9143050;Новация АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9144918;Енисей АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9155046;Курскпромбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9156011;Липецккомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2014;9185544;Проинвестбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9188382;МПСБ КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;9224343;Банк Левобережный;Банки;NaN;NaN;6;2;NaN;NaN;NaN
+01-Jul-2014;9227873;Плюс Банк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2014;9227917;СИБЭС Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9241018;Дальневосточный банк;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;9246045;ДОНКОМБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9251146;ОРБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9251548;Промсельхозбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9253174;Уральский МежрегионБанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9253317;Первоуральскбанк;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2014;9253642;Уралтрансбанк;Банки;NaN;NaN;12;NaN;NaN;NaN;NaN
+01-Jul-2014;9263511;Тамбовкредитпромбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9265013;Татсоцбанк;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2014;9265198;ТАТАГРОПРОМБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9265467;Автоградбанк;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2014;9265674;Заречье АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;3
+01-Jul-2014;9265705;БТА-Казань (ОАО), АКБ;Банки;NaN;NaN;15;NaN;NaN;NaN;NaN
+01-Jul-2014;9265763;Анкор Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9265941;Энергобанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9265964;Камский КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9265987;Банк Аверс;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2014;9268282;Запсибкомбанк;Банки;NaN;4;NaN;1;NaN;NaN;NaN
+01-Jul-2014;9268709;Банк ЮГРА;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9269011;Ижкомбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;2
+01-Jul-2014;9272303;Азиатско-ТихоокеанскБанк;Банки;7;NaN;6;1;NaN;NaN;NaN
+01-Jul-2014;9275017;Солид Банк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2014;9278990;Банк Снежинский;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9282017;Евразийский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2014;9282454;Невский Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;9284542;НИКО-Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9284565;Русь ОИКБ;Банки;NaN;NaN;NaN;NaN;7;NaN;NaN
+01-Jul-2014;9286268;Банк СБРР;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9286357;Чувашкредитпромбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9287233;Банк Таатта;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2014;9301178;Экономбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9301192;Связь-Банк АКБ;Банки;NaN;2;3;NaN;NaN;NaN;NaN
+01-Jul-2014;9306717;Банк Первомайский;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9306769;Банк Венец;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2014;9307450;Айви Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;9307556;СДМ-Банк КБ;Банки;NaN;NaN;6;NaN;NaN;3;NaN
+01-Jul-2014;9307562;Интеркоммерц КБ;Банки;NaN;9;NaN;NaN;4;NaN;NaN
+01-Jul-2014;9307651;ВУЗ-Банк;Банки;NaN;NaN;NaN;NaN;NaN;7;NaN
+01-Jul-2014;9307757;НоваховКапиталБанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9307770;ИнвестиционныйСоюз КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2014;9307935;Таурус Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;9308296;Лесбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9308343;Петрокоммерц КБ;Банки;5;5;NaN;1;NaN;3;NaN
+01-Jul-2014;9308403;Фора-Банк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9309383;СтарБанк;Банки;NaN;NaN;NaN;2;NaN;NaN;2
+01-Jul-2014;9309443;Акцепт КБ;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2014;9309519;ЗЕМКОМБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9309638;Сургутнефтегазбанк;Банки;NaN;NaN;NaN;NaN;2;NaN;NaN
+01-Jul-2014;9309839;Банк Кузнецкий;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2014;9316294;Тальменка-Банк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;9317031;ГЛОБЭКСБАНК;Банки;NaN;3;4;NaN;NaN;NaN;NaN
+01-Jul-2014;9317135;МИнБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9317460;М БАНК;Банки;NaN;NaN;NaN;NaN;5;6;NaN
+01-Jul-2014;9317619;Балтика АКБ;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2014;9318608;БАНК РСБ 24;Банки;8;NaN;NaN;3;NaN;NaN;3
+01-Jul-2014;9318941;Московский Кредитный Банк;Банки;4;3;3;0;NaN;2;NaN
+01-Jul-2014;9320692;Бузулукбанк;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2014;9320752;СКБ-Банк;Банки;7;NaN;NaN;1;NaN;3;NaN
+01-Jul-2014;9610355;Собинбанк АБ;Банки;NaN;NaN;NaN;NaN;NaN;7;NaN
+01-Jul-2014;9610444;Альфа-Банк;Банки;NaN;1;1;NaN;0;0;NaN
+01-Jul-2014;9610839;Еврофинанс Моснарбанк АКБ;Банки;4;NaN;6;NaN;NaN;NaN;NaN
+01-Jul-2014;9620046;Банк МНХБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9620230;Агросоюз КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9620276;Башкомснаббанк;Банки;NaN;NaN;NaN;NaN;6;NaN;2
+01-Jul-2014;9620767;Банк Возрождение;Банки;3;3;NaN;NaN;NaN;2;NaN
+01-Jul-2014;9620885;М2М Прайвет Банк;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2014;9790127;БАНК РКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;9801322;Новопокровский КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9801500;Челиндбанк АКБ;Банки;NaN;NaN;4;NaN;NaN;8;NaN
+01-Jul-2014;9801575;ЧЕЛЯБИНВЕСТБАНК;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2014;9801670;Холмсккомбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9801871;Советский банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9804094;МДМ Банк;Банки;5;5;NaN;NaN;2;5;NaN
+01-Jul-2014;9804102;Банк Российский Кредит;Банки;12;NaN;NaN;2;4;NaN;NaN
+01-Jul-2014;9804148;Россия АБ;Банки;NaN;NaN;NaN;0;NaN;NaN;NaN
+01-Jul-2014;9804622;СИБНЕФТЕБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9804728;Банк Санкт-Петербург;Банки;NaN;NaN;4;0;NaN;NaN;NaN
+01-Jul-2014;9806035;Банк АВБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9806207;Кольцо Урала КБ;Банки;NaN;8;NaN;1;NaN;NaN;NaN
+01-Jul-2014;9806271;Темпбанк МАБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2014;9806319;Инвестбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1
+01-Jul-2014;9806512;Балтийский Банк;Банки;NaN;12;NaN;4;NaN;NaN;NaN
+01-Jul-2014;9806561;Экспресс-Кредит АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;9806578;МБСПб;Банки;NaN;7;NaN;NaN;NaN;9;NaN
+01-Jul-2014;9806868;ЦентроКредит АКБ;Банки;NaN;7;NaN;NaN;3;NaN;NaN
+01-Jul-2014;9807224;Прио-Внешторгбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9807247;ЮниКредит Банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2014;9807336;ГУТА-БАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9807359;РосинтерБанк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9807543;Урал ФД АКБ;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;9807649;ИРС АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9807684;Банк ГПБ;Банки;0;0;1;0;NaN;0;NaN
+01-Jul-2014;9807804;ХКФ Банк;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;9808117;Кредит-Москва АКБ;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2014;9808755;Волго-Камский банк;Банки;NaN;NaN;NaN;7;NaN;NaN;NaN
+01-Jul-2014;9809068;ВОКБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;9809128;УБРиР;Банки;NaN;7;NaN;NaN;2;NaN;NaN
+01-Jul-2014;10041566;Региональный кредит КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;10163980;КЕДР КБ;Банки;7;NaN;9;NaN;NaN;NaN;NaN
+01-Jul-2014;10245961;Ставропольпромстройбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;10253149;ЕвроситиБанк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;10332973;Восточный Экспресс КБ;Банки;5;NaN;6;1;NaN;NaN;NaN
+01-Jul-2014;10561293;Банк Вологжанин;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;10645063;Эллипс КБ;Банки;NaN;NaN;NaN;NaN;7;NaN;NaN
+01-Jul-2014;10658812;Саровбизнесбанк;Банки;NaN;NaN;NaN;NaN;NaN;3;NaN
+01-Jul-2014;10668259;НБД-Банк;Банки;4;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;10731360;Иваново КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;10844124;Элита банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2014;10874390;Камчатпрофитбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;10919075;Хлынов КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;11707493;Русфинанс Банк;Банки;1;0;0;NaN;NaN;NaN;NaN
+01-Jul-2014;11729454;Русский земельный банк, АКБ;Банки;NaN;NaN;NaN;7;NaN;NaN;NaN
+01-Jul-2014;11921234;Форштадт АКБ;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2014;12187601;ЛЕНОБЛБАНК;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;12507282;ХМБ Открытие;Банки;3;3;NaN;1;0;2;NaN
+01-Jul-2014;12844128;Еврокоммерц КБ;Банки;NaN;NaN;NaN;NaN;7;NaN;NaN
+01-Jul-2014;12925200;КС-Банк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;13000065;Спурт АКБ;Банки;NaN;NaN;9;NaN;NaN;8;NaN
+01-Jul-2014;13000543;Девон-Кредит АБ;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2014;13001745;Ак Барс АКБ;Банки;5;NaN;4;NaN;NaN;3;NaN
+01-Jul-2014;13001981;Акибанк;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;13068554;БыстроБанк;Банки;NaN;NaN;8;NaN;NaN;NaN;NaN
+01-Jul-2014;13243000;РосДорБанк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;14284024;РИАБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;16249960;АйМаниБанк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;16250087;Эл Банк;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2014;16578422;БКС Банк;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2014;16582292;Русский Ипотечный Банк;Банки;NaN;NaN;NaN;2;6;NaN;NaN
+01-Jul-2014;16799712;АФ Банк, ОАО;Банки;NaN;NaN;NaN;8;NaN;NaN;NaN
+01-Jul-2014;17023028;Интерактивный Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;17180609;Ланта-Банк КБ;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2014;17226837;Альба-Альянс КБ;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;17317770;Чайна Констракшн Банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2014;17337293;БТФ КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;17399561;Первый РеспубликанБанк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2014;17502837;Нэклис-Банк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;17504207;Пересвет АКБ;Банки;NaN;4;NaN;0;NaN;2;NaN
+01-Jul-2014;17507529;Нефтепромбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;17507909;Алеф-банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2014;17508352;Финпромбанк АКБ;Банки;9;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;17508783;Образование АКИБ;Банки;NaN;9;NaN;NaN;4;NaN;2
+01-Jul-2014;17512023;Банк Интеза;Банки;1;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;17514743;Транснациональный банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2014;17516067;МТС-Банк;Банки;NaN;NaN;6;NaN;NaN;3;1
+01-Jul-2014;17522116;РОСБАНК;Банки;0;NaN;0;NaN;NaN;0;NaN
+01-Jul-2014;17523370;Русский Стандарт Банк;Банки;6;5;6;NaN;1;3;NaN
+01-Jul-2014;17525770;Российский Капитал АКБ;Банки;10;NaN;6;NaN;2;NaN;NaN
+01-Jul-2014;17526367;Банк Солидарность;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2014;17526887;Банк ФК Открытие;Банки;3;3;4;NaN;0;2;NaN
+01-Jul-2014;17527102;Банк ПроектФинансиров;Банки;NaN;NaN;NaN;NaN;7;NaN;NaN
+01-Jul-2014;17527415;Абсолют Банк;Банки;5;NaN;6;0;NaN;NaN;NaN
+01-Jul-2014;17529124;ТрансКредитБанк;Банки;NaN;0;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;17531233;ОФК Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;17532103;Банк Клиентский;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;17534020;Пробизнесбанк АКБ;Банки;8;NaN;10;NaN;NaN;3;NaN
+01-Jul-2014;17534094;Связной Банк;Банки;12;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;17534194;Банк СОЮЗ;Банки;NaN;5;NaN;NaN;NaN;9;NaN
+01-Jul-2014;17535627;МеталлИнвестБанк;Банки;7;NaN;NaN;NaN;3;NaN;NaN
+01-Jul-2014;17536845;БНКВ;Банки;NaN;NaN;NaN;2;NaN;8;NaN
+01-Jul-2014;17537224;Межтрастбанк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;17537626;БЭНК ОФ ЧАЙНА;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2014;17539789;Генбанк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;17541272;Новикомбанк АКБ;Банки;7;NaN;8;0;NaN;NaN;NaN
+01-Jul-2014;17541355;Инг Банк (Евразия);Банки;0;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2014;17541800;Мосуралбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;17543549;БИНБАНК;Банки;NaN;6;NaN;1;2;2;NaN
+01-Jul-2014;17544193;Юникорбанк;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2014;17544201;Гарант-Инвест КБ;Банки;NaN;NaN;NaN;NaN;NaN;7;NaN
+01-Jul-2014;17546341;Экономикс-Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;17546460;Банк Западный;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2014;17546909;МеждФинКлуб АКБ;Банки;7;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2014;17546938;Банк РасчетовИСбережений;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;17667493;Трансстройбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;18166936;НЗБанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;18511570;Денизбанк Москва;Банки;NaN;NaN;1;NaN;NaN;NaN;NaN
+01-Jul-2014;18753303;Мидзухо Банк(Москва);Банки;NaN;NaN;NaN;NaN;2;NaN;NaN
+01-Jul-2014;18866059;ДельтаКредит КБ;Банки;0;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2014;18933034;МСП БАНК;Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;20501862;Креди Агриколь КИБ;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2014;20501951;КИТ Финанс ИБ;Банки;NaN;NaN;9;NaN;4;NaN;NaN
+01-Jul-2014;20606880;ВТБ 24;Банки;0;NaN;1;NaN;NaN;0;NaN
+01-Jul-2014;20921624;Веста ИБ;Банки;NaN;NaN;NaN;NaN;7;NaN;NaN
+01-Jul-2014;20986262;СИБСОЦБАНК;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2014;21182608;Газбанк КБ;Банки;9;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2014;21291250;Солидарность КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;21293615;Унифин КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;21301875;Земский банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;21553996;Банк КУБ;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2014;21768455;Ермак НГАБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;21887160;МеждународКоммерБанк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;22360041;РусЮгбанк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;22498791;КОР АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;22779691;Промэнергобанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;22881700;Энерготрансбанк КБ;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2014;23618116;Пойдём! КБ;Банки;NaN;NaN;NaN;NaN;NaN;7;NaN
+01-Jul-2014;23773638;ИТ Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2014;23807805;МИРАФ-БАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;23832312;Инбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;24153783;Росэнергобанк;Банки;9;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2014;24635252;Промрегионбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;25054072;Меткомбанк;Банки;8;NaN;NaN;1;3;NaN;NaN
+01-Jul-2014;25085167;Банк24.ру;Банки;NaN;NaN;NaN;NaN;NaN;7;NaN
+01-Jul-2014;25094551;МОСОБЛБАНК;Банки;NaN;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2014;26237308;Транскапиталбанк АКБ;Банки;4;NaN;NaN;0;NaN;NaN;NaN
+01-Jul-2014;26482634;Кранбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;26781450;Банк Северный Кредит;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;26902728;Банк Агророс;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;27068718;АлтайБизнес-Банк АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;27089962;Зернобанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;27210292;Центр-Инвест КБ;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;27297123;ИнвестКапиталБанк;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2014;27456165;Таврический АКБ;Банки;NaN;9;NaN;NaN;NaN;6;NaN
+01-Jul-2014;27800243;Актив Банк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;28880304;БАНК ГОРОД;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;29034830;Ситибанк КБ;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2014;29039419;Банк Инноваций и Развития;Банки;NaN;9;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;29055884;Русский Торговый Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;29058032;Экономический Союз КБ;Банки;NaN;NaN;NaN;NaN;NaN;10;NaN
+01-Jul-2014;29284662;Банк Сбережений и Кредита;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2014;29287152;ПИР Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2014;29289642;Банк БКФ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;29289903;Славия АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;29290740;Международный Банк Развития (ЗАО), КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2014;29290881;Тинькофф Банк;Банки;7;NaN;5;NaN;NaN;NaN;NaN
+01-Jul-2014;29292006;Держава АКБ;Банки;9;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2014;29292450;ОПМ-Банк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;29292940;Банк Москвы АКБ;Банки;NaN;0;1;NaN;NaN;1;NaN
+01-Jul-2014;29293553;Инвестторгбанк АКБ;Банки;8;5;NaN;NaN;3;NaN;NaN
+01-Jul-2014;29293885;ОТП Банк;Банки;2;NaN;3;NaN;NaN;NaN;NaN
+01-Jul-2014;29293916;ТЭМБР-БАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;29294011;Диг-Банк;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2014;29294100;СВА АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;29294134;Автоторгбанк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;29295418;СТРАТЕГИЯ АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;29295677;Росавтобанк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;29295996;НББ, ОАО;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2014;29296062;НРБанк;Банки;9;NaN;12;NaN;4;NaN;NaN
+01-Jul-2014;29296174;Юниаструм Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;29296820;Синко-Банк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;29298144;Эргобанк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;29298210;Мосводоканалбанк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;29300705;Евромет АКБ;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2014;29303313;ИШБАНК;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2014;29304028;Авангард АКБ;Банки;7;NaN;NaN;NaN;NaN;3;NaN
+01-Jul-2014;29304075;Банк Развитие-Столица;Банки;NaN;6;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;29304086;Интеркредит КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;29306151;ИНВЕСТСОЦБАНК;Банки;NaN;NaN;NaN;NaN;NaN;10;NaN
+01-Jul-2014;29306211;РГС Банк;Банки;7;NaN;NaN;2;3;NaN;NaN
+01-Jul-2014;29306234;Экспобанк;Банки;NaN;NaN;8;NaN;NaN;4;NaN
+01-Jul-2014;29306553;Нацинвестпромбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;29307251;ФДБ КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;29308428;НС Банк;Банки;9;NaN;NaN;1;3;NaN;NaN
+01-Jul-2014;29309115;Анталбанк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;29310827;Открытие Банк;Банки;NaN;4;NaN;NaN;0;NaN;NaN
+01-Jul-2014;29313754;ЯР-Банк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2014;29313978;ЕВРОТРАСТ КБ, ЗАО;Банки;20;NaN;NaN;10;NaN;NaN;NaN
+01-Jul-2014;29314653;МФБанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;29317321;Руна-банк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;29318786;Банк Жилфинанс;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2014;29320033;Русстройбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;29323250;Транспортный КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;29323770;Банк ИПБ;Банки;NaN;8;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;29325987;Банк Зенит;Банки;NaN;NaN;4;NaN;NaN;3;NaN
+01-Jul-2014;29351447;Межтопэнергобанк АКБ;Банки;NaN;7;NaN;NaN;3;NaN;NaN
+01-Jul-2014;29351619;Фондсервисбанк;Банки;11;NaN;NaN;NaN;4;6;NaN
+01-Jul-2014;29351625;Европлан Банк;Банки;NaN;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2014;29351677;Легион АКБ;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2014;29351683;БАНК ИТБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;29351758;РМБ КБ;Банки;9;NaN;NaN;NaN;3;NaN;NaN
+01-Jul-2014;29351826;ИнтрастБанк АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;2
+01-Jul-2014;29351921;Лайтбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;29393440;ЛОКО-Банк КБ;Банки;6;NaN;6;1;NaN;NaN;NaN
+01-Jul-2014;29465091;НК Банк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;31029552;ПетербургСоцКомБанк;Банки;7;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;31233726;УралКапиталБанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;31452865;Алмазэргиэнбанк АКБ;Банки;NaN;NaN;4;1;NaN;NaN;NaN
+01-Jul-2014;32020814;БАНК УРАЛСИБ;Банки;NaN;NaN;NaN;NaN;NaN;3;NaN
+01-Jul-2014;32237844;Алтайкапиталбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2014;32293624;Кубань Кредит КБ;Банки;9;NaN;NaN;NaN;NaN;6;NaN
+01-Jul-2014;32350782;ЮГ-Инвестбанк АБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;32542275;Банк Резерв;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;32838957;СЭБ Банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2014;33240417;Экспресс-Волга АКБ;Банки;NaN;NaN;NaN;NaN;NaN;7;NaN
+01-Jul-2014;33275404;Востсибтранскомбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;33480073;Развитие КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;33549575;АК Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;33618850;ПримСоцБанк СКБ;Банки;NaN;NaN;6;NaN;NaN;NaN;NaN
+01-Jul-2014;33730725;Траст Капитал Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4
+01-Jul-2014;33797120;РБР АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;33863696;ИнтехБанк;Банки;NaN;NaN;NaN;2;NaN;NaN;2
+01-Jul-2014;33863779;РОСТ БАНК;Банки;NaN;9;NaN;1;NaN;NaN;NaN
+01-Jul-2014;33863839;Татфондбанк АИКБ;Банки;7;6;NaN;2;3;NaN;1
+01-Jul-2014;34236369;БАНК СГБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;34336540;Прайм Финанс Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;34579715;Джей энд Ти Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;34922679;Агропромкредит КБ;Банки;7;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;35333241;НОТА-Банк;Банки;7;6;NaN;1;NaN;NaN;NaN
+01-Jul-2014;35385723;ББР Банк;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2014;35697262;Приморье АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2014;35867089;Эксперт Банк;Банки;NaN;NaN;NaN;2;8;NaN;NaN
+01-Jul-2014;35959503;Мегаполис КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;36260426;Стройлесбанк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;36392180;Оренбург КБ;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2014;36425689;Екатеринбург Банк;Банки;NaN;NaN;NaN;NaN;6;8;NaN
+01-Jul-2014;36689974;Углеметбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2014;36727054;КОШЕЛЕВ-БАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;39435553;Банк БФА;Банки;NaN;6;NaN;1;NaN;NaN;NaN
+01-Jul-2014;39464738;БалтИнвестБанк;Банки;8;NaN;NaN;NaN;NaN;NaN;1
+01-Jul-2014;40002380;Нефтяной Альянс КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;40008023;Евроазиатский ИнвестБанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;40092236;ПроКоммерцБанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;40092868;СБ Банк;Банки;8;7;NaN;1;3;NaN;NaN
+01-Jul-2014;40093098;Нордеа Банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2014;40097897;Мастер-Капитал АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;40099936;БФГ-Кредит КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2014;40100094;Рублев КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;2
+01-Jul-2014;40133419;Внешпромбанк;Банки;7;4;NaN;0;2;NaN;NaN
+01-Jul-2014;40148343;Промсвязьбанк;Банки;NaN;2;NaN;NaN;1;3;NaN
+01-Jul-2014;40152398;Гранд Инвест Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;40154919;Военно-Промбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;40198845;Росевробанк;Банки;4;NaN;4;NaN;3;NaN;NaN
+01-Jul-2014;40204899;Москомбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;40275706;Профит Банк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;40354914;Интерпромбанк КБ;Банки;9;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2014;40356362;Маст-банк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;40449715;Эйч-эс-би-си Банк (РР);Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2014;40654987;Банк Казани КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;40696454;Газэнергобанк;Банки;NaN;NaN;NaN;NaN;NaN;7;NaN
+01-Jul-2014;40772422;Дагэнергобанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;41028826;СИАБ;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2014;41684074;Банк ЦЕРИХ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;41761171;Оранжевый КБ;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2014;42530114;ФИА-банк КБ;Банки;NaN;NaN;NaN;3;8;NaN;NaN
+01-Jul-2014;42771875;Вега-Банк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;42809477;Союзный КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;42881635;ВсероссБРР;Банки;2;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;42943661;Райффайзенбанк;Банки;0;0;0;NaN;NaN;NaN;NaN
+01-Jul-2014;42949184;Первый ЧешскоРоссийКБ;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;43433198;Банк Траст;Банки;NaN;NaN;NaN;2;NaN;6;NaN
+01-Jul-2014;44400887;Данске банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2014;44999855;Русьуниверсалбанк;Банки;NaN;NaN;9;NaN;NaN;NaN;NaN
+01-Jul-2014;46224302;Хакасский МБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;46360991;Кредит Европа Банк;Банки;3;NaN;4;NaN;NaN;NaN;NaN
+01-Jul-2014;47359576;СовременныйКомерческБанк;Банки;7;NaN;NaN;NaN;NaN;3;NaN
+01-Jul-2014;52597303;МИА КБ;Банки;2;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;52750822;Россельхозбанк;Банки;NaN;NaN;1;NaN;NaN;NaN;NaN
+01-Jul-2014;54949060;РФИ Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;55000731;Ренессанс Кредит КБ;Банки;NaN;6;8;NaN;NaN;NaN;NaN
+01-Jul-2014;55951900;Крайинвестбанк;Банки;NaN;5;9;NaN;NaN;NaN;NaN
+01-Jul-2014;56641478;Москоммерцбанк;Банки;NaN;NaN;14;NaN;4;NaN;NaN
+01-Jul-2014;56657657;СМП Банк;Банки;NaN;NaN;NaN;NaN;2;NaN;NaN
+01-Jul-2014;57997869;КРК КБ;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2014;58130187;Дил-банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;58221378;Натиксис Банк;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;58986098;БНП Париба Банк;Банки;NaN;0;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;59055502;Новый Век КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;59718514;Нацкорпбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;59735056;Банк НационалСтандарт;Банки;9;NaN;NaN;1;NaN;NaN;1
+01-Jul-2014;59753858;Миллениум Банк;Банки;NaN;NaN;NaN;NaN;NaN;8;NaN
+01-Jul-2014;59833333;ТРОЙКА-Д БАНК;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2014;61670884;Сумитомо Мицуи Рус Банк;Банки;NaN;0;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;70130365;Банк НФК;Банки;9;6;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;70170324;БРТ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2014;77816597;Форус Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;83086298;АйСиБиСи Банк;Банки;NaN;0;NaN;NaN;NaN;NaN;NaN
+01-Jul-2014;84844298;Банк БЦК-Москва;Банки;NaN;NaN;7;2;NaN;NaN;NaN
+01-Jul-2014;86656951;МеждСтройБанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2014;89581716;НОВОЕ ВРЕМЯ КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;93316090;Тюменьагропромбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2014;93583023;Первобанк;Банки;9;NaN;NaN;NaN;3;NaN;NaN
+01-Jul-2014;93976946;Ермак-Брокер БК;Банки;NaN;NaN;NaN;NaN;7;NaN;NaN
+01-Jul-2014;96520787;Банк Оф Токио (Евразия);Банки;NaN;0;NaN;NaN;0;NaN;NaN
+01-Jul-2014;96537839;НКЦ Банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2014;96538365;Юнистрим КБ;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2013;32520;Банк ВТБ;Банки;NaN;0;0;NaN;NaN;NaN;NaN
+01-Jul-2013;32537;Сбербанк России;Банки;0;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2013;100011;ЕвразийскийБанкРазвит;Банки;NaN;0;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;4879035;Банк ГПБ-Ипотека;Банки;2;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;5435949;Александровский Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;5437279;Энергомашбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;5838400;Морской банк;Банки;7;NaN;NaN;2;4;NaN;NaN
+01-Jul-2013;6905897;Стройкредит КБ;Банки;11;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2013;9105019;Социнвестбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2013;9107126;Финансовый стандарт КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9108414;МеталлургКомБанк;Банки;7;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;9108437;НовыйПромышлБанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;9116299;Радиотехбанк НКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9116810;Ассоциация КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9131011;БИНБАНК Тверь;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9136304;Норвик Банк;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2013;9139030;Совкомбанк;Банки;7;7;NaN;2;NaN;3;NaN
+01-Jul-2013;9141558;МТИ-Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9143037;ГАЗТРАНСБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9143050;Новация АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9144918;Енисей АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9155046;Курскпромбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9156011;Липецккомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2013;9185544;Проинвестбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9188382;МПСБ КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;9224343;Банк Левобережный;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9224971;НОМОС-БАНК-Сибирь;Банки;NaN;NaN;NaN;NaN;0;NaN;NaN
+01-Jul-2013;9227873;Плюс Банк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2013;9241018;Дальневосточный банк;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;9246045;ДОНКОМБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9251146;ОРБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9251548;Промсельхозбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9253174;Уральский МежрегионБанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;9253317;Первоуральскбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9253642;Уралтрансбанк;Банки;NaN;NaN;12;NaN;NaN;NaN;NaN
+01-Jul-2013;9263511;Тамбовкредитпромбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9265013;Татсоцбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9265467;Автоградбанк;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2013;9265674;Заречье АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2013;9265705;БТА-Казань (ОАО), АКБ;Банки;NaN;NaN;12;NaN;NaN;NaN;NaN
+01-Jul-2013;9265763;Анкор Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9265941;Энергобанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9265964;Камский КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9265987;Банк Аверс;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2013;9268282;Запсибкомбанк;Банки;NaN;5;NaN;1;NaN;NaN;NaN
+01-Jul-2013;9268709;Банк ЮГРА;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9269011;Ижкомбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;3
+01-Jul-2013;9271019;НОМОС-РЕГИОБАНК;Банки;NaN;NaN;NaN;1;0;NaN;NaN
+01-Jul-2013;9272303;Азиатско-ТихоокеанскБанк;Банки;7;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2013;9275017;Солид Банк;Банки;NaN;NaN;NaN;NaN;7;NaN;NaN
+01-Jul-2013;9278990;Банк Снежинский;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9282017;Евразийский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2013;9282454;Невский Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;9284542;НИКО-Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9284565;Русь ОИКБ;Банки;NaN;NaN;NaN;NaN;7;NaN;NaN
+01-Jul-2013;9286268;Банк СБРР;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9286357;Чувашкредитпромбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9287233;Банк Таатта;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9301178;Экономбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9301192;Связь-Банк АКБ;Банки;NaN;2;3;NaN;NaN;NaN;NaN
+01-Jul-2013;9306717;Банк Первомайский;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9306769;Банк Венец;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2013;9307450;Айви Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;9307556;СДМ-Банк КБ;Банки;NaN;NaN;6;NaN;NaN;4;NaN
+01-Jul-2013;9307562;Интеркоммерц КБ;Банки;NaN;9;NaN;NaN;4;NaN;NaN
+01-Jul-2013;9307651;ВУЗ-Банк;Банки;NaN;NaN;NaN;NaN;NaN;7;NaN
+01-Jul-2013;9307757;НоваховКапиталБанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;9307770;ИнвестиционныйСоюз КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2013;9308296;Лесбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9308343;Петрокоммерц КБ;Банки;5;5;NaN;1;NaN;3;NaN
+01-Jul-2013;9308403;Фора-Банк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9309383;СтарБанк;Банки;NaN;NaN;NaN;2;NaN;NaN;2
+01-Jul-2013;9309443;Акцепт КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9309638;Сургутнефтегазбанк;Банки;NaN;NaN;NaN;NaN;3;NaN;NaN
+01-Jul-2013;9309839;Банк Кузнецкий;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2013;9317031;ГЛОБЭКСБАНК;Банки;NaN;2;3;NaN;NaN;NaN;NaN
+01-Jul-2013;9317135;МИнБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9317460;М БАНК;Банки;NaN;NaN;NaN;NaN;5;6;NaN
+01-Jul-2013;9317619;Балтика АКБ;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2013;9318608;БАНК РСБ 24;Банки;8;NaN;NaN;3;NaN;NaN;2
+01-Jul-2013;9318941;Московский Кредитный Банк;Банки;4;4;4;NaN;NaN;2;NaN
+01-Jul-2013;9320692;Бузулукбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;9320752;СКБ-Банк;Банки;5;NaN;NaN;1;NaN;3;NaN
+01-Jul-2013;9610355;Собинбанк АБ;Банки;9;NaN;NaN;NaN;NaN;7;NaN
+01-Jul-2013;9610444;Альфа-Банк;Банки;NaN;1;1;NaN;0;0;NaN
+01-Jul-2013;9610839;Еврофинанс Моснарбанк АКБ;Банки;3;NaN;6;NaN;NaN;NaN;NaN
+01-Jul-2013;9620046;Банк МНХБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9620230;Агросоюз КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9620276;Башкомснаббанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2013;9620767;Банк Возрождение;Банки;3;3;NaN;NaN;NaN;3;NaN
+01-Jul-2013;9620885;М2М Прайвет Банк;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2013;9790127;БАНК РКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;9801322;Новопокровский КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9801500;Челиндбанк АКБ;Банки;NaN;NaN;4;NaN;NaN;8;NaN
+01-Jul-2013;9801575;ЧЕЛЯБИНВЕСТБАНК;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2013;9801670;Холмсккомбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9801871;Советский банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;9804094;МДМ Банк;Банки;3;3;4;NaN;NaN;3;NaN
+01-Jul-2013;9804102;Банк Российский Кредит;Банки;11;NaN;NaN;2;5;NaN;NaN
+01-Jul-2013;9804148;Россия АБ;Банки;NaN;3;NaN;1;NaN;NaN;NaN
+01-Jul-2013;9804622;СИБНЕФТЕБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9804728;Банк Санкт-Петербург;Банки;NaN;NaN;NaN;0;NaN;NaN;NaN
+01-Jul-2013;9806035;Банк АВБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9806207;Кольцо Урала КБ;Банки;NaN;8;NaN;1;NaN;NaN;NaN
+01-Jul-2013;9806271;Темпбанк МАБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2013;9806319;Инвестбанк АКБ;Банки;NaN;NaN;NaN;NaN;4;NaN;1
+01-Jul-2013;9806512;Балтийский Банк;Банки;NaN;9;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9806561;Экспресс-Кредит АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;9806578;МБСПб;Банки;NaN;7;12;NaN;NaN;9;NaN
+01-Jul-2013;9806673;Далькомбанк;Банки;NaN;NaN;6;NaN;NaN;NaN;NaN
+01-Jul-2013;9806868;ЦентроКредит АКБ;Банки;NaN;6;NaN;NaN;3;NaN;NaN
+01-Jul-2013;9807247;ЮниКредит Банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2013;9807336;ГУТА-БАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9807359;РосинтерБанк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9807543;Урал ФД АКБ;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;9807684;Банк ГПБ;Банки;0;0;1;0;NaN;0;NaN
+01-Jul-2013;9807804;ХКФ Банк;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;9808117;Кредит-Москва АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9808755;Волго-Камский банк;Банки;NaN;NaN;NaN;3;NaN;NaN;3
+01-Jul-2013;9809068;ВОКБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;9809128;УБРиР;Банки;NaN;6;NaN;NaN;3;NaN;NaN
+01-Jul-2013;10041566;Региональный кредит КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;10163980;КЕДР КБ;Банки;7;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;10332973;Восточный Экспресс КБ;Банки;5;NaN;NaN;NaN;NaN;2;NaN
+01-Jul-2013;10561293;Банк Вологжанин;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;10645063;Эллипс КБ;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2013;10658812;Саровбизнесбанк;Банки;NaN;NaN;NaN;NaN;NaN;3;NaN
+01-Jul-2013;10668259;НБД-Банк;Банки;5;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;10731360;Иваново КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;10844124;Элита банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2013;10874390;Камчатпрофитбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;10919075;Хлынов КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;11707493;Русфинанс Банк;Банки;1;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2013;11729454;Русский земельный банк, АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;11921234;Форштадт АКБ;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2013;12187601;ЛЕНОБЛБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;12507282;ХМБ Открытие;Банки;3;NaN;NaN;NaN;NaN;2;NaN
+01-Jul-2013;12844128;Еврокоммерц КБ;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2013;12925200;КС-Банк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;13000065;Спурт АКБ;Банки;NaN;NaN;9;NaN;NaN;NaN;NaN
+01-Jul-2013;13001745;Ак Барс АКБ;Банки;6;NaN;4;NaN;NaN;3;NaN
+01-Jul-2013;13001981;Акибанк;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;13068554;БыстроБанк;Банки;NaN;NaN;12;NaN;NaN;NaN;NaN
+01-Jul-2013;13243000;РосДорБанк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;14284024;РИАБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;3
+01-Jul-2013;16249960;АйМаниБанк;Банки;9;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2013;16250087;Эл Банк;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2013;16578422;БКС Банк;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2013;16582292;Русский Ипотечный Банк;Банки;NaN;NaN;NaN;2;7;NaN;NaN
+01-Jul-2013;16799712;АФ Банк, ОАО;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;17023028;Интерактивный Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;17180609;Ланта-Банк КБ;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2013;17226837;Альба-Альянс КБ;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;17399561;Первый РеспубликанБанк;Банки;11;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2013;17502837;Нэклис-Банк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;17504207;Пересвет АКБ;Банки;NaN;NaN;NaN;1;NaN;2;NaN
+01-Jul-2013;17507529;Нефтепромбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;17507909;Алеф-банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2013;17508352;Финпромбанк АКБ;Банки;9;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;17508783;Образование АКИБ;Банки;NaN;9;NaN;NaN;5;NaN;2
+01-Jul-2013;17512023;Банк Интеза;Банки;1;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;17514743;Транснациональный банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2013;17515263;Мастер-Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;17516067;МТС-Банк;Банки;NaN;NaN;6;NaN;NaN;3;1
+01-Jul-2013;17522116;РОСБАНК;Банки;0;NaN;0;NaN;NaN;0;NaN
+01-Jul-2013;17523370;Русский Стандарт Банк;Банки;3;5;NaN;NaN;NaN;3;NaN
+01-Jul-2013;17525770;Российский Капитал АКБ;Банки;10;NaN;6;NaN;3;NaN;NaN
+01-Jul-2013;17526367;Банк Солидарность;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2013;17526887;Банк ФК Открытие;Банки;3;NaN;3;NaN;0;2;NaN
+01-Jul-2013;17527102;Банк ПроектФинансиров;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2013;17527415;Абсолют Банк;Банки;5;NaN;7;NaN;NaN;NaN;NaN
+01-Jul-2013;17529124;ТрансКредитБанк;Банки;0;0;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;17531233;ОФК Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;17532103;Банк Клиентский;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;17534020;Пробизнесбанк АКБ;Банки;7;NaN;12;NaN;NaN;3;NaN
+01-Jul-2013;17534094;Связной Банк;Банки;9;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;17534194;Банк СОЮЗ;Банки;NaN;6;NaN;NaN;NaN;9;NaN
+01-Jul-2013;17535627;МеталлИнвестБанк;Банки;7;NaN;NaN;NaN;3;NaN;NaN
+01-Jul-2013;17536845;БНКВ;Банки;NaN;NaN;NaN;2;NaN;8;NaN
+01-Jul-2013;17537224;Межтрастбанк КБ;Банки;NaN;NaN;NaN;3;7;NaN;NaN
+01-Jul-2013;17539789;Генбанк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;17541272;Новикомбанк АКБ;Банки;7;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2013;17541355;Инг Банк (Евразия);Банки;0;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2013;17541800;Мосуралбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;17543549;БИНБАНК;Банки;10;6;NaN;1;3;2;NaN
+01-Jul-2013;17544193;Юникорбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;17544201;Гарант-Инвест КБ;Банки;NaN;NaN;NaN;NaN;NaN;7;NaN
+01-Jul-2013;17546341;Экономикс-Банк;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2013;17546460;Банк Западный;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2013;17546631;Рост АБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;17546909;МеждФинКлуб АКБ;Банки;7;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2013;17546938;Банк РасчетовИСбережений;Банки;NaN;NaN;NaN;NaN;7;9;NaN
+01-Jul-2013;17667493;Трансстройбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;18166936;НЗБанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;18511570;Денизбанк Москва;Банки;NaN;NaN;1;NaN;NaN;NaN;NaN
+01-Jul-2013;18753303;Мидзухо Банк(Москва);Банки;NaN;NaN;NaN;NaN;3;NaN;NaN
+01-Jul-2013;18866059;ДельтаКредит КБ;Банки;0;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2013;18933034;МСП БАНК;Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;20501862;Креди Агриколь КИБ;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2013;20501951;КИТ Финанс ИБ;Банки;NaN;NaN;9;NaN;4;NaN;NaN
+01-Jul-2013;20606880;ВТБ 24;Банки;0;NaN;0;NaN;NaN;0;NaN
+01-Jul-2013;20986262;СИБСОЦБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;21182608;Газбанк КБ;Банки;9;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2013;21291250;Солидарность КБ;Банки;11;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;21293615;Унифин КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;21301875;Земский банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;21553996;Банк КУБ;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2013;21768455;Ермак НГАБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;21887160;МеждународКоммерБанк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;22360041;РусЮгбанк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;22498791;КОР АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;22779691;Промэнергобанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;22881700;Энерготрансбанк КБ;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2013;23618116;Пойдём! КБ;Банки;NaN;NaN;NaN;NaN;NaN;7;NaN
+01-Jul-2013;23773638;ИТ Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2013;24153783;Росэнергобанк;Банки;9;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2013;25054072;Меткомбанк;Банки;8;NaN;NaN;2;3;NaN;NaN
+01-Jul-2013;25085167;Банк24.ру;Банки;NaN;NaN;NaN;NaN;NaN;7;NaN
+01-Jul-2013;25094551;МОСОБЛБАНК;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2013;25102440;НЕВАСТРОЙИНВЕСТ;Банки;NaN;NaN;NaN;NaN;NaN;14;NaN
+01-Jul-2013;26237308;Транскапиталбанк АКБ;Банки;4;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2013;26482634;Кранбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;26781450;Банк Северный Кредит;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;26902728;Банк Агророс;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;27068718;АлтайБизнес-Банк АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;27089962;Зернобанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;27210292;Центр-Инвест КБ;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;27297123;ИнвестКапиталБанк;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2013;27456165;Таврический АКБ;Банки;NaN;8;NaN;NaN;NaN;6;NaN
+01-Jul-2013;27800243;Актив Банк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;28880304;БАНК ГОРОД;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;29034830;Ситибанк КБ;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2013;29039419;Банк Инноваций и Развития;Банки;NaN;9;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;29055884;Русский Торговый Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;29058032;Экономический Союз КБ;Банки;NaN;NaN;NaN;NaN;NaN;10;NaN
+01-Jul-2013;29284662;Банк Сбережений и Кредита;Банки;NaN;NaN;NaN;NaN;7;NaN;NaN
+01-Jul-2013;29287152;ПИР Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2013;29289642;Банк БКФ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;29289903;Славия АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;29290740;Международный Банк Развития (ЗАО), КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2013;29290881;Тинькофф Банк;Банки;7;NaN;5;NaN;NaN;NaN;NaN
+01-Jul-2013;29292006;Держава АКБ;Банки;9;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;29292450;ОПМ-Банк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;29292940;Банк Москвы АКБ;Банки;NaN;NaN;0;NaN;NaN;1;NaN
+01-Jul-2013;29293553;Инвестторгбанк АКБ;Банки;7;NaN;NaN;NaN;3;NaN;NaN
+01-Jul-2013;29293885;ОТП Банк;Банки;2;NaN;3;NaN;NaN;NaN;NaN
+01-Jul-2013;29293916;ТЭМБР-БАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;29294011;Диг-Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;29294100;СВА АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;29294134;Автоторгбанк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;29295418;СТРАТЕГИЯ АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;29295677;Росавтобанк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;29295996;НББ, ОАО;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2013;29296062;НРБанк;Банки;7;NaN;12;NaN;3;NaN;NaN
+01-Jul-2013;29296174;Юниаструм Банк;Банки;15;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;29296820;Синко-Банк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;29298144;Эргобанк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;29300705;Евромет АКБ;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2013;29303313;ИШБАНК;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2013;29304028;Авангард АКБ;Банки;7;NaN;NaN;NaN;NaN;3;NaN
+01-Jul-2013;29304075;Банк Развитие-Столица;Банки;NaN;6;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;29304086;Интеркредит КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;29306151;ИНВЕСТСОЦБАНК;Банки;NaN;NaN;NaN;NaN;NaN;11;NaN
+01-Jul-2013;29306211;РГС Банк;Банки;7;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;29306234;Экспобанк;Банки;NaN;NaN;9;NaN;NaN;5;NaN
+01-Jul-2013;29306553;Нацинвестпромбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;29307251;ФДБ КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;29308428;НС Банк;Банки;9;NaN;NaN;1;4;NaN;1
+01-Jul-2013;29309115;Анталбанк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;29310827;Открытие Банк;Банки;NaN;6;NaN;NaN;2;NaN;NaN
+01-Jul-2013;29313754;ЯР-Банк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2013;29313978;ЕВРОТРАСТ КБ, ЗАО;Банки;12;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;29314653;МФБанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;29317321;Руна-банк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;29318349;Роспромбанк;Банки;15;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;29318786;Банк Жилфинанс;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2013;29320033;Русстройбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;29323250;Транспортный КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;29323770;Банк ИПБ;Банки;NaN;8;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;29325987;Банк Зенит;Банки;NaN;NaN;6;NaN;NaN;3;NaN
+01-Jul-2013;29351298;Мой Банк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2013;29351447;Межтопэнергобанк АКБ;Банки;NaN;6;NaN;NaN;4;NaN;NaN
+01-Jul-2013;29351619;Фондсервисбанк;Банки;11;NaN;NaN;NaN;4;6;NaN
+01-Jul-2013;29351677;Легион АКБ;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2013;29351683;БАНК ИТБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;29351758;РМБ КБ;Банки;9;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2013;29351826;ИнтрастБанк АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;2
+01-Jul-2013;29351921;Лайтбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;29393440;ЛОКО-Банк КБ;Банки;6;NaN;6;NaN;NaN;NaN;NaN
+01-Jul-2013;29465091;НК Банк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;31029552;ПетербургСоцКомБанк;Банки;7;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;31233726;УралКапиталБанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;31452865;Алмазэргиэнбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;32020814;БАНК УРАЛСИБ;Банки;NaN;NaN;NaN;NaN;NaN;3;NaN
+01-Jul-2013;32237844;Алтайкапиталбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2013;32293624;Кубань Кредит КБ;Банки;9;NaN;NaN;NaN;NaN;7;NaN
+01-Jul-2013;32350782;ЮГ-Инвестбанк АБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;32542275;Банк Резерв;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;32838957;СЭБ Банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2013;33240417;Экспресс-Волга АКБ;Банки;NaN;NaN;NaN;NaN;5;7;NaN
+01-Jul-2013;33275404;Востсибтранскомбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;33480073;Развитие КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;33549575;АК Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;33618850;ПримСоцБанк СКБ;Банки;NaN;NaN;8;NaN;NaN;NaN;NaN
+01-Jul-2013;33730725;Траст Капитал Банк КБ;Банки;NaN;NaN;NaN;NaN;10;NaN;NaN
+01-Jul-2013;33797120;РБР АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;33863696;ИнтехБанк;Банки;NaN;NaN;NaN;2;NaN;NaN;2
+01-Jul-2013;33863839;Татфондбанк АИКБ;Банки;9;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;34236369;БАНК СГБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;34579715;Джей энд Ти Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;34922679;Агропромкредит КБ;Банки;7;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;35333241;НОТА-Банк;Банки;8;6;NaN;1;NaN;NaN;NaN
+01-Jul-2013;35385723;ББР Банк;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2013;35697262;Приморье АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2013;35867089;Эксперт Банк;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2013;35959503;Мегаполис КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;36260426;Стройлесбанк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;36392180;Оренбург КБ;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2013;36425689;Екатеринбург Банк;Банки;NaN;NaN;NaN;NaN;6;8;NaN
+01-Jul-2013;36689974;Углеметбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2013;39092538;Братский АНКБ, ОАО;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;39435553;Банк БФА;Банки;NaN;6;NaN;1;NaN;NaN;NaN
+01-Jul-2013;39464738;БалтИнвестБанк;Банки;8;NaN;NaN;NaN;NaN;NaN;1
+01-Jul-2013;40002380;Нефтяной Альянс КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;40092868;СБ Банк;Банки;8;NaN;NaN;1;3;NaN;NaN
+01-Jul-2013;40093098;Нордеа Банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2013;40097897;Мастер-Капитал АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;40099936;БФГ-Кредит КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2013;40100094;Рублев КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2013;40133419;Внешпромбанк;Банки;7;4;NaN;NaN;3;NaN;NaN
+01-Jul-2013;40148343;Промсвязьбанк;Банки;NaN;NaN;NaN;NaN;1;3;NaN
+01-Jul-2013;40152398;Гранд Инвест Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;40154919;Военно-Промбанк АКБ;Банки;NaN;NaN;NaN;2;8;NaN;NaN
+01-Jul-2013;40198845;Росевробанк;Банки;4;NaN;5;NaN;3;NaN;NaN
+01-Jul-2013;40204899;Москомбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;40275706;Профит Банк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;40354914;Интерпромбанк КБ;Банки;9;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2013;40356362;Маст-банк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;40449715;Эйч-эс-би-си Банк (РР);Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2013;40654987;Банк Казани КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;40696454;Газэнергобанк;Банки;NaN;NaN;NaN;NaN;NaN;7;NaN
+01-Jul-2013;40772422;Дагэнергобанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;41028826;СИАБ;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2013;41684074;Банк ЦЕРИХ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;41761171;Оранжевый КБ;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2013;42530114;ФИА-банк КБ;Банки;NaN;NaN;NaN;3;5;NaN;NaN
+01-Jul-2013;42771875;Вега-Банк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;42809477;Союзный КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;42881635;ВсероссБРР;Банки;2;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;42943661;Райффайзенбанк;Банки;0;0;0;NaN;NaN;NaN;NaN
+01-Jul-2013;42949184;Первый ЧешскоРоссийКБ;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;43433198;Банк Траст;Банки;NaN;NaN;NaN;2;NaN;6;NaN
+01-Jul-2013;44400887;Данске банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2013;44999855;Русьуниверсалбанк;Банки;NaN;NaN;9;NaN;NaN;NaN;NaN
+01-Jul-2013;46224302;Хакасский МБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;46360991;Кредит Европа Банк;Банки;3;NaN;4;NaN;NaN;NaN;NaN
+01-Jul-2013;47359576;СовременныйКомерческБанк;Банки;2;NaN;NaN;NaN;NaN;0;NaN
+01-Jul-2013;52597303;МИА КБ;Банки;2;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;52750822;Россельхозбанк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2013;54949060;РФИ Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;55000731;Ренессанс Кредит КБ;Банки;NaN;5;8;NaN;NaN;NaN;NaN
+01-Jul-2013;55951900;Крайинвестбанк;Банки;NaN;5;6;NaN;NaN;NaN;NaN
+01-Jul-2013;56641478;Москоммерцбанк;Банки;NaN;NaN;14;NaN;4;NaN;NaN
+01-Jul-2013;56657657;СМП Банк;Банки;9;NaN;NaN;NaN;2;NaN;NaN
+01-Jul-2013;57997869;КРК КБ;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2013;58130187;Дил-банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;58221378;Натиксис Банк;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;58248093;СМАРТБАНК;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;58986098;БНП Париба Банк;Банки;NaN;0;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;59055502;Новый Век КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;59718514;Нацкорпбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;59735056;Банк НационалСтандарт;Банки;9;NaN;NaN;2;NaN;NaN;1
+01-Jul-2013;59753858;Миллениум Банк;Банки;NaN;NaN;NaN;NaN;NaN;8;NaN
+01-Jul-2013;61670884;Сумитомо Мицуи Рус Банк;Банки;NaN;0;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;70130365;Банк НФК;Банки;9;6;NaN;NaN;NaN;NaN;NaN
+01-Jul-2013;70170324;БРТ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2013;77816597;Форус Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2013;84844298;Банк БЦК-Москва;Банки;NaN;NaN;6;2;NaN;NaN;NaN
+01-Jul-2013;86656951;МеждСтройБанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2013;93583023;Первобанк;Банки;8;NaN;NaN;NaN;3;NaN;NaN
+01-Jul-2013;93976946;Ермак-Брокер БК;Банки;NaN;NaN;NaN;NaN;7;NaN;NaN
+01-Jul-2013;96520787;Банк Оф Токио (Евразия);Банки;NaN;NaN;NaN;NaN;1;NaN;NaN
+01-Jul-2013;96537839;НКЦ Банк;Банки;NaN;NaN;1;NaN;NaN;NaN;NaN
+01-Jul-2012;32520;Банк ВТБ;Банки;NaN;0;0;NaN;NaN;NaN;NaN
+01-Jul-2012;32537;Сбербанк России;Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;100011;ЕвразийскийБанкРазвит;Банки;NaN;0;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;4879035;Банк ГПБ-Ипотека;Банки;2;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;5437279;Энергомашбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;5838400;Морской банк;Банки;7;NaN;NaN;2;4;NaN;NaN
+01-Jul-2012;6905897;Стройкредит КБ;Банки;11;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2012;9105019;Социнвестбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2012;9107126;Финансовый стандарт КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;9108414;МеталлургКомБанк;Банки;7;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;9108437;НовыйПромышлБанк;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2012;9116299;Радиотехбанк НКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;9116810;Ассоциация КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;9131011;БИНБАНК Тверь;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;9136304;Норвик Банк;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2012;9139030;Совкомбанк;Банки;7;7;NaN;2;NaN;3;NaN
+01-Jul-2012;9155046;Курскпромбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;9156011;Липецккомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2012;9188382;МПСБ КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;9224343;Банк Левобережный;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;9224971;НОМОС-БАНК-Сибирь;Банки;NaN;NaN;NaN;NaN;0;NaN;NaN
+01-Jul-2012;9227873;Плюс Банк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2012;9241018;Дальневосточный банк;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;9251548;Промсельхозбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;9253642;Уралтрансбанк;Банки;NaN;NaN;12;NaN;NaN;NaN;NaN
+01-Jul-2012;9265467;Автоградбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;9265674;Заречье АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2012;9265705;БТА-Казань (ОАО), АКБ;Банки;NaN;NaN;12;NaN;NaN;NaN;NaN
+01-Jul-2012;9265763;Анкор Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;9265941;Энергобанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;9265964;Камский КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;9268282;Запсибкомбанк;Банки;NaN;5;NaN;1;NaN;NaN;NaN
+01-Jul-2012;9269011;Ижкомбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2012;9271019;НОМОС-РЕГИОБАНК;Банки;NaN;NaN;NaN;1;0;NaN;NaN
+01-Jul-2012;9272303;Азиатско-ТихоокеанскБанк;Банки;7;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2012;9275017;Солид Банк;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2012;9278990;Банк Снежинский;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;9282017;Евразийский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2012;9284542;НИКО-Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;9284565;Русь ОИКБ;Банки;NaN;NaN;NaN;NaN;7;NaN;NaN
+01-Jul-2012;9286357;Чувашкредитпромбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;9301178;Экономбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;9301192;Связь-Банк АКБ;Банки;NaN;2;3;NaN;NaN;NaN;NaN
+01-Jul-2012;9306717;Банк Первомайский;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;9307556;СДМ-Банк КБ;Банки;NaN;NaN;8;NaN;NaN;4;NaN
+01-Jul-2012;9307562;Интеркоммерц КБ;Банки;NaN;9;NaN;NaN;5;NaN;NaN
+01-Jul-2012;9307651;ВУЗ-Банк;Банки;NaN;NaN;NaN;NaN;NaN;7;NaN
+01-Jul-2012;9307770;ИнвестиционныйСоюз КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2012;9308343;Петрокоммерц КБ;Банки;3;5;NaN;1;NaN;3;NaN
+01-Jul-2012;9309383;СтарБанк;Банки;NaN;NaN;NaN;3;NaN;NaN;3
+01-Jul-2012;9309443;Акцепт КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;9309839;Банк Кузнецкий;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2012;9317031;ГЛОБЭКСБАНК;Банки;NaN;2;3;NaN;NaN;NaN;NaN
+01-Jul-2012;9317135;МИнБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;9317460;М БАНК;Банки;NaN;NaN;NaN;NaN;NaN;6;NaN
+01-Jul-2012;9317619;Балтика АКБ;Банки;NaN;NaN;NaN;NaN;7;NaN;NaN
+01-Jul-2012;9318608;БАНК РСБ 24;Банки;8;NaN;NaN;3;NaN;NaN;3
+01-Jul-2012;9318941;Московский Кредитный Банк;Банки;5;4;4;NaN;NaN;2;NaN
+01-Jul-2012;9320752;СКБ-Банк;Банки;5;NaN;NaN;NaN;NaN;3;NaN
+01-Jul-2012;9610355;Собинбанк АБ;Банки;9;NaN;NaN;NaN;NaN;7;NaN
+01-Jul-2012;9610444;Альфа-Банк;Банки;NaN;2;2;NaN;0;0;NaN
+01-Jul-2012;9610839;Еврофинанс Моснарбанк АКБ;Банки;3;NaN;6;NaN;NaN;NaN;NaN
+01-Jul-2012;9620046;Банк МНХБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;9620230;Агросоюз КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2012;9620276;Башкомснаббанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2012;9620767;Банк Возрождение;Банки;3;3;NaN;NaN;NaN;3;NaN
+01-Jul-2012;9620885;М2М Прайвет Банк;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2012;9801322;Новопокровский КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2012;9801500;Челиндбанк АКБ;Банки;NaN;NaN;6;NaN;NaN;8;NaN
+01-Jul-2012;9801575;ЧЕЛЯБИНВЕСТБАНК;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2012;9801670;Холмсккомбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;9801871;Советский банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;9804094;МДМ Банк;Банки;2;3;3;NaN;NaN;2;NaN
+01-Jul-2012;9804102;Банк Российский Кредит;Банки;11;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;9804148;Россия АБ;Банки;6;5;NaN;1;NaN;NaN;NaN
+01-Jul-2012;9804622;СИБНЕФТЕБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;9806035;Банк АВБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;9806207;Кольцо Урала КБ;Банки;NaN;9;NaN;1;NaN;NaN;NaN
+01-Jul-2012;9806271;Темпбанк МАБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2012;9806319;Инвестбанк АКБ;Банки;NaN;NaN;NaN;NaN;4;8;NaN
+01-Jul-2012;9806512;Балтийский Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;9806561;Экспресс-Кредит АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;9806578;МБСПб;Банки;NaN;8;12;NaN;NaN;9;NaN
+01-Jul-2012;9806673;Далькомбанк;Банки;NaN;NaN;6;NaN;NaN;NaN;NaN
+01-Jul-2012;9806868;ЦентроКредит АКБ;Банки;8;9;11;NaN;3;NaN;NaN
+01-Jul-2012;9807247;ЮниКредит Банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2012;9807336;ГУТА-БАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;9807543;Урал ФД АКБ;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;9807684;Банк ГПБ;Банки;0;1;NaN;0;NaN;1;NaN
+01-Jul-2012;9807804;ХКФ Банк;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;9808117;Кредит-Москва АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;9808755;Волго-Камский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2012;9809068;ВОКБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;9809128;УБРиР;Банки;NaN;6;NaN;NaN;3;8;NaN
+01-Jul-2012;10041566;Региональный кредит КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;10163980;КЕДР КБ;Банки;7;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;10332973;Восточный Экспресс КБ;Банки;5;NaN;NaN;NaN;NaN;3;NaN
+01-Jul-2012;10561293;Банк Вологжанин;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;10645063;Эллипс КБ;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2012;10658812;Саровбизнесбанк;Банки;NaN;NaN;NaN;NaN;NaN;3;NaN
+01-Jul-2012;10668259;НБД-Банк;Банки;5;NaN;NaN;NaN;NaN;6;NaN
+01-Jul-2012;10731360;Иваново КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;10844124;Элита банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2012;10919075;Хлынов КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;11707493;Русфинанс Банк;Банки;1;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;11729454;Русский земельный банк, АКБ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2012;11921234;Форштадт АКБ;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2012;12507282;ХМБ Открытие;Банки;3;NaN;NaN;NaN;NaN;2;NaN
+01-Jul-2012;12844128;Еврокоммерц КБ;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2012;12925200;КС-Банк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;13000065;Спурт АКБ;Банки;NaN;NaN;9;NaN;NaN;NaN;NaN
+01-Jul-2012;13001745;Ак Барс АКБ;Банки;5;NaN;4;NaN;NaN;2;NaN
+01-Jul-2012;13001981;Акибанк;Банки;8;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;13068554;БыстроБанк;Банки;NaN;NaN;12;NaN;NaN;NaN;NaN
+01-Jul-2012;13243000;РосДорБанк;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;14284024;РИАБАНК;Банки;NaN;NaN;NaN;3;NaN;NaN;3
+01-Jul-2012;16249960;АйМаниБанк;Банки;9;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2012;16578422;БКС Банк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2012;16582292;Русский Ипотечный Банк;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2012;16799712;АФ Банк, ОАО;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;17023028;Интерактивный Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;17180609;Ланта-Банк КБ;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2012;17226837;Альба-Альянс КБ;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;17399561;Первый РеспубликанБанк;Банки;9;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2012;17504207;Пересвет АКБ;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2012;17507909;Алеф-банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2012;17508352;Финпромбанк АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;17508783;Образование АКИБ;Банки;NaN;9;NaN;NaN;5;NaN;2
+01-Jul-2012;17512023;Банк Интеза;Банки;1;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;17514743;Транснациональный банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2012;17515263;Мастер-Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;17516067;МТС-Банк;Банки;NaN;NaN;6;NaN;NaN;3;1
+01-Jul-2012;17522116;РОСБАНК;Банки;0;1;0;NaN;NaN;0;NaN
+01-Jul-2012;17523370;Русский Стандарт Банк;Банки;3;5;NaN;NaN;NaN;4;NaN
+01-Jul-2012;17525770;Российский Капитал АКБ;Банки;10;NaN;8;NaN;3;NaN;NaN
+01-Jul-2012;17526887;Банк ФК Открытие;Банки;3;NaN;3;NaN;0;2;NaN
+01-Jul-2012;17527102;Банк ПроектФинансиров;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2012;17527415;Абсолют Банк;Банки;3;NaN;2;NaN;NaN;NaN;NaN
+01-Jul-2012;17529124;ТрансКредитБанк;Банки;0;0;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;17532103;Банк Клиентский;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;17534020;Пробизнесбанк АКБ;Банки;7;NaN;12;NaN;NaN;3;NaN
+01-Jul-2012;17534094;Связной Банк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;17534194;Банк СОЮЗ;Банки;NaN;6;NaN;NaN;NaN;9;NaN
+01-Jul-2012;17535627;МеталлИнвестБанк;Банки;7;NaN;NaN;NaN;3;NaN;NaN
+01-Jul-2012;17536845;БНКВ;Банки;NaN;NaN;NaN;NaN;NaN;8;NaN
+01-Jul-2012;17537224;Межтрастбанк КБ;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2012;17539789;Генбанк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;17541272;Новикомбанк АКБ;Банки;7;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2012;17541355;Инг Банк (Евразия);Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;17541800;Мосуралбанк АКБ;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2012;17543549;БИНБАНК;Банки;7;6;NaN;NaN;3;2;NaN
+01-Jul-2012;17544193;Юникорбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;17544201;Гарант-Инвест КБ;Банки;NaN;NaN;NaN;NaN;NaN;7;NaN
+01-Jul-2012;17546341;Экономикс-Банк;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2012;17546460;Банк Западный;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2012;17546631;Рост АБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;17546909;МеждФинКлуб АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;17546938;Банк РасчетовИСбережений;Банки;NaN;NaN;NaN;NaN;8;10;NaN
+01-Jul-2012;17667493;Трансстройбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;18166936;НЗБанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;18511570;Денизбанк Москва;Банки;NaN;NaN;1;NaN;NaN;NaN;NaN
+01-Jul-2012;18753303;Мидзухо Банк(Москва);Банки;NaN;NaN;NaN;NaN;3;NaN;NaN
+01-Jul-2012;18866059;ДельтаКредит КБ;Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;18933034;МСП БАНК;Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;20501951;КИТ Финанс ИБ;Банки;NaN;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2012;20606880;ВТБ 24;Банки;0;NaN;0;NaN;NaN;0;NaN
+01-Jul-2012;20986262;СИБСОЦБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;21182608;Газбанк КБ;Банки;9;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2012;21291250;Солидарность КБ;Банки;9;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;21293615;Унифин КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;21301875;Земский банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;21553996;Банк КУБ;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2012;21768455;Ермак НГАБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;21887160;МеждународКоммерБанк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;22360041;РусЮгбанк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;22779691;Промэнергобанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;22881700;Энерготрансбанк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;23773638;ИТ Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2012;24153783;Росэнергобанк;Банки;9;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2012;24635252;Промрегионбанк;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2012;25054072;Меткомбанк;Банки;8;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;25085167;Банк24.ру;Банки;NaN;NaN;NaN;NaN;NaN;7;NaN
+01-Jul-2012;25094551;МОСОБЛБАНК;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2012;25127115;Эсидбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;26237308;Транскапиталбанк АКБ;Банки;4;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2012;26482634;Кранбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2012;26781450;Банк Северный Кредит;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;26902728;Банк Агророс;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;27068718;АлтайБизнес-Банк АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;27089962;Зернобанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;27210292;Центр-Инвест КБ;Банки;3;NaN;NaN;NaN;NaN;3;NaN
+01-Jul-2012;27297123;ИнвестКапиталБанк;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2012;27456165;Таврический АКБ;Банки;NaN;8;NaN;NaN;NaN;6;NaN
+01-Jul-2012;27800243;Актив Банк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;29034830;Ситибанк КБ;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2012;29039419;Банк Инноваций и Развития;Банки;NaN;9;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;29055884;Русский Торговый Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;29284662;Банк Сбережений и Кредита;Банки;NaN;NaN;NaN;NaN;7;NaN;NaN
+01-Jul-2012;29284797;ОБПИ АКБ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2012;29287152;ПИР Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2012;29289642;Банк БКФ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;29289903;Славия АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;29290881;Тинькофф Банк;Банки;7;NaN;7;NaN;NaN;NaN;NaN
+01-Jul-2012;29292006;Держава АКБ;Банки;9;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;29292450;ОПМ-Банк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;29292940;Банк Москвы АКБ;Банки;NaN;NaN;0;NaN;NaN;1;NaN
+01-Jul-2012;29293553;Инвестторгбанк АКБ;Банки;6;NaN;NaN;NaN;3;NaN;NaN
+01-Jul-2012;29293885;ОТП Банк;Банки;2;NaN;3;NaN;NaN;NaN;NaN
+01-Jul-2012;29293916;ТЭМБР-БАНК;Банки;NaN;NaN;NaN;2;6;NaN;NaN
+01-Jul-2012;29295677;Росавтобанк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;29295996;НББ, ОАО;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2012;29296062;НРБанк;Банки;7;NaN;8;NaN;3;NaN;NaN
+01-Jul-2012;29296174;Юниаструм Банк;Банки;6;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;29296820;Синко-Банк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;29298144;Эргобанк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;29303313;ИШБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;29304028;Авангард АКБ;Банки;7;NaN;NaN;NaN;NaN;3;NaN
+01-Jul-2012;29304075;Банк Развитие-Столица;Банки;NaN;6;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;29304086;Интеркредит КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;29305039;Пульс Столицы КБ;Банки;NaN;NaN;NaN;NaN;NaN;10;NaN
+01-Jul-2012;29306211;РГС Банк;Банки;7;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;29306234;Экспобанк;Банки;9;NaN;NaN;NaN;NaN;5;NaN
+01-Jul-2012;29306553;Нацинвестпромбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;29307251;ФДБ КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;29308428;НС Банк;Банки;9;NaN;NaN;1;4;NaN;1
+01-Jul-2012;29310827;Открытие Банк;Банки;NaN;7;NaN;NaN;3;NaN;NaN
+01-Jul-2012;29313754;ЯР-Банк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2012;29313978;ЕВРОТРАСТ КБ, ЗАО;Банки;10;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;29314653;МФБанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;29318349;Роспромбанк;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;29318786;Банк Жилфинанс;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2012;29320033;Русстройбанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;29323250;Транспортный КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;29323770;Банк ИПБ;Банки;NaN;8;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;29325987;Банк Зенит;Банки;NaN;NaN;6;NaN;NaN;3;NaN
+01-Jul-2012;29351298;Мой Банк;Банки;11;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;29351447;Межтопэнергобанк АКБ;Банки;NaN;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2012;29351619;Фондсервисбанк;Банки;8;NaN;NaN;NaN;4;6;NaN
+01-Jul-2012;29351677;Легион АКБ;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2012;29351683;БАНК ИТБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;29351758;РМБ КБ;Банки;8;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2012;29351826;ИнтрастБанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2012;29393440;ЛОКО-Банк КБ;Банки;6;NaN;6;NaN;NaN;NaN;NaN
+01-Jul-2012;29402558;ИНКАРОБАНК (ЗАО), АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2012;29465091;НК Банк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;31029552;ПетербургСоцКомБанк;Банки;7;NaN;11;NaN;NaN;NaN;NaN
+01-Jul-2012;31233726;УралКапиталБанк;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2012;31452865;Алмазэргиэнбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;32020814;БАНК УРАЛСИБ;Банки;NaN;NaN;NaN;NaN;NaN;3;NaN
+01-Jul-2012;32237844;Алтайкапиталбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2012;32293624;Кубань Кредит КБ;Банки;9;NaN;NaN;NaN;NaN;7;NaN
+01-Jul-2012;32542275;Банк Резерв;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;32838957;СЭБ Банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2012;33240417;Экспресс-Волга АКБ;Банки;NaN;NaN;NaN;NaN;5;7;NaN
+01-Jul-2012;33275404;Востсибтранскомбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;33549575;АК Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;33561222;НационалТорговыйБанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;33618850;ПримСоцБанк СКБ;Банки;NaN;NaN;9;NaN;NaN;NaN;NaN
+01-Jul-2012;33730725;Траст Капитал Банк КБ;Банки;NaN;NaN;NaN;NaN;10;NaN;NaN
+01-Jul-2012;33797120;РБР АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;33863696;ИнтехБанк;Банки;NaN;NaN;NaN;2;NaN;NaN;2
+01-Jul-2012;33863839;Татфондбанк АИКБ;Банки;9;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;34003547;Банк Йошкар-Ола;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2012;34236369;БАНК СГБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;34922679;Агропромкредит КБ;Банки;7;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;35333241;НОТА-Банк;Банки;8;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2012;35385723;ББР Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;35697262;Приморье АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2012;35867089;Эксперт Банк;Банки;NaN;NaN;NaN;NaN;9;NaN;NaN
+01-Jul-2012;35959503;Мегаполис КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;36260426;Стройлесбанк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;36392180;Оренбург КБ;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2012;36425689;Екатеринбург Банк;Банки;NaN;NaN;NaN;NaN;6;8;NaN
+01-Jul-2012;36689974;Углеметбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2012;39092538;Братский АНКБ, ОАО;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;39435553;Банк БФА;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2012;39464738;БалтИнвестБанк;Банки;8;NaN;NaN;NaN;NaN;NaN;1
+01-Jul-2012;40092868;СБ Банк;Банки;8;NaN;NaN;1;3;NaN;NaN
+01-Jul-2012;40093098;Нордеа Банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2012;40097897;Мастер-Капитал АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;40099936;БФГ-Кредит КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2012;40100094;Рублев КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2012;40133419;Внешпромбанк;Банки;7;6;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;40148343;Промсвязьбанк;Банки;NaN;NaN;NaN;NaN;1;3;NaN
+01-Jul-2012;40152398;Гранд Инвест Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;40154919;Военно-Промбанк АКБ;Банки;NaN;NaN;NaN;NaN;9;NaN;NaN
+01-Jul-2012;40198845;Росевробанк;Банки;4;NaN;5;NaN;3;NaN;NaN
+01-Jul-2012;40204899;Москомбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;40275706;Профит Банк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;40354914;Интерпромбанк КБ;Банки;9;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2012;40356362;Маст-банк КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;40449715;Эйч-эс-би-си Банк (РР);Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2012;40654987;Банк Казани КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;40696454;Газэнергобанк;Банки;NaN;NaN;NaN;NaN;NaN;7;NaN
+01-Jul-2012;40772422;Дагэнергобанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;41028826;СИАБ;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2012;41761171;Оранжевый КБ;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2012;42530114;ФИА-банк КБ;Банки;NaN;NaN;NaN;4;5;NaN;NaN
+01-Jul-2012;42881635;ВсероссБРР;Банки;2;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;42943661;Райффайзенбанк;Банки;0;0;0;NaN;NaN;0;NaN
+01-Jul-2012;42949184;Первый ЧешскоРоссийКБ;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;43433198;Банк Траст;Банки;NaN;NaN;NaN;2;NaN;6;NaN
+01-Jul-2012;44400887;Данске банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2012;44999855;Русьуниверсалбанк;Банки;NaN;NaN;9;NaN;NaN;NaN;NaN
+01-Jul-2012;46224302;Хакасский МБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;46360991;Кредит Европа Банк;Банки;3;NaN;4;NaN;NaN;NaN;NaN
+01-Jul-2012;47359576;СовременныйКомерческБанк;Банки;2;NaN;NaN;NaN;NaN;0;NaN
+01-Jul-2012;52597303;МИА КБ;Банки;2;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;52750822;Россельхозбанк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2012;54949060;РФИ Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;55000731;Ренессанс Кредит КБ;Банки;NaN;6;8;NaN;NaN;NaN;NaN
+01-Jul-2012;55951900;Крайинвестбанк;Банки;NaN;5;6;NaN;NaN;NaN;NaN
+01-Jul-2012;56641478;Москоммерцбанк;Банки;NaN;NaN;12;NaN;4;NaN;NaN
+01-Jul-2012;56657657;СМП Банк;Банки;9;NaN;NaN;NaN;3;NaN;NaN
+01-Jul-2012;57997869;КРК КБ;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2012;58130187;Дил-банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;58221378;Натиксис Банк;Банки;2;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;58986098;БНП Париба Банк;Банки;NaN;0;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;59718514;Нацкорпбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2012;59735056;Банк НационалСтандарт;Банки;9;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2012;59753858;Миллениум Банк;Банки;NaN;NaN;NaN;NaN;NaN;9;NaN
+01-Jul-2012;70130365;Банк НФК;Банки;9;6;NaN;NaN;NaN;NaN;NaN
+01-Jul-2012;70170324;БРТ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2012;84844298;Банк БЦК-Москва;Банки;NaN;NaN;6;2;NaN;NaN;NaN
+01-Jul-2012;93583023;Первобанк;Банки;8;NaN;NaN;NaN;3;NaN;NaN
+01-Jul-2012;93976946;Ермак-Брокер БК;Банки;NaN;NaN;NaN;NaN;7;NaN;NaN
+01-Jul-2012;96520787;Банк Оф Токио (Евразия);Банки;NaN;NaN;NaN;NaN;2;NaN;NaN
+01-Jul-2011;32520;Банк ВТБ;Банки;NaN;0;0;NaN;NaN;NaN;NaN
+01-Jul-2011;32537;Сбербанк России;Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;100011;ЕвразийскийБанкРазвит;Банки;NaN;0;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;4879035;Банк ГПБ-Ипотека;Банки;2;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;5437279;Энергомашбанк;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2011;5838400;Морской банк;Банки;NaN;NaN;NaN;3;5;NaN;NaN
+01-Jul-2011;6905897;Стройкредит КБ;Банки;8;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2011;9107126;Финансовый стандарт КБ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2011;9108414;МеталлургКомБанк;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;9116299;Радиотехбанк НКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;9116810;Ассоциация КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;9131011;БИНБАНК Тверь;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2011;9136304;Норвик Банк;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2011;9139030;Совкомбанк;Банки;NaN;8;NaN;3;NaN;NaN;NaN
+01-Jul-2011;9156011;Липецккомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2011;9188382;МПСБ КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;9224343;Банк Левобережный;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;9227873;Плюс Банк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2011;9241018;Дальневосточный банк;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;9253642;Уралтрансбанк;Банки;NaN;NaN;12;NaN;NaN;NaN;NaN
+01-Jul-2011;9265467;Автоградбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;9265705;БТА-Казань (ОАО), АКБ;Банки;NaN;NaN;12;NaN;NaN;NaN;NaN
+01-Jul-2011;9265763;Анкор Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;9265941;Энергобанк АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;9265964;Камский КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;9268282;Запсибкомбанк;Банки;NaN;8;NaN;2;NaN;NaN;NaN
+01-Jul-2011;9269011;Ижкомбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2011;9271019;НОМОС-РЕГИОБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2011;9272303;Азиатско-ТихоокеанскБанк;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;9275017;Солид Банк;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2011;9278990;Банк Снежинский;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2011;9282017;Евразийский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4
+01-Jul-2011;9284565;Русь ОИКБ;Банки;NaN;NaN;NaN;NaN;7;NaN;NaN
+01-Jul-2011;9286357;Чувашкредитпромбанк АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;9301178;Экономбанк АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;9301192;Связь-Банк АКБ;Банки;4;NaN;3;NaN;NaN;NaN;NaN
+01-Jul-2011;9306717;Банк Первомайский;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;9306769;Банк Венец;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2011;9307556;СДМ-Банк КБ;Банки;NaN;NaN;8;NaN;NaN;NaN;NaN
+01-Jul-2011;9307562;Интеркоммерц КБ;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2011;9307770;ИнвестиционныйСоюз КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2011;9308343;Петрокоммерц КБ;Банки;3;5;NaN;1;NaN;NaN;NaN
+01-Jul-2011;9309383;СтарБанк;Банки;NaN;NaN;NaN;4;NaN;NaN;3
+01-Jul-2011;9309443;Акцепт КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;9309839;Банк Кузнецкий;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2011;9317031;ГЛОБЭКСБАНК;Банки;NaN;3;3;NaN;NaN;NaN;1
+01-Jul-2011;9317135;МИнБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2011;9317619;Балтика АКБ;Банки;NaN;NaN;NaN;NaN;9;NaN;NaN
+01-Jul-2011;9318608;БАНК РСБ 24;Банки;8;NaN;NaN;3;NaN;NaN;3
+01-Jul-2011;9318941;Московский Кредитный Банк;Банки;5;NaN;6;NaN;NaN;NaN;NaN
+01-Jul-2011;9320752;СКБ-Банк;Банки;5;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;9610355;Собинбанк АБ;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;9610444;Альфа-Банк;Банки;NaN;3;3;NaN;0;NaN;NaN
+01-Jul-2011;9610839;Еврофинанс Моснарбанк АКБ;Банки;3;NaN;6;NaN;NaN;NaN;NaN
+01-Jul-2011;9620046;Банк МНХБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;9620230;Агросоюз КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2011;9620276;Башкомснаббанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2011;9620767;Банк Возрождение;Банки;3;4;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;9620885;М2М Прайвет Банк;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2011;9801500;Челиндбанк АКБ;Банки;NaN;NaN;6;NaN;NaN;NaN;NaN
+01-Jul-2011;9801575;ЧЕЛЯБИНВЕСТБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2011;9801670;Холмсккомбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;9801871;Советский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2011;9801995;АБ Финанс КБ;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;9804094;МДМ Банк;Банки;2;NaN;3;NaN;NaN;NaN;NaN
+01-Jul-2011;9804102;Банк Российский Кредит;Банки;11;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;9804148;Россия АБ;Банки;7;6;8;1;NaN;NaN;NaN
+01-Jul-2011;9804881;Монетный дом;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2011;9806035;Банк АВБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;9806207;Кольцо Урала КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2011;9806319;Инвестбанк АКБ;Банки;NaN;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2011;9806512;Балтийский Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;9806561;Экспресс-Кредит АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;9806578;МБСПб;Банки;NaN;8;12;NaN;NaN;NaN;NaN
+01-Jul-2011;9806673;Далькомбанк;Банки;NaN;NaN;6;NaN;NaN;NaN;NaN
+01-Jul-2011;9806868;ЦентроКредит АКБ;Банки;8;9;11;NaN;3;NaN;NaN
+01-Jul-2011;9807247;ЮниКредит Банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2011;9807336;ГУТА-БАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2011;9807543;Урал ФД АКБ;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;9807684;Банк ГПБ;Банки;0;2;NaN;0;NaN;NaN;NaN
+01-Jul-2011;9807804;ХКФ Банк;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;9808117;Кредит-Москва АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;9808755;Волго-Камский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2011;9809128;УБРиР;Банки;NaN;9;NaN;NaN;3;NaN;NaN
+01-Jul-2011;10041566;Региональный кредит КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2011;10163980;КЕДР КБ;Банки;6;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;10332973;Восточный Экспресс КБ;Банки;7;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;10645063;Эллипс КБ;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2011;10668259;НБД-Банк;Банки;5;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;10844124;Элита банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2011;11707493;Русфинанс Банк;Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;11729454;Русский земельный банк, АКБ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2011;12507282;ХМБ Открытие;Банки;3;4;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;12925200;КС-Банк АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;13000065;Спурт АКБ;Банки;NaN;NaN;9;NaN;NaN;NaN;NaN
+01-Jul-2011;13001745;Ак Барс АКБ;Банки;3;NaN;3;NaN;NaN;NaN;NaN
+01-Jul-2011;13001981;Акибанк;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;13068554;БыстроБанк;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2011;13243000;РосДорБанк;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;14284024;РИАБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2011;16249960;АйМаниБанк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2011;16578422;БКС Банк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2011;16582292;Русский Ипотечный Банк;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2011;16799712;АФ Банк, ОАО;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2011;17023028;Интерактивный Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;17180609;Ланта-Банк КБ;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2011;17226837;Альба-Альянс КБ;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;17399561;Первый РеспубликанБанк;Банки;9;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2011;17502935;МеждународПромБанк;Банки;NaN;NaN;22;NaN;NaN;NaN;NaN
+01-Jul-2011;17504207;Пересвет АКБ;Банки;NaN;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2011;17507909;Алеф-банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2011;17508783;Образование АКИБ;Банки;NaN;NaN;NaN;NaN;6;NaN;3
+01-Jul-2011;17512023;Банк Интеза;Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;17514743;Транснациональный банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2011;17515263;Мастер-Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2011;17516067;МТС-Банк;Банки;NaN;NaN;6;1;2;NaN;1
+01-Jul-2011;17522116;РОСБАНК;Банки;0;1;0;NaN;NaN;NaN;NaN
+01-Jul-2011;17523370;Русский Стандарт Банк;Банки;3;5;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;17525770;Российский Капитал АКБ;Банки;11;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2011;17526367;Банк Солидарность;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2011;17526887;Банк ФК Открытие;Банки;3;NaN;4;NaN;1;NaN;NaN
+01-Jul-2011;17527102;Банк ПроектФинансиров;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2011;17527415;Абсолют Банк;Банки;3;NaN;2;NaN;NaN;NaN;NaN
+01-Jul-2011;17528372;БСЖВ, ЗАО;Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;17529124;ТрансКредитБанк;Банки;1;2;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;17529377;Альта-банк КБ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2011;17534020;Пробизнесбанк АКБ;Банки;7;NaN;12;NaN;NaN;NaN;NaN
+01-Jul-2011;17534094;Связной Банк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;17534194;Банк СОЮЗ;Банки;NaN;8;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;17535627;МеталлИнвестБанк;Банки;7;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2011;17539789;Генбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2011;17541272;Новикомбанк АКБ;Банки;7;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2011;17541355;Инг Банк (Евразия);Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;17541800;Мосуралбанк АКБ;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2011;17543549;БИНБАНК;Банки;6;7;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;17544193;Юникорбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;17546341;Экономикс-Банк;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2011;17546460;Банк Западный;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2011;17546909;МеждФинКлуб АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2011;17546938;Банк РасчетовИСбережений;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2011;17667493;Трансстройбанк АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;18166936;НЗБанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;18753303;Мидзухо Банк(Москва);Банки;NaN;NaN;NaN;NaN;3;NaN;NaN
+01-Jul-2011;18866059;ДельтаКредит КБ;Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;18933034;МСП БАНК;Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;20501951;КИТ Финанс ИБ;Банки;NaN;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2011;20606880;ВТБ 24;Банки;0;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2011;20986262;СИБСОЦБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2011;21182608;Газбанк КБ;Банки;9;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2011;21291250;Солидарность КБ;Банки;9;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;21293615;Унифин КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;21301875;Земский банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;21553996;Банк КУБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2011;22360041;РусЮгбанк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;22779691;Промэнергобанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;22881700;Энерготрансбанк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;23773638;ИТ Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2011;24153783;Росэнергобанк;Банки;9;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2011;24635252;Промрегионбанк;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2011;25054072;Меткомбанк;Банки;8;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2011;25094551;МОСОБЛБАНК;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2011;26237308;Транскапиталбанк АКБ;Банки;4;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2011;26482634;Кранбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2011;26781450;Банк Северный Кредит;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2011;27089962;Зернобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2011;27210292;Центр-Инвест КБ;Банки;5;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;27297123;ИнвестКапиталБанк;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2011;27800243;Актив Банк АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;29034830;Ситибанк КБ;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2011;29039419;Банк Инноваций и Развития;Банки;NaN;9;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;29284797;ОБПИ АКБ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2011;29287152;ПИР Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2011;29289903;Славия АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;29290881;Тинькофф Банк;Банки;7;NaN;8;NaN;NaN;NaN;NaN
+01-Jul-2011;29292006;Держава АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;29292450;ОПМ-Банк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;29292940;Банк Москвы АКБ;Банки;NaN;NaN;1;NaN;NaN;NaN;NaN
+01-Jul-2011;29293553;Инвестторгбанк АКБ;Банки;6;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2011;29293885;ОТП Банк;Банки;1;NaN;3;NaN;NaN;NaN;NaN
+01-Jul-2011;29293916;ТЭМБР-БАНК;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2011;29295677;Росавтобанк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;29295996;НББ, ОАО;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2011;29296062;НРБанк;Банки;7;NaN;8;NaN;3;NaN;NaN
+01-Jul-2011;29296174;Юниаструм Банк;Банки;6;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;29303313;ИШБАНК;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;29304028;Авангард АКБ;Банки;7;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;29304075;Банк Развитие-Столица;Банки;NaN;7;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;29304086;Интеркредит КБ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2011;29305527;Соцгорбанк КБ;Банки;NaN;15;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;29306211;РГС Банк;Банки;7;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2011;29306234;Экспобанк;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;29306553;Нацинвестпромбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;29308428;НС Банк;Банки;9;NaN;NaN;2;4;NaN;2
+01-Jul-2011;29310827;Открытие Банк;Банки;NaN;NaN;NaN;NaN;3;NaN;NaN
+01-Jul-2011;29313754;ЯР-Банк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2011;29313978;ЕВРОТРАСТ КБ, ЗАО;Банки;10;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;29314653;МФБанк;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2011;29318349;Роспромбанк;Банки;5;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;29318786;Банк Жилфинанс;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2011;29320033;Русстройбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;29325987;Банк Зенит;Банки;NaN;NaN;6;NaN;NaN;NaN;NaN
+01-Jul-2011;29351298;Мой Банк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;29351447;Межтопэнергобанк АКБ;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2011;29351619;Фондсервисбанк;Банки;8;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2011;29351625;Европлан Банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2011;29351677;Легион АКБ;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2011;29351683;БАНК ИТБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;29351758;РМБ КБ;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;29351826;ИнтрастБанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2011;29393440;ЛОКО-Банк КБ;Банки;6;NaN;6;NaN;NaN;NaN;NaN
+01-Jul-2011;29418737;СТБ;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2011;29465091;НК Банк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;31029552;ПетербургСоцКомБанк;Банки;9;NaN;11;NaN;NaN;NaN;NaN
+01-Jul-2011;31233726;УралКапиталБанк;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2011;31452865;Алмазэргиэнбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2011;32237844;Алтайкапиталбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2011;32293624;Кубань Кредит КБ;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;32542275;Банк Резерв;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2011;32838957;СЭБ Банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2011;33549575;АК Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2011;33561222;НационалТорговыйБанк;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2011;33618850;ПримСоцБанк СКБ;Банки;NaN;NaN;8;NaN;NaN;NaN;NaN
+01-Jul-2011;33730725;Траст Капитал Банк КБ;Банки;NaN;NaN;NaN;NaN;10;NaN;NaN
+01-Jul-2011;33797120;РБР АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;33863696;ИнтехБанк;Банки;NaN;NaN;NaN;2;NaN;NaN;2
+01-Jul-2011;33863839;Татфондбанк АИКБ;Банки;7;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2011;34236369;БАНК СГБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2011;34922679;Агропромкредит КБ;Банки;7;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;35333241;НОТА-Банк;Банки;8;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2011;35385723;ББР Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;36260426;Стройлесбанк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;36392180;Оренбург КБ;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2011;36425689;Екатеринбург Банк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2011;36689974;Углеметбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2011;39435553;Банк БФА;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;39464738;БалтИнвестБанк;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;40019305;Центркомбанк;Банки;NaN;NaN;12;NaN;NaN;NaN;NaN
+01-Jul-2011;40092868;СБ Банк;Банки;8;NaN;NaN;1;3;NaN;NaN
+01-Jul-2011;40093098;Нордеа Банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2011;40097897;Мастер-Капитал АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;40099936;БФГ-Кредит КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2011;40100094;Рублев КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2011;40133419;Внешпромбанк;Банки;7;6;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;40148343;Промсвязьбанк;Банки;NaN;NaN;NaN;NaN;1;NaN;NaN
+01-Jul-2011;40152398;Гранд Инвест Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;40198845;Росевробанк;Банки;4;NaN;5;NaN;NaN;NaN;NaN
+01-Jul-2011;40354914;Интерпромбанк КБ;Банки;9;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2011;40356362;Маст-банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2011;40654987;Банк Казани КБ;Банки;NaN;NaN;11;2;NaN;NaN;NaN
+01-Jul-2011;40772422;Дагэнергобанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;41028826;СИАБ;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2011;41761171;Оранжевый КБ;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2011;42250389;Газэнергопромбанк;Банки;7;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;42530114;ФИА-банк КБ;Банки;NaN;NaN;NaN;4;5;NaN;NaN
+01-Jul-2011;42881635;ВсероссБРР;Банки;2;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;42943661;Райффайзенбанк;Банки;0;0;0;NaN;NaN;NaN;NaN
+01-Jul-2011;42949184;Первый ЧешскоРоссийКБ;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;43433198;Банк Траст;Банки;12;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2011;44400887;Данске банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2011;44999855;Русьуниверсалбанк;Банки;NaN;NaN;9;NaN;NaN;NaN;NaN
+01-Jul-2011;46224302;Хакасский МБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;46360991;Кредит Европа Банк;Банки;3;NaN;4;NaN;NaN;NaN;NaN
+01-Jul-2011;47359576;СовременныйКомерческБанк;Банки;2;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;49212386;Банк Хакасии АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2011;52597303;МИА КБ;Банки;2;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;52750822;Россельхозбанк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2011;54949060;РФИ Банк;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2011;55000731;Ренессанс Кредит КБ;Банки;NaN;7;8;NaN;NaN;NaN;NaN
+01-Jul-2011;55951900;Крайинвестбанк;Банки;NaN;5;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;56641478;Москоммерцбанк;Банки;NaN;NaN;12;NaN;4;NaN;NaN
+01-Jul-2011;56657657;СМП Банк;Банки;9;NaN;NaN;NaN;3;NaN;NaN
+01-Jul-2011;57997869;КРК КБ;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2011;58221378;Натиксис Банк;Банки;2;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;58986098;БНП Париба Банк;Банки;NaN;0;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;59735056;Банк НационалСтандарт;Банки;9;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2011;59833333;ТРОЙКА-Д БАНК;Банки;NaN;NaN;6;NaN;NaN;NaN;NaN
+01-Jul-2011;70130365;Банк НФК;Банки;9;6;NaN;NaN;NaN;NaN;NaN
+01-Jul-2011;70170324;БРТ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2011;84844298;Банк БЦК-Москва;Банки;NaN;NaN;9;3;NaN;NaN;NaN
+01-Jul-2011;93583023;Первобанк;Банки;8;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2011;93976946;Ермак-Брокер БК;Банки;NaN;NaN;NaN;NaN;7;NaN;NaN
+01-Jul-2011;96520787;Банк Оф Токио (Евразия);Банки;NaN;NaN;NaN;NaN;2;NaN;NaN
+01-Jul-2010;32520;Банк ВТБ;Банки;NaN;0;0;NaN;NaN;NaN;NaN
+01-Jul-2010;32537;Сбербанк России;Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;100011;ЕвразийскийБанкРазвит;Банки;NaN;0;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;4879035;Банк ГПБ-Ипотека;Банки;2;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;5437279;Энергомашбанк;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2010;5838400;Морской банк;Банки;NaN;NaN;NaN;3;5;NaN;NaN
+01-Jul-2010;6905897;Стройкредит КБ;Банки;8;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2010;9105019;Социнвестбанк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2010;9107126;Финансовый стандарт КБ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2010;9108414;МеталлургКомБанк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;9116299;Радиотехбанк НКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;9116810;Ассоциация КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;9131011;БИНБАНК Тверь;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;9136304;Норвик Банк;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2010;9139030;Совкомбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;9156011;Липецккомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2010;9188382;МПСБ КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;9227873;Плюс Банк;Банки;NaN;NaN;NaN;NaN;7;NaN;NaN
+01-Jul-2010;9241018;Дальневосточный банк;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;9246719;Ростпромстройбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2010;9253642;Уралтрансбанк;Банки;NaN;NaN;11;NaN;NaN;NaN;NaN
+01-Jul-2010;9265467;Автоградбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;9265705;БТА-Казань (ОАО), АКБ;Банки;NaN;NaN;14;NaN;NaN;NaN;NaN
+01-Jul-2010;9265763;Анкор Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;9265941;Энергобанк АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;9265964;Камский КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;9268282;Запсибкомбанк;Банки;NaN;9;NaN;2;NaN;NaN;NaN
+01-Jul-2010;9269011;Ижкомбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2010;9271019;НОМОС-РЕГИОБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2010;9272303;Азиатско-ТихоокеанскБанк;Банки;8;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;9275017;Солид Банк;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2010;9275313;Камчаткомагропромбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;9278990;Банк Снежинский;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;9286357;Чувашкредитпромбанк АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;9301178;Экономбанк АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;9301192;Связь-Банк АКБ;Банки;7;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;9306717;Банк Первомайский;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;9307556;СДМ-Банк КБ;Банки;NaN;NaN;8;NaN;NaN;NaN;NaN
+01-Jul-2010;9308343;Петрокоммерц КБ;Банки;3;5;NaN;1;NaN;NaN;NaN
+01-Jul-2010;9309383;СтарБанк;Банки;NaN;NaN;NaN;4;NaN;NaN;3
+01-Jul-2010;9309443;Акцепт КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;9317031;ГЛОБЭКСБАНК;Банки;NaN;3;3;NaN;NaN;NaN;1
+01-Jul-2010;9317135;МИнБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2010;9317619;Балтика АКБ;Банки;NaN;NaN;NaN;NaN;9;NaN;NaN
+01-Jul-2010;9318608;БАНК РСБ 24;Банки;8;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2010;9318941;Московский Кредитный Банк;Банки;5;NaN;6;NaN;NaN;NaN;NaN
+01-Jul-2010;9320752;СКБ-Банк;Банки;6;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;9610355;Собинбанк АБ;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;9610444;Альфа-Банк;Банки;NaN;4;3;NaN;0;NaN;NaN
+01-Jul-2010;9610839;Еврофинанс Моснарбанк АКБ;Банки;3;NaN;6;NaN;NaN;NaN;NaN
+01-Jul-2010;9620046;Банк МНХБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;9620230;Агросоюз КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2010;9620767;Банк Возрождение;Банки;3;4;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;9620885;М2М Прайвет Банк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2010;9801055;Банк ВТБ Северо-Запад;Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;9801227;Уралсиб-Юг банк АКБ;Банки;NaN;6;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;9801500;Челиндбанк АКБ;Банки;NaN;NaN;11;NaN;NaN;NaN;NaN
+01-Jul-2010;9801575;ЧЕЛЯБИНВЕСТБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2010;9801670;Холмсккомбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;9801995;АБ Финанс КБ;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;9804094;МДМ Банк;Банки;2;NaN;3;NaN;NaN;NaN;NaN
+01-Jul-2010;9804102;Банк Российский Кредит;Банки;11;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;9804148;Россия АБ;Банки;7;NaN;12;1;NaN;NaN;NaN
+01-Jul-2010;9804609;СЛАВЯНСКИЙ БАНК, АКБ;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2010;9804881;Монетный дом;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;9806035;Банк АВБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;9806207;Кольцо Урала КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2010;9806319;Инвестбанк АКБ;Банки;NaN;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2010;9806512;Балтийский Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2010;9806561;Экспресс-Кредит АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;9806578;МБСПб;Банки;NaN;8;12;NaN;NaN;NaN;NaN
+01-Jul-2010;9806673;Далькомбанк;Банки;NaN;NaN;6;NaN;NaN;NaN;NaN
+01-Jul-2010;9806868;ЦентроКредит АКБ;Банки;8;9;12;NaN;3;NaN;NaN
+01-Jul-2010;9807224;Прио-Внешторгбанк;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2010;9807336;ГУТА-БАНК;Банки;10;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2010;9807543;Урал ФД АКБ;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;9807684;Банк ГПБ;Банки;0;2;NaN;0;NaN;NaN;NaN
+01-Jul-2010;9807804;ХКФ Банк;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;9808005;Уралприватбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;9808117;Кредит-Москва АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;9808755;Волго-Камский банк;Банки;NaN;NaN;NaN;5;NaN;NaN;3
+01-Jul-2010;9809128;УБРиР;Банки;NaN;9;NaN;NaN;3;NaN;NaN
+01-Jul-2010;10041566;Региональный кредит КБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2010;10163980;КЕДР КБ;Банки;6;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;10332973;Восточный Экспресс КБ;Банки;8;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2010;10561293;Банк Вологжанин;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;10645063;Эллипс КБ;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2010;10658812;Саровбизнесбанк;Банки;NaN;NaN;12;NaN;NaN;NaN;NaN
+01-Jul-2010;10668259;НБД-Банк;Банки;6;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;10844124;Элита банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2010;11707493;Русфинанс Банк;Банки;0;1;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;12507282;ХМБ Открытие;Банки;3;4;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;12925200;КС-Банк АКБ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2010;13000065;Спурт АКБ;Банки;NaN;NaN;12;3;NaN;NaN;NaN
+01-Jul-2010;13001745;Ак Барс АКБ;Банки;3;NaN;3;NaN;NaN;NaN;NaN
+01-Jul-2010;13001981;Акибанк;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;13068554;БыстроБанк;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2010;13243000;РосДорБанк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;14284024;РИАБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2010;16249960;АйМаниБанк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2010;16578422;БКС Банк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2010;16799712;АФ Банк, ОАО;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;17023028;Интерактивный Банк;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2010;17180609;Ланта-Банк КБ;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2010;17226837;Альба-Альянс КБ;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;17399561;Первый РеспубликанБанк;Банки;8;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2010;17502935;МеждународПромБанк;Банки;NaN;NaN;20;6;1;NaN;NaN
+01-Jul-2010;17504207;Пересвет АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2010;17507909;Алеф-банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2010;17508783;Образование АКИБ;Банки;NaN;NaN;NaN;NaN;8;NaN;3
+01-Jul-2010;17511213;Банкхаус Эрбе;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;17512023;Банк Интеза;Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;17515263;Мастер-Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2010;17516067;МТС-Банк;Банки;NaN;NaN;6;1;2;NaN;1
+01-Jul-2010;17522116;РОСБАНК;Банки;0;1;0;NaN;NaN;NaN;NaN
+01-Jul-2010;17523370;Русский Стандарт Банк;Банки;3;5;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;17525770;Российский Капитал АКБ;Банки;15;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;17526367;Банк Солидарность;Банки;NaN;NaN;NaN;NaN;6;NaN;2
+01-Jul-2010;17526887;Банк ФК Открытие;Банки;3;NaN;4;NaN;1;NaN;NaN
+01-Jul-2010;17527102;Банк ПроектФинансиров;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2010;17527415;Абсолют Банк;Банки;3;NaN;2;NaN;NaN;NaN;NaN
+01-Jul-2010;17528372;БСЖВ, ЗАО;Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;17529124;ТрансКредитБанк;Банки;1;2;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;17529377;Альта-банк КБ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2010;17534020;Пробизнесбанк АКБ;Банки;NaN;NaN;12;NaN;NaN;NaN;NaN
+01-Jul-2010;17534094;Связной Банк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;17534194;Банк СОЮЗ;Банки;NaN;9;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;17535627;МеталлИнвестБанк;Банки;7;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2010;17536302;Петрофф-банк;Банки;NaN;NaN;NaN;4;5;NaN;NaN
+01-Jul-2010;17539789;Генбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2010;17541272;Новикомбанк АКБ;Банки;7;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2010;17541355;Инг Банк (Евразия);Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;17543549;БИНБАНК;Банки;6;9;12;NaN;NaN;NaN;NaN
+01-Jul-2010;17667493;Трансстройбанк АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;18166936;НЗБанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;18753303;Мидзухо Банк(Москва);Банки;NaN;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2010;18866059;ДельтаКредит КБ;Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;18933034;МСП БАНК;Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;20501951;КИТ Финанс ИБ;Банки;14;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;20606880;ВТБ 24;Банки;0;0;0;NaN;NaN;NaN;NaN
+01-Jul-2010;20986262;СИБСОЦБАНК;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;21182608;Газбанк КБ;Банки;9;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2010;21291250;Солидарность КБ;Банки;9;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;21293615;Унифин КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;21301875;Земский банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;21553996;Банк КУБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2010;21768455;Ермак НГАБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;22360041;РусЮгбанк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;22779691;Промэнергобанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;22881700;Энерготрансбанк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;23578954;Алемар Банк, ОАО;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2010;23773638;ИТ Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2010;24153783;Росэнергобанк;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2010;24635252;Промрегионбанк;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2010;25054072;Меткомбанк;Банки;8;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2010;25094551;МОСОБЛБАНК;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2010;25587176;ПК-Банк;Банки;NaN;NaN;NaN;5;NaN;NaN;NaN
+01-Jul-2010;26237308;Транскапиталбанк АКБ;Банки;4;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2010;26482634;Кранбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2010;26781450;Банк Северный Кредит;Банки;NaN;NaN;NaN;NaN;9;NaN;NaN
+01-Jul-2010;27089962;Зернобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2010;27210292;Центр-Инвест КБ;Банки;5;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;27297123;ИнвестКапиталБанк;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2010;27800243;Актив Банк АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;29034830;Ситибанк КБ;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2010;29039419;Банк Инноваций и Развития;Банки;NaN;9;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;29061028;Система КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;29284797;ОБПИ АКБ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2010;29289642;Банк БКФ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2010;29289903;Славия АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;29290881;Тинькофф Банк;Банки;8;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;29292006;Держава АКБ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2010;29292450;ОПМ-Банк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;29292940;Банк Москвы АКБ;Банки;NaN;NaN;1;NaN;NaN;NaN;NaN
+01-Jul-2010;29293553;Инвестторгбанк АКБ;Банки;6;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2010;29293885;ОТП Банк;Банки;1;NaN;3;NaN;NaN;NaN;NaN
+01-Jul-2010;29293916;ТЭМБР-БАНК;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2010;29295996;НББ, ОАО;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2010;29296062;НРБанк;Банки;6;NaN;8;NaN;NaN;NaN;NaN
+01-Jul-2010;29296174;Юниаструм Банк;Банки;5;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;29300533;Открытие ИБ;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2010;29303313;ИШБАНК;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;29304028;Авангард АКБ;Банки;6;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;29304075;Банк Развитие-Столица;Банки;NaN;8;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;29304086;Интеркредит КБ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2010;29305527;Соцгорбанк КБ;Банки;NaN;8;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;29306211;РГС Банк;Банки;7;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2010;29306234;Экспобанк;Банки;1;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;29306553;Нацинвестпромбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;29308428;НС Банк;Банки;NaN;NaN;NaN;2;5;NaN;2
+01-Jul-2010;29310827;Открытие Банк;Банки;NaN;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2010;29313754;ЯР-Банк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2010;29313978;ЕВРОТРАСТ КБ, ЗАО;Банки;10;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;29318349;Роспромбанк;Банки;5;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;29318786;Банк Жилфинанс;Банки;NaN;NaN;15;NaN;5;NaN;NaN
+01-Jul-2010;29320033;Русстройбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;29325987;Банк Зенит;Банки;NaN;NaN;6;NaN;NaN;NaN;NaN
+01-Jul-2010;29351298;Мой Банк;Банки;9;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2010;29351447;Межтопэнергобанк АКБ;Банки;NaN;NaN;NaN;4;5;NaN;NaN
+01-Jul-2010;29351619;Фондсервисбанк;Банки;8;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2010;29351625;Европлан Банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2010;29351677;Легион АКБ;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2010;29351683;БАНК ИТБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;29351758;РМБ КБ;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;29351826;ИнтрастБанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2010;29393440;ЛОКО-Банк КБ;Банки;6;NaN;6;NaN;NaN;NaN;NaN
+01-Jul-2010;29418737;СТБ;Банки;NaN;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2010;29465091;НК Банк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;31029552;ПетербургСоцКомБанк;Банки;9;NaN;12;NaN;NaN;NaN;NaN
+01-Jul-2010;31452865;Алмазэргиэнбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2010;32237844;Алтайкапиталбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2010;32838957;СЭБ Банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2010;33549575;АК Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;33561222;НационалТорговыйБанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;33618850;ПримСоцБанк СКБ;Банки;NaN;NaN;11;NaN;NaN;NaN;NaN
+01-Jul-2010;33730725;Траст Капитал Банк КБ;Банки;NaN;NaN;NaN;NaN;10;NaN;NaN
+01-Jul-2010;33797120;РБР АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;33863696;ИнтехБанк;Банки;NaN;NaN;NaN;3;NaN;NaN;2
+01-Jul-2010;33863779;РОСТ БАНК;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;33863839;Татфондбанк АИКБ;Банки;7;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2010;34236369;БАНК СГБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2010;34545900;Уралпромбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;34922679;Агропромкредит КБ;Банки;7;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;35333241;НОТА-Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2010;36260426;Стройлесбанк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;36392180;Оренбург КБ;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2010;36425689;Екатеринбург Банк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2010;36689974;Углеметбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2010;39435553;Банк БФА;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;39464738;БалтИнвестБанк;Банки;8;NaN;NaN;3;NaN;NaN;2
+01-Jul-2010;40019305;Центркомбанк;Банки;NaN;NaN;12;NaN;NaN;NaN;NaN
+01-Jul-2010;40092868;СБ Банк;Банки;8;NaN;NaN;1;3;NaN;NaN
+01-Jul-2010;40093098;Нордеа Банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2010;40097897;Мастер-Капитал АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;40099936;БФГ-Кредит КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2010;40133419;Внешпромбанк;Банки;7;8;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;40148343;Промсвязьбанк;Банки;NaN;NaN;NaN;NaN;1;NaN;NaN
+01-Jul-2010;40198845;Росевробанк;Банки;4;NaN;6;NaN;NaN;NaN;NaN
+01-Jul-2010;40354914;Интерпромбанк КБ;Банки;9;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2010;40654987;Банк Казани КБ;Банки;NaN;NaN;11;NaN;NaN;NaN;NaN
+01-Jul-2010;41028826;СИАБ;Банки;NaN;NaN;NaN;NaN;7;NaN;NaN
+01-Jul-2010;42250389;Газэнергопромбанк;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;42530114;ФИА-банк КБ;Банки;NaN;NaN;NaN;3;5;NaN;NaN
+01-Jul-2010;42881635;ВсероссБРР;Банки;1;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;42943661;Райффайзенбанк;Банки;0;0;0;NaN;NaN;NaN;NaN
+01-Jul-2010;42949184;Первый ЧешскоРоссийКБ;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;43433198;Банк Траст;Банки;12;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2010;44400887;Данске банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2010;44999855;Русьуниверсалбанк;Банки;NaN;NaN;9;NaN;NaN;NaN;NaN
+01-Jul-2010;46224302;Хакасский МБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;46360991;Кредит Европа Банк;Банки;3;NaN;4;NaN;NaN;NaN;NaN
+01-Jul-2010;52512494;РИАЛ-КРЕДИТ КБ;Банки;NaN;NaN;NaN;5;NaN;NaN;NaN
+01-Jul-2010;52597303;МИА КБ;Банки;2;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;52750822;Россельхозбанк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2010;54949060;РФИ Банк;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2010;55000731;Ренессанс Кредит КБ;Банки;NaN;8;12;NaN;NaN;NaN;NaN
+01-Jul-2010;55951900;Крайинвестбанк;Банки;NaN;6;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;56641478;Москоммерцбанк;Банки;NaN;NaN;15;NaN;4;NaN;NaN
+01-Jul-2010;56657657;СМП Банк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;57997869;КРК КБ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2010;58221378;Натиксис Банк;Банки;2;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;58986098;БНП Париба Банк;Банки;NaN;0;NaN;NaN;NaN;NaN;NaN
+01-Jul-2010;59735056;Банк НационалСтандарт;Банки;9;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2010;59833333;ТРОЙКА-Д БАНК;Банки;NaN;NaN;6;NaN;NaN;NaN;NaN
+01-Jul-2010;70130365;Банк НФК;Банки;9;8;NaN;2;NaN;NaN;NaN
+01-Jul-2010;70170324;БРТ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2010;84844298;Банк БЦК-Москва;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2010;93583023;Первобанк;Банки;8;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2010;93976946;Ермак-Брокер БК;Банки;NaN;NaN;NaN;NaN;7;NaN;NaN
+01-Jul-2010;96520787;Банк Оф Токио (Евразия);Банки;NaN;NaN;NaN;NaN;2;NaN;NaN
+01-Jul-2009;32520;Банк ВТБ;Банки;NaN;0;0;NaN;NaN;NaN;NaN
+01-Jul-2009;32537;Сбербанк России;Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;100011;ЕвразийскийБанкРазвит;Банки;NaN;0;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;5437279;Энергомашбанк;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2009;5838400;Морской банк;Банки;NaN;NaN;NaN;3;5;NaN;NaN
+01-Jul-2009;6905897;Стройкредит КБ;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;9108414;МеталлургКомБанк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;9116810;Ассоциация КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;9139030;Совкомбанк;Банки;12;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;9155046;Курскпромбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;4
+01-Jul-2009;9156011;Липецккомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2009;9188382;МПСБ КБ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2009;9237695;Губернский банк Тарханы, ОАО;Банки;NaN;NaN;NaN;NaN;7;NaN;NaN
+01-Jul-2009;9241018;Дальневосточный банк;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;9253174;Уральский МежрегионБанк;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2009;9253642;Уралтрансбанк;Банки;NaN;NaN;11;NaN;NaN;NaN;NaN
+01-Jul-2009;9265467;Автоградбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;9265705;БТА-Казань (ОАО), АКБ;Банки;NaN;NaN;14;NaN;NaN;NaN;NaN
+01-Jul-2009;9265941;Энергобанк АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;9265964;Камский КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;9268282;Запсибкомбанк;Банки;NaN;9;NaN;2;NaN;NaN;NaN
+01-Jul-2009;9269011;Ижкомбанк АКБ;Банки;NaN;NaN;NaN;4;NaN;NaN;3
+01-Jul-2009;9271019;НОМОС-РЕГИОБАНК;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;9271290;Уссури КБ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2009;9272303;Азиатско-ТихоокеанскБанк;Банки;8;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2009;9275313;Камчаткомагропромбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;9284565;Русь ОИКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;9301178;Экономбанк АКБ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2009;9301192;Связь-Банк АКБ;Банки;14;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;9306717;Банк Первомайский;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;9307556;СДМ-Банк КБ;Банки;NaN;NaN;12;NaN;NaN;NaN;NaN
+01-Jul-2009;9308343;Петрокоммерц КБ;Банки;3;5;NaN;1;NaN;NaN;NaN
+01-Jul-2009;9308633;Океан банк;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2009;9309383;СтарБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2009;9309443;Акцепт КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;9317135;МИнБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2009;9318608;БАНК РСБ 24;Банки;8;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2009;9318941;Московский Кредитный Банк;Банки;5;NaN;9;NaN;NaN;NaN;NaN
+01-Jul-2009;9320752;СКБ-Банк;Банки;6;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;9610355;Собинбанк АБ;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;9610444;Альфа-Банк;Банки;NaN;3;4;NaN;0;NaN;NaN
+01-Jul-2009;9610839;Еврофинанс Моснарбанк АКБ;Банки;3;NaN;8;NaN;NaN;NaN;NaN
+01-Jul-2009;9620046;Банк МНХБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;9620767;Банк Возрождение;Банки;3;3;NaN;NaN;NaN;NaN;2
+01-Jul-2009;9620885;М2М Прайвет Банк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2009;9801055;Банк ВТБ Северо-Запад;Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;9801227;Уралсиб-Юг банк АКБ;Банки;NaN;6;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;9801500;Челиндбанк АКБ;Банки;NaN;NaN;11;NaN;NaN;NaN;NaN
+01-Jul-2009;9801517;Банк Премьер Кредит;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2009;9801575;ЧЕЛЯБИНВЕСТБАНК;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2009;9801995;АБ Финанс КБ;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;9804102;Банк Российский Кредит;Банки;11;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;9804148;Россия АБ;Банки;NaN;NaN;12;1;NaN;NaN;NaN
+01-Jul-2009;9804609;СЛАВЯНСКИЙ БАНК, АКБ;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2009;9806035;Банк АВБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;9806207;Кольцо Урала КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;9806319;Инвестбанк АКБ;Банки;NaN;11;NaN;3;5;NaN;NaN
+01-Jul-2009;9806561;Экспресс-Кредит АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;9806578;МБСПб;Банки;NaN;9;12;NaN;NaN;NaN;NaN
+01-Jul-2009;9806673;Далькомбанк;Банки;NaN;NaN;6;NaN;NaN;NaN;NaN
+01-Jul-2009;9806756;Эталонбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;9806868;ЦентроКредит АКБ;Банки;8;9;12;NaN;4;NaN;NaN
+01-Jul-2009;9807336;ГУТА-БАНК;Банки;10;NaN;NaN;NaN;NaN;NaN;2
+01-Jul-2009;9807543;Урал ФД АКБ;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;9807684;Банк ГПБ;Банки;0;1;NaN;0;NaN;NaN;NaN
+01-Jul-2009;9807804;ХКФ Банк;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;9808117;Кредит-Москва АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;9809128;УБРиР;Банки;12;9;NaN;NaN;4;NaN;NaN
+01-Jul-2009;10163980;КЕДР КБ;Банки;6;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2009;10332973;Восточный Экспресс КБ;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;10561293;Банк Вологжанин;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;10645063;Эллипс КБ;Банки;NaN;NaN;NaN;4;6;NaN;3
+01-Jul-2009;10658812;Саровбизнесбанк;Банки;NaN;NaN;12;NaN;NaN;NaN;NaN
+01-Jul-2009;10668259;НБД-Банк;Банки;6;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;10844124;Элита банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2009;11707493;Русфинанс Банк;Банки;0;1;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;12152896;Донской народный банк;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;12507282;ХМБ Открытие;Банки;NaN;4;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;13001745;Ак Барс АКБ;Банки;2;NaN;3;NaN;NaN;NaN;2
+01-Jul-2009;13001981;Акибанк;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;13068554;БыстроБанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;13243000;РосДорБанк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;16578422;БКС Банк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2009;16799712;АФ Банк, ОАО;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2009;17226837;Альба-Альянс КБ;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;17399561;Первый РеспубликанБанк;Банки;8;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2009;17502935;МеждународПромБанк;Банки;NaN;NaN;8;NaN;1;NaN;NaN
+01-Jul-2009;17504207;Пересвет АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2009;17511213;Банкхаус Эрбе;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;17512023;Банк Интеза;Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;17515263;Мастер-Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;17516067;МТС-Банк;Банки;NaN;NaN;6;1;2;NaN;1
+01-Jul-2009;17522116;РОСБАНК;Банки;0;1;0;NaN;NaN;NaN;NaN
+01-Jul-2009;17523370;Русский Стандарт Банк;Банки;3;5;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;17525770;Российский Капитал АКБ;Банки;15;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;17526367;Банк Солидарность;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2009;17526887;Банк ФК Открытие;Банки;3;NaN;5;NaN;1;NaN;NaN
+01-Jul-2009;17527102;Банк ПроектФинансиров;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;17527415;Абсолют Банк;Банки;0;NaN;1;NaN;NaN;NaN;NaN
+01-Jul-2009;17528372;БСЖВ, ЗАО;Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;17529124;ТрансКредитБанк;Банки;1;2;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;17529377;Альта-банк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;17530191;МДМ-Банк;Банки;NaN;NaN;4;NaN;NaN;NaN;NaN
+01-Jul-2009;17534020;Пробизнесбанк АКБ;Банки;NaN;NaN;12;NaN;NaN;NaN;NaN
+01-Jul-2009;17534094;Связной Банк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;17534194;Банк СОЮЗ;Банки;12;9;NaN;NaN;NaN;NaN;2
+01-Jul-2009;17535627;МеталлИнвестБанк;Банки;7;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2009;17536302;Петрофф-банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;17541272;Новикомбанк АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2009;17541355;Инг Банк (Евразия);Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;17541958;Метробанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;17543549;БИНБАНК;Банки;6;9;11;NaN;NaN;NaN;2
+01-Jul-2009;17546163;Сембанк КБ;Банки;NaN;NaN;NaN;5;NaN;NaN;NaN
+01-Jul-2009;17667493;Трансстройбанк АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;17669820;МОСКОВСКИЙ КАПИТАЛ (ООО), КБ;Банки;20;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;18166936;НЗБанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;18866059;ДельтаКредит КБ;Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;18933034;МСП БАНК;Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;20501951;КИТ Финанс ИБ;Банки;14;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;20606880;ВТБ 24;Банки;0;0;0;NaN;NaN;NaN;NaN
+01-Jul-2009;20986262;СИБСОЦБАНК;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;21182608;Газбанк КБ;Банки;9;NaN;NaN;NaN;7;NaN;NaN
+01-Jul-2009;21217985;Тольяттихимбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;21291250;Солидарность КБ;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;21293615;Унифин КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;21301875;Земский банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;21417572;ФорБанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4
+01-Jul-2009;21553996;Банк КУБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;21768455;Ермак НГАБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;23578954;Алемар Банк, ОАО;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2009;24153783;Росэнергобанк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2009;25025366;Северная казна Банк;Банки;6;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;25054072;Меткомбанк;Банки;8;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2009;25094551;МОСОБЛБАНК;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2009;26237308;Транскапиталбанк АКБ;Банки;4;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2009;26781450;Банк Северный Кредит;Банки;NaN;NaN;NaN;NaN;10;NaN;NaN
+01-Jul-2009;27210292;Центр-Инвест КБ;Банки;5;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;27297123;ИнвестКапиталБанк;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2009;29034830;Ситибанк КБ;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2009;29039419;Банк Инноваций и Развития;Банки;NaN;9;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;29061028;Система КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;29284797;ОБПИ АКБ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2009;29289642;Банк БКФ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;29289903;Славия АКБ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2009;29290881;Тинькофф Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;29292006;Держава АКБ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2009;29292940;Банк Москвы АКБ;Банки;NaN;NaN;1;NaN;NaN;NaN;NaN
+01-Jul-2009;29293553;Инвестторгбанк АКБ;Банки;6;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2009;29293566;Лада-Кредит;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;29293885;ОТП Банк;Банки;NaN;NaN;3;NaN;NaN;NaN;NaN
+01-Jul-2009;29293916;ТЭМБР-БАНК;Банки;NaN;NaN;NaN;3;6;NaN;NaN
+01-Jul-2009;29294100;СВА АКБ;Банки;NaN;NaN;NaN;5;NaN;NaN;NaN
+01-Jul-2009;29296062;НРБанк;Банки;6;NaN;9;NaN;NaN;NaN;NaN
+01-Jul-2009;29296174;Юниаструм Банк;Банки;5;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;29296487;АМТ БАНК;Банки;NaN;NaN;15;NaN;NaN;NaN;NaN
+01-Jul-2009;29300533;Открытие ИБ;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2009;29303313;ИШБАНК;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;29304028;Авангард АКБ;Банки;6;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;29304086;Интеркредит КБ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2009;29305097;МБТС-Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;29305527;Соцгорбанк КБ;Банки;NaN;9;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;29306211;РГС Банк;Банки;7;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2009;29306234;Экспобанк;Банки;1;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;29308428;НС Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;3
+01-Jul-2009;29310827;Открытие Банк;Банки;NaN;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2009;29313754;ЯР-Банк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2009;29313978;ЕВРОТРАСТ КБ, ЗАО;Банки;9;11;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;29318349;Роспромбанк;Банки;5;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;29318786;Банк Жилфинанс;Банки;NaN;NaN;15;NaN;6;NaN;NaN
+01-Jul-2009;29323250;Транспортный КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;29325987;Банк Зенит;Банки;NaN;NaN;6;NaN;NaN;NaN;2
+01-Jul-2009;29351298;Мой Банк;Банки;9;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2009;29351447;Межтопэнергобанк АКБ;Банки;10;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;29351619;Фондсервисбанк;Банки;8;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2009;29351625;Европлан Банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2009;29351677;Легион АКБ;Банки;NaN;NaN;NaN;NaN;7;NaN;NaN
+01-Jul-2009;29351758;РМБ КБ;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;29393440;ЛОКО-Банк КБ;Банки;6;NaN;9;NaN;NaN;NaN;NaN
+01-Jul-2009;29418737;СТБ;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2009;29465091;НК Банк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;29645190;Тюменьэнергобанк;Банки;20;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;31029552;ПетербургСоцКомБанк;Банки;9;NaN;12;NaN;NaN;NaN;NaN
+01-Jul-2009;31233726;УралКапиталБанк;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2009;31452865;Алмазэргиэнбанк АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;32237844;Алтайкапиталбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2009;33549575;АК Банк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;33561222;НационалТорговыйБанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;33618850;ПримСоцБанк СКБ;Банки;NaN;NaN;11;NaN;NaN;NaN;NaN
+01-Jul-2009;33797120;РБР АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;33863696;ИнтехБанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;33863779;РОСТ БАНК;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;33863839;Татфондбанк АИКБ;Банки;7;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2009;34003547;Банк Йошкар-Ола;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2009;34236369;БАНК СГБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2009;34545900;Уралпромбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;34922679;Агропромкредит КБ;Банки;7;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2009;35333241;НОТА-Банк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2009;36260426;Стройлесбанк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;36392180;Оренбург КБ;Банки;NaN;NaN;NaN;NaN;6;NaN;3
+01-Jul-2009;36425689;Екатеринбург Банк;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2009;39464738;БалтИнвестБанк;Банки;8;NaN;NaN;2;NaN;NaN;2
+01-Jul-2009;40019305;Центркомбанк;Банки;NaN;NaN;12;NaN;NaN;NaN;2
+01-Jul-2009;40092868;СБ Банк;Банки;8;NaN;NaN;1;9;NaN;NaN
+01-Jul-2009;40093098;Нордеа Банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2009;40097897;Мастер-Капитал АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;40133419;Внешпромбанк;Банки;8;9;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;40148343;Промсвязьбанк;Банки;NaN;NaN;NaN;NaN;1;NaN;NaN
+01-Jul-2009;40198845;Росевробанк;Банки;5;NaN;9;NaN;NaN;NaN;NaN
+01-Jul-2009;40354914;Интерпромбанк КБ;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;40654987;Банк Казани КБ;Банки;NaN;NaN;9;3;NaN;NaN;NaN
+01-Jul-2009;41028826;СИАБ;Банки;NaN;NaN;NaN;NaN;7;NaN;NaN
+01-Jul-2009;42250389;Газэнергопромбанк;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;42530114;ФИА-банк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;42881635;ВсероссБРР;Банки;1;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;42943661;Райффайзенбанк;Банки;0;0;0;NaN;NaN;NaN;NaN
+01-Jul-2009;42949184;Первый ЧешскоРоссийКБ;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;43433198;Банк Траст;Банки;12;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2009;44400887;Данске банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2009;44833712;Камабанк КБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;44999855;Русьуниверсалбанк;Банки;NaN;NaN;11;NaN;NaN;NaN;NaN
+01-Jul-2009;46360991;Кредит Европа Банк;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;49212386;Банк Хакасии АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2009;52597303;МИА КБ;Банки;2;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;52750822;Россельхозбанк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2009;55000731;Ренессанс Кредит КБ;Банки;NaN;9;11;NaN;NaN;NaN;NaN
+01-Jul-2009;55951900;Крайинвестбанк;Банки;NaN;6;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;56641478;Москоммерцбанк;Банки;NaN;NaN;15;NaN;4;NaN;NaN
+01-Jul-2009;56657657;СМП Банк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;57997869;КРК КБ;Банки;NaN;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2009;58221378;Натиксис Банк;Банки;2;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;59735056;Банк НационалСтандарт;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;70130365;Банк НФК;Банки;9;9;NaN;NaN;NaN;NaN;NaN
+01-Jul-2009;70170324;БРТ КБ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2009;93583023;Первобанк;Банки;8;NaN;NaN;NaN;4;NaN;NaN
+01-Jul-2009;93976946;Ермак-Брокер БК;Банки;NaN;NaN;NaN;NaN;7;NaN;NaN
+01-Jul-2008;32520;Банк ВТБ;Банки;NaN;0;0;NaN;NaN;NaN;NaN
+01-Jul-2008;32537;Сбербанк России;Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;100011;ЕвразийскийБанкРазвит;Банки;NaN;0;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;6905897;Стройкредит КБ;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;9139030;Совкомбанк;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;9144918;Енисей АКБ;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2008;9155046;Курскпромбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4
+01-Jul-2008;9156011;Липецккомбанк;Банки;NaN;8;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;9241018;Дальневосточный банк;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;9253642;Уралтрансбанк;Банки;NaN;NaN;10;NaN;NaN;NaN;NaN
+01-Jul-2008;9265467;Автоградбанк;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2008;9265705;БТА-Казань (ОАО), АКБ;Банки;NaN;NaN;7;NaN;NaN;NaN;NaN
+01-Jul-2008;9265941;Энергобанк АКБ;Банки;NaN;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2008;9268282;Запсибкомбанк;Банки;NaN;6;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;9269011;Ижкомбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2008;9272303;Азиатско-ТихоокеанскБанк;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2008;9301192;Связь-Банк АКБ;Банки;7;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;9308343;Петрокоммерц КБ;Банки;3;4;NaN;1;0;NaN;NaN
+01-Jul-2008;9318608;БАНК РСБ 24;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;9318941;Московский Кредитный Банк;Банки;4;NaN;9;NaN;NaN;NaN;NaN
+01-Jul-2008;9320752;СКБ-Банк;Банки;6;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;9610355;Собинбанк АБ;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;9610444;Альфа-Банк;Банки;NaN;2;3;NaN;0;NaN;NaN
+01-Jul-2008;9610839;Еврофинанс Моснарбанк АКБ;Банки;3;NaN;8;NaN;NaN;NaN;NaN
+01-Jul-2008;9620767;Банк Возрождение;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;9801055;Банк ВТБ Северо-Запад;Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;9801995;АБ Финанс КБ;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;9804102;Банк Российский Кредит;Банки;11;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;9804148;Россия АБ;Банки;NaN;NaN;12;NaN;NaN;NaN;NaN
+01-Jul-2008;9804609;СЛАВЯНСКИЙ БАНК, АКБ;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2008;9806035;Банк АВБ;Банки;11;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;9806489;Конверсбанк;Банки;NaN;NaN;13;NaN;NaN;NaN;NaN
+01-Jul-2008;9806578;МБСПб;Банки;NaN;9;11;NaN;NaN;NaN;NaN
+01-Jul-2008;9806673;Далькомбанк;Банки;NaN;NaN;6;NaN;NaN;NaN;NaN
+01-Jul-2008;9806868;ЦентроКредит АКБ;Банки;8;9;11;NaN;NaN;NaN;NaN
+01-Jul-2008;9807336;ГУТА-БАНК;Банки;10;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;9807543;Урал ФД АКБ;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;9807684;Банк ГПБ;Банки;0;1;NaN;0;NaN;NaN;NaN
+01-Jul-2008;9807804;ХКФ Банк;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;9809128;УБРиР;Банки;8;8;NaN;NaN;8;NaN;NaN
+01-Jul-2008;10163980;КЕДР КБ;Банки;6;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;10668259;НБД-Банк;Банки;6;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;11707493;Русфинанс Банк;Банки;0;1;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;12152896;Донской народный банк;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;12507282;ХМБ Открытие;Банки;NaN;3;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;13001745;Ак Барс АКБ;Банки;2;NaN;3;NaN;NaN;NaN;NaN
+01-Jul-2008;13001981;Акибанк;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;13243000;РосДорБанк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;16799712;АФ Банк, ОАО;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2008;17226837;Альба-Альянс КБ;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;17399561;Первый РеспубликанБанк;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;17502935;МеждународПромБанк;Банки;NaN;NaN;8;NaN;4;NaN;NaN
+01-Jul-2008;17504207;Пересвет АКБ;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2008;17516067;МТС-Банк;Банки;NaN;NaN;6;NaN;3;NaN;NaN
+01-Jul-2008;17522116;РОСБАНК;Банки;2;1;0;NaN;NaN;NaN;NaN
+01-Jul-2008;17523370;Русский Стандарт Банк;Банки;2;3;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;17525770;Российский Капитал АКБ;Банки;7;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;17526887;Банк ФК Открытие;Банки;3;NaN;6;NaN;NaN;NaN;NaN
+01-Jul-2008;17527102;Банк ПроектФинансиров;Банки;NaN;NaN;NaN;2;NaN;NaN;NaN
+01-Jul-2008;17527415;Абсолют Банк;Банки;0;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2008;17529124;ТрансКредитБанк;Банки;1;2;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;17530191;МДМ-Банк;Банки;NaN;NaN;3;NaN;NaN;NaN;NaN
+01-Jul-2008;17534020;Пробизнесбанк АКБ;Банки;NaN;NaN;10;NaN;NaN;NaN;NaN
+01-Jul-2008;17534094;Связной Банк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;17534194;Банк СОЮЗ;Банки;5;5;NaN;NaN;NaN;NaN;2
+01-Jul-2008;17535627;МеталлИнвестБанк;Банки;7;NaN;NaN;NaN;5;NaN;NaN
+01-Jul-2008;17543549;БИНБАНК;Банки;6;9;11;NaN;NaN;NaN;NaN
+01-Jul-2008;17546163;Сембанк КБ;Банки;NaN;NaN;NaN;5;NaN;NaN;NaN
+01-Jul-2008;17669820;МОСКОВСКИЙ КАПИТАЛ (ООО), КБ;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;18866059;ДельтаКредит КБ;Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;18933034;МСП БАНК;Банки;0;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;20501951;КИТ Финанс ИБ;Банки;6;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;20606880;ВТБ 24;Банки;0;0;0;NaN;NaN;NaN;NaN
+01-Jul-2008;21182608;Газбанк КБ;Банки;7;NaN;NaN;NaN;7;NaN;NaN
+01-Jul-2008;21291250;Солидарность КБ;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;25025366;Северная казна Банк;Банки;7;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;25054072;Меткомбанк;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;25094551;МОСОБЛБАНК;Банки;NaN;NaN;NaN;4;NaN;NaN;NaN
+01-Jul-2008;26237308;Транскапиталбанк АКБ;Банки;4;NaN;NaN;1;NaN;NaN;NaN
+01-Jul-2008;27210292;Центр-Инвест КБ;Банки;4;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;29292940;Банк Москвы АКБ;Банки;NaN;NaN;1;NaN;NaN;NaN;NaN
+01-Jul-2008;29293553;Инвестторгбанк АКБ;Банки;7;NaN;NaN;NaN;6;NaN;NaN
+01-Jul-2008;29293885;ОТП Банк;Банки;NaN;NaN;1;NaN;NaN;NaN;NaN
+01-Jul-2008;29296062;НРБанк;Банки;NaN;NaN;10;NaN;NaN;NaN;NaN
+01-Jul-2008;29296174;Юниаструм Банк;Банки;7;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;29305527;Соцгорбанк КБ;Банки;NaN;11;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;29306211;РГС Банк;Банки;7;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;29306234;Экспобанк;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;29308428;НС Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3
+01-Jul-2008;29310827;Открытие Банк;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2008;29313754;ЯР-Банк;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN
+01-Jul-2008;29313978;ЕВРОТРАСТ КБ, ЗАО;Банки;NaN;11;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;29318349;Роспромбанк;Банки;8;NaN;NaN;3;NaN;NaN;NaN
+01-Jul-2008;29318786;Банк Жилфинанс;Банки;NaN;NaN;12;NaN;NaN;NaN;NaN
+01-Jul-2008;29325987;Банк Зенит;Банки;NaN;NaN;7;NaN;NaN;NaN;2
+01-Jul-2008;29351298;Мой Банк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;29351447;Межтопэнергобанк АКБ;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;29351619;Фондсервисбанк;Банки;7;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;29351758;РМБ КБ;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;29393440;ЛОКО-Банк КБ;Банки;6;NaN;9;NaN;NaN;NaN;NaN
+01-Jul-2008;29465091;НК Банк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;29645190;Тюменьэнергобанк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;31029552;ПетербургСоцКомБанк;Банки;NaN;NaN;12;NaN;NaN;NaN;NaN
+01-Jul-2008;33863839;Татфондбанк АИКБ;Банки;7;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;34922679;Агропромкредит КБ;Банки;7;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;39464738;БалтИнвестБанк;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;40019305;Центркомбанк;Банки;NaN;NaN;12;NaN;NaN;NaN;NaN
+01-Jul-2008;40092868;СБ Банк;Банки;8;NaN;NaN;NaN;9;NaN;NaN
+01-Jul-2008;40093098;Нордеа Банк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2008;40133419;Внешпромбанк;Банки;8;13;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;40148343;Промсвязьбанк;Банки;NaN;NaN;NaN;NaN;1;NaN;NaN
+01-Jul-2008;40198845;Росевробанк;Банки;5;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;40354914;Интерпромбанк КБ;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;42250389;Газэнергопромбанк;Банки;3;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;42881635;ВсероссБРР;Банки;1;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;42943661;Райффайзенбанк;Банки;0;0;0;NaN;NaN;NaN;NaN
+01-Jul-2008;42949184;Первый ЧешскоРоссийКБ;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;43433198;Банк Траст;Банки;4;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;44999855;Русьуниверсалбанк;Банки;NaN;NaN;12;NaN;NaN;NaN;NaN
+01-Jul-2008;46360991;Кредит Европа Банк;Банки;1;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;52597303;МИА КБ;Банки;2;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;52750822;Россельхозбанк;Банки;NaN;NaN;0;NaN;NaN;NaN;NaN
+01-Jul-2008;55000731;Ренессанс Кредит КБ;Банки;NaN;8;11;NaN;NaN;NaN;NaN
+01-Jul-2008;55951900;Крайинвестбанк;Банки;NaN;6;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;56657657;СМП Банк;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;59735056;Банк НационалСтандарт;Банки;9;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;70130365;Банк НФК;Банки;6;7;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;93583023;Первобанк;Банки;8;NaN;NaN;NaN;NaN;NaN;NaN
+01-Jul-2008;93976946;Ермак-Брокер БК;Банки;NaN;NaN;NaN;NaN;7;NaN;NaN

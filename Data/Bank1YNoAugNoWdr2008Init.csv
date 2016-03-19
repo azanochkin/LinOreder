@@ -1,0 +1,2469 @@
+date;entity;sector;MDSBIsc;MDSBNsc;SPIsc;SPNsc;FCHIsc;FCHNsc;EXPB;NRAB;RUSBIsc;RUSBNsc;AKMB
+733590;Внешэкономбанк;Банки;8;NaN;6;NaN;7;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Банк ВТБ;Банки;4;NaN;7;0;7;0;NaN;NaN;NaN;NaN;NaN
+733590;Сбербанк России;Банки;4;0;NaN;NaN;7;NaN;NaN;NaN;NaN;NaN;NaN
+733590;ЕвразийскийБанкРазвит;Банки;NaN;NaN;7;0;7;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Стройкредит КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Совкомбанк;Банки;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Енисей АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+733590;Курскпромбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4
+733590;Дальневосточный банк;Банки;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Уралтрансбанк;Банки;NaN;NaN;NaN;NaN;15;10;NaN;NaN;NaN;NaN;NaN
+733590;Автоградбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733590;БТА-Казань (ОАО), АКБ;Банки;NaN;NaN;NaN;NaN;14;7;NaN;NaN;NaN;NaN;NaN
+733590;Энергобанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733590;Запсибкомбанк;Банки;NaN;NaN;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Ижкомбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+733590;Азиатско-ТихоокеанскБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+733590;Связь-Банк АКБ;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;СДМ-Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;13;NaN;NaN
+733590;Петрокоммерц КБ;Банки;12;3;13;4;NaN;NaN;1;0;10;NaN;NaN
+733590;Сургутнефтегазбанк;Банки;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;БАНК РСБ 24;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Московский Кредитный Банк;Банки;13;4;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+733590;СКБ-Банк;Банки;14;6;NaN;NaN;15;NaN;NaN;NaN;13;NaN;NaN
+733590;Собинбанк АБ;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;12;NaN;NaN
+733590;Альфа-Банк;Банки;10;NaN;11;2;11;3;NaN;0;NaN;NaN;NaN
+733590;Еврофинанс Моснарбанк АКБ;Банки;12;3;NaN;NaN;14;8;NaN;NaN;NaN;NaN;NaN
+733590;Банк Возрождение;Банки;12;3;NaN;NaN;NaN;NaN;NaN;NaN;12;NaN;NaN
+733590;Банк ВТБ Северо-Запад;Банки;5;0;NaN;NaN;7;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Челиндбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;12;NaN;NaN
+733590;АБ Финанс КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;МДМ Банк;Банки;12;NaN;NaN;NaN;14;NaN;NaN;NaN;10;NaN;NaN
+733590;Банк Российский Кредит;Банки;16;11;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Россия АБ;Банки;NaN;NaN;NaN;NaN;15;12;NaN;NaN;NaN;NaN;NaN
+733590;Kazkommerts Int;Банки;10;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;СЛАВЯНСКИЙ БАНК, АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+733590;Банк Санкт-Петербург;Банки;12;NaN;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Банк АВБ;Банки;16;11;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Конверсбанк;Банки;NaN;NaN;NaN;NaN;17;13;NaN;NaN;NaN;NaN;NaN
+733590;Балтийский Банк;Банки;14;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;МБСПб;Банки;NaN;NaN;15;9;15;11;NaN;NaN;14;NaN;NaN
+733590;Далькомбанк;Банки;NaN;NaN;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+733590;ЦентроКредит АКБ;Банки;15;8;15;9;15;11;NaN;NaN;NaN;NaN;NaN
+733590;ЮниКредит Банк;Банки;NaN;NaN;8;NaN;6;NaN;NaN;NaN;NaN;NaN;NaN
+733590;ГУТА-БАНК;Банки;16;10;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Урал ФД АКБ;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Банк ГПБ;Банки;6;0;9;1;NaN;NaN;0;NaN;8;NaN;NaN
+733590;ХКФ Банк;Банки;12;3;13;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;УБРиР;Банки;15;8;15;8;NaN;NaN;NaN;8;15;NaN;NaN
+733590;КЕДР КБ;Банки;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Восточный Экспресс КБ;Банки;15;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Саровбизнесбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;15;NaN;NaN
+733590;НБД-Банк;Банки;14;6;NaN;NaN;NaN;NaN;NaN;NaN;12;NaN;NaN
+733590;Русфинанс Банк;Банки;8;0;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Донской народный банк;Банки;NaN;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;ХМБ Открытие;Банки;NaN;NaN;12;3;NaN;NaN;NaN;NaN;13;NaN;NaN
+733590;Спурт АКБ;Банки;NaN;NaN;NaN;NaN;15;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Ак Барс АКБ;Банки;11;2;NaN;NaN;11;3;NaN;NaN;11;NaN;NaN
+733590;Акибанк;Банки;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;РосДорБанк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;АФ Банк, ОАО;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+733590;Альба-Альянс КБ;Банки;15;8;15;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Первый РеспубликанБанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;МеждународПромБанк;Банки;13;NaN;12;NaN;14;8;NaN;4;NaN;NaN;NaN
+733590;Пересвет АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+733590;Мастер-Банк;Банки;NaN;NaN;NaN;NaN;14;NaN;NaN;NaN;NaN;NaN;NaN
+733590;МТС-Банк;Банки;13;NaN;NaN;NaN;13;6;NaN;3;14;NaN;NaN
+733590;РОСБАНК;Банки;9;2;10;1;6;0;NaN;NaN;8;NaN;NaN
+733590;Русский Стандарт Банк;Банки;11;2;12;3;12;NaN;NaN;NaN;14;NaN;NaN
+733590;Российский Капитал АКБ;Банки;NaN;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Банк ФК Открытие;Банки;12;3;NaN;NaN;13;6;NaN;NaN;9;NaN;NaN
+733590;Банк ПроектФинансиров;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+733590;Абсолют Банк;Банки;9;0;NaN;NaN;6;0;NaN;NaN;NaN;NaN;NaN
+733590;ТрансКредитБанк;Банки;10;1;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;МДМ-Банк;Банки;10;NaN;11;NaN;11;3;NaN;NaN;7;NaN;NaN
+733590;Пробизнесбанк АКБ;Банки;NaN;NaN;NaN;NaN;15;10;NaN;NaN;12;NaN;NaN
+733590;Связной Банк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Банк СОЮЗ;Банки;13;5;14;5;NaN;NaN;NaN;NaN;13;NaN;2
+733590;МеталлИнвестБанк;Банки;14;7;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+733590;БИНБАНК;Банки;NaN;6;15;9;15;11;NaN;NaN;10;NaN;NaN
+733590;Сембанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN;NaN
+733590;МОСКОВСКИЙ КАПИТАЛ (ООО), КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;ДельтаКредит КБ;Банки;7;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;МСП БАНК;Банки;8;0;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;КИТ Финанс ИБ;Банки;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;ВТБ 24;Банки;4;0;7;0;7;0;NaN;NaN;12;NaN;NaN
+733590;Газбанк КБ;Банки;14;7;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+733590;Солидарность КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Северная казна Банк;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;12;NaN;NaN
+733590;Меткомбанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;МОСОБЛБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+733590;Транскапиталбанк АКБ;Банки;13;4;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+733590;Центр-Инвест КБ;Банки;13;4;NaN;NaN;NaN;NaN;NaN;NaN;11;NaN;NaN
+733590;МИБ АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Банк Москвы АКБ;Банки;6;NaN;NaN;NaN;8;1;NaN;NaN;11;NaN;NaN
+733590;Инвестторгбанк АКБ;Банки;14;7;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+733590;ОТП Банк;Банки;NaN;NaN;NaN;NaN;9;1;NaN;NaN;NaN;NaN;NaN
+733590;НРБанк;Банки;NaN;NaN;NaN;NaN;15;10;NaN;NaN;NaN;NaN;NaN
+733590;Юниаструм Банк;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Траст ИБ;Банки;13;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;АМТ БАНК;Банки;13;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Авангард АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;10;NaN;NaN
+733590;Соцгорбанк КБ;Банки;NaN;NaN;16;11;NaN;NaN;NaN;NaN;15;NaN;NaN
+733590;РГС Банк;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Экспобанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;НС Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+733590;Открытие Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+733590;ЯР-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+733590;ЕВРОТРАСТ КБ, ЗАО;Банки;NaN;NaN;16;11;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Роспромбанк;Банки;15;8;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733590;Банк Жилфинанс;Банки;NaN;NaN;NaN;NaN;15;12;NaN;NaN;NaN;NaN;NaN
+733590;Банк Зенит;Банки;12;NaN;NaN;NaN;14;7;NaN;NaN;10;NaN;2
+733590;Мой Банк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Межтопэнергобанк АКБ;Банки;NaN;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Фондсервисбанк;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;13;NaN;NaN
+733590;РМБ КБ;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;ЛОКО-Банк КБ;Банки;14;6;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+733590;НК Банк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Тюменьэнергобанк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;ПетербургСоцКомБанк;Банки;NaN;NaN;NaN;NaN;15;12;NaN;NaN;NaN;NaN;NaN
+733590;БАНК УРАЛСИБ;Банки;12;NaN;12;NaN;13;NaN;NaN;NaN;10;NaN;NaN
+733590;Татфондбанк АИКБ;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Агропромкредит КБ;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;БалтИнвестБанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Центркомбанк;Банки;NaN;NaN;NaN;NaN;15;12;NaN;NaN;NaN;NaN;NaN
+733590;СБ Банк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;9;NaN;NaN;NaN
+733590;Нордеа Банк;Банки;NaN;NaN;NaN;NaN;6;0;NaN;NaN;NaN;NaN;NaN
+733590;Внешпромбанк;Банки;15;8;17;13;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Промсвязьбанк;Банки;11;NaN;12;NaN;13;NaN;NaN;1;9;NaN;NaN
+733590;Росевробанк;Банки;13;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Интерпромбанк КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Газэнергопромбанк;Банки;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;ВсероссБРР;Банки;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Райффайзенбанк;Банки;7;0;7;0;6;0;NaN;NaN;5;NaN;NaN
+733590;Первый ЧешскоРоссийКБ;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Банк Траст;Банки;13;4;NaN;NaN;15;NaN;NaN;NaN;13;NaN;NaN
+733590;Русьуниверсалбанк;Банки;NaN;NaN;NaN;NaN;15;12;NaN;NaN;NaN;NaN;NaN
+733590;Кредит Европа Банк;Банки;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;МИА КБ;Банки;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Россельхозбанк;Банки;6;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+733590;Ренессанс Кредит КБ;Банки;13;NaN;15;8;15;11;NaN;NaN;NaN;NaN;NaN
+733590;Крайинвестбанк;Банки;NaN;NaN;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;СМП Банк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;КРК КБ;Банки;NaN;NaN;NaN;NaN;15;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Банк НационалСтандарт;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Банк НФК;Банки;14;6;15;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Первобанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733590;Ермак-Брокер БК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+733955;Внешэкономбанк;Банки;NaN;NaN;7;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Банк ВТБ;Банки;7;NaN;8;0;8;0;NaN;NaN;NaN;NaN;NaN
+733955;Сбербанк России;Банки;6;0;NaN;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN
+733955;ЕвразийскийБанкРазвит;Банки;NaN;NaN;8;0;8;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Энергомашбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+733955;Морской банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;5;NaN;NaN;NaN
+733955;Стройкредит КБ;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;МеталлургКомБанк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Ассоциация КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Норвик Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+733955;Совкомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Курскпромбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;4
+733955;Липецккомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+733955;МПСБ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+733955;Банк Левобережный;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;12;NaN;NaN
+733955;Губернский банк Тарханы, ОАО;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+733955;Дальневосточный банк;Банки;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Ростпромстройбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;12;NaN;NaN
+733955;Уральский МежрегионБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+733955;Уралтрансбанк;Банки;NaN;NaN;NaN;NaN;15;11;NaN;NaN;NaN;NaN;NaN
+733955;Автоградбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;БТА-Казань (ОАО), АКБ;Банки;NaN;NaN;NaN;NaN;17;14;NaN;NaN;NaN;NaN;NaN
+733955;Энергобанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Камский КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Запсибкомбанк;Банки;NaN;NaN;15;9;NaN;NaN;2;NaN;NaN;NaN;NaN
+733955;Ижкомбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;3
+733955;НОМОС-РЕГИОБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Уссури КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+733955;Азиатско-ТихоокеанскБанк;Банки;15;8;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+733955;Камчаткомагропромбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Банк Снежинский;Банки;NaN;NaN;NaN;NaN;15;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Русь ОИКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Экономбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+733955;Связь-Банк АКБ;Банки;17;14;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Банк Первомайский;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;СДМ-Банк КБ;Банки;NaN;NaN;NaN;NaN;15;12;NaN;NaN;13;NaN;NaN
+733955;ВУЗ-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;12;NaN;NaN
+733955;Петрокоммерц КБ;Банки;12;3;13;5;NaN;NaN;1;NaN;10;NaN;NaN
+733955;Океан банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+733955;СтарБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+733955;Акцепт КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Сургутнефтегазбанк;Банки;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;МИнБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+733955;БАНК РСБ 24;Банки;15;8;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+733955;Московский Кредитный Банк;Банки;13;5;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+733955;СКБ-Банк;Банки;14;6;NaN;NaN;15;NaN;NaN;NaN;13;NaN;NaN
+733955;Собинбанк АБ;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;12;NaN;NaN
+733955;Альфа-Банк;Банки;10;NaN;12;3;12;4;NaN;0;7;NaN;NaN
+733955;Еврофинанс Моснарбанк АКБ;Банки;12;3;NaN;NaN;14;8;NaN;NaN;NaN;NaN;NaN
+733955;Банк МНХБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Банк Возрождение;Банки;12;3;12;3;NaN;NaN;NaN;NaN;12;NaN;2
+733955;М2М Прайвет Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+733955;Банк ВТБ Северо-Запад;Банки;7;0;NaN;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Уралсиб-Юг банк АКБ;Банки;NaN;NaN;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Челиндбанк АКБ;Банки;NaN;NaN;NaN;NaN;15;11;NaN;NaN;12;NaN;NaN
+733955;Банк Премьер Кредит;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+733955;ЧЕЛЯБИНВЕСТБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+733955;АБ Финанс КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;МДМ Банк;Банки;12;NaN;NaN;NaN;13;NaN;NaN;NaN;8;NaN;NaN
+733955;Банк Российский Кредит;Банки;16;11;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Россия АБ;Банки;NaN;NaN;NaN;NaN;15;12;1;NaN;NaN;NaN;NaN
+733955;Kazkommerts Int;Банки;12;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;СЛАВЯНСКИЙ БАНК, АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+733955;Банк Санкт-Петербург;Банки;12;NaN;NaN;NaN;14;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Банк АВБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Кольцо Урала КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Инвестбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;5;12;NaN;NaN
+733955;Балтийский Банк;Банки;14;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Экспресс-Кредит АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;МБСПб;Банки;NaN;NaN;15;9;15;12;NaN;NaN;14;NaN;NaN
+733955;Далькомбанк;Банки;NaN;NaN;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+733955;Эталонбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;12;NaN;NaN
+733955;ЦентроКредит АКБ;Банки;15;8;15;9;15;12;NaN;4;NaN;NaN;NaN
+733955;ЮниКредит Банк;Банки;NaN;NaN;9;NaN;7;NaN;NaN;NaN;NaN;NaN;NaN
+733955;ГУТА-БАНК;Банки;16;10;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+733955;Урал ФД АКБ;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Банк ГПБ;Банки;8;0;9;1;NaN;NaN;0;NaN;8;NaN;NaN
+733955;ХКФ Банк;Банки;12;3;13;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Кредит-Москва АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;УБРиР;Банки;NaN;NaN;15;9;NaN;NaN;NaN;4;15;NaN;NaN
+733955;КЕДР КБ;Банки;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+733955;Восточный Экспресс КБ;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;11;NaN;NaN
+733955;Банк Вологжанин;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Эллипс КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;6;NaN;NaN;3
+733955;Саровбизнесбанк;Банки;NaN;NaN;NaN;NaN;15;12;NaN;NaN;11;NaN;NaN
+733955;НБД-Банк;Банки;14;6;NaN;NaN;NaN;NaN;NaN;NaN;12;NaN;NaN
+733955;Элита банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+733955;Хлынов КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;12;NaN;NaN
+733955;Русфинанс Банк;Банки;9;0;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Донской народный банк;Банки;NaN;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;ХМБ Открытие;Банки;NaN;NaN;13;4;NaN;NaN;NaN;NaN;11;NaN;NaN
+733955;Спурт АКБ;Банки;NaN;NaN;NaN;NaN;15;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Ак Барс АКБ;Банки;11;2;NaN;NaN;11;3;NaN;NaN;11;NaN;2
+733955;Акибанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;БыстроБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;РосДорБанк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;БКС Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+733955;АФ Банк, ОАО;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+733955;Альба-Альянс КБ;Банки;15;8;15;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Первый РеспубликанБанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+733955;МеждународПромБанк;Банки;13;NaN;12;NaN;14;8;NaN;1;NaN;NaN;NaN
+733955;Пересвет АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+733955;Банкхаус Эрбе;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Банк Интеза;Банки;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Мастер-Банк;Банки;NaN;NaN;NaN;NaN;14;NaN;3;NaN;NaN;NaN;NaN
+733955;МТС-Банк;Банки;14;NaN;NaN;NaN;13;6;1;2;14;NaN;1
+733955;РОСБАНК;Банки;9;0;10;1;7;0;NaN;NaN;7;NaN;NaN
+733955;Русский Стандарт Банк;Банки;12;3;13;5;12;NaN;NaN;NaN;11;NaN;NaN
+733955;Российский Капитал АКБ;Банки;NaN;15;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Банк Солидарность;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+733955;Банк ФК Открытие;Банки;12;3;NaN;NaN;13;5;NaN;1;9;NaN;NaN
+733955;Банк ПроектФинансиров;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Абсолют Банк;Банки;9;0;NaN;NaN;8;1;NaN;NaN;NaN;NaN;NaN
+733955;БСЖВ, ЗАО;Банки;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;ТрансКредитБанк;Банки;10;1;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Альта-банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;МДМ-Банк;Банки;10;NaN;12;NaN;12;4;NaN;NaN;8;NaN;NaN
+733955;ОФК Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;16;NaN;NaN
+733955;Пробизнесбанк АКБ;Банки;NaN;NaN;NaN;NaN;15;12;NaN;NaN;12;NaN;NaN
+733955;Связной Банк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Банк СОЮЗ;Банки;16;12;15;9;NaN;NaN;NaN;NaN;13;NaN;2
+733955;МеталлИнвестБанк;Банки;14;7;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+733955;Петрофф-банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Новикомбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+733955;Инг Банк (Евразия);Банки;7;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Метробанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;БИНБАНК;Банки;NaN;6;15;9;15;11;NaN;NaN;9;NaN;2
+733955;Сембанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN;NaN
+733955;Трансстройбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;МОСКОВСКИЙ КАПИТАЛ (ООО), КБ;Банки;20;20;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;НЗБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;ДельтаКредит КБ;Банки;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;МСП БАНК;Банки;8;0;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;КИТ Финанс ИБ;Банки;17;14;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;ВТБ 24;Банки;7;0;8;0;8;0;NaN;NaN;12;NaN;NaN
+733955;СИБСОЦБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Газбанк КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+733955;Тольяттихимбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Солидарность КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Унифин КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Земский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;ФорБанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4
+733955;Банк КУБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Ермак НГАБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Алемар Банк, ОАО;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+733955;Росэнергобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+733955;Сетелем Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN
+733955;Северная казна Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;10;NaN;NaN
+733955;Меткомбанк;Банки;15;8;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+733955;МОСОБЛБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+733955;Транскапиталбанк АКБ;Банки;13;4;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+733955;Банк Северный Кредит;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;10;NaN;NaN;NaN
+733955;Центр-Инвест КБ;Банки;13;5;NaN;NaN;NaN;NaN;NaN;NaN;9;NaN;NaN
+733955;ИнвестКапиталБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+733955;Ситибанк КБ;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+733955;Банк Инноваций и Развития;Банки;NaN;NaN;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;МИБ АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Система КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;ОБПИ АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+733955;Банк БКФ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Славия АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+733955;Тинькофф Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Держава АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+733955;Банк Москвы АКБ;Банки;7;NaN;NaN;NaN;9;1;NaN;NaN;11;NaN;NaN
+733955;Инвестторгбанк АКБ;Банки;14;6;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+733955;Лада-Кредит;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;ОТП Банк;Банки;NaN;NaN;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+733955;ТЭМБР-БАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;6;NaN;NaN;NaN
+733955;СВА АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN;NaN
+733955;НРБанк;Банки;14;6;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+733955;Юниаструм Банк;Банки;11;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;АМТ БАНК;Банки;15;NaN;NaN;NaN;NaN;NaN;NaN;NaN;10;NaN;NaN
+733955;Открытие ИБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+733955;ИШБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Авангард АКБ;Банки;14;6;NaN;NaN;NaN;NaN;NaN;NaN;10;NaN;NaN
+733955;Интеркредит КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+733955;МБТС-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Соцгорбанк КБ;Банки;NaN;NaN;15;9;NaN;NaN;NaN;NaN;15;NaN;NaN
+733955;РГС Банк;Банки;14;7;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+733955;Экспобанк;Банки;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;НС Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;3
+733955;Открытие Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+733955;ЯР-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+733955;ЕВРОТРАСТ КБ, ЗАО;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Роспромбанк;Банки;13;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Банк Жилфинанс;Банки;NaN;NaN;NaN;NaN;17;15;NaN;6;NaN;NaN;NaN
+733955;Транспортный КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Банк Зенит;Банки;12;NaN;NaN;NaN;13;6;NaN;NaN;9;NaN;NaN
+733955;Мой Банк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+733955;Межтопэнергобанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Фондсервисбанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;5;13;NaN;NaN
+733955;Европлан Банк;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+733955;Легион АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+733955;РМБ КБ;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;ЛОКО-Банк КБ;Банки;14;6;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+733955;СТБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+733955;НК Банк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;ПетербургСоцКомБанк;Банки;15;9;NaN;NaN;15;12;NaN;NaN;NaN;NaN;NaN
+733955;УралКапиталБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+733955;Алмазэргиэнбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;БАНК УРАЛСИБ;Банки;12;NaN;13;NaN;13;NaN;NaN;NaN;10;NaN;NaN
+733955;Алтайкапиталбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+733955;Кубань Кредит КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;NaN;NaN
+733955;Экспресс-Волга АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;12;NaN;NaN
+733955;АК Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;НационалТорговыйБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;ПримСоцБанк СКБ;Банки;NaN;NaN;NaN;NaN;15;11;NaN;NaN;11;NaN;NaN
+733955;РБР АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;ИнтехБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;РОСТ БАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Татфондбанк АИКБ;Банки;14;7;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+733955;Банк Йошкар-Ола;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+733955;БАНК СГБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+733955;Уралпромбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Агропромкредит КБ;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;НОТА-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+733955;Стройлесбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Оренбург КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;3
+733955;Екатеринбург Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+733955;БалтИнвестБанк;Банки;15;8;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;2
+733955;Центркомбанк;Банки;NaN;NaN;NaN;NaN;15;12;NaN;NaN;NaN;NaN;2
+733955;СБ Банк;Банки;15;8;NaN;NaN;NaN;NaN;1;9;NaN;NaN;NaN
+733955;Нордеа Банк;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+733955;Мастер-Капитал АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Внешпромбанк;Банки;15;8;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Промсвязьбанк;Банки;11;NaN;13;NaN;13;NaN;NaN;1;9;NaN;NaN
+733955;Росевробанк;Банки;13;5;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+733955;Интерпромбанк КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Банк Казани КБ;Банки;NaN;NaN;NaN;NaN;15;11;3;NaN;NaN;NaN;NaN
+733955;СИАБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+733955;Газэнергопромбанк;Банки;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;ФИА-банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;ВсероссБРР;Банки;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Райффайзенбанк;Банки;9;0;9;0;7;0;NaN;NaN;5;NaN;NaN
+733955;Первый ЧешскоРоссийКБ;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Банк Траст;Банки;14;12;NaN;NaN;15;NaN;2;NaN;13;NaN;NaN
+733955;Данске банк;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+733955;Камабанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;Русьуниверсалбанк;Банки;NaN;NaN;NaN;NaN;15;11;NaN;NaN;NaN;NaN;NaN
+733955;Кредит Европа Банк;Банки;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Банк Хакасии АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+733955;МИА КБ;Банки;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Россельхозбанк;Банки;7;NaN;NaN;NaN;8;0;NaN;NaN;NaN;NaN;NaN
+733955;Ренессанс Кредит КБ;Банки;15;NaN;15;9;17;11;NaN;NaN;NaN;NaN;NaN
+733955;Крайинвестбанк;Банки;NaN;NaN;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Москоммерцбанк;Банки;NaN;NaN;NaN;NaN;17;15;NaN;4;NaN;NaN;NaN
+733955;СМП Банк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;КРК КБ;Банки;NaN;NaN;NaN;NaN;15;NaN;NaN;6;NaN;NaN;NaN
+733955;Натиксис Банк;Банки;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Банк НационалСтандарт;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;ТРОЙКА-Д БАНК;Банки;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN
+733955;Банк НФК;Банки;15;9;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+733955;БРТ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+733955;Первобанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+733955;Ермак-Брокер БК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+734320;Внешэкономбанк;Банки;NaN;NaN;7;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Банк ВТБ;Банки;7;NaN;8;0;8;0;NaN;NaN;NaN;NaN;NaN
+734320;Сбербанк России;Банки;6;0;NaN;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN
+734320;ЕвразийскийБанкРазвит;Банки;NaN;NaN;8;0;8;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Банк ГПБ-Ипотека;Банки;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Энергомашбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+734320;Морской банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;5;NaN;NaN;NaN
+734320;Стройкредит КБ;Банки;15;8;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734320;Социнвестбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734320;Финансовый стандарт КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+734320;МеталлургКомБанк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Радиотехбанк НКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Ассоциация КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;БИНБАНК Тверь;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Норвик Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+734320;Совкомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;10;NaN;NaN
+734320;Липецккомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+734320;МПСБ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Плюс Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+734320;Дальневосточный банк;Банки;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Ростпромстройбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;12;NaN;2
+734320;Уралтрансбанк;Банки;NaN;NaN;NaN;NaN;15;11;NaN;NaN;NaN;NaN;NaN
+734320;Автоградбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;БТА-Казань (ОАО), АКБ;Банки;NaN;NaN;NaN;NaN;17;14;NaN;NaN;NaN;NaN;NaN
+734320;Анкор Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Энергобанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Камский КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Запсибкомбанк;Банки;NaN;NaN;15;9;NaN;NaN;2;NaN;NaN;NaN;NaN
+734320;Ижкомбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734320;НОМОС-РЕГИОБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734320;Азиатско-ТихоокеанскБанк;Банки;15;8;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Солид Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+734320;Камчаткомагропромбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Банк Снежинский;Банки;NaN;NaN;NaN;NaN;15;NaN;3;NaN;NaN;NaN;NaN
+734320;Чувашкредитпромбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Экономбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Связь-Банк АКБ;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Банк Первомайский;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;СДМ-Банк КБ;Банки;NaN;NaN;NaN;NaN;14;8;NaN;NaN;11;NaN;NaN
+734320;ВУЗ-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;12;NaN;NaN
+734320;Петрокоммерц КБ;Банки;12;3;13;5;NaN;NaN;1;NaN;9;NaN;NaN
+734320;СтарБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;3
+734320;Акцепт КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Сургутнефтегазбанк;Банки;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;ГЛОБЭКСБАНК;Банки;NaN;NaN;12;3;11;3;NaN;NaN;NaN;NaN;1
+734320;МИнБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734320;М БАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;NaN;NaN
+734320;Балтика АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;9;NaN;NaN;NaN
+734320;БАНК РСБ 24;Банки;15;8;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734320;Московский Кредитный Банк;Банки;13;5;NaN;NaN;13;6;NaN;NaN;9;NaN;NaN
+734320;СКБ-Банк;Банки;14;6;NaN;NaN;15;NaN;NaN;NaN;10;NaN;NaN
+734320;Собинбанк АБ;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;12;NaN;NaN
+734320;Альфа-Банк;Банки;10;NaN;13;4;11;3;NaN;0;7;NaN;NaN
+734320;Еврофинанс Моснарбанк АКБ;Банки;12;3;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+734320;Банк МНХБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Агросоюз КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734320;Банк Возрождение;Банки;12;3;13;4;NaN;NaN;NaN;NaN;9;NaN;NaN
+734320;М2М Прайвет Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734320;Банк ВТБ Северо-Запад;Банки;7;0;NaN;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Челиндбанк АКБ;Банки;NaN;NaN;NaN;NaN;15;11;NaN;NaN;12;NaN;NaN
+734320;ЧЕЛЯБИНВЕСТБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734320;Холмсккомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;АБ Финанс КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;МДМ Банк;Банки;11;2;13;NaN;11;3;NaN;NaN;8;NaN;NaN
+734320;Банк Российский Кредит;Банки;16;11;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Россия АБ;Банки;14;7;NaN;NaN;15;12;1;NaN;NaN;NaN;NaN
+734320;Kazkommerts Int;Банки;12;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;СЛАВЯНСКИЙ БАНК, АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734320;Банк Санкт-Петербург;Банки;12;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Монетный дом;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Банк АВБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Кольцо Урала КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734320;Инвестбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;12;NaN;NaN
+734320;Балтийский Банк;Банки;15;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734320;Экспресс-Кредит АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;МБСПб;Банки;NaN;NaN;15;8;15;12;NaN;NaN;12;NaN;NaN
+734320;Далькомбанк;Банки;NaN;NaN;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+734320;ЦентроКредит АКБ;Банки;15;8;15;9;15;12;NaN;3;NaN;NaN;NaN
+734320;ЮниКредит Банк;Банки;NaN;NaN;9;NaN;7;NaN;NaN;NaN;NaN;NaN;NaN
+734320;ГУТА-БАНК;Банки;16;10;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+734320;Урал ФД АКБ;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Банк ГПБ;Банки;9;0;11;2;NaN;NaN;0;NaN;7;NaN;NaN
+734320;ХКФ Банк;Банки;12;3;13;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Уралприватбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Кредит-Москва АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Волго-Камский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734320;УБРиР;Банки;NaN;NaN;15;9;NaN;NaN;NaN;3;12;NaN;NaN
+734320;Региональный кредит КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734320;КЕДР КБ;Банки;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Восточный Экспресс КБ;Банки;15;8;NaN;NaN;NaN;NaN;2;NaN;10;NaN;NaN
+734320;Банк Вологжанин;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Эллипс КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+734320;Саровбизнесбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;10;NaN;NaN
+734320;НБД-Банк;Банки;14;6;NaN;NaN;NaN;NaN;NaN;NaN;11;NaN;NaN
+734320;Элита банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734320;Русфинанс Банк;Банки;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Форштадт АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;NaN;NaN
+734320;ХМБ Открытие;Банки;12;3;13;4;NaN;NaN;NaN;NaN;8;NaN;NaN
+734320;КС-Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+734320;Спурт АКБ;Банки;NaN;NaN;NaN;NaN;15;12;3;NaN;NaN;NaN;NaN
+734320;Ак Барс АКБ;Банки;12;3;NaN;NaN;11;3;NaN;NaN;8;NaN;NaN
+734320;Акибанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;БыстроБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;12;NaN;NaN
+734320;РосДорБанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;РИАБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734320;Родовид Банк;Банки;17;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;АйМаниБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734320;БКС Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734320;АФ Банк, ОАО;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Интерактивный Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+734320;Ланта-Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+734320;Альба-Альянс КБ;Банки;15;8;15;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Первый РеспубликанБанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734320;МеждународПромБанк;Банки;17;NaN;19;NaN;20;20;NaN;NaN;NaN;NaN;NaN
+734320;Пересвет АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734320;Алеф-банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+734320;Образование АКИБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;3
+734320;Банкхаус Эрбе;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Банк Интеза;Банки;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Мастер-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734320;МТС-Банк;Банки;13;NaN;NaN;NaN;13;6;1;2;9;NaN;1
+734320;РОСБАНК;Банки;9;0;10;1;7;0;NaN;NaN;7;NaN;NaN
+734320;Русский Стандарт Банк;Банки;12;3;13;5;13;NaN;NaN;NaN;11;NaN;NaN
+734320;Российский Капитал АКБ;Банки;NaN;15;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Банк Солидарность;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;2
+734320;Банк ФК Открытие;Банки;12;3;NaN;NaN;11;4;NaN;1;8;NaN;NaN
+734320;Банк ПроектФинансиров;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+734320;Абсолют Банк;Банки;12;3;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+734320;БСЖВ, ЗАО;Банки;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;ТрансКредитБанк;Банки;10;1;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Альта-банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+734320;Пробизнесбанк АКБ;Банки;NaN;NaN;NaN;NaN;15;12;NaN;NaN;10;NaN;NaN
+734320;Связной Банк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Банк СОЮЗ;Банки;NaN;NaN;15;9;NaN;NaN;NaN;NaN;12;NaN;NaN
+734320;МеталлИнвестБанк;Банки;14;7;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+734320;Генбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734320;Новикомбанк АКБ;Банки;14;7;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734320;Инг Банк (Евразия);Банки;7;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;БИНБАНК;Банки;14;6;15;9;NaN;NaN;NaN;NaN;9;NaN;NaN
+734320;Трансстройбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;НЗБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Мидзухо Банк(Москва);Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+734320;ДельтаКредит КБ;Банки;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;МСП БАНК;Банки;8;0;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;ВТБ 24;Банки;7;0;8;0;8;0;NaN;NaN;4;NaN;NaN
+734320;СИБСОЦБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Газбанк КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+734320;Солидарность КБ;Банки;15;9;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Унифин КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Земский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Банк КУБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734320;Ермак НГАБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;РусЮгбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Промэнергобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Энерготрансбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Алемар Банк, ОАО;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734320;ИТ Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734320;Росэнергобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+734320;Сетелем Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN
+734320;Промрегионбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+734320;Меткомбанк;Банки;15;8;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734320;Банк24.ру;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;12;NaN;NaN
+734320;МОСОБЛБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734320;ПК-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN;NaN
+734320;Транскапиталбанк АКБ;Банки;13;4;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+734320;Кранбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734320;Банк Северный Кредит;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;9;NaN;NaN;NaN
+734320;Зернобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734320;Центр-Инвест КБ;Банки;13;5;NaN;NaN;NaN;NaN;NaN;NaN;9;NaN;NaN
+734320;ИнвестКапиталБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+734320;Таврический АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;NaN;NaN
+734320;Актив Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Ситибанк КБ;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+734320;Банк Инноваций и Развития;Банки;NaN;NaN;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Система КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;ОБПИ АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+734320;Славия АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Тинькофф Банк;Банки;15;8;NaN;NaN;15;NaN;3;NaN;NaN;NaN;NaN
+734320;Держава АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+734320;ОПМ-Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Банк Москвы АКБ;Банки;7;NaN;NaN;NaN;9;1;NaN;NaN;7;NaN;NaN
+734320;Инвестторгбанк АКБ;Банки;14;6;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+734320;ОТП Банк;Банки;10;1;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+734320;ТЭМБР-БАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734320;НББ, ОАО;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734320;НРБанк;Банки;14;6;NaN;NaN;14;8;NaN;NaN;NaN;NaN;NaN
+734320;Юниаструм Банк;Банки;11;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;АМТ БАНК;Банки;17;NaN;NaN;NaN;NaN;NaN;NaN;NaN;14;NaN;NaN
+734320;Открытие ИБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+734320;ИШБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Авангард АКБ;Банки;14;6;NaN;NaN;NaN;NaN;NaN;NaN;10;NaN;NaN
+734320;Банк Развитие-Столица;Банки;NaN;NaN;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Интеркредит КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+734320;Соцгорбанк КБ;Банки;NaN;NaN;15;8;NaN;NaN;NaN;NaN;12;NaN;NaN
+734320;РГС Банк;Банки;14;7;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734320;Экспобанк;Банки;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Нацинвестпромбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;НС Банк;Банки;15;NaN;NaN;NaN;NaN;NaN;2;5;NaN;NaN;2
+734320;Открытие Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+734320;ЯР-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734320;ЕВРОТРАСТ КБ, ЗАО;Банки;16;10;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Роспромбанк;Банки;13;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Банк Жилфинанс;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+734320;Русстройбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Банк Зенит;Банки;12;NaN;NaN;NaN;13;6;NaN;NaN;9;NaN;NaN
+734320;Мой Банк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+734320;Межтопэнергобанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+734320;Фондсервисбанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;4;11;NaN;NaN
+734320;Европлан Банк;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+734320;Легион АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734320;БАНК ИТБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;РМБ КБ;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;ИнтрастБанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734320;ЛОКО-Банк КБ;Банки;14;6;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+734320;СТБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+734320;НК Банк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;ПетербургСоцКомБанк;Банки;15;9;NaN;NaN;15;12;NaN;NaN;NaN;NaN;NaN
+734320;Алмазэргиэнбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734320;БАНК УРАЛСИБ;Банки;12;NaN;13;NaN;13;NaN;NaN;NaN;9;NaN;NaN
+734320;Алтайкапиталбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734320;Кубань Кредит КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;NaN;NaN
+734320;СЭБ Банк;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+734320;Экспресс-Волга АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;12;NaN;NaN
+734320;АК Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;НационалТорговыйБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;ПримСоцБанк СКБ;Банки;NaN;NaN;NaN;NaN;15;11;NaN;NaN;NaN;NaN;NaN
+734320;Траст Капитал Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;10;NaN;NaN;NaN
+734320;РБР АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;ИнтехБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;2
+734320;РОСТ БАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Татфондбанк АИКБ;Банки;14;7;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734320;БАНК СГБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734320;Уралпромбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Агропромкредит КБ;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;НОТА-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734320;Стройлесбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Оренбург КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734320;Екатеринбург Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;11;NaN;NaN
+734320;Углеметбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+734320;Банк БФА;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;БалтИнвестБанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+734320;Центркомбанк;Банки;NaN;NaN;NaN;NaN;15;12;NaN;NaN;NaN;NaN;NaN
+734320;СБ Банк;Банки;15;8;NaN;NaN;NaN;NaN;1;3;NaN;NaN;NaN
+734320;Нордеа Банк;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+734320;Мастер-Капитал АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;БФГ-Кредит КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+734320;Внешпромбанк;Банки;14;7;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Промсвязьбанк;Банки;11;NaN;NaN;NaN;13;NaN;NaN;1;9;NaN;NaN
+734320;Росевробанк;Банки;13;4;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+734320;Интерпромбанк КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+734320;Банк Казани КБ;Банки;NaN;NaN;NaN;NaN;15;11;NaN;NaN;NaN;NaN;NaN
+734320;Газэнергобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;12;NaN;NaN
+734320;Дагэнергобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;13;NaN;NaN
+734320;СИАБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+734320;Газэнергопромбанк;Банки;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;ФИА-банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;5;NaN;NaN;NaN
+734320;ВсероссБРР;Банки;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Райффайзенбанк;Банки;9;0;8;0;7;0;NaN;NaN;5;NaN;NaN
+734320;Первый ЧешскоРоссийКБ;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Банк Траст;Банки;14;12;NaN;NaN;15;NaN;2;NaN;11;NaN;NaN
+734320;Данске банк;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+734320;Русьуниверсалбанк;Банки;NaN;NaN;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+734320;Хакасский МБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Кредит Европа Банк;Банки;12;3;NaN;NaN;12;4;NaN;NaN;NaN;NaN;NaN
+734320;СовременныйКомерческБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN
+734320;РИАЛ-КРЕДИТ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN;NaN
+734320;МИА КБ;Банки;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Россельхозбанк;Банки;7;NaN;NaN;NaN;8;0;NaN;NaN;NaN;NaN;NaN
+734320;РФИ Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+734320;Ренессанс Кредит КБ;Банки;15;NaN;15;8;15;12;NaN;NaN;NaN;NaN;NaN
+734320;Крайинвестбанк;Банки;NaN;NaN;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Москоммерцбанк;Банки;NaN;NaN;NaN;NaN;17;15;NaN;4;NaN;NaN;NaN
+734320;СМП Банк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Натиксис Банк;Банки;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;БНП Париба Банк;Банки;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734320;Банк НационалСтандарт;Банки;15;9;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734320;Миллениум Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;12;NaN;NaN
+734320;ТРОЙКА-Д БАНК;Банки;NaN;NaN;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+734320;Банк НФК;Банки;15;9;15;8;NaN;NaN;2;NaN;NaN;NaN;NaN
+734320;БРТ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734320;Банк БЦК-Москва;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734320;Первобанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+734320;Ермак-Брокер БК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+734320;Банк Оф Токио (Евразия);Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN
+734685;Внешэкономбанк;Банки;NaN;NaN;7;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Банк ВТБ;Банки;7;NaN;8;0;8;0;NaN;NaN;NaN;NaN;NaN
+734685;Сбербанк России;Банки;6;0;NaN;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN
+734685;ЕвразийскийБанкРазвит;Банки;NaN;NaN;8;0;8;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Банк ГПБ-Ипотека;Банки;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Энергомашбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+734685;Морской банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;5;NaN;NaN;NaN
+734685;Стройкредит КБ;Банки;15;8;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+734685;Финансовый стандарт КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+734685;МеталлургКомБанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Радиотехбанк НКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Ассоциация КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;БИНБАНК Тверь;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;Норвик Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+734685;Совкомбанк;Банки;NaN;NaN;15;8;NaN;NaN;3;NaN;10;NaN;NaN
+734685;Липецккомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+734685;МПСБ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Банк Левобережный;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Плюс Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734685;Дальневосточный банк;Банки;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Уралтрансбанк;Банки;NaN;NaN;NaN;NaN;15;12;NaN;NaN;NaN;NaN;NaN
+734685;Автоградбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;БТА-Казань (ОАО), АКБ;Банки;NaN;NaN;NaN;NaN;15;12;NaN;NaN;NaN;NaN;NaN
+734685;Анкор Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Энергобанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Камский КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Запсибкомбанк;Банки;NaN;NaN;15;8;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;Ижкомбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734685;НОМОС-РЕГИОБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;Азиатско-ТихоокеанскБанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Солид Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+734685;Банк Снежинский;Банки;NaN;NaN;NaN;NaN;15;NaN;2;NaN;NaN;NaN;NaN
+734685;Евразийский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4
+734685;Русь ОИКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+734685;Чувашкредитпромбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Экономбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Связь-Банк АКБ;Банки;13;4;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+734685;Банк Первомайский;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Банк Венец;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734685;СДМ-Банк КБ;Банки;NaN;NaN;NaN;NaN;14;8;NaN;NaN;10;NaN;NaN
+734685;Интеркоммерц КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734685;ВУЗ-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;12;NaN;NaN
+734685;ИнвестиционныйСоюз КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734685;Петрокоммерц КБ;Банки;12;3;13;5;NaN;NaN;1;NaN;9;NaN;NaN
+734685;СтарБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;3
+734685;Акцепт КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Банк Кузнецкий;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734685;ГЛОБЭКСБАНК;Банки;NaN;NaN;12;3;11;3;NaN;NaN;NaN;NaN;1
+734685;МИнБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;М БАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;10;NaN;NaN
+734685;Балтика АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;9;NaN;NaN;NaN
+734685;БАНК РСБ 24;Банки;15;8;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;3
+734685;Московский Кредитный Банк;Банки;13;5;NaN;NaN;13;6;NaN;NaN;9;NaN;NaN
+734685;СКБ-Банк;Банки;13;5;NaN;NaN;14;NaN;NaN;NaN;10;NaN;NaN
+734685;Собинбанк АБ;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;11;NaN;NaN
+734685;Альфа-Банк;Банки;10;NaN;12;3;11;3;NaN;0;7;NaN;NaN
+734685;Еврофинанс Моснарбанк АКБ;Банки;12;3;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+734685;Банк МНХБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Агросоюз КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734685;Башкомснаббанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734685;Банк Возрождение;Банки;12;3;13;4;NaN;NaN;NaN;NaN;9;NaN;NaN
+734685;М2М Прайвет Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+734685;Челиндбанк АКБ;Банки;NaN;NaN;NaN;NaN;13;6;NaN;NaN;11;NaN;NaN
+734685;ЧЕЛЯБИНВЕСТБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;Холмсккомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Советский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734685;АБ Финанс КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;МДМ Банк;Банки;11;2;13;NaN;11;3;NaN;NaN;8;NaN;NaN
+734685;Банк Российский Кредит;Банки;16;11;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Россия АБ;Банки;14;7;14;6;NaN;NaN;1;NaN;NaN;NaN;NaN
+734685;Kazkommerts Int;Банки;12;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Банк Санкт-Петербург;Банки;12;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Банк АВБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Кольцо Урала КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;Инвестбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;11;NaN;NaN
+734685;Балтийский Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Экспресс-Кредит АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;МБСПб;Банки;NaN;NaN;15;8;15;12;NaN;NaN;12;NaN;NaN
+734685;Далькомбанк;Банки;NaN;NaN;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+734685;ЦентроКредит АКБ;Банки;15;8;15;9;15;11;NaN;3;NaN;NaN;NaN
+734685;ЮниКредит Банк;Банки;NaN;NaN;9;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+734685;ГУТА-БАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+734685;Урал ФД АКБ;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Банк ГПБ;Банки;9;0;11;2;NaN;NaN;0;NaN;7;NaN;NaN
+734685;ХКФ Банк;Банки;12;3;13;NaN;12;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Кредит-Москва АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Волго-Камский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734685;УБРиР;Банки;NaN;NaN;15;9;NaN;NaN;NaN;3;12;NaN;NaN
+734685;Региональный кредит КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;КЕДР КБ;Банки;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Восточный Экспресс КБ;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;9;NaN;NaN
+734685;Эллипс КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+734685;Саровбизнесбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;10;NaN;NaN
+734685;НБД-Банк;Банки;13;5;NaN;NaN;NaN;NaN;NaN;NaN;10;NaN;NaN
+734685;Элита банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734685;Русфинанс Банк;Банки;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Русский земельный банк, АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+734685;Форштадт АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;NaN;NaN
+734685;ХМБ Открытие;Банки;12;3;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN
+734685;КС-Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Спурт АКБ;Банки;NaN;NaN;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+734685;Ак Барс АКБ;Банки;12;3;NaN;NaN;11;3;NaN;NaN;8;NaN;NaN
+734685;Акибанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;БыстроБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+734685;РосДорБанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;РИАБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734685;Родовид Банк;Банки;17;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;АйМаниБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734685;БКС Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734685;Русский Ипотечный Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+734685;АФ Банк, ОАО;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;Интерактивный Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Ланта-Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+734685;Альба-Альянс КБ;Банки;15;8;14;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Первый РеспубликанБанк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734685;Пересвет АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+734685;Алеф-банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+734685;Образование АКИБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;3
+734685;Банк Интеза;Банки;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Транснациональный банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734685;Мастер-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;МТС-Банк;Банки;13;NaN;NaN;NaN;13;6;1;2;9;NaN;1
+734685;РОСБАНК;Банки;9;0;10;1;7;0;NaN;NaN;4;NaN;NaN
+734685;Русский Стандарт Банк;Банки;12;3;13;5;13;NaN;NaN;NaN;11;NaN;NaN
+734685;Российский Капитал АКБ;Банки;NaN;11;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+734685;Банк Солидарность;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+734685;Банк ФК Открытие;Банки;12;3;NaN;NaN;11;4;NaN;1;8;NaN;NaN
+734685;Банк ПроектФинансиров;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+734685;Абсолют Банк;Банки;12;3;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+734685;БСЖВ, ЗАО;Банки;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;ТрансКредитБанк;Банки;10;1;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Альта-банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+734685;Пробизнесбанк АКБ;Банки;14;7;NaN;NaN;15;12;NaN;NaN;10;NaN;NaN
+734685;Связной Банк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Банк СОЮЗ;Банки;NaN;NaN;15;8;NaN;NaN;NaN;NaN;12;NaN;NaN
+734685;МеталлИнвестБанк;Банки;14;7;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+734685;Генбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734685;Новикомбанк АКБ;Банки;14;7;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;Инг Банк (Евразия);Банки;7;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Мосуралбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+734685;БИНБАНК;Банки;14;6;15;7;NaN;NaN;NaN;NaN;9;NaN;NaN
+734685;Юникорбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Гарант-Инвест КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;NaN;NaN
+734685;Экономикс-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+734685;Банк Западный;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734685;МеждФинКлуб АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;Банк РасчетовИСбережений;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;13;NaN;NaN
+734685;Трансстройбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;НЗБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Мидзухо Банк(Москва);Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+734685;ДельтаКредит КБ;Банки;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;МСП БАНК;Банки;8;0;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;КИТ Финанс ИБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+734685;ВТБ 24;Банки;7;0;NaN;NaN;8;0;NaN;NaN;4;NaN;NaN
+734685;СИБСОЦБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;Газбанк КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+734685;Солидарность КБ;Банки;15;9;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Унифин КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Земский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Банк КУБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;РусЮгбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Промэнергобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Энерготрансбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;ИТ Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734685;Росэнергобанк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+734685;Промрегионбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+734685;Меткомбанк;Банки;15;8;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;Банк24.ру;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;12;NaN;NaN
+734685;МОСОБЛБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+734685;Транскапиталбанк АКБ;Банки;13;4;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+734685;Кранбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734685;Банк Северный Кредит;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+734685;Зернобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734685;Центр-Инвест КБ;Банки;13;5;NaN;NaN;NaN;NaN;NaN;NaN;9;NaN;NaN
+734685;ИнвестКапиталБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+734685;Таврический АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;NaN;NaN
+734685;Актив Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Ситибанк КБ;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+734685;Банк Инноваций и Развития;Банки;NaN;NaN;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;ОБПИ АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+734685;ПИР Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734685;Славия АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Тинькофф Банк;Банки;14;7;NaN;NaN;14;8;NaN;NaN;NaN;NaN;NaN
+734685;Держава АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;ОПМ-Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Банк Москвы АКБ;Банки;10;NaN;NaN;NaN;9;1;NaN;NaN;7;NaN;NaN
+734685;Инвестторгбанк АКБ;Банки;14;6;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+734685;ОТП Банк;Банки;10;1;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+734685;ТЭМБР-БАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734685;Росавтобанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;НББ, ОАО;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734685;НРБанк;Банки;14;7;NaN;NaN;14;8;NaN;3;NaN;NaN;NaN
+734685;Юниаструм Банк;Банки;12;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;АМТ БАНК;Банки;17;NaN;NaN;NaN;NaN;NaN;NaN;NaN;14;NaN;NaN
+734685;ИШБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Авангард АКБ;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;10;NaN;NaN
+734685;Банк Развитие-Столица;Банки;NaN;NaN;15;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Интеркредит КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+734685;РГС Банк;Банки;14;7;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;Экспобанк;Банки;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Нацинвестпромбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;НС Банк;Банки;15;9;NaN;NaN;NaN;NaN;2;4;NaN;NaN;2
+734685;Открытие Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+734685;ЯР-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734685;ЕВРОТРАСТ КБ, ЗАО;Банки;16;10;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;МФБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+734685;Роспромбанк;Банки;13;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Банк Жилфинанс;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+734685;Русстройбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Банк Зенит;Банки;12;NaN;NaN;NaN;13;6;NaN;NaN;9;NaN;NaN
+734685;Мой Банк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Межтопэнергобанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+734685;Фондсервисбанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;4;11;NaN;NaN
+734685;Легион АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734685;БАНК ИТБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;РМБ КБ;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;ИнтрастБанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734685;ЛОКО-Банк КБ;Банки;14;6;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+734685;НК Банк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;ПетербургСоцКомБанк;Банки;15;9;NaN;NaN;15;11;NaN;NaN;NaN;NaN;NaN
+734685;УралКапиталБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+734685;Алмазэргиэнбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;БАНК УРАЛСИБ;Банки;12;NaN;13;NaN;13;NaN;NaN;NaN;9;NaN;NaN
+734685;Алтайкапиталбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734685;Кубань Кредит КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;11;NaN;NaN
+734685;Банк Резерв;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+734685;СЭБ Банк;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+734685;Экспресс-Волга АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;12;NaN;NaN
+734685;АК Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;НационалТорговыйБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+734685;ПримСоцБанк СКБ;Банки;NaN;NaN;NaN;NaN;14;8;NaN;NaN;NaN;NaN;NaN
+734685;Траст Капитал Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;10;NaN;NaN;NaN
+734685;РБР АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;ИнтехБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;2
+734685;Татфондбанк АИКБ;Банки;14;7;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;БАНК СГБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;Агропромкредит КБ;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;НОТА-Банк;Банки;15;8;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;ББР Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Стройлесбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Оренбург КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734685;Екатеринбург Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;11;NaN;NaN
+734685;Углеметбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+734685;Банк БФА;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;БалтИнвестБанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Центркомбанк;Банки;NaN;NaN;NaN;NaN;15;12;NaN;NaN;NaN;NaN;NaN
+734685;СБ Банк;Банки;15;8;NaN;NaN;NaN;NaN;1;3;NaN;NaN;NaN
+734685;Нордеа Банк;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+734685;Мастер-Капитал АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;БФГ-Кредит КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+734685;Рублев КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734685;Внешпромбанк;Банки;14;7;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Промсвязьбанк;Банки;11;NaN;NaN;NaN;12;NaN;NaN;1;9;NaN;NaN
+734685;Гранд Инвест Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Росевробанк;Банки;13;4;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN
+734685;Интерпромбанк КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+734685;Маст-банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734685;Банк Казани КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;Газэнергобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;12;NaN;NaN
+734685;Дагэнергобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;СИАБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+734685;Оранжевый КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+734685;ФИА-банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;5;NaN;NaN;NaN
+734685;ВсероссБРР;Банки;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Райффайзенбанк;Банки;9;0;8;0;7;0;NaN;NaN;4;NaN;NaN
+734685;Первый ЧешскоРоссийКБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Банк Траст;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;11;NaN;NaN
+734685;Данске банк;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+734685;Русьуниверсалбанк;Банки;NaN;NaN;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+734685;Хакасский МБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;Кредит Европа Банк;Банки;12;3;NaN;NaN;12;4;NaN;NaN;NaN;NaN;NaN
+734685;СовременныйКомерческБанк;Банки;11;2;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN
+734685;Банк Хакасии АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+734685;МИА КБ;Банки;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Россельхозбанк;Банки;7;NaN;NaN;NaN;8;0;NaN;NaN;NaN;NaN;NaN
+734685;РФИ Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+734685;Ренессанс Кредит КБ;Банки;15;NaN;14;7;14;8;NaN;NaN;NaN;NaN;NaN
+734685;Крайинвестбанк;Банки;NaN;NaN;14;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Москоммерцбанк;Банки;NaN;NaN;NaN;NaN;15;12;NaN;4;NaN;NaN;NaN
+734685;СМП Банк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+734685;КРК КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+734685;Натиксис Банк;Банки;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;БНП Париба Банк;Банки;NaN;NaN;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;Банк НационалСтандарт;Банки;15;9;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+734685;Миллениум Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;12;NaN;NaN
+734685;ТРОЙКА-Д БАНК;Банки;NaN;NaN;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+734685;Банк НФК;Банки;15;9;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+734685;БРТ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+734685;Банк БЦК-Москва;Банки;NaN;NaN;NaN;NaN;14;9;3;NaN;NaN;NaN;NaN
+734685;Первобанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+734685;Ермак-Брокер БК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+734685;Банк Оф Токио (Евразия);Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN
+735051;Внешэкономбанк;Банки;NaN;NaN;7;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Банк ВТБ;Банки;7;NaN;8;0;8;0;NaN;NaN;NaN;NaN;NaN
+735051;Сбербанк России;Банки;6;0;NaN;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN
+735051;ЕвразийскийБанкРазвит;Банки;NaN;NaN;8;0;8;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Банк ГПБ-Ипотека;Банки;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Энергомашбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;Морской банк;Банки;14;7;NaN;NaN;NaN;NaN;2;4;NaN;NaN;NaN
+735051;Стройкредит КБ;Банки;16;11;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735051;Социнвестбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735051;Финансовый стандарт КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;МеталлургКомБанк;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;НовыйПромышлБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+735051;Радиотехбанк НКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Ассоциация КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;БИНБАНК Тверь;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Норвик Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735051;Совкомбанк;Банки;14;7;14;7;NaN;NaN;2;NaN;9;3;NaN
+735051;Курскпромбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Липецккомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735051;МПСБ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;Банк Левобережный;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;НОМОС-БАНК-Сибирь;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;0;NaN;NaN;NaN
+735051;Плюс Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735051;Дальневосточный банк;Банки;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Промсельхозбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;Уралтрансбанк;Банки;NaN;NaN;NaN;NaN;15;12;NaN;NaN;NaN;NaN;NaN
+735051;Автоградбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Заречье АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735051;БТА-Казань (ОАО), АКБ;Банки;NaN;NaN;NaN;NaN;15;12;NaN;NaN;NaN;NaN;NaN
+735051;Анкор Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;Энергобанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Камский КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Запсибкомбанк;Банки;NaN;NaN;13;5;NaN;NaN;1;NaN;NaN;NaN;NaN
+735051;Ижкомбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735051;НОМОС-РЕГИОБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;0;NaN;NaN;NaN
+735051;Азиатско-ТихоокеанскБанк;Банки;14;7;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735051;Солид Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+735051;Банк Снежинский;Банки;NaN;NaN;NaN;NaN;15;NaN;2;NaN;NaN;NaN;NaN
+735051;Евразийский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735051;НИКО-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Русь ОИКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+735051;Чувашкредитпромбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Экономбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Связь-Банк АКБ;Банки;NaN;NaN;11;2;11;3;NaN;NaN;NaN;NaN;NaN
+735051;Банк Первомайский;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;СДМ-Банк КБ;Банки;NaN;NaN;NaN;NaN;14;8;NaN;NaN;10;4;NaN
+735051;Интеркоммерц КБ;Банки;NaN;NaN;15;9;NaN;NaN;NaN;5;NaN;NaN;NaN
+735051;ВУЗ-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+735051;ИнвестиционныйСоюз КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735051;Петрокоммерц КБ;Банки;12;3;13;5;NaN;NaN;1;NaN;9;3;NaN
+735051;СтарБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;3
+735051;Акцепт КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Банк Кузнецкий;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735051;ГЛОБЭКСБАНК;Банки;NaN;NaN;11;2;11;3;NaN;NaN;NaN;NaN;NaN
+735051;МИнБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;М БАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;10;6;NaN
+735051;Балтика АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+735051;БАНК РСБ 24;Банки;15;8;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;3
+735051;Московский Кредитный Банк;Банки;13;5;13;4;12;4;NaN;NaN;8;2;NaN
+735051;СКБ-Банк;Банки;13;5;NaN;NaN;14;NaN;NaN;NaN;9;3;NaN
+735051;Собинбанк АБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+735051;Альфа-Банк;Банки;10;NaN;11;2;10;2;NaN;0;6;0;NaN
+735051;Еврофинанс Моснарбанк АКБ;Банки;12;3;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+735051;Банк МНХБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Агросоюз КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735051;Башкомснаббанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735051;Банк Возрождение;Банки;12;3;12;3;NaN;NaN;NaN;NaN;9;3;NaN
+735051;М2М Прайвет Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735051;Новопокровский КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735051;Челиндбанк АКБ;Банки;NaN;NaN;NaN;NaN;13;6;NaN;NaN;11;8;NaN
+735051;ЧЕЛЯБИНВЕСТБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735051;Холмсккомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Советский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;МДМ Банк;Банки;11;2;12;3;11;3;NaN;NaN;8;2;NaN
+735051;Банк Российский Кредит;Банки;16;11;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Россия АБ;Банки;14;6;13;5;NaN;NaN;1;NaN;NaN;NaN;NaN
+735051;Kazkommerts Int;Банки;12;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;СИБНЕФТЕБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Банк Санкт-Петербург;Банки;12;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Банк АВБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Кольцо Урала КБ;Банки;NaN;NaN;15;9;NaN;NaN;1;NaN;NaN;NaN;NaN
+735051;Темпбанк МАБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735051;Инвестбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735051;Балтийский Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Экспресс-Кредит АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;МБСПб;Банки;NaN;NaN;15;8;15;12;NaN;NaN;12;9;NaN
+735051;Далькомбанк;Банки;NaN;NaN;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+735051;ЦентроКредит АКБ;Банки;15;8;15;9;NaN;NaN;NaN;3;NaN;NaN;NaN
+735051;ЮниКредит Банк;Банки;NaN;NaN;8;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+735051;ГУТА-БАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Урал ФД АКБ;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Банк ГПБ;Банки;9;0;10;1;NaN;NaN;0;NaN;7;1;NaN
+735051;ХКФ Банк;Банки;12;3;NaN;NaN;12;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Кредит-Москва АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Волго-Камский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735051;ВОКБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;УБРиР;Банки;NaN;NaN;14;6;NaN;NaN;NaN;3;NaN;NaN;NaN
+735051;Региональный кредит КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;КЕДР КБ;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Восточный Экспресс КБ;Банки;13;5;NaN;NaN;NaN;NaN;NaN;NaN;9;3;NaN
+735051;Банк Вологжанин;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Эллипс КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735051;Саровбизнесбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;9;3;NaN
+735051;НБД-Банк;Банки;13;5;NaN;NaN;NaN;NaN;NaN;NaN;10;6;NaN
+735051;Иваново КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Элита банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735051;Хлынов КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Русфинанс Банк;Банки;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Русский земельный банк, АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+735051;Форштадт АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735051;ХМБ Открытие;Банки;12;3;NaN;NaN;NaN;NaN;NaN;NaN;8;2;NaN
+735051;Еврокоммерц КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+735051;КС-Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Спурт АКБ;Банки;NaN;NaN;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+735051;Ак Барс АКБ;Банки;13;5;NaN;NaN;12;4;NaN;NaN;8;2;NaN
+735051;Акибанк;Банки;15;8;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;БыстроБанк;Банки;NaN;NaN;NaN;NaN;15;12;NaN;NaN;NaN;NaN;NaN
+735051;РосДорБанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;РИАБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;3
+735051;АйМаниБанк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735051;БКС Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735051;Русский Ипотечный Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+735051;АФ Банк, ОАО;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Интерактивный Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;Ланта-Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735051;Альба-Альянс КБ;Банки;15;8;14;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Первый РеспубликанБанк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735051;Пересвет АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735051;Алеф-банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735051;Финпромбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;Образование АКИБ;Банки;NaN;NaN;15;9;NaN;NaN;NaN;5;NaN;NaN;2
+735051;Банк Интеза;Банки;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Транснациональный банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735051;Мастер-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;МТС-Банк;Банки;13;NaN;NaN;NaN;13;6;NaN;NaN;9;3;1
+735051;РОСБАНК;Банки;9;0;NaN;NaN;7;0;NaN;NaN;4;0;NaN
+735051;Русский Стандарт Банк;Банки;12;3;13;5;13;NaN;NaN;NaN;10;4;NaN
+735051;Российский Капитал АКБ;Банки;NaN;10;NaN;NaN;14;8;NaN;3;NaN;NaN;NaN
+735051;Банк ФК Открытие;Банки;12;3;NaN;NaN;11;3;NaN;0;8;2;NaN
+735051;Банк ПроектФинансиров;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735051;Абсолют Банк;Банки;12;3;NaN;NaN;10;2;NaN;NaN;NaN;NaN;NaN
+735051;ТрансКредитБанк;Банки;9;0;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Банк Клиентский;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Пробизнесбанк АКБ;Банки;14;7;NaN;NaN;15;12;NaN;NaN;9;3;NaN
+735051;Связной Банк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Банк СОЮЗ;Банки;NaN;NaN;14;6;NaN;NaN;NaN;NaN;12;9;NaN
+735051;МеталлИнвестБанк;Банки;14;7;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+735051;БНКВ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+735051;Межтрастбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+735051;Генбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;Новикомбанк АКБ;Банки;14;7;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735051;Инг Банк (Евразия);Банки;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Мосуралбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+735051;БИНБАНК;Банки;14;7;14;6;NaN;NaN;NaN;3;8;2;NaN
+735051;Юникорбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;Гарант-Инвест КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+735051;Экономикс-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+735051;Банк Западный;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735051;Рост АБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;МеждФинКлуб АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Банк РасчетовИСбережений;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;13;10;NaN
+735051;Трансстройбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;НЗБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Денизбанк Москва;Банки;NaN;NaN;NaN;NaN;9;1;NaN;NaN;NaN;NaN;NaN
+735051;Мидзухо Банк(Москва);Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+735051;ДельтаКредит КБ;Банки;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;МСП БАНК;Банки;8;0;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;КИТ Финанс ИБ;Банки;NaN;NaN;NaN;NaN;14;NaN;NaN;4;NaN;NaN;NaN
+735051;ВТБ 24;Банки;7;0;NaN;NaN;8;0;NaN;NaN;5;0;NaN
+735051;СИБСОЦБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Газбанк КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735051;Солидарность КБ;Банки;15;9;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Унифин КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Земский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;Банк КУБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735051;Ермак НГАБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;МеждународКоммерБанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;РусЮгбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Промэнергобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Энерготрансбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;ИТ Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735051;Росэнергобанк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735051;Промрегионбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+735051;Меткомбанк;Банки;15;8;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Банк24.ру;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+735051;МОСОБЛБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735051;Эсидбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;Транскапиталбанк АКБ;Банки;13;4;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735051;Кранбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735051;Банк Северный Кредит;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Банк Агророс;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;АлтайБизнес-Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;Зернобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Центр-Инвест КБ;Банки;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;ИнвестКапиталБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735051;Таврический АКБ;Банки;NaN;NaN;15;8;NaN;NaN;NaN;NaN;10;6;NaN
+735051;Актив Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Ситибанк КБ;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+735051;Банк Инноваций и Развития;Банки;NaN;NaN;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Русский Торговый Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;Банк Сбережений и Кредита;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+735051;ОБПИ АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+735051;ПИР Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735051;Банк БКФ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Славия АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Тинькофф Банк;Банки;14;7;NaN;NaN;14;7;NaN;NaN;NaN;NaN;NaN
+735051;Держава АКБ;Банки;15;9;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;ОПМ-Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;Банк Москвы АКБ;Банки;11;NaN;NaN;NaN;9;0;NaN;NaN;7;1;NaN
+735051;Инвестторгбанк АКБ;Банки;14;6;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+735051;ОТП Банк;Банки;11;2;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+735051;ТЭМБР-БАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;6;NaN;NaN;NaN
+735051;Росавтобанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;НББ, ОАО;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735051;НРБанк;Банки;14;7;NaN;NaN;14;8;NaN;3;NaN;NaN;NaN
+735051;Юниаструм Банк;Банки;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Синко-Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Эргобанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;ИШБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Авангард АКБ;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;9;3;NaN
+735051;Банк Развитие-Столица;Банки;NaN;NaN;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Интеркредит КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;Пульс Столицы КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;13;10;NaN
+735051;РГС Банк;Банки;14;7;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Экспобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;10;5;NaN
+735051;Нацинвестпромбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;ФДБ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;НС Банк;Банки;15;9;NaN;NaN;NaN;NaN;1;4;NaN;NaN;1
+735051;Открытие Банк;Банки;NaN;NaN;15;7;NaN;NaN;NaN;3;NaN;NaN;NaN
+735051;ЯР-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735051;ЕВРОТРАСТ КБ, ЗАО;Банки;16;10;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;МФБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;Роспромбанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Банк Жилфинанс;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735051;Русстройбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Транспортный КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Банк ИПБ;Банки;NaN;NaN;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Банк Зенит;Банки;12;NaN;NaN;NaN;13;6;NaN;NaN;9;3;NaN
+735051;Межтопэнергобанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735051;Фондсервисбанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;4;10;6;NaN
+735051;Легион АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735051;БАНК ИТБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;РМБ КБ;Банки;15;8;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735051;ИнтрастБанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735051;ЛОКО-Банк КБ;Банки;14;6;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+735051;ИНКАРОБАНК (ЗАО), АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735051;НК Банк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;ПетербургСоцКомБанк;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;УралКапиталБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+735051;Алмазэргиэнбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;БАНК УРАЛСИБ;Банки;12;NaN;12;NaN;12;NaN;NaN;NaN;9;3;NaN
+735051;Алтайкапиталбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735051;Кубань Кредит КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+735051;Банк Резерв;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;СЭБ Банк;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+735051;Экспресс-Волга АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;11;7;NaN
+735051;Востсибтранскомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;АК Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;ПримСоцБанк СКБ;Банки;NaN;NaN;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+735051;Траст Капитал Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;10;NaN;NaN;NaN
+735051;РБР АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;ИнтехБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;2
+735051;Татфондбанк АИКБ;Банки;15;9;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Банк Йошкар-Ола;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735051;БАНК СГБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Агропромкредит КБ;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;НОТА-Банк;Банки;15;8;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735051;ББР Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Приморье АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735051;Эксперт Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;9;NaN;NaN;NaN
+735051;Мегаполис КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;Стройлесбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Оренбург КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735051;Екатеринбург Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;11;8;NaN
+735051;Углеметбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735051;Братский АНКБ, ОАО;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Банк БФА;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735051;БалтИнвестБанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;1
+735051;СБ Банк;Банки;15;8;NaN;NaN;NaN;NaN;1;3;NaN;NaN;NaN
+735051;Нордеа Банк;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+735051;Мастер-Капитал АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;БФГ-Кредит КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;10;NaN;2
+735051;Рублев КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735051;Внешпромбанк;Банки;14;7;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Промсвязьбанк;Банки;11;NaN;NaN;NaN;12;NaN;NaN;1;9;3;NaN
+735051;Гранд Инвест Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;Военно-Промбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;9;NaN;NaN;NaN
+735051;Росевробанк;Банки;13;4;NaN;NaN;13;5;NaN;3;NaN;NaN;NaN
+735051;Москомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;Профит Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;Интерпромбанк КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735051;Маст-банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Эйч-эс-би-си Банк (РР);Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+735051;Банк Казани КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Газэнергобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+735051;Дагэнергобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;СИАБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735051;Оранжевый КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+735051;ФИА-банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;5;NaN;NaN;NaN
+735051;ВсероссБРР;Банки;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Райффайзенбанк;Банки;9;0;8;0;7;0;NaN;NaN;NaN;NaN;NaN
+735051;Первый ЧешскоРоссийКБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Банк Траст;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;10;6;NaN
+735051;Данске банк;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+735051;Русьуниверсалбанк;Банки;NaN;NaN;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+735051;Хакасский МБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Кредит Европа Банк;Банки;12;3;NaN;NaN;12;4;NaN;NaN;7;NaN;NaN
+735051;СовременныйКомерческБанк;Банки;11;2;NaN;NaN;NaN;NaN;NaN;NaN;4;0;NaN
+735051;МИА КБ;Банки;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Россельхозбанк;Банки;7;NaN;NaN;NaN;8;0;NaN;NaN;NaN;NaN;NaN
+735051;РФИ Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;Ренессанс Кредит КБ;Банки;14;NaN;14;6;14;8;NaN;NaN;NaN;NaN;NaN
+735051;Крайинвестбанк;Банки;NaN;NaN;13;5;13;6;NaN;NaN;NaN;NaN;NaN
+735051;Москоммерцбанк;Банки;NaN;NaN;NaN;NaN;15;12;NaN;4;NaN;NaN;NaN
+735051;СМП Банк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+735051;КРК КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+735051;Дил-банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;Натиксис Банк;Банки;12;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;МБА-Москва;Банки;15;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;БНП Париба Банк;Банки;NaN;NaN;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;Нацкорпбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735051;Банк НационалСтандарт;Банки;15;9;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735051;Миллениум Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;12;9;NaN
+735051;Банк НФК;Банки;15;9;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735051;БРТ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735051;Банк БЦК-Москва;Банки;NaN;NaN;NaN;NaN;13;6;2;NaN;NaN;NaN;NaN
+735051;Первобанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+735051;Ермак-Брокер БК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+735051;Банк Оф Токио (Евразия);Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN
+735416;Внешэкономбанк;Банки;NaN;NaN;7;NaN;8;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Банк ВТБ;Банки;7;NaN;8;0;8;0;NaN;NaN;NaN;NaN;NaN
+735416;Сбербанк России;Банки;6;0;NaN;NaN;8;0;NaN;NaN;NaN;NaN;NaN
+735416;ЕвразийскийБанкРазвит;Банки;NaN;NaN;8;0;8;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Банк ГПБ-Ипотека;Банки;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Александровский Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;Энергомашбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Морской банк;Банки;14;7;NaN;NaN;NaN;NaN;2;4;NaN;NaN;NaN
+735416;Стройкредит КБ;Банки;16;11;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735416;Социнвестбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735416;Финансовый стандарт КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;МеталлургКомБанк;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;НовыйПромышлБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;Радиотехбанк НКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Ассоциация КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;БИНБАНК Тверь;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Норвик Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735416;Совкомбанк;Банки;14;7;14;7;NaN;NaN;2;NaN;9;3;NaN
+735416;МТИ-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;ГАЗТРАНСБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Новация АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Енисей АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Курскпромбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Липецккомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735416;Проинвестбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;МПСБ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;Банк Левобережный;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;НОМОС-БАНК-Сибирь;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;0;NaN;NaN;NaN
+735416;Плюс Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735416;Дальневосточный банк;Банки;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;ДОНКОМБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;ОРБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Промсельхозбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Уральский МежрегионБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;Первоуральскбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Уралтрансбанк;Банки;NaN;NaN;NaN;NaN;15;12;NaN;NaN;NaN;NaN;NaN
+735416;Тамбовкредитпромбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Татсоцбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Автоградбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;Заречье АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735416;БТА-Казань (ОАО), АКБ;Банки;NaN;NaN;NaN;NaN;15;12;NaN;NaN;NaN;NaN;NaN
+735416;Анкор Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Энергобанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Камский КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Банк Аверс;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;Запсибкомбанк;Банки;NaN;NaN;13;5;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;Банк ЮГРА;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Ижкомбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;3
+735416;НОМОС-РЕГИОБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;0;NaN;NaN;NaN
+735416;Азиатско-ТихоокеанскБанк;Банки;14;7;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;Солид Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+735416;Банк Снежинский;Банки;NaN;NaN;NaN;NaN;15;NaN;2;NaN;NaN;NaN;NaN
+735416;Евразийский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735416;Невский Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;НИКО-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Русь ОИКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+735416;Банк СБРР;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Чувашкредитпромбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Банк Таатта;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Экономбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Связь-Банк АКБ;Банки;NaN;NaN;11;2;11;3;NaN;NaN;NaN;NaN;NaN
+735416;Банк Первомайский;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Банк Венец;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735416;Айви Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;СДМ-Банк КБ;Банки;NaN;NaN;NaN;NaN;13;6;NaN;NaN;10;4;NaN
+735416;Интеркоммерц КБ;Банки;NaN;NaN;15;9;NaN;NaN;NaN;4;NaN;NaN;NaN
+735416;ВУЗ-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+735416;НоваховКапиталБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;ИнвестиционныйСоюз КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735416;Лесбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Петрокоммерц КБ;Банки;13;5;13;5;NaN;NaN;1;NaN;9;3;NaN
+735416;Фора-Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;СтарБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;2
+735416;Акцепт КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Сургутнефтегазбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+735416;Банк Кузнецкий;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735416;ГЛОБЭКСБАНК;Банки;NaN;NaN;11;2;11;3;NaN;NaN;NaN;NaN;NaN
+735416;МИнБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;М БАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;10;6;NaN
+735416;Балтика АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735416;БАНК РСБ 24;Банки;15;8;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;2
+735416;Московский Кредитный Банк;Банки;13;4;13;4;12;4;NaN;NaN;8;2;NaN
+735416;Бузулукбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;СКБ-Банк;Банки;13;5;NaN;NaN;14;NaN;1;NaN;9;3;NaN
+735416;Собинбанк АБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+735416;Альфа-Банк;Банки;10;NaN;10;1;9;1;NaN;0;6;0;NaN
+735416;Еврофинанс Моснарбанк АКБ;Банки;12;3;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+735416;Банк МНХБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Агросоюз КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Башкомснаббанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735416;Банк Возрождение;Банки;12;3;12;3;NaN;NaN;NaN;NaN;9;3;NaN
+735416;М2М Прайвет Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735416;БАНК РКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;Новопокровский КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Челиндбанк АКБ;Банки;NaN;NaN;NaN;NaN;12;4;NaN;NaN;11;8;NaN
+735416;ЧЕЛЯБИНВЕСТБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;Холмсккомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Советский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;МДМ Банк;Банки;12;3;12;3;NaN;NaN;NaN;NaN;9;3;NaN
+735416;Банк Российский Кредит;Банки;16;11;NaN;NaN;NaN;NaN;2;5;NaN;NaN;NaN
+735416;Россия АБ;Банки;NaN;NaN;12;3;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;Kazkommerts Int;Банки;14;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;СИБНЕФТЕБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Банк Санкт-Петербург;Банки;12;NaN;NaN;NaN;NaN;NaN;0;NaN;NaN;NaN;NaN
+735416;Банк АВБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Кольцо Урала КБ;Банки;NaN;NaN;15;8;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;Темпбанк МАБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735416;Инвестбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;1
+735416;Балтийский Банк;Банки;NaN;NaN;15;9;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Экспресс-Кредит АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;МБСПб;Банки;NaN;NaN;14;7;NaN;NaN;NaN;NaN;12;9;NaN
+735416;ЦентроКредит АКБ;Банки;NaN;NaN;14;6;NaN;NaN;NaN;3;NaN;NaN;NaN
+735416;ЮниКредит Банк;Банки;NaN;NaN;8;NaN;8;0;NaN;NaN;NaN;NaN;NaN
+735416;ГУТА-БАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;РосинтерБанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Урал ФД АКБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;ИРС АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Банк ГПБ;Банки;9;0;9;0;9;1;0;NaN;6;0;NaN
+735416;ХКФ Банк;Банки;12;3;NaN;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Кредит-Москва АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Волго-Камский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;ВОКБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;УБРиР;Банки;NaN;NaN;14;6;NaN;NaN;NaN;3;NaN;NaN;NaN
+735416;Региональный кредит КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;КЕДР КБ;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Восточный Экспресс КБ;Банки;13;5;NaN;NaN;NaN;NaN;NaN;NaN;8;2;NaN
+735416;Банк Вологжанин;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Эллипс КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735416;Саровбизнесбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;9;3;NaN
+735416;НБД-Банк;Банки;13;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Иваново КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Элита банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735416;Камчатпрофитбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Хлынов КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Русфинанс Банк;Банки;10;1;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+735416;Русский земельный банк, АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Форштадт АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735416;ЛЕНОБЛБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;ХМБ Открытие;Банки;12;3;NaN;NaN;NaN;NaN;NaN;NaN;8;2;NaN
+735416;Еврокоммерц КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+735416;КС-Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Спурт АКБ;Банки;NaN;NaN;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+735416;Ак Барс АКБ;Банки;14;6;NaN;NaN;12;4;NaN;NaN;9;3;NaN
+735416;Акибанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;БыстроБанк;Банки;NaN;NaN;NaN;NaN;15;12;NaN;NaN;NaN;NaN;NaN
+735416;РосДорБанк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;РИАБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;3
+735416;АйМаниБанк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735416;Эл Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+735416;БКС Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735416;Русский Ипотечный Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;7;NaN;NaN;NaN
+735416;АФ Банк, ОАО;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Интерактивный Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Ланта-Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735416;Альба-Альянс КБ;Банки;15;8;14;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Первый РеспубликанБанк;Банки;16;11;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735416;Нэклис-Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;Пересвет АКБ;Банки;15;NaN;NaN;NaN;NaN;NaN;1;NaN;8;2;NaN
+735416;Нефтепромбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Алеф-банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735416;Финпромбанк АКБ;Банки;15;9;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Образование АКИБ;Банки;NaN;NaN;15;9;NaN;NaN;NaN;5;NaN;NaN;2
+735416;Банк Интеза;Банки;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Транснациональный банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735416;Мастер-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;МТС-Банк;Банки;13;NaN;NaN;NaN;13;6;NaN;NaN;9;3;1
+735416;РОСБАНК;Банки;9;0;NaN;NaN;7;0;NaN;NaN;5;0;NaN
+735416;Русский Стандарт Банк;Банки;12;3;13;5;13;NaN;NaN;NaN;9;3;NaN
+735416;Российский Капитал АКБ;Банки;NaN;10;NaN;NaN;13;6;NaN;3;NaN;NaN;NaN
+735416;Банк Солидарность;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735416;Банк ФК Открытие;Банки;12;3;NaN;NaN;11;3;NaN;0;8;2;NaN
+735416;Банк ПроектФинансиров;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735416;Абсолют Банк;Банки;13;5;NaN;NaN;14;7;NaN;NaN;NaN;NaN;NaN
+735416;ТрансКредитБанк;Банки;9;0;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;ОФК Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Банк Клиентский;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Пробизнесбанк АКБ;Банки;14;7;NaN;NaN;15;12;NaN;NaN;9;3;NaN
+735416;Связной Банк;Банки;15;9;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Банк СОЮЗ;Банки;NaN;NaN;14;6;NaN;NaN;NaN;NaN;12;9;NaN
+735416;МеталлИнвестБанк;Банки;14;7;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+735416;БНКВ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;11;8;NaN
+735416;Межтрастбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;7;NaN;NaN;NaN
+735416;Генбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Новикомбанк АКБ;Банки;14;7;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;Инг Банк (Евразия);Банки;8;0;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+735416;Мосуралбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;БИНБАНК;Банки;16;10;14;6;NaN;NaN;1;3;8;2;NaN
+735416;Юникорбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Гарант-Инвест КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+735416;Экономикс-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+735416;Банк Западный;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735416;МеждФинКлуб АКБ;Банки;14;7;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;Банк РасчетовИСбережений;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;12;9;NaN
+735416;Трансстройбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;НЗБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Денизбанк Москва;Банки;NaN;NaN;NaN;NaN;9;1;NaN;NaN;NaN;NaN;NaN
+735416;Мидзухо Банк(Москва);Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+735416;ДельтаКредит КБ;Банки;9;0;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+735416;МСП БАНК;Банки;8;0;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;BSTDB Bank;Банки;NaN;NaN;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Креди Агриколь КИБ;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+735416;КИТ Финанс ИБ;Банки;NaN;NaN;NaN;NaN;14;9;NaN;4;NaN;NaN;NaN
+735416;ВТБ 24;Банки;7;0;NaN;NaN;8;0;NaN;NaN;5;0;NaN
+735416;СИБСОЦБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Газбанк КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735416;Солидарность КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Унифин КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Земский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Банк КУБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;Ермак НГАБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;МеждународКоммерБанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;РусЮгбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;КОР АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Промэнергобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Энерготрансбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;Пойдём! КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+735416;ИТ Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735416;Росэнергобанк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735416;Меткомбанк;Банки;15;8;NaN;NaN;NaN;NaN;2;3;NaN;NaN;NaN
+735416;Банк24.ру;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+735416;МОСОБЛБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735416;НЕВАСТРОЙИНВЕСТ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;16;14;NaN
+735416;Транскапиталбанк АКБ;Банки;13;4;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;Кранбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Банк Северный Кредит;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Банк Агророс;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;АлтайБизнес-Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;Зернобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Центр-Инвест КБ;Банки;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;ИнвестКапиталБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735416;Таврический АКБ;Банки;NaN;NaN;15;8;NaN;NaN;NaN;NaN;10;6;NaN
+735416;Актив Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;БАНК ГОРОД;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Ситибанк КБ;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+735416;Банк Инноваций и Развития;Банки;NaN;NaN;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Русский Торговый Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;Экономический Союз КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;13;10;NaN
+735416;Банк Сбережений и Кредита;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+735416;ПИР Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735416;Банк БКФ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Славия АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Международный Банк Развития (ЗАО), КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735416;Тинькофф Банк;Банки;14;7;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN
+735416;Держава АКБ;Банки;15;9;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;ОПМ-Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;Банк Москвы АКБ;Банки;11;NaN;NaN;NaN;8;0;NaN;NaN;7;1;NaN
+735416;Инвестторгбанк АКБ;Банки;14;7;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+735416;ОТП Банк;Банки;11;2;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+735416;ТЭМБР-БАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Диг-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;СВА АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;Автоторгбанк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;СТРАТЕГИЯ АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;Росавтобанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;НББ, ОАО;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735416;НРБанк;Банки;14;7;NaN;NaN;15;12;NaN;3;NaN;NaN;NaN
+735416;Юниаструм Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;Синко-Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Эргобанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Евромет АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735416;ИШБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;Авангард АКБ;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;9;3;NaN
+735416;Банк Развитие-Столица;Банки;NaN;NaN;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Интеркредит КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;ИНВЕСТСОЦБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;14;11;NaN
+735416;РГС Банк;Банки;14;7;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Экспобанк;Банки;NaN;NaN;NaN;NaN;14;9;NaN;NaN;10;5;NaN
+735416;Нацинвестпромбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;ФДБ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;НС Банк;Банки;15;9;NaN;NaN;NaN;NaN;1;4;NaN;NaN;1
+735416;Анталбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;Открытие Банк;Банки;NaN;NaN;14;6;14;NaN;NaN;2;NaN;NaN;NaN
+735416;ЯР-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735416;ЕВРОТРАСТ КБ, ЗАО;Банки;16;12;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;МФБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;Руна-банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Роспромбанк;Банки;17;15;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Банк Жилфинанс;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735416;Русстройбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Транспортный КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Банк ИПБ;Банки;NaN;NaN;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Банк Зенит;Банки;12;NaN;NaN;NaN;13;6;NaN;NaN;9;3;NaN
+735416;Мой Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735416;Межтопэнергобанк АКБ;Банки;NaN;NaN;14;6;NaN;NaN;NaN;4;NaN;NaN;NaN
+735416;Фондсервисбанк;Банки;16;11;NaN;NaN;NaN;NaN;NaN;4;10;6;NaN
+735416;Легион АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735416;БАНК ИТБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;РМБ КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735416;ИнтрастБанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;2
+735416;Лайтбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;ЛОКО-Банк КБ;Банки;14;6;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+735416;НК Банк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;ПетербургСоцКомБанк;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;УралКапиталБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;Алмазэргиэнбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;БАНК УРАЛСИБ;Банки;13;NaN;12;NaN;12;NaN;NaN;NaN;9;3;NaN
+735416;Алтайкапиталбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735416;Кубань Кредит КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+735416;ЮГ-Инвестбанк АБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Банк Резерв;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;СЭБ Банк;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+735416;Экспресс-Волга АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;11;7;NaN
+735416;Востсибтранскомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Развитие КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;АК Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;ПримСоцБанк СКБ;Банки;NaN;NaN;NaN;NaN;14;8;NaN;NaN;NaN;NaN;NaN
+735416;Траст Капитал Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;10;NaN;NaN;NaN
+735416;РБР АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;ИнтехБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;2
+735416;Татфондбанк АИКБ;Банки;15;9;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;БАНК СГБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Джей энд Ти Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Агропромкредит КБ;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;НОТА-Банк;Банки;15;8;14;6;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;ББР Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;Приморье АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735416;Эксперт Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+735416;Мегаполис КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;Стройлесбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Оренбург КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735416;Екатеринбург Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;11;8;NaN
+735416;Углеметбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735416;Братский АНКБ, ОАО;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Банк БФА;Банки;NaN;NaN;14;6;NaN;NaN;1;NaN;NaN;NaN;NaN
+735416;БалтИнвестБанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;1
+735416;Нефтяной Альянс КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;СБ Банк;Банки;15;8;NaN;NaN;NaN;NaN;1;3;NaN;NaN;NaN
+735416;Нордеа Банк;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+735416;Мастер-Капитал АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;БФГ-Кредит КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;10;NaN;2
+735416;Рублев КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735416;Внешпромбанк;Банки;14;7;13;4;NaN;NaN;NaN;3;NaN;NaN;NaN
+735416;Промсвязьбанк;Банки;11;NaN;NaN;NaN;12;NaN;NaN;1;9;3;NaN
+735416;Гранд Инвест Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;Военно-Промбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;8;NaN;NaN;NaN
+735416;Росевробанк;Банки;13;4;NaN;NaN;13;5;NaN;3;NaN;NaN;NaN
+735416;Москомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;Профит Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;Интерпромбанк КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735416;Маст-банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Эйч-эс-би-си Банк (РР);Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+735416;Банк Казани КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Газэнергобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+735416;Дагэнергобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;СИАБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735416;Банк ЦЕРИХ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Оранжевый КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+735416;ФИА-банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;5;NaN;NaN;NaN
+735416;Вега-Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Союзный КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;ВсероссБРР;Банки;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Райффайзенбанк;Банки;9;0;8;0;7;0;NaN;NaN;NaN;NaN;NaN
+735416;Первый ЧешскоРоссийКБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Банк Траст;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;10;6;NaN
+735416;Данске банк;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+735416;Русьуниверсалбанк;Банки;NaN;NaN;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+735416;Хакасский МБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Кредит Европа Банк;Банки;12;3;NaN;NaN;12;4;NaN;NaN;7;NaN;NaN
+735416;СовременныйКомерческБанк;Банки;11;2;NaN;NaN;NaN;NaN;NaN;NaN;4;0;NaN
+735416;МИА КБ;Банки;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Россельхозбанк;Банки;7;NaN;NaN;NaN;8;0;NaN;NaN;NaN;NaN;NaN
+735416;РФИ Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;Ренессанс Кредит КБ;Банки;14;NaN;13;5;14;8;NaN;NaN;NaN;NaN;NaN
+735416;Крайинвестбанк;Банки;NaN;NaN;13;5;13;6;NaN;NaN;NaN;NaN;NaN
+735416;Москоммерцбанк;Банки;NaN;NaN;NaN;NaN;17;14;NaN;4;NaN;NaN;NaN
+735416;СМП Банк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN
+735416;КРК КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+735416;Дил-банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;Натиксис Банк;Банки;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;МБА-Москва;Банки;15;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;СМАРТБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;БНП Париба Банк;Банки;NaN;NaN;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Новый Век КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;Нацкорпбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;Банк НационалСтандарт;Банки;15;9;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;1
+735416;Миллениум Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+735416;Сумитомо Мицуи Рус Банк;Банки;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;Банк НФК;Банки;15;9;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735416;БРТ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735416;Форус Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735416;Банк БЦК-Москва;Банки;NaN;NaN;NaN;NaN;13;6;2;NaN;NaN;NaN;NaN
+735416;МеждСтройБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735416;Первобанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+735416;Ермак-Брокер БК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+735416;Банк Оф Токио (Евразия);Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN
+735416;НКЦ Банк;Банки;NaN;NaN;NaN;NaN;9;1;NaN;NaN;NaN;NaN;NaN
+735781;Внешэкономбанк;Банки;NaN;NaN;8;NaN;8;0;NaN;NaN;NaN;NaN;NaN
+735781;МИБ;Банки;NaN;NaN;NaN;NaN;9;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Банк ВТБ;Банки;8;NaN;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Сбербанк России;Банки;7;0;NaN;NaN;8;0;NaN;NaN;NaN;NaN;NaN
+735781;ЕвразийскийБанкРазвит;Банки;NaN;NaN;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Александровский Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Энергомашбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Морской банк;Банки;15;9;NaN;NaN;NaN;NaN;2;4;NaN;NaN;NaN
+735781;Социнвестбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735781;Финансовый стандарт КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;МеталлургКомБанк;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;НовыйПромышлБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;Владбизнесбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Радиотехбанк НКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;О.К. Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;Ассоциация КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Акция АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;17;15;NaN
+735781;Норвик Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735781;Совкомбанк;Банки;NaN;NaN;14;7;NaN;NaN;1;NaN;9;3;NaN
+735781;ГАЗТРАНСБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Новация АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Енисей АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Курскпромбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Липецккомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735781;Проинвестбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;МПСБ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;Банк Левобережный;Банки;NaN;NaN;NaN;NaN;13;6;2;NaN;NaN;NaN;NaN
+735781;Плюс Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735781;СИБЭС Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Дальневосточный банк;Банки;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;ДОНКОМБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;ОРБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Промсельхозбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Уральский МежрегионБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Первоуральскбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Уралтрансбанк;Банки;NaN;NaN;NaN;NaN;15;12;NaN;NaN;NaN;NaN;NaN
+735781;Тамбовкредитпромбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Татсоцбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;ТАТАГРОПРОМБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Автоградбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Заречье АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;3
+735781;Анкор Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Энергобанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Камский КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Банк Аверс;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Запсибкомбанк;Банки;NaN;NaN;13;4;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Банк ЮГРА;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Ижкомбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;2
+735781;Азиатско-ТихоокеанскБанк;Банки;14;7;NaN;NaN;13;6;1;NaN;NaN;NaN;NaN
+735781;Солид Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735781;Банк Снежинский;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Евразийский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735781;Невский Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;НИКО-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Русь ОИКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+735781;Банк СБРР;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Чувашкредитпромбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Банк Таатта;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Экономбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Связь-Банк АКБ;Банки;NaN;NaN;11;2;11;3;NaN;NaN;NaN;NaN;NaN
+735781;Банк Первомайский;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Банк Венец;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735781;Айви Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;СДМ-Банк КБ;Банки;NaN;NaN;NaN;NaN;13;6;NaN;NaN;9;3;NaN
+735781;Интеркоммерц КБ;Банки;NaN;NaN;15;9;NaN;NaN;NaN;4;NaN;NaN;NaN
+735781;ВУЗ-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+735781;НоваховКапиталБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;ИнвестиционныйСоюз КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735781;Таурус Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;Лесбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Петрокоммерц КБ;Банки;13;5;13;5;NaN;NaN;1;NaN;9;3;NaN
+735781;Фора-Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;СтарБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;2
+735781;Акцепт КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;ЗЕМКОМБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Сургутнефтегазбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN
+735781;Банк Кузнецкий;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735781;Тальменка-Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;ГЛОБЭКСБАНК;Банки;NaN;NaN;12;3;12;4;NaN;NaN;NaN;NaN;NaN
+735781;МИнБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;М БАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;10;6;NaN
+735781;Балтика АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735781;БАНК РСБ 24;Банки;15;8;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;3
+735781;Московский Кредитный Банк;Банки;13;4;12;3;11;3;0;NaN;8;2;NaN
+735781;СКБ-Банк;Банки;14;7;NaN;NaN;14;NaN;1;NaN;9;3;NaN
+735781;БТА Банк;Банки;15;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Собинбанк АБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+735781;Альфа-Банк;Банки;10;NaN;10;1;9;1;NaN;0;6;0;NaN
+735781;Еврофинанс Моснарбанк АКБ;Банки;13;4;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+735781;Банк МНХБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Агросоюз КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Башкомснаббанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;2
+735781;Банк Возрождение;Банки;12;3;12;3;NaN;NaN;NaN;NaN;8;2;NaN
+735781;М2М Прайвет Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735781;БАНК РКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;Новопокровский КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Челиндбанк АКБ;Банки;NaN;NaN;NaN;NaN;12;4;NaN;NaN;11;8;NaN
+735781;ЧЕЛЯБИНВЕСТБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Холмсккомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Советский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;МДМ Банк;Банки;13;5;13;5;NaN;NaN;NaN;2;10;5;NaN
+735781;Банк Российский Кредит;Банки;16;12;NaN;NaN;NaN;NaN;2;4;NaN;NaN;NaN
+735781;Россия АБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;0;NaN;NaN;NaN;NaN
+735781;Kazkommerts Int;Банки;14;NaN;14;NaN;14;NaN;NaN;NaN;NaN;NaN;NaN
+735781;СИБНЕФТЕБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Банк Санкт-Петербург;Банки;12;NaN;NaN;NaN;12;4;0;NaN;NaN;NaN;NaN
+735781;Банк АВБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Кольцо Урала КБ;Банки;NaN;NaN;15;8;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Темпбанк МАБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735781;Экспресс-Кредит АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;МБСПб;Банки;NaN;NaN;14;7;NaN;NaN;NaN;NaN;12;9;NaN
+735781;ЦентроКредит АКБ;Банки;NaN;NaN;14;7;NaN;NaN;NaN;3;NaN;NaN;NaN
+735781;Прио-Внешторгбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;ЮниКредит Банк;Банки;NaN;NaN;9;NaN;8;0;NaN;NaN;NaN;NaN;NaN
+735781;ГУТА-БАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;РосинтерБанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Урал ФД АКБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;ИРС АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Банк ГПБ;Банки;9;0;9;0;9;1;0;NaN;6;0;NaN
+735781;ХКФ Банк;Банки;12;3;NaN;NaN;11;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Кредит-Москва АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Волго-Камский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN;NaN
+735781;ВОКБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;УБРиР;Банки;NaN;NaN;14;7;NaN;NaN;NaN;2;NaN;NaN;NaN
+735781;Региональный кредит КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;КЕДР КБ;Банки;14;7;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+735781;Ставропольпромстройбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;ЕвроситиБанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Восточный Экспресс КБ;Банки;13;5;NaN;NaN;13;6;1;NaN;NaN;NaN;NaN
+735781;Банк Вологжанин;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Саровбизнесбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;9;3;NaN
+735781;НБД-Банк;Банки;13;4;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Иваново КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Элита банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735781;Камчатпрофитбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Хлынов КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Русфинанс Банк;Банки;10;1;9;0;7;0;NaN;NaN;NaN;NaN;NaN
+735781;Форштадт АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735781;ЛЕНОБЛБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;ХМБ Открытие;Банки;12;3;12;3;NaN;NaN;1;0;8;2;NaN
+735781;Еврокоммерц КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+735781;КС-Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Спурт АКБ;Банки;NaN;NaN;NaN;NaN;14;9;NaN;NaN;11;8;NaN
+735781;Девон-Кредит АБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Ак Барс АКБ;Банки;13;5;NaN;NaN;12;4;NaN;NaN;9;3;NaN
+735781;Акибанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;БыстроБанк;Банки;NaN;NaN;NaN;NaN;14;8;NaN;NaN;NaN;NaN;NaN
+735781;РосДорБанк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;РИАБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Райффайзен Банк Аваль;Банки;17;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;АйМаниБанк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Эл Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+735781;БКС Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735781;Русский Ипотечный Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;6;NaN;NaN;NaN
+735781;Интерактивный Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Ланта-Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735781;Альба-Альянс КБ;Банки;15;8;14;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Чайна Констракшн Банк;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+735781;БТФ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Нэклис-Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;Пересвет АКБ;Банки;15;NaN;13;4;NaN;NaN;0;NaN;8;2;NaN
+735781;Нефтепромбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Алеф-банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735781;Финпромбанк АКБ;Банки;15;9;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Образование АКИБ;Банки;NaN;NaN;15;9;NaN;NaN;NaN;4;NaN;NaN;1
+735781;Банк Интеза;Банки;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Транснациональный банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735781;МТС-Банк;Банки;13;NaN;NaN;NaN;13;6;NaN;NaN;9;3;1
+735781;РОСБАНК;Банки;9;0;NaN;NaN;7;0;NaN;NaN;5;0;NaN
+735781;Русский Стандарт Банк;Банки;14;6;13;5;13;6;NaN;1;9;3;NaN
+735781;Российский Капитал АКБ;Банки;NaN;10;NaN;NaN;13;6;NaN;2;NaN;NaN;NaN
+735781;Банк Солидарность;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735781;Банк ФК Открытие;Банки;12;3;12;3;NaN;NaN;NaN;0;8;2;NaN
+735781;Абсолют Банк;Банки;13;5;NaN;NaN;13;6;0;NaN;NaN;NaN;NaN
+735781;ОФК Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Банк Клиентский;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Пробизнесбанк АКБ;Банки;15;8;NaN;NaN;15;10;NaN;NaN;9;3;NaN
+735781;Связной Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Банк СОЮЗ;Банки;NaN;NaN;14;5;NaN;NaN;NaN;NaN;12;9;NaN
+735781;МеталлИнвестБанк;Банки;14;7;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+735781;БНКВ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;11;8;NaN
+735781;Межтрастбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;БЭНК ОФ ЧАЙНА;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+735781;Генбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Новикомбанк АКБ;Банки;14;7;NaN;NaN;14;8;0;NaN;NaN;NaN;NaN
+735781;Инг Банк (Евразия);Банки;8;0;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+735781;Мосуралбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;БИНБАНК;Банки;NaN;NaN;14;6;NaN;NaN;1;2;8;2;NaN
+735781;Гарант-Инвест КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+735781;Экономикс-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;МеждФинКлуб АКБ;Банки;14;7;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Банк РасчетовИСбережений;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Трансстройбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;НЗБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Денизбанк Москва;Банки;NaN;NaN;NaN;NaN;9;1;NaN;NaN;NaN;NaN;NaN
+735781;Мидзухо Банк(Москва);Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN
+735781;ДельтаКредит КБ;Банки;9;0;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+735781;МСП БАНК;Банки;8;0;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;BSTDB Bank;Банки;NaN;NaN;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Креди Агриколь КИБ;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+735781;ВТБ 24;Банки;8;0;NaN;NaN;NaN;NaN;NaN;NaN;5;0;NaN
+735781;Веста ИБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+735781;СИБСОЦБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Газбанк КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735781;Солидарность КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Унифин КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Земский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Банк КУБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Ермак НГАБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;МеждународКоммерБанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;РусЮгбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;КОР АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Промэнергобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Энерготрансбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Пойдём! КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+735781;ИТ Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735781;МИРАФ-БАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Инбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Росэнергобанк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735781;Промрегионбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;Меткомбанк;Банки;15;8;NaN;NaN;NaN;NaN;1;3;NaN;NaN;NaN
+735781;Банк24.ру;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+735781;Транскапиталбанк АКБ;Банки;13;4;NaN;NaN;NaN;NaN;0;NaN;NaN;NaN;NaN
+735781;Кранбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Банк Северный Кредит;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Банк Агророс;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;АлтайБизнес-Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;Зернобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Центр-Инвест КБ;Банки;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;ИнвестКапиталБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735781;Таврический АКБ;Банки;NaN;NaN;15;9;NaN;NaN;NaN;NaN;10;6;NaN
+735781;Актив Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;БАНК ГОРОД;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Ситибанк КБ;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+735781;Банк Инноваций и Развития;Банки;NaN;NaN;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Русский Торговый Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;Экономический Союз КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;13;10;NaN
+735781;ПИР Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735781;Банк БКФ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Славия АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Тинькофф Банк;Банки;14;7;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN
+735781;Держава АКБ;Банки;15;9;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;ОПМ-Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;Банк Москвы АКБ;Банки;10;NaN;9;0;NaN;NaN;NaN;NaN;7;1;NaN
+735781;Инвестторгбанк АКБ;Банки;15;8;13;5;NaN;NaN;NaN;3;NaN;NaN;NaN
+735781;ОТП Банк;Банки;11;2;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+735781;ТЭМБР-БАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;СВА АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;Автоторгбанк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;СТРАТЕГИЯ АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Росавтобанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;НРБанк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735781;Юниаструм Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;Синко-Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Эргобанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Мосводоканалбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;Евромет АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735781;ИШБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Авангард АКБ;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;9;3;NaN
+735781;Банк Развитие-Столица;Банки;NaN;NaN;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Интеркредит КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;ИНВЕСТСОЦБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;13;10;NaN
+735781;РГС Банк;Банки;14;7;NaN;NaN;NaN;NaN;2;3;NaN;NaN;NaN
+735781;Экспобанк;Банки;NaN;NaN;NaN;NaN;14;8;NaN;NaN;10;4;NaN
+735781;Нацинвестпромбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;ФДБ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;НС Банк;Банки;15;9;NaN;NaN;NaN;NaN;1;3;NaN;NaN;NaN
+735781;Анталбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Открытие Банк;Банки;NaN;NaN;13;4;NaN;NaN;NaN;0;NaN;NaN;NaN
+735781;ЯР-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735781;ЕВРОТРАСТ КБ, ЗАО;Банки;NaN;NaN;NaN;NaN;NaN;NaN;10;NaN;NaN;NaN;NaN
+735781;МФБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Руна-банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Банк Жилфинанс;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735781;Русстройбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Транспортный КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Банк ИПБ;Банки;NaN;NaN;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Банк Зенит;Банки;12;NaN;NaN;NaN;12;4;NaN;NaN;9;3;NaN
+735781;Межтопэнергобанк АКБ;Банки;NaN;NaN;14;7;NaN;NaN;NaN;3;NaN;NaN;NaN
+735781;Фондсервисбанк;Банки;16;11;NaN;NaN;NaN;NaN;NaN;4;10;6;NaN
+735781;Европлан Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735781;Легион АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+735781;БАНК ИТБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;РМБ КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+735781;ИнтрастБанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;2
+735781;Лайтбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;ЛОКО-Банк КБ;Банки;14;6;NaN;NaN;13;6;1;NaN;NaN;NaN;NaN
+735781;НК Банк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;ПетербургСоцКомБанк;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;УралКапиталБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;Алмазэргиэнбанк АКБ;Банки;NaN;NaN;NaN;NaN;12;4;1;NaN;NaN;NaN;NaN
+735781;БАНК УРАЛСИБ;Банки;14;NaN;13;NaN;13;NaN;NaN;NaN;9;3;NaN
+735781;Алтайкапиталбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735781;Кубань Кредит КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;10;6;NaN
+735781;ЮГ-Инвестбанк АБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Банк Резерв;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;СЭБ Банк;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+735781;Экспресс-Волга АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+735781;Востсибтранскомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Развитие КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;АК Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;ПримСоцБанк СКБ;Банки;NaN;NaN;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+735781;Траст Капитал Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4
+735781;РБР АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;ИнтехБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;2
+735781;РОСТ БАНК;Банки;NaN;NaN;15;9;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Татфондбанк АИКБ;Банки;14;7;14;6;NaN;NaN;2;3;NaN;NaN;1
+735781;БАНК СГБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Прайм Финанс Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Джей энд Ти Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Агропромкредит КБ;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;НОТА-Банк;Банки;14;7;14;6;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;ББР Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;Приморье АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735781;Эксперт Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;8;NaN;NaN;NaN
+735781;Мегаполис КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Стройлесбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Оренбург КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735781;Екатеринбург Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;11;8;NaN
+735781;Углеметбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+735781;КОШЕЛЕВ-БАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Банк БФА;Банки;NaN;NaN;14;6;NaN;NaN;1;NaN;NaN;NaN;NaN
+735781;БалтИнвестБанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;1
+735781;Нефтяной Альянс КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;Евроазиатский ИнвестБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;ПроКоммерцБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;СБ Банк;Банки;15;8;14;7;NaN;NaN;1;3;NaN;NaN;NaN
+735781;Нордеа Банк;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+735781;Мастер-Капитал АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;БФГ-Кредит КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;10;NaN;2
+735781;Рублев КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;2
+735781;Внешпромбанк;Банки;14;7;13;4;NaN;NaN;0;2;NaN;NaN;NaN
+735781;Промсвязьбанк;Банки;12;NaN;11;2;12;NaN;NaN;1;9;3;NaN
+735781;Гранд Инвест Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Военно-Промбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Росевробанк;Банки;13;4;NaN;NaN;12;4;NaN;3;NaN;NaN;NaN
+735781;Москомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;Профит Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;Интерпромбанк КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+735781;Маст-банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Эйч-эс-би-си Банк (РР);Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+735781;Банк Казани КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Газэнергобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+735781;Дагэнергобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;СИАБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735781;Банк ЦЕРИХ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Оранжевый КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+735781;ФИА-банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;8;NaN;NaN;NaN
+735781;Вега-Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Союзный КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;ВсероссБРР;Банки;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Райффайзенбанк;Банки;9;0;9;0;7;0;NaN;NaN;NaN;NaN;NaN
+735781;Первый ЧешскоРоссийКБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Банк Траст;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;10;6;NaN
+735781;Данске банк;Банки;NaN;NaN;NaN;NaN;7;0;NaN;NaN;NaN;NaN;NaN
+735781;Русьуниверсалбанк;Банки;NaN;NaN;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+735781;Хакасский МБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Кредит Европа Банк;Банки;12;3;NaN;NaN;12;4;NaN;NaN;7;NaN;NaN
+735781;МИА КБ;Банки;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Россельхозбанк;Банки;9;NaN;NaN;NaN;9;1;NaN;NaN;NaN;NaN;NaN
+735781;РФИ Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Ренессанс Кредит КБ;Банки;14;NaN;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Крайинвестбанк;Банки;NaN;NaN;13;5;14;9;NaN;NaN;NaN;NaN;NaN
+735781;Москоммерцбанк;Банки;NaN;NaN;NaN;NaN;17;14;NaN;4;NaN;NaN;NaN
+735781;СМП Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN
+735781;Дил-банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;Натиксис Банк;Банки;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;МБА-Москва;Банки;15;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;БНП Париба Банк;Банки;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Новый Век КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;Нацкорпбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;Банк НационалСтандарт;Банки;15;9;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;1
+735781;Миллениум Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+735781;ТРОЙКА-Д БАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+735781;Сумитомо Мицуи Рус Банк;Банки;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Банк НФК;Банки;15;9;14;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;БРТ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+735781;Форус Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;АйСиБиСи Банк;Банки;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+735781;Банк БЦК-Москва;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;МеждСтройБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+735781;НОВОЕ ВРЕМЯ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Тюменьагропромбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+735781;Первобанк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+735781;Ермак-Брокер БК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+735781;Банк Оф Токио (Евразия);Банки;NaN;NaN;9;0;NaN;NaN;NaN;0;NaN;NaN;NaN
+735781;НКЦ Банк;Банки;NaN;NaN;NaN;NaN;8;0;NaN;NaN;NaN;NaN;NaN
+735781;Юнистрим КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Внешэкономбанк;Банки;NaN;NaN;9;NaN;9;0;NaN;NaN;NaN;NaN;NaN
+736146;МИБ;Банки;NaN;NaN;NaN;NaN;9;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Банк ВТБ;Банки;10;NaN;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Сбербанк России;Банки;10;1;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN
+736146;Укрсоцбанк АКБ;Банки;NaN;NaN;NaN;NaN;15;NaN;NaN;NaN;NaN;NaN;NaN
+736146;ЕвразийскийБанкРазвит;Банки;NaN;NaN;8;0;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Александровский Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Энергомашбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Морской банк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+736146;Социнвестбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+736146;Финансовый стандарт КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;МеталлургКомБанк;Банки;14;7;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;НовыйПромышлБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Владбизнесбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Радиотехбанк НКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;О.К. Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Ассоциация КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Акция АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Совкомбанк;Банки;NaN;NaN;14;6;13;5;NaN;NaN;9;3;NaN
+736146;МТИ-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;14;NaN
+736146;ГАЗТРАНСБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Новация АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Енисей АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Курскпромбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Липецккомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Проинвестбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;МПСБ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Банк Левобережный;Банки;NaN;NaN;NaN;NaN;13;6;1;NaN;NaN;NaN;NaN
+736146;Плюс Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+736146;СИБЭС Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Русский Трастовый Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+736146;Заубер Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Дальневосточный банк;Банки;13;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;ДОНКОМБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;ОРБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Промсельхозбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Уральский МежрегионБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Первоуральскбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Уралтрансбанк;Банки;NaN;NaN;NaN;NaN;15;12;NaN;NaN;NaN;NaN;NaN
+736146;Тамбовкредитпромбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Народный банк РТ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+736146;Татсоцбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;ТАТАГРОПРОМБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Автоградбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Заречье АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Анкор Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Энергобанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Камский КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Банк Аверс;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Запсибкомбанк;Банки;NaN;NaN;13;5;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Банк ЮГРА;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Ижкомбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;2
+736146;Роял Кредит Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Азиатско-ТихоокеанскБанк;Банки;14;7;NaN;NaN;13;6;1;NaN;NaN;NaN;NaN
+736146;Солид Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+736146;Банк Снежинский;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Евразийский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Невский Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;НИКО-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Русь ОИКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+736146;Банк СБРР;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;БДБ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+736146;Чувашкредитпромбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Банк Таатта;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Кредпромбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Экономбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Связь-Банк АКБ;Банки;NaN;NaN;12;3;11;3;NaN;NaN;NaN;NaN;NaN
+736146;Банк Первомайский;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Банк Венец;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+736146;Айви Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+736146;СДМ-Банк КБ;Банки;NaN;NaN;NaN;NaN;13;6;NaN;NaN;9;3;NaN
+736146;Интеркоммерц КБ;Банки;NaN;NaN;15;9;NaN;NaN;NaN;4;NaN;NaN;NaN
+736146;ВУЗ-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+736146;НоваховКапиталБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Таурус Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;10;NaN;NaN;NaN;NaN
+736146;Лесбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Петрокоммерц КБ;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;9;3;NaN
+736146;Фора-Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;СтарБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Акцепт КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;ЗЕМКОМБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Сургутнефтегазбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;2;NaN;NaN;NaN
+736146;Аспект АБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Банк Кузнецкий;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+736146;Тальменка-Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;ГЛОБЭКСБАНК;Банки;NaN;NaN;12;3;12;4;NaN;NaN;NaN;NaN;NaN
+736146;МИнБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;БАНК РСБ 24;Банки;15;9;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;2
+736146;Московский Кредитный Банк;Банки;13;4;12;3;11;3;0;NaN;8;2;NaN
+736146;СКБ-Банк;Банки;14;7;NaN;NaN;14;NaN;1;NaN;9;3;NaN
+736146;БТА Банк;Банки;15;NaN;NaN;NaN;15;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Альфа-Банк;Банки;11;NaN;11;2;10;1;NaN;0;6;0;NaN
+736146;Еврофинанс Моснарбанк АКБ;Банки;13;4;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+736146;Банк МНХБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Агросоюз КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Башкомснаббанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+736146;Банк Возрождение;Банки;13;4;12;3;NaN;NaN;NaN;NaN;8;2;NaN
+736146;М2М Прайвет Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;БАНК РКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Новопокровский КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Челиндбанк АКБ;Банки;NaN;NaN;NaN;NaN;12;4;NaN;NaN;10;6;NaN
+736146;Банк Премьер Кредит;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;ЧЕЛЯБИНВЕСТБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Холмсккомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+736146;Советский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN;NaN
+736146;МДМ Банк;Банки;NaN;NaN;13;5;NaN;NaN;NaN;2;10;5;NaN
+736146;Россия АБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;0;NaN;NaN;NaN;NaN
+736146;Kazkommerts Int;Банки;14;NaN;14;NaN;14;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Банк Санкт-Петербург;Банки;13;NaN;NaN;NaN;12;4;0;NaN;NaN;NaN;NaN
+736146;Банк АВБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Кольцо Урала КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Темпбанк МАБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+736146;Экспресс-Кредит АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;МБСПб;Банки;NaN;NaN;14;7;NaN;NaN;NaN;NaN;12;9;NaN
+736146;ЦентроКредит АКБ;Банки;NaN;NaN;14;7;NaN;NaN;NaN;3;NaN;NaN;NaN
+736146;Прио-Внешторгбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;ЮниКредит Банк;Банки;NaN;NaN;10;NaN;9;0;NaN;NaN;NaN;NaN;NaN
+736146;ГУТА-БАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;РосинтерБанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Урал ФД АКБ;Банки;15;9;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;ИРС АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Банк ГПБ;Банки;11;2;10;1;10;1;0;NaN;6;0;NaN
+736146;ХКФ Банк;Банки;14;7;NaN;NaN;13;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Кредобанк;Банки;NaN;NaN;18;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Кредит-Москва АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Волго-Камский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN;NaN
+736146;ВОКБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;УБРиР;Банки;NaN;NaN;15;8;NaN;NaN;NaN;2;NaN;NaN;NaN
+736146;Региональный кредит КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Ставропольпромстройбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;ЕвроситиБанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Восточный Экспресс КБ;Банки;15;9;NaN;NaN;14;8;2;NaN;NaN;NaN;NaN
+736146;Банк Вологжанин;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Саровбизнесбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;9;3;NaN
+736146;НБД-Банк;Банки;13;5;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Иваново КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Элита банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+736146;Камчатпрофитбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Хлынов КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Русфинанс Банк;Банки;10;1;10;1;9;0;NaN;NaN;NaN;NaN;NaN
+736146;Форштадт АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;ЛЕНОБЛБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;ХМБ Открытие;Банки;13;3;12;3;NaN;NaN;NaN;0;8;2;NaN
+736146;Еврокоммерц КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+736146;КС-Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Спурт АКБ;Банки;NaN;NaN;NaN;NaN;14;9;NaN;NaN;11;8;NaN
+736146;Девон-Кредит АБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Ак Барс АКБ;Банки;13;5;NaN;NaN;12;4;NaN;NaN;9;3;NaN
+736146;Камский Горизонт КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Акибанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;БыстроБанк;Банки;14;7;NaN;NaN;14;8;NaN;NaN;NaN;NaN;NaN
+736146;РосДорБанк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;РИАБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Райффайзен Банк Аваль;Банки;17;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;АйМаниБанк;Банки;16;12;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+736146;Эл Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+736146;БКС Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;Русский Ипотечный Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;6;NaN;NaN;NaN
+736146;Интерактивный Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Ланта-Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+736146;Альба-Альянс КБ;Банки;15;8;14;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Чайна Констракшн Банк;Банки;NaN;NaN;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN
+736146;БТФ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Нэклис-Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Пересвет АКБ;Банки;NaN;NaN;13;4;13;6;0;NaN;8;2;NaN
+736146;Нефтепромбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Алеф-банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+736146;Финпромбанк АКБ;Банки;15;9;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Образование АКИБ;Банки;15;9;15;9;NaN;NaN;NaN;4;NaN;NaN;1
+736146;Банк Интеза;Банки;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;МТС-Банк;Банки;14;NaN;NaN;NaN;13;6;NaN;NaN;10;4;1
+736146;РОСБАНК;Банки;10;1;NaN;NaN;9;0;NaN;NaN;5;0;NaN
+736146;Русский Стандарт Банк;Банки;15;9;14;6;14;9;NaN;NaN;11;7;NaN
+736146;Российский Капитал АКБ;Банки;NaN;10;NaN;NaN;12;4;0;2;NaN;NaN;NaN
+736146;Банк Солидарность;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+736146;Век АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Банк ФК Открытие;Банки;12;5;12;3;NaN;NaN;NaN;0;8;2;NaN
+736146;Абсолют Банк;Банки;13;5;NaN;NaN;13;6;0;NaN;NaN;NaN;NaN
+736146;ОФК Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Банк Клиентский;Банки;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN;NaN
+736146;Пробизнесбанк АКБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;10;4;NaN
+736146;Банк СОЮЗ;Банки;NaN;NaN;14;6;NaN;NaN;NaN;NaN;12;9;NaN
+736146;МеталлИнвестБанк;Банки;14;7;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+736146;БНКВ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;11;8;NaN
+736146;Межтрастбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;БЭНК ОФ ЧАЙНА;Банки;NaN;NaN;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN
+736146;Генбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Новикомбанк АКБ;Банки;13;7;NaN;NaN;14;8;1;NaN;NaN;NaN;NaN
+736146;Инг Банк (Евразия);Банки;9;0;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN
+736146;Мосуралбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;БИНБАНК;Банки;NaN;NaN;14;7;NaN;NaN;1;2;7;1;NaN
+736146;МежрегионКлирингБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+736146;Гарант-Инвест КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+736146;Экономикс-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;МеждФинКлуб АКБ;Банки;14;7;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Банк РасчетовИСбережений;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Трансстройбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;НЗБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Денизбанк Москва;Банки;NaN;NaN;NaN;NaN;10;1;NaN;NaN;NaN;NaN;NaN
+736146;Мидзухо Банк(Москва);Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN
+736146;ДельтаКредит КБ;Банки;10;1;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN
+736146;МСП БАНК;Банки;10;1;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;BSTDB Bank;Банки;NaN;NaN;6;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Креди Агриколь КИБ;Банки;NaN;NaN;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN
+736146;ВТБ 24;Банки;10;1;NaN;NaN;NaN;NaN;NaN;NaN;5;0;NaN
+736146;Веста ИБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;7;NaN;NaN;NaN
+736146;СИБСОЦБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Газбанк КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+736146;Солидарность КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Унифин КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Земский банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;ФорБанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Банк КУБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Ермак НГАБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;МеждународКоммерБанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;РусЮгбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;КОР АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Промэнергобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Энерготрансбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Пойдём! КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+736146;ИТ Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+736146;МИРАФ-БАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Инбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Росэнергобанк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+736146;Промрегионбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Меткомбанк;Банки;15;8;NaN;NaN;NaN;NaN;1;3;NaN;NaN;NaN
+736146;НЕВАСТРОЙИНВЕСТ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Транскапиталбанк АКБ;Банки;13;5;NaN;NaN;NaN;NaN;0;NaN;NaN;NaN;NaN
+736146;Кранбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Банк Северный Кредит;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Банк Агророс;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;АлтайБизнес-Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Зернобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Центр-Инвест КБ;Банки;13;4;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;ИнвестКапиталБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;Актив Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Ситибанк КБ;Банки;NaN;NaN;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN
+736146;Банк Инноваций и Развития;Банки;NaN;NaN;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Русский Торговый Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Экономический Союз КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;13;10;NaN
+736146;ПИР Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+736146;Центрально-ЕвропБанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;РИТЦ банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4
+736146;Банк БКФ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Славия АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Тинькофф Банк;Банки;14;7;NaN;NaN;13;5;NaN;NaN;NaN;NaN;NaN
+736146;Держава АКБ;Банки;15;9;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Банк Москвы АКБ;Банки;11;NaN;10;1;NaN;NaN;NaN;NaN;7;1;NaN
+736146;Инвестторгбанк АКБ;Банки;15;8;14;7;NaN;NaN;NaN;3;NaN;NaN;NaN
+736146;ОТП Банк;Банки;12;3;NaN;NaN;11;3;NaN;NaN;NaN;NaN;NaN
+736146;ТЭМБР-БАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;СВА АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Автоторгбанк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Кросна-Банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;СТРАТЕГИЯ АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Росавтобанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;НРБанк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+736146;Юниаструм Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Синко-Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Эргобанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Евромет АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+736146;ИШБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Авангард АКБ;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;9;3;NaN
+736146;Банк Развитие-Столица;Банки;NaN;NaN;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Интеркредит КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Пульс Столицы КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;17;14;NaN
+736146;ИНВЕСТСОЦБАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;13;10;NaN
+736146;РГС Банк;Банки;14;7;NaN;NaN;NaN;NaN;2;3;NaN;NaN;NaN
+736146;Экспобанк;Банки;NaN;NaN;NaN;NaN;14;8;NaN;NaN;9;3;NaN
+736146;Нацинвестпромбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;ФДБ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;НС Банк;Банки;15;9;NaN;NaN;NaN;NaN;2;4;NaN;NaN;NaN
+736146;ЯР-Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+736146;МФБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Руна-банк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Банк Жилфинанс;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+736146;Русстройбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Транспортный КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;10;NaN;NaN;NaN;NaN
+736146;Банк Зенит;Банки;13;NaN;NaN;NaN;12;4;NaN;NaN;9;3;NaN
+736146;Межтопэнергобанк АКБ;Банки;NaN;NaN;15;8;NaN;NaN;NaN;3;NaN;NaN;NaN
+736146;Фондсервисбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;13;10;NaN
+736146;Европлан Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+736146;Легион АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;БАНК ИТБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;РМБ КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN
+736146;Лайтбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;ЛОКО-Банк КБ;Банки;14;6;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+736146;НК Банк;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;ПетербургСоцКомБанк;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;УралКапиталБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+736146;Алмазэргиэнбанк АКБ;Банки;NaN;NaN;NaN;NaN;12;4;2;NaN;NaN;NaN;NaN
+736146;БАНК УРАЛСИБ;Банки;16;NaN;13;NaN;14;NaN;NaN;NaN;10;5;NaN
+736146;Алтайкапиталбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+736146;Кубань Кредит КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;10;6;NaN
+736146;ЮГ-Инвестбанк АБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Банк Резерв;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;СЭБ Банк;Банки;NaN;NaN;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN
+736146;Экспресс-Волга АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+736146;Развитие КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;АК Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;ПримСоцБанк СКБ;Банки;NaN;NaN;NaN;NaN;13;6;NaN;NaN;NaN;NaN;NaN
+736146;РБР АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;ИнтехБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;2
+736146;Татфондбанк АИКБ;Банки;14;7;14;7;NaN;NaN;NaN;3;NaN;NaN;1
+736146;Банк Йошкар-Ола;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+736146;БАНК СГБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Прайм Финанс Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Джей энд Ти Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Агропромкредит КБ;Банки;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;НОТА-Банк;Банки;14;7;14;7;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;ББР Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Горбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+736146;Приморье АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;2
+736146;Эксперт Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Мегаполис КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Стройлесбанк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Оренбург КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;5;NaN;NaN;NaN
+736146;Екатеринбург Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;Углеметбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+736146;КОШЕЛЕВ-БАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Банк БФА;Банки;NaN;NaN;14;7;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;БалтИнвестБанк;Банки;15;8;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;1
+736146;Нефтяной Альянс КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Евроазиатский ИнвестБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;ПроКоммерцБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;СБ Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;10;20;NaN;NaN;NaN
+736146;Нордеа Банк;Банки;NaN;NaN;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN
+736146;Мастер-Капитал АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;БФГ-Кредит КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;10;NaN;2
+736146;Рублев КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;2
+736146;Внешпромбанк;Банки;14;7;13;5;NaN;NaN;0;2;NaN;NaN;NaN
+736146;Промсвязьбанк;Банки;13;NaN;12;3;NaN;NaN;NaN;1;9;3;NaN
+736146;Гранд Инвест Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Военно-Промбанк АКБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Росевробанк;Банки;13;4;NaN;NaN;12;4;NaN;2;NaN;NaN;NaN
+736146;Москомбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Интерпромбанк КБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN
+736146;Маст-банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;10;NaN;NaN;NaN;NaN
+736146;Эйч-эс-би-си Банк (РР);Банки;NaN;NaN;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN
+736146;Соверен Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Банк Казани КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Газэнергобанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;7;NaN
+736146;СИАБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;NaN;NaN;NaN
+736146;Банк ЦЕРИХ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;NaN;NaN;NaN;NaN
+736146;Оранжевый КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;8;NaN;NaN;NaN
+736146;ФИА-банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;4;8;NaN;NaN;NaN
+736146;Вега-Банк КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Союзный КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;ВсероссБРР;Банки;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Райффайзенбанк;Банки;11;2;10;1;9;0;NaN;NaN;NaN;NaN;NaN
+736146;Первый ЧешскоРоссийКБ;Банки;15;9;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Банк Траст;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Данске банк;Банки;NaN;NaN;NaN;NaN;9;0;NaN;NaN;NaN;NaN;NaN
+736146;Русьуниверсалбанк;Банки;NaN;NaN;NaN;NaN;14;9;NaN;NaN;NaN;NaN;NaN
+736146;Хакасский МБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Кредит Европа Банк;Банки;13;5;NaN;NaN;12;4;NaN;NaN;7;NaN;NaN
+736146;МИА КБ;Банки;12;3;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Россельхозбанк;Банки;11;NaN;NaN;NaN;10;1;NaN;NaN;NaN;NaN;NaN
+736146;РФИ Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Ренессанс Кредит КБ;Банки;15;NaN;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Крайинвестбанк;Банки;NaN;NaN;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Москоммерцбанк;Банки;NaN;NaN;NaN;NaN;17;14;NaN;4;NaN;NaN;NaN
+736146;СМП Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;2;NaN;NaN;NaN
+736146;Дил-банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Натиксис Банк;Банки;11;2;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;МБА-Москва;Банки;15;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;БНП Париба Банк;Банки;NaN;NaN;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Новый Век КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Нацкорпбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;Банк НационалСтандарт;Банки;15;9;14;7;NaN;NaN;1;NaN;NaN;NaN;NaN
+736146;Миллениум Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;11;8;NaN
+736146;ТРОЙКА-Д БАНК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;6;11;8;NaN
+736146;Сумитомо Мицуи Рус Банк;Банки;NaN;NaN;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Банк НФК;Банки;15;9;14;7;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;БРТ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;NaN;3
+736146;Банк РЕСО Кредит;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Форус Банк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;АйСиБиСи Банк;Банки;NaN;NaN;10;1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+736146;Банк БЦК-Москва;Банки;NaN;NaN;NaN;NaN;NaN;NaN;3;NaN;NaN;NaN;NaN
+736146;МеждСтройБанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;НОВОЕ ВРЕМЯ КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;2;NaN;NaN;NaN;NaN
+736146;Тюменьагропромбанк;Банки;NaN;NaN;NaN;NaN;NaN;NaN;10;NaN;NaN;NaN;NaN
+736146;Первобанк;Банки;15;9;NaN;NaN;14;8;NaN;3;NaN;NaN;NaN
+736146;Ермак-Брокер БК;Банки;NaN;NaN;NaN;NaN;NaN;NaN;NaN;7;NaN;NaN;NaN
+736146;Банк Оф Токио (Евразия);Банки;NaN;NaN;10;1;NaN;NaN;NaN;0;NaN;NaN;NaN
+736146;НКЦ Банк;Банки;NaN;NaN;NaN;NaN;8;0;NaN;NaN;NaN;NaN;NaN
+736146;Юнистрим КБ;Банки;NaN;NaN;NaN;NaN;NaN;NaN;1;NaN;NaN;NaN;NaN
