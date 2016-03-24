@@ -1,15 +1,16 @@
 isEqConsid = true;
-initDate = '2010/07/01';
+initDate = '2013/07/01';
 suffix = '1YNoAugNoWdr2008Init';
 sector = 'Union';
+folder = 'Data\';
 switch sector
     case 'Union'
-            bankTable = readtable(['Bank',suffix,'.csv'],'delimiter',';');
-            corpTable = readtable(['Corp',suffix,'.csv'],'delimiter',';');
+            bankTable = readtable([folder,'Bank',suffix,'.csv'],'delimiter',';');
+            corpTable = readtable([folder,'Corp',suffix,'.csv'],'delimiter',';');
             corpTable.Properties.VariableNames = bankTable.Properties.VariableNames; 
             mainTable = vertcat(bankTable,corpTable);
     otherwise
-            mainTable = readtable([sector,suffix,'.csv'],'delimiter',';');
+            mainTable = readtable([folder,sector,suffix,'.csv'],'delimiter',';');
 end
 maskDate = (mainTable.date>=datenum(initDate,'yyyy/mm/dd'));
 nscRankMat = mainTable{maskDate,[5 7 9 10 11 13 14]};
@@ -17,12 +18,13 @@ iscRankMat = nan(size(nscRankMat));
 iscRankMat(:,[1 2 3 6]) = mainTable{maskDate,[4 6 8 12]};
 fprintf('-- > emitents with 2 or greater ranks: %i\n',size(nscRankMat,1));
 agName = mainTable.Properties.VariableNames([5 7 9 10 11 13 14]);
-%% construct consensus
-consRankVec = taskShareSC(mainTable{maskDate,1}, nscRankMat, iscRankMat,...
-    isEqConsid, @(lMat)memetic(lMat,60,40,15,0.15,5,25,10));
-%% using genetic
+%% using genetic with minRank approach
 consRankVec = taskShareSC(mainTable{maskDate,1}, nscRankMat, iscRankMat,...
     isEqConsid, @(lMat)genetic(lMat,60,40,15,0.15));
+%% using genetic 
+consRankVec = taskShare(...
+    lossMatrix(mainTable{maskDate,1}, nscRankMat, iscRankMat, isEqConsid),...
+    @(lMat)genetic(lMat,60,40,15,0.15));
 %% best agency
 relMatrixArr = relationMatrix(mainTable{maskDate,1}, nscRankMat, iscRankMat, isEqConsid);
 indProxy = findProxy( relMatrixArr,agName);

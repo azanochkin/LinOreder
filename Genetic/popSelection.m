@@ -4,6 +4,7 @@ function [popRankMat,popPnltVec,nNewPop] = popSelection(popRankMat,...
 %   ToDo: Add population management to improve performance.
     nPopulation = length(popPnltVec);
     [unRankMat,indUniq] = unique([popRankMat, offspRankMat]','stable','rows');
+    unRankMat = unRankMat';
     nLacking = nPopulation - length(indUniq); 
     if nLacking > 0
         indUniq = [indUniq(1)*ones(nLacking,1); indUniq];
@@ -12,11 +13,13 @@ function [popRankMat,popPnltVec,nNewPop] = popSelection(popRankMat,...
     unPnltVec = [popPnltVec, offspPnltVec];
     unPnltVec = unPnltVec(indUniq);
     %
-    [~,indSort] = sort(unPnltVec);
-    indSort = indSort(1:nPopulation);
-    popRankMat = unRankMat(indSort,:)';
-    popPnltVec = unPnltVec(indSort);
+    indSortVec = popManagement(unRankMat,-unPnltVec,nPopulation);
+    %indSortVec = popManagement2(unRankMat,-unPnltVec);
+%     [~,indSortVec] = sort(unPnltVec);
+    indSortVec = indSortVec(1:nPopulation);
+    popRankMat = unRankMat(:,indSortVec);
+    popPnltVec = unPnltVec(indSortVec);
     %
-    nNewPop = length(setdiff(indSort,1:nPopulation));
+    nNewPop = length(setdiff(indSortVec,1:nPopulation));
 end
 

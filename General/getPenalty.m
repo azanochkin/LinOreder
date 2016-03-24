@@ -11,8 +11,16 @@ function penVec = getPenalty(rankMat,lossMat)
     penVec = zeros(1,nRanges);
     for i = 1:nRanges
         rankVec = rankMat(:,i);
-        tmpMat = repmat(rankVec,1,nAltern);
-        isGeq = tmpMat<=tmpMat';
-        penVec(i) = sum(lossMat(isGeq));
+        for j = 1:nAltern
+            isGeqVec = rankVec(j) <= rankVec;
+            penVec(i) = penVec(i) + sum(lossMat(j,isGeqVec));
+        end
     end
+%     penVec = zeros(1,nRanges);
+%     for i = 1:nRanges
+%         rankVec = rankMat(:,i);
+%         tmpMat = repmat(rankVec,1,nAltern);
+%         isGeq = tmpMat<=tmpMat';
+%         penVec(i) = sum(lossMat(isGeq));
+%     end
 end

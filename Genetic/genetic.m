@@ -1,4 +1,4 @@
-function [ output_args ] = genetic(lossMat,nPopulation,nCrossover,...
+function [ medRankMat ] = genetic(lossMat,nPopulation,nCrossover,...
     nMutation,alphaMut)
 %GENETIC Summary of this function goes here
 %   Detailed explanation goes here
@@ -34,6 +34,9 @@ function [ output_args ] = genetic(lossMat,nPopulation,nCrossover,...
             popSelection(popRankMat,popPnltVec,offspRankMat,offspPnltVec);
         [medRankMat, medPnlt, nNewMed] = ...
             addMedian(medRankMat,medPnlt,offspRankMat,offspPnltVec);
+        %
+        [meanRankVec,devVec] = popMean( medRankMat );
+        %
         if nNewPop > 5;
             lastAugPop = cntIter ;
         end
@@ -45,14 +48,15 @@ function [ output_args ] = genetic(lossMat,nPopulation,nCrossover,...
 %         if (nCloseMeans > 100) && (nRestarts > 10)
 %             isRestart = true;
 %         else
-        if lastAugMed > cntIter + 40
+        %if lastAugMed < cntIter - 40
+        if cntIter > 200
             fprintf('====== restart ======\n');
             isRestart = true;
             cntRestart = cntRestart + 1;
             lastRestart = cntIter;
             [popRankMat, popPnltVec] = popGeneration(lossMat,nPopulation);
         else
-        if (lastAugMed > cntIter + 10) && (lastAugPop > cntIter + 5)
+        if lastAugPop < cntIter - 10
             fprintf('====== diversification ======\n');
             cntDevers = cntDevers + 1;
             lastDevers = cntIter;
