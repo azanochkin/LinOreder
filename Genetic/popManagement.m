@@ -1,22 +1,7 @@
 function indSortVec = popManagement( rankMat, pnltVec, nPopulation)
 %POPMANAGEMENT Summary of this function goes here
 %   Detailed explanation goes here
-    function indWorst = findWorst(pnltVec, distVec)
-        pnltStd = std(pnltVec);
-        distStd = std(distVec);
-        if pnltStd == 0
-            pnltStd = 1;
-        end
-        if distStd == 0
-            distStd = 1;
-        end
-        utilVec = pnltVec/pnltStd + 0.5*distVec/distStd;
-        minSum = min(utilVec);
-        indWorst = find(utilVec == minSum);
-        minPen = min(pnltVec(indWorst));
-        indWorst = indWorst(find(minPen == pnltVec(indWorst),1,'last'));
-    end
-    distMat = linOrderDist(rankMat,rankMat);
+    distMat = linOrderPrwDist(rankMat);
     nRankings = length(pnltVec);
     indSortVec = 1:nRankings;
     nIter = 0;
@@ -31,12 +16,15 @@ function indSortVec = popManagement( rankMat, pnltVec, nPopulation)
             locDistMat = reshape(locDistMat(maskMat),nPopulation,nPopulation+1);
             %distVec = sum(locDistMat)/nPopulation;% median???
             distVec = min(locDistMat);
-            indWorst = findWorst(pnltVec(indVec), distVec);
+            indWorst = popWorstElem(pnltVec(indVec), distVec);
             if indWorst <= nPopulation
                 indSortVec([indWorst,i]) = indSortVec([i,indWorst]);
                 flag = true;
             end
         end
+    end
+    if flag
+        disp('bad news from popManagement');
     end
     %%
 %     figure(1);

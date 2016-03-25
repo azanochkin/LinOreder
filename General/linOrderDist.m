@@ -5,15 +5,13 @@ function prwDistMat = linOrderDist( frstRankMat, scndRankMat)
     nScndExprt = size(scndRankMat,2);
     prwDistMat = zeros(nFrstExprt,nScndExprt);
     for k = 1:nAltern
-        frstDiffMat = sign(frstRankMat((k+1):end,:)...
-            - repmat(frstRankMat(k,:),nAltern-k,1));
-        scndDiffMat = sign(scndRankMat((k+1):end,:)...
-            - repmat(scndRankMat(k,:),nAltern-k,1));
+        repFrstRankMat = repmat(frstRankMat(k,:),nAltern-k,1);
+        frstDiffMat = sign(frstRankMat((k+1):end,:) - repFrstRankMat);
+        repScndRankMat = repmat(scndRankMat(k,:),nAltern-k,1);
+        scndDiffMat = sign(scndRankMat((k+1):end,:) - repScndRankMat);
         for i = 1:nFrstExprt
-            frstDiffVec = frstDiffMat(:,i);
-            for j = 1:nScndExprt
-                prwDistMat(i,j) = prwDistMat(i,j) + sum(abs(frstDiffVec - scndDiffMat(:,j)));
-            end
+            repFrstDiffMat = repmat(frstDiffMat(:,i),1,nScndExprt);
+            prwDistMat(i,:) = prwDistMat(i,:) + sum(abs(repFrstDiffMat - scndDiffMat),1);
         end
     end
 end

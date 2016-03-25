@@ -14,7 +14,7 @@ function [popRankMat,popPnltVec,nNewPop] = popSelection(popRankMat,...
     unPnltVec = unPnltVec(indUniq);
     %
     indSortVec = popManagement(unRankMat,-unPnltVec,nPopulation);
-    %indSortVec = popManagement2(unRankMat,-unPnltVec);
+%     indSortVec = popManagement2(unRankMat,-unPnltVec);
 %     [~,indSortVec] = sort(unPnltVec);
     indSortVec = indSortVec(1:nPopulation);
     popRankMat = unRankMat(:,indSortVec);
@@ -22,4 +22,3 @@ function [popRankMat,popPnltVec,nNewPop] = popSelection(popRankMat,...
     %
     nNewPop = length(setdiff(indSortVec,1:nPopulation));
 end
-
