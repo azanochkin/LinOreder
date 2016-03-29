@@ -10,10 +10,10 @@ function rankMat = taskShareSC(timeVec, nscRankMat, iscRankMat, isEqConsid, Opti
     tmpRankMat = taskShare(lossMat, OptimFnc );
     %% дозаполнить единичные наблюдения
     rankMat = zeros(size(nscRankMat,1),size(tmpRankMat,2));
-    ind = [find(maskMinRatesVec);find(~maskMinRatesVec)];
-    for i = 1:size(tmpRankMat,2)
-        disp(i)
-        [rankMat(ind,i), ~] = bestInsertion(fullLossMat(ind,ind),true,tmpRankMat(:,i));
+    indVec = [find(maskMinRatesVec);find(~maskMinRatesVec)];
+    perlossMat = fullLossMat(indVec,indVec);
+    parfor i = 1:size(tmpRankMat,2)
+        [rankMat(indVec,i), ~] = bestInsertion(perlossMat,true,tmpRankMat(:,i));
     end
 end
 
