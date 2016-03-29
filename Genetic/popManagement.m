@@ -1,12 +1,11 @@
-function indSortVec = popManagement( rankMat, pnltVec, nPopulation)
+function indSortVec = popManagement( rankMat, pnltVec, distMat, nPopulation)
 %POPMANAGEMENT Summary of this function goes here
 %   Detailed explanation goes here
-    distMat = linOrderPrwDist(rankMat);
     nRankings = length(pnltVec);
     indSortVec = 1:nRankings;
     nIter = 0;
     flag = true;
-    while flag && (nIter<10)
+    while flag && (nIter<30)
         nIter = nIter + 1;
         flag = false;
         for i = (nPopulation+1):nRankings

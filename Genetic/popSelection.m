@@ -1,5 +1,5 @@
-function [popRankMat,popPnltVec,nNewPop] = popSelection(popRankMat,...
-    popPnltVec,offspRankMat,offspPnltVec)
+function [popRankMat,popPnltVec,popDistMat,nNewPop] = popSelection(...
+    popRankMat,popPnltVec,popDistMat,offspRankMat,offspPnltVec)
 %POPSELECTION Select and add new offsprings to population
 %   ToDo: Add population management to improve performance.
     nPopulation = length(popPnltVec);
@@ -13,7 +13,14 @@ function [popRankMat,popPnltVec,nNewPop] = popSelection(popRankMat,...
     unPnltVec = [popPnltVec, offspPnltVec];
     unPnltVec = unPnltVec(indUniq);
     %
-    indSortVec = popManagement(unRankMat,-unPnltVec,nPopulation);
+    isOldPop = indUniq <= nPopulation;
+    indOldPop = indUniq(isOldPop);
+    unDistMat = zeros(length(indUniq));
+    unDistMat(isOldPop,isOldPop) = popDistMat(indOldPop ,indOldPop);
+    unDistMat(~isOldPop,:) = linOrderDist(unRankMat(:,~isOldPop),unRankMat);
+    unDistMat(isOldPop,~isOldPop) = unDistMat(~isOldPop,isOldPop)';
+    % 
+    indSortVec = popManagement(unRankMat,-unPnltVec,unDistMat,nPopulation);
 %     indSortVec = popManagement2(unRankMat,-unPnltVec);
 %     [~,indSortVec] = sort(unPnltVec);
     indSortVec = indSortVec(1:nPopulation);

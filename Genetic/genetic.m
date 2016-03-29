@@ -27,15 +27,21 @@ function [ medRankMat ] = genetic(lossMat,nPopulation,nCrossover,...
 %     meanRankVec = zeros(nAltern,1); % может стоит сделать пробный прогон вне цикла
     %
     [popRankMat, popPnltVec] = popGeneration(lossMat,nPopulation);
+    popDistMat = linOrderPrwDist(popRankMat);
     while ~isRestart
+        tic
         [offspRankMat, offspPnltVec] = ...
             getNextGen(lossMat,popRankMat,nCrossover,nMutation,nPerMut);
-        [popRankMat, popPnltVec, nNewPop] = ...
-            popSelection(popRankMat,popPnltVec,offspRankMat,offspPnltVec);
+        toc
+        [popRankMat, popPnltVec, popDistMat, nNewPop] = ...
+            popSelection(popRankMat,popPnltVec,popDistMat,offspRankMat,offspPnltVec);
+        toc
         [medRankMat, medPnlt, nNewMed] = ...
             addMedian(medRankMat,medPnlt,offspRankMat,offspPnltVec);
+        toc
         %
         [meanRankVec,devVec] = popMean( medRankMat );
+        toc
         %
         if nNewPop > 5;
             lastAugPop = cntIter ;
@@ -49,7 +55,7 @@ function [ medRankMat ] = genetic(lossMat,nPopulation,nCrossover,...
 %             isRestart = true;
 %         else
         %if lastAugMed < cntIter - 40
-        if cntIter > 200
+        if cntIter > 1000
             fprintf('====== restart ======\n');
             isRestart = true;
             cntRestart = cntRestart + 1;
@@ -75,7 +81,7 @@ function [ medRankMat ] = genetic(lossMat,nPopulation,nCrossover,...
 %         fprintf('   %i',popPnltVec(end-4:end))
         fprintf('\n------- med :   %i\n', round(median(popPnltVec)))
         %
-        fprintf(fileID,'% 4.1i',cntIter);
+        fprintf(fileID,'% 5.1i',cntIter);
         fprintf(fileID,'% 10.1i% 6.1i',medPnlt,size(medRankMat,2));
         fprintf(fileID,'% 10.1i% 10.1i% 10.1i',popPnltVec(1),...
             round(mean(popPnltVec)),popPnltVec(end));
@@ -86,6 +92,8 @@ function [ medRankMat ] = genetic(lossMat,nPopulation,nCrossover,...
         %
         cntIter = cntIter + 1;
     end
+    %try
+    %catch
     fclose(fileID);
 end
 

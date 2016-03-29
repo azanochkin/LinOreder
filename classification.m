@@ -1,5 +1,5 @@
-isEqConsid = true;
-initDate = '2013/07/01';
+isEqConsid = false;
+initDate = '2012/07/01';
 suffix = '1YNoAugNoWdr2008Init';
 sector = 'Union';
 folder = 'Data\';
@@ -18,15 +18,16 @@ iscRankMat = nan(size(nscRankMat));
 iscRankMat(:,[1 2 3 6]) = mainTable{maskDate,[4 6 8 12]};
 fprintf('-- > emitents with 2 or greater ranks: %i\n',size(nscRankMat,1));
 agName = mainTable.Properties.VariableNames([5 7 9 10 11 13 14]);
+timeVec = mainTable{maskDate,1};
+OptimFnc = @(lMat)genetic(lMat,60,40,15,0.15);
 %% using genetic with minRank approach
-consRankVec = taskShareSC(mainTable{maskDate,1}, nscRankMat, iscRankMat,...
-    isEqConsid, @(lMat)genetic(lMat,60,40,15,0.15));
+consRankVec = taskShareSC(timeVec , nscRankMat, iscRankMat,...
+    isEqConsid, OptimFnc);
 %% using genetic 
-consRankVec = taskShare(...
-    lossMatrix(mainTable{maskDate,1}, nscRankMat, iscRankMat, isEqConsid),...
-    @(lMat)genetic(lMat,60,40,15,0.15));
+% consRankVec = taskShare(...
+%     lossMatrix(timeVec, nscRankMat, iscRankMat, isEqConsid),OptimFnc);
 %% best agency
-relMatrixArr = relationMatrix(mainTable{maskDate,1}, nscRankMat, iscRankMat, isEqConsid);
+relMatrixArr = relationMatrix(timeVec, nscRankMat, iscRankMat, isEqConsid);
 indProxy = findProxy( relMatrixArr,agName);
 proxRankVec = nscRankMat(:,indProxy);
 kemRankVec = roundRifling(proxRankVec , consRankVec );

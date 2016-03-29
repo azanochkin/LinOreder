@@ -9,7 +9,7 @@ function relDistMat = metrRelDist( frstRankMat, scndRankMat )
         frstRankVec = frstRankVec - sum(frstRankVec)/nAltern;
         for j = 1:nScndPop
             scndRankVec = scndRankMat(:,j);
-            scndRankVec = scndRankVec - sum(scndRankVec)/nAltern;
+            scndRankVec = scndRankVec - mean(scndRankVec);
             difRankVec = (frstRankVec - scndRankVec);
             relDistMat(i,j) = nAltern * sum(difRankVec.^2);
         end
