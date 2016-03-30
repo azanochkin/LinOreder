@@ -6,6 +6,10 @@ function rankMat = taskShareSC(timeVec, nscRankMat, iscRankMat, isEqConsid, Opti
     % убрать единичные наблюдения
     maskMinRatesVec = sum(~(isnan(nscRankMat)&isnan(iscRankMat)),2)>=2;
     lossMat = fullLossMat(maskMinRatesVec,maskMinRatesVec);
+    %% квадратичная часть
+    lossSqMat = lossSqMatrix(timeVec(maskMinRatesVec),nscRankMat(maskMinRatesVec,:),...
+        iscRankMat(maskMinRatesVec,:),isEqConsid);
+    lossMat = lossMat - lossSqMat/sum(sum(lossSqMat));
     %% вычисление медианы
     [tmpRankMat,penVec] = taskShare(lossMat, OptimFnc );
     %% дозаполнить единичные наблюдения

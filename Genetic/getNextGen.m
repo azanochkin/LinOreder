@@ -14,7 +14,9 @@ function [ngRankMat, ngPnltVec] = getNextGen(lossMat, popRankMat,...
         maskVec = rand(nAltern,1) > 0.5;
         offspRankVec = popRankMat(:,indPer1);
         offspRankVec(maskVec) = popRankMat(maskVec,indPer2);
-        [offspRankMat(:,i),offspPnltVec(i)] = insertionMy(offspRankVec,lossMat);
+        offspPnlt = getPenalty(offspRankVec,lossMat);
+        [offspRankMat(:,i),offspPnltVec(i)] = ...
+            insertionMy(offspRankVec,offspPnlt,lossMat);
     end
     parfor i = 1:nMutation
         indPer = randi(nPopulation);
@@ -25,7 +27,9 @@ function [ngRankMat, ngPnltVec] = getNextGen(lossMat, popRankMat,...
             indPer2 = randi(nAltern);
             mutRankVec([indPer1,indPer2]) = mutRankVec([indPer2,indPer1]);
         end
-        [mutatRankMat(:,i),mutatPnltVec(i)] = insertionMy(mutRankVec,lossMat);
+        mutPnlt = getPenalty(mutRankVec,lossMat);
+        [mutatRankMat(:,i),mutatPnltVec(i)] = ...
+            insertionMy(mutRankVec,mutPnlt,lossMat);
     end      
     ngPnltVec = [offspPnltVec, mutatPnltVec];
     ngRankMat = [offspRankMat, mutatRankMat];    

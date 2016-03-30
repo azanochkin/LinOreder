@@ -1,8 +1,7 @@
-function [ newRankVec, kemenyDist ] = insertionRnd(rankVec, lossMat)
+function [ newRankVec, kemenyDist ] = insertionRnd(rankVec, kemenyDist, lossMat)
     nAltern = size(lossMat,1);
     [sortRankVec,altOrder] = sort(rankVec(:));
     maskEq = [false; (sortRankVec(1:end-1)==sortRankVec(2:end))];
-    kemenyDist = getPenalty(rankVec,lossMat);
     numGrid = 1:nAltern;
     cntr = 0;
     kGrid = randi(nAltern,1,2*nAltern);

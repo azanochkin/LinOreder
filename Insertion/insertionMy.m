@@ -1,8 +1,8 @@
-function [ newRankVec, kemenyDist ] = insertionMy(rankVec, lossMat)
-    newRankVec = insertion(rankVec, lossMat, false);
+function [ newRankVec, kemenyDist ] = insertionMy(rankVec, kemDist, lossMat)
+    [newRankVec,newKemDist] = insertion(rankVec, kemDist, lossMat, false);
     [rghLossMat,newRankVec] = groupLossMatrix( lossMat, newRankVec);
     nRank = max(newRankVec);
-    [ rghRankVec, kemenyDist ] = insertion(1:nRank, rghLossMat, true);
+    [ rghRankVec, kemenyDist ] = insertion(1:nRank, newKemDist, rghLossMat, true);
     newRankVec = rghRankVec(newRankVec);
     %
     nAltern = length(newRankVec);

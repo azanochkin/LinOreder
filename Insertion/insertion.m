@@ -1,4 +1,4 @@
-function [ newRankVec, kemenyDist ] = insertion(rankVec, lossMat, varargin)
+function [ newRankVec, kemenyDist ] = insertion(rankVec, kemenyDist, lossMat, varargin)
     function pen = remPen(curPos,nePenVec,eqPenVec,maskEq)
         iskEq = maskEq(curPos);
         if curPos < length(maskEq)
@@ -19,11 +19,10 @@ function [ newRankVec, kemenyDist ] = insertion(rankVec, lossMat, varargin)
     nAltern = size(lossMat,1);
     [sortRankVec,altOrder] = sort(rankVec(:));
     maskEq = [false; (sortRankVec(1:end-1)==sortRankVec(2:end))];
-kemenyDist = getPenalty(rankVec,lossMat);
     k = 1;
     numGrid = 1:nAltern;
     cntr = 0;
-    while k <= nAltern
+    while (k <= nAltern) && (cntr < nAltern*200)
         cntr = cntr+1;
         l = altOrder(k);
         kMask = true(nAltern,1);
@@ -75,5 +74,8 @@ kemenyDist = getPenalty(rankVec,lossMat);
     newRankVec(altOrder) = posVec(cumsum(~maskEq));
 %     realPenalty = getPenalty(newRankVec,lossMat);
 %     fprintf('INSERTION> real: %i , comp: %i , counter: %i\n',realPenalty, kemenyDist, cntr);            
+%     if abs(realPenalty - kemenyDist) > abs(1e-9*realPenalty)
+%         error('ERROR: BEST_INSERTIN: real penalty not equal computed');
+%     end
 end
 
