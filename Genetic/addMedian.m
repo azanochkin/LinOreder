@@ -1,23 +1,33 @@
-function [medRankMat, medPnlt, nNewMed] = addMedian(medRankMat,...
-    medPnlt,offspRankMat,offspPnltVec)
+function [medRankMat, medPnltVec, nNewMed] = addMedian(medRankMat,...
+    medPnltVec,offspRankMat,offspPnltVec)
 %ADDMEDIAN Refill median set
 %   Detailed explanation goes here
-    minOffspPnlt = min(offspPnltVec);
-    if minOffspPnlt < medPnlt
-        medRankMat = [];
+    fixOffSpPnlt = fix(offspPnltVec);
+    minOffspPnlt = min(fixOffSpPnlt);
+    if ~isempty(medPnltVec)
+        medPnlt = fix(medPnltVec(1));
+        if minOffspPnlt < medPnlt
+            medRankMat = [];
+            medPnltVec = [];
+            medPnlt = minOffspPnlt;
+        end
+    else
         medPnlt = minOffspPnlt;
     end
-    nMed = size(medRankMat,2);
+    nMed = length(medPnltVec);
     if minOffspPnlt == medPnlt
-        isOffspMed = offspPnltVec == minOffspPnlt;
+        isOffspMed = fixOffSpPnlt == minOffspPnlt;
         medOffspRankMat = offspRankMat(:,isOffspMed);
-        unMedOffspRankMat = unique(medOffspRankMat','stable','rows')';
+        medOffspPnltVec = offspPnltVec(isOffspMed);
+        [unMedOffspRankMat,indUnMedOffspVec] = unique(medOffspRankMat','stable','rows');
+        unMedOffspPnltVec = medOffspPnltVec(indUnMedOffspVec);
         if nMed == 0
-            isNewMedVec = true(size(unMedOffspRankMat,2),1);
+            isNewMedVec = true(size(unMedOffspPnltVec));
         else
-            isNewMedVec = ~ismember(unMedOffspRankMat',medRankMat','rows');
+            isNewMedVec = ~ismember(unMedOffspRankMat,medRankMat','rows');
         end
-        medRankMat = [medRankMat, unMedOffspRankMat(:,isNewMedVec)];
+        medRankMat = [medRankMat, unMedOffspRankMat(isNewMedVec,:)'];
+        medPnltVec = [medPnltVec, unMedOffspPnltVec(isNewMedVec)];
     end
     nNewMed = size(medRankMat,2) - nMed;
 end

@@ -19,7 +19,7 @@ function [ newRankVec, kemenyDist ] = insertion(rankVec, lossMat, varargin)
     nAltern = size(lossMat,1);
     [sortRankVec,altOrder] = sort(rankVec(:));
     maskEq = [false; (sortRankVec(1:end-1)==sortRankVec(2:end))];
-    kemenyDist = getPenalty(rankVec,lossMat);
+kemenyDist = getPenalty(rankVec,lossMat);
     k = 1;
     numGrid = 1:nAltern;
     cntr = 0;

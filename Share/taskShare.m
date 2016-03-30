@@ -1,4 +1,4 @@
-function rankMat = taskShare(lossMat, OptimFnc )
+function [rankMat,penVec] = taskShare(lossMat, OptimFnc )
     % удалить повторы
     [indEqVec, isFrstUniqVec] = fndEqElLossMatrix(lossMat);
     grpLossMat = groupLossMatrix(lossMat, indEqVec);
@@ -6,7 +6,7 @@ function rankMat = taskShare(lossMat, OptimFnc )
     % Рассматриваем возможность разделить задачу
     buzdShare( grpLossMat );
     % Optimization
-    rankMat(isFrstUniqVec,:) = OptimFnc(grpLossMat);
+    [rankMat(isFrstUniqVec,:),penVec] = OptimFnc(grpLossMat);
     rankMat = rankMat(indEqVec,:);
 end
 

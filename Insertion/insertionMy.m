@@ -16,4 +16,3 @@ function [ newRankVec, kemenyDist ] = insertionMy(rankVec, lossMat)
 %     realPenalty = getPenalty(newRankVec,lossMat);
 %     fprintf('INSERTION_MY> real: %i , comp: %i\n',realPenalty, kemenyDist);
 end
-

@@ -1,4 +1,4 @@
-function [ medRankMat ] = genetic(lossMat,nPopulation,nCrossover,...
+function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
     nMutation,alphaMut)
 %GENETIC Summary of this function goes here
 %   Detailed explanation goes here
@@ -22,7 +22,7 @@ function [ medRankMat ] = genetic(lossMat,nPopulation,nCrossover,...
     %
     nBest = 0;
     medRankMat = zeros(nAltern,nBest);
-    medPnlt = 0;
+    medPnltVec = zeros(1,nBest);
     %
 %     meanRankVec = zeros(nAltern,1); % может стоит сделать пробный прогон вне цикла
     %
@@ -36,8 +36,8 @@ function [ medRankMat ] = genetic(lossMat,nPopulation,nCrossover,...
         [popRankMat, popPnltVec, popDistMat, nNewPop] = ...
             popSelection(popRankMat,popPnltVec,popDistMat,offspRankMat,offspPnltVec);
         toc
-        [medRankMat, medPnlt, nNewMed] = ...
-            addMedian(medRankMat,medPnlt,offspRankMat,offspPnltVec);
+        [medRankMat, medPnltVec, nNewMed] = ...
+            addMedian(medRankMat,medPnltVec,offspRankMat,offspPnltVec);
         toc
         %
         [meanRankVec,devVec] = popMean( medRankMat );
@@ -55,7 +55,7 @@ function [ medRankMat ] = genetic(lossMat,nPopulation,nCrossover,...
 %             isRestart = true;
 %         else
         %if lastAugMed < cntIter - 40
-        if cntIter > 1000
+        if cntIter > 30
             fprintf('====== restart ======\n');
             isRestart = true;
             cntRestart = cntRestart + 1;
@@ -69,11 +69,11 @@ function [ medRankMat ] = genetic(lossMat,nPopulation,nCrossover,...
             [popRankMat, popPnltVec] = popGeneration(lossMat,nPopulation);
             indRandMed = randi(size(medRankMat,2));
             popRankMat(:,1) = medRankMat(:,indRandMed);
-            popPnltVec(1) = medPnlt;
+            popPnltVec(1) = medPnltVec(indRandMed);
         end
         end 
         % stats
-        fprintf('---> step %i:\n----- min: %i \n',cntIter,medPnlt)
+        fprintf('---> step %i:\n----- min: %i \n',cntIter,medPnltVec(1))
         fprintf('----- nNewPop = %i, nNewMed = %i \n',nNewPop, nNewMed)
         fprintf('------- best_Pop:')
         fprintf('   %i',popPnltVec(1:5))
@@ -82,7 +82,7 @@ function [ medRankMat ] = genetic(lossMat,nPopulation,nCrossover,...
         fprintf('\n------- med :   %i\n', round(median(popPnltVec)))
         %
         fprintf(fileID,'% 5.1i',cntIter);
-        fprintf(fileID,'% 10.1i% 6.1i',medPnlt,size(medRankMat,2));
+        fprintf(fileID,'% 10.1i% 6.1i',medPnltVec(1),size(medRankMat,2));
         fprintf(fileID,'% 10.1i% 10.1i% 10.1i',popPnltVec(1),...
             round(mean(popPnltVec)),popPnltVec(end));
         fprintf(fileID,'% 3.1i% 3.1i',nNewPop,nNewMed);
