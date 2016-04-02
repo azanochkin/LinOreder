@@ -74,7 +74,7 @@ function [ newRankVec, kemenyDist ] = insertion(rankVec, kemenyDist, lossMat, va
     newRankVec(altOrder) = posVec(cumsum(~maskEq));
 %     realPenalty = getPenalty(newRankVec,lossMat);
 %     fprintf('INSERTION> real: %i , comp: %i , counter: %i\n',realPenalty, kemenyDist, cntr);            
-%     if abs(realPenalty - kemenyDist) > abs(1e-9*realPenalty)
+%     if abs(realPenalty - kemenyDist) > abs(1e-8*(realPenalty - fix(realPenalty)))
 %         error('ERROR: BEST_INSERTIN: real penalty not equal computed');
 %     end
 end
