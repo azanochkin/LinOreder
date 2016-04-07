@@ -3,16 +3,15 @@ function [ newRankVec, kemenyDist ] = insertionMy(rankVec, kemDist, lossMat)
     [rghLossMat,newRankVec] = groupLossMatrix( lossMat, newRankVec);
     nRank = max(newRankVec);
     [ rghRankVec, kemenyDist ] = insertion(1:nRank, newKemDist, rghLossMat, true);
-    newRankVec = rghRankVec(newRankVec);
+    newRankVec = rghRankVec(newRankVec);    
     %
     nAltern = length(newRankVec);
-    posVec = zeros(1,nAltern+1);
+    posVec = zeros(nAltern+1,1);
     for i = newRankVec'
         posVec(i+1) = posVec(i+1)+1;
     end
     posVec = 1 + cumsum(posVec);
     newRankVec = posVec(newRankVec);
     %
-%     realPenalty = getPenalty(newRankVec,lossMat);
-%     fprintf('INSERTION_MY> real: %i , comp: %i\n',realPenalty, kemenyDist);
+    checkPenalty( kemenyDist, newRankVec, lossMat,'INSERTION_MY')
 end

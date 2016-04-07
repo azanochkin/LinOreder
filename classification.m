@@ -1,8 +1,9 @@
 isEqConsid = false;
-initDate = '2012/07/01';
+initDate = '2014/07/01';
 suffix = '1YNoAugNoWdr2008Init';
 sector = 'Union';
 folder = 'Data\';
+statFile = 'Stats\stats.txt';
 switch sector
     case 'Union'
             bankTable = readtable([folder,'Bank',suffix,'.csv'],'delimiter',';');
@@ -15,14 +16,25 @@ end
 maskDate = (mainTable.date>=datenum(initDate,'yyyy/mm/dd'));
 nscRankMat = mainTable{maskDate,[5 7 9 10 11 13 14]};
 iscRankMat = nan(size(nscRankMat));
-iscRankMat(:,[1 2 3 6]) = mainTable{maskDate,[4 6 8 12]};
-fprintf('-- > emitents with 2 or greater ranks: %i\n',size(nscRankMat,1));
+%iscRankMat(:,[1 2 3 6]) = mainTable{maskDate,[4 6 8 12]};
 agName = mainTable.Properties.VariableNames([5 7 9 10 11 13 14]);
 timeVec = mainTable{maskDate,1};
-OptimFnc = @(lMat)genetic(lMat,60,40,15,0.15);
+    %
 %% using genetic with minRank approach
-consRankVec = taskShareSC(timeVec , nscRankMat, iscRankMat,...
-    isEqConsid, OptimFnc);
+try
+    fileID = fopen(statFile,'w+');
+    if fileID == -1
+        error('cannot open file')
+    end
+    %
+    OptimFnc = @(lMat)genetic(lMat,60,40,15,0.1,fileID);
+    %
+    consRankVec = taskShareSC(timeVec , nscRankMat, iscRankMat,...
+        isEqConsid, OptimFnc);
+catch err
+    fclose(fileID);
+    rethrow(err);
+end
 %% using genetic 
 % consRankVec = taskShare(...
 %     lossMatrix(timeVec, nscRankMat, iscRankMat, isEqConsid),OptimFnc);

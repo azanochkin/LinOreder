@@ -20,7 +20,7 @@ function [popRankMat,popPnltVec,popDistMat,nNewPop] = popSelection(...
     unDistMat(~isOldPop,:) = linOrderDist(unRankMat(:,~isOldPop),unRankMat);
     unDistMat(isOldPop,~isOldPop) = unDistMat(~isOldPop,isOldPop)';
     % 
-    indSortVec = popManagement(unRankMat,-unPnltVec,unDistMat,nPopulation);
+    indSortVec = popManagement1(unRankMat,-unPnltVec,unDistMat,nPopulation);
 %     indSortVec = popManagement2(unRankMat,-unPnltVec);
 %     [~,indSortVec] = sort(unPnltVec);
     indSortVec = indSortVec(1:nPopulation);

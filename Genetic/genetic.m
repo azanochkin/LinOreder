@@ -1,17 +1,12 @@
 function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
-    nMutation,alphaMut)
+    nMutation,alphaMut,fileID)
 %GENETIC Summary of this function goes here
 %   Detailed explanation goes here
-    %
-    fileID = fopen('stats.txt','w+');
-    if fileID == -1
-        error('cannot open file')
-    end
-    %
     nAltern = size(lossMat,1);
     nPerMut = round(alphaMut*nAltern);
     %isTerminate = false;
     isRestart = false;
+    isQuant = false;
     cntRestart = 0;
     cntDevers = 0;
     cntIter = 1;
@@ -31,7 +26,7 @@ function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
     while ~isRestart
         tic
         [offspRankMat, offspPnltVec] = ...
-            getNextGen(lossMat,popRankMat,nCrossover,nMutation,nPerMut);
+            getNextGen(lossMat,popRankMat,nCrossover,nMutation,nPerMut,isQuant);
         toc
         [popRankMat, popPnltVec, popDistMat, nNewPop] = ...
             popSelection(popRankMat,popPnltVec,popDistMat,offspRankMat,offspPnltVec);
@@ -63,18 +58,31 @@ function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
             [popRankMat, popPnltVec] = popGeneration(lossMat,nPopulation);
         else
         if lastAugPop < cntIter - 10
-            fprintf('====== diversification ======\n');
-            cntDevers = cntDevers + 1;
-            lastDevers = cntIter;
-            [popRankMat, popPnltVec] = popGeneration(lossMat,nPopulation);
-            indRandMed = randi(size(medRankMat,2));
-            popRankMat(:,1) = medRankMat(:,indRandMed);
-            popPnltVec(1) = medPnltVec(indRandMed);
+            if isQuant
+                isQuant = false;
+                fprintf('====== diversification ======\n');
+                cntDevers = cntDevers + 1;
+                lastDevers = cntIter;
+                [popRankMat, popPnltVec] = popGeneration(lossMat,nPopulation);
+                %
+                indRandMedVec = find(medPnltVec<=quantile(medPnltVec,0.01));
+                indRandMed = indRandMedVec(randi(length(indRandMedVec)));
+                %
+                %indRandMed = randi(size(medRankMat,2));
+                popRankMat(:,1) = medRankMat(:,indRandMed);
+                popPnltVec(1) = medPnltVec(indRandMed);
+            else
+                fprintf('====== quantile ======\n');
+                isQuant = true;
+                lastAugPop = cntIter;
+            end
         end
         end 
         % stats
         sortPopPnltVec = sort(popPnltVec);
-        fprintf('---> step %i:\n----- min: %i \n',cntIter,fix(medPnltVec(1)))
+        minMedPnlt = min(medPnltVec);
+        fprintf('---> step %i:\n----- min: %i ------- min_SQ: %g \n',...
+            cntIter,fix(minMedPnlt),1e2*(minMedPnlt-fix(minMedPnlt)))
         fprintf('----- nNewPop = %i, nNewMed = %i \n',nNewPop, nNewMed)
         fprintf('------- best_Pop:')
         tmpVec = sortPopPnltVec(1:5);
@@ -97,8 +105,5 @@ function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
         %
         cntIter = cntIter + 1;
     end
-    %try
-    %catch
-    fclose(fileID);
 end
 
