@@ -1,5 +1,5 @@
 function [ind,isEq,minPen] = bestInsPosRand(nePenVec,eqPenVec,eqPen,shiftPen)
-    penVec = [nePenVec,eqPenVec-eqPen];
+    penVec = [nePenVec,eqPenVec+eqPen];
     minPen = min(penVec) + shiftPen;
 %     minPen = floor(min(penVec));
 %     if shift>0
@@ -13,6 +13,6 @@ function [ind,isEq,minPen] = bestInsPosRand(nePenVec,eqPenVec,eqPen,shiftPen)
     isEq = ind>length(nePenVec);
     if isEq
         ind = ind - length(nePenVec);
-        minPen = minPen + eqPen;
+        minPen = minPen - eqPen;
     end
 end

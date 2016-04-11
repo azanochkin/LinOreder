@@ -5,7 +5,7 @@ function indSortVec = popManagement( rankMat, pnltVec, distMat, nPopulation)
     indSortVec = 1:nRankings;
     nIter = 0;
     flag = true;
-    while flag && (nIter<30)
+    while flag && (nIter<40)
         nIter = nIter + 1;
         flag = false;
         for i = (nPopulation+1):nRankings
@@ -23,13 +23,13 @@ function indSortVec = popManagement( rankMat, pnltVec, distMat, nPopulation)
         end
     end
     if flag
-        disp('bad news from popManagement');
+        disp('~~~~~~~~~~~~~~~~bad news from popManagement');
     end
     %%
-%     figure(1);
-%     cla
-%     hold on;plot(pnltVec,sum(distMat),'+')
-%     tmpVec = sum(distMat(indSortVec,indSortVec));
-%     plot(pnltVec(indSortVec(1:60)),tmpVec(1:60),'or')
+    figure(1);
+    cla
+    hold on;plot(pnltVec,sum(distMat),'+')
+    tmpVec = sum(distMat(indSortVec,indSortVec));
+    plot(pnltVec(indSortVec(1:60)),tmpVec(1:60),'or')
 end
 

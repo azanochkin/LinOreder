@@ -1,9 +1,9 @@
 isEqConsid = false;
-initDate = '2014/07/01';
+initDate = '2012/07/01';
 suffix = '1YNoAugNoWdr2008Init';
 sector = 'Union';
 folder = 'Data\';
-statFile = 'Stats\stats.txt';
+statFile = 'Stats\stats';
 switch sector
     case 'Union'
             bankTable = readtable([folder,'Bank',suffix,'.csv'],'delimiter',';');
@@ -22,10 +22,12 @@ timeVec = mainTable{maskDate,1};
     %
 %% using genetic with minRank approach
 try
-    fileID = fopen(statFile,'w+');
+    filename = [statFile,initDate(1:4),suffix,sector,datestr(now,'(HH-MM-SS)dd_mm'),'.txt'];
+    fileID = fopen(filename,'w+');
     if fileID == -1
         error('cannot open file')
     end
+    open(filename)
     %
     OptimFnc = @(lMat)genetic(lMat,60,40,15,0.1,fileID);
     %

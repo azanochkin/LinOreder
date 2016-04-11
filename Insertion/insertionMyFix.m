@@ -1,36 +1,29 @@
 function [ newRankVec, newRankPen ] = insertionMyFix(rankVec, rankPen, lossMat, isFix)
     % Дробление
-    eqPen = length(rankVec)/10;
+    %eqPen = length(rankVec)/10
     roundLossMat = round(lossMat);
-    rankPen = getPenalty(rankVec,roundLossMat);
-    [rankVec,rankPen] = insertionRegRnd(rankVec, rankPen, roundLossMat, eqPen, 0);
+    [rankVec,~] = insertionRegRnd(rankVec, 0, roundLossMat, -10, 0);
+    [rankVec,~] = insertionRegRnd(rankVec, 0, roundLossMat, 5, 0);
     % Чистовой проход
-    [rankVec,rankPen] = insertion(rankVec, rankPen, roundLossMat, 0, 0);
+    [rankVec,~] = insertion(rankVec, 0, roundLossMat, 0, 0);
     % Чистовой при уточнении
     if isFix
-        rankPen = getPenalty(rankVec,lossMat);
-        [rankVec,rankPen] = insertion(rankVec, rankPen, lossMat, 0, 0);
+        [rankVec,~] = insertion(rankVec, 0, lossMat, 0, 0);
+    else
+        [rankVec,~] = insertion(rankVec, 0, roundLossMat, 0, 0);
     end
     % Группировка
     [rghLossMat,rghRankVec] = groupLossMatrix( lossMat, rankVec);
     nRank = max(rghRankVec);
     %
     if isFix
-        [ newRankVec, newRankPen ] = insertion(1:nRank, rankPen, rghLossMat, 0, 0);
+        [ newRankVec, ~ ] = insertion(1:nRank, 0, rghLossMat, 0, 0);
     else
-        roundLossMat = round(rghLossMat);
-        [ newRankVec, newRankPen ] = insertion(1:nRank, rankPen, roundLossMat, 0, 0);
-        newRankPen = getPenalty(newRankVec,rghLossMat);
+        [ newRankVec, ~ ] = insertion(1:nRank, 0, round(rghLossMat), 0, 0);
     end
+    newRankPen = getPenalty(newRankVec,rghLossMat);
     newRankVec = newRankVec(rghRankVec);    
-    %
-    nAltern = length(newRankVec);
-    posVec = zeros(nAltern+1,1);
-    for i = newRankVec'
-        posVec(i+1) = posVec(i+1)+1;
-    end
-    posVec = 1 + cumsum(posVec);
-    newRankVec = posVec(newRankVec);
+    newRankVec = renumber(newRankVec);
     %
     %checkPenalty( newRankPen, newRankVec, lossMat,'INSERTION_MY_FIX')
 end

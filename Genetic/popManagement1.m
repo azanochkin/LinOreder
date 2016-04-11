@@ -7,8 +7,8 @@ function indSortVec = popManagement1( rankMat, pnltVec, distMat, nPopulation)
         locDistMat = distMat(isInPopVec,isInPopVec);
         maskMat = ~eye(nCurPop);
         locDistMat = reshape(locDistMat(maskMat),nCurPop-1,nCurPop);
-        distVec = sum(locDistMat)/nCurPop;% median???
-        %distVec = min(locDistMat);
+        %distVec = sum(locDistMat)/nCurPop;% median???
+        distVec = min(locDistMat);
         indWorst = popWorstElem(pnltVec(isInPopVec), distVec);
         indSortVec = find(isInPopVec);
         indWorst = indSortVec(indWorst);
@@ -16,10 +16,10 @@ function indSortVec = popManagement1( rankMat, pnltVec, distMat, nPopulation)
     end
     indSortVec = find(isInPopVec);
     %%
-    figure(1);
-    cla
-    hold on;plot(pnltVec,sum(distMat),'+')
-    tmpVec = sum(distMat(:,indSortVec));
-    plot(pnltVec(indSortVec),tmpVec,'or')
+%     figure(1);
+%     cla
+%     hold on;plot(pnltVec,sum(distMat),'+')
+%     tmpVec = sum(distMat(:,indSortVec));
+%     plot(pnltVec(indSortVec),tmpVec,'or')
 end
 

@@ -19,9 +19,9 @@ function rankMat = taskShareSC(timeVec, nscRankMat, iscRankMat, isEqConsid, Opti
     lossMetrMat((lossMetrMat==0)&(~eye(size(lossMetrMat)))) = -min(abs(lossMetrMat(lossMetrMat~=0)))/3;
     normMetrConst = abs(sum(lossMetrMat(lossMetrMat<0)));
     %% вычисление медианы
-    lossCompMat = lossMat;
+    %lossCompMat = lossMat;
     %lossCompMat = lossMat+lossSqMat/normSqConst;
-    %lossCompMat = lossMat+lossMetrMat/normMetrConst;
+    lossCompMat = lossMat+lossMetrMat/normMetrConst;
     [tmpRankMat,penVec] = taskShare(lossCompMat,OptimFnc);
     %% восстановление значений функционалов
     penLinVec = fix(penVec);
