@@ -1,17 +1,14 @@
 function resRankVec = GambMean(rankVecMat)
+    resRankVec = NaN(size(rankVecMat,1),1);
+    mask = ~all(isnan(rankVecMat),2);
+    rankVecMat = rankVecMat(mask,:);
 %
 nanRankVec = rankVecMat;
 nanRankVec(isnan(nanRankVec)) = min(nanRankVec(:))-1;
 [~,indVec,indUniqNanVec] = unique(nanRankVec,'rows');
 rankVecMat = rankVecMat(indVec,:);
-wtVec = zeros(size(rankVecMat,1),1);
-for i = indUniqNanVec'
-    wtVec(i) = wtVec(i) + 1;
-end
+wtVec = accumarray(indUniqNanVec,ones(length(indUniqNanVec),1));
 %
-    resRankVec = NaN(size(rankVecMat,1),1);
-    mask = ~all(isnan(rankVecMat),2);
-    rankVecMat = rankVecMat(mask,:);
     nAltern = size(rankVecMat,1);
     nExpert = size(rankVecMat,2);
     W = zeros(nAltern,nExpert);
@@ -27,11 +24,11 @@ end
     W = sum(W,2);
     A(1:(nAltern+1):nAltern^2) = 0;
     A(1:(nAltern+1):nAltern^2) = sum(wtVec)*nExpert*wtVec - sum(A,2);
-    resRankVec(mask) = A\W;
-    minRank = min(resRankVec);
-    resRankVec = (resRankVec - minRank)/(max(resRankVec)-minRank);
+    rankVecMat = A\W;
+    minRank = min(rankVecMat);
+    rankVecMat = (rankVecMat - minRank)/(max(rankVecMat)-minRank);
     %resRankVec = (resRankVec - minRank);
 %
-resRankVec = resRankVec(indUniqNanVec);
+resRankVec(mask) = rankVecMat(indUniqNanVec);
 end
 

@@ -1,7 +1,7 @@
 isEqConsid = false;
 initDate = '2012/07/01';
 suffix = '1YNoAugNoWdr2008Init';
-sector = 'Union';
+sector = 'Bank';
 folder = 'Data\';
 statFile = 'Stats\stats';
 switch sector
@@ -19,27 +19,29 @@ iscRankMat = nan(size(nscRankMat));
 %iscRankMat(:,[1 2 3 6]) = mainTable{maskDate,[4 6 8 12]};
 agName = mainTable.Properties.VariableNames([5 7 9 10 11 13 14]);
 timeVec = mainTable{maskDate,1};
-    %
-%% using genetic with minRank approach
+% нулевые измерения
+maskExRatesVec = sum(~(isnan(nscRankMat)&isnan(iscRankMat)),2)>=1;
+nscRankMat = nscRankMat(maskExRatesVec,:);
+iscRankMat = iscRankMat(maskExRatesVec,:);
+timeVec = timeVec(maskExRatesVec);
+%% using genetic
 try
     filename = [statFile,initDate(1:4),suffix,sector,datestr(now,'(HH-MM-SS)dd_mm'),'.txt'];
     fileID = fopen(filename,'w+');
     if fileID == -1
-        error('cannot open file')
+        error('classification:fopen','cannot open file')
     end
     open(filename)
     %
     OptimFnc = @(lMat)genetic(lMat,60,40,15,0.1,fileID);
-    %
     consRankVec = taskShareSC(timeVec , nscRankMat, iscRankMat,...
         isEqConsid, OptimFnc);
 catch err
-    fclose(fileID);
+    if ~(strcmp(err.identifier,'classification:fopen'))
+        fclose(fileID);
+    end
     rethrow(err);
 end
-%% using genetic 
-% consRankVec = taskShare(...
-%     lossMatrix(timeVec, nscRankMat, iscRankMat, isEqConsid),OptimFnc);
 %% best agency
 relMatrixArr = relationMatrix(timeVec, nscRankMat, iscRankMat, isEqConsid);
 indProxy = findProxy( relMatrixArr,agName);
