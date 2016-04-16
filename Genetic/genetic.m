@@ -1,7 +1,11 @@
 function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
-    nMutation,alphaMut,fileID)
+    nMutation,nIter,alphaMut,varargin)
 %GENETIC Summary of this function goes here
 %   Detailed explanation goes here
+    isFilePrint = nargin>6;
+    if isFilePrint
+        fileID = varargin{1};
+    end
     nAltern = size(lossMat,1);
     nPerMut = round(alphaMut*nAltern);
     %isTerminate = false;
@@ -34,7 +38,7 @@ function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
         %
         %[meanRankVec,devVec] = popMean( medRankMat );
         %
-        if nNewPop > 5;
+        if nNewPop >= nPopulation/10;
             lastAugPop = cntIter ;
         end
         if nNewMed > 1
@@ -46,7 +50,7 @@ function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
 %             isRestart = true;
 %         else
         %if lastAugMed < cntIter - 40
-        if cntIter > 3000
+        if cntIter > nIter
             fprintf('====== restart ======\n');
             isRestart = true;
             cntRestart = cntRestart + 1;
@@ -56,7 +60,9 @@ function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
         if lastAugPop < cntIter - 10
             if isQuant
                 isQuant = false;
-                fprintf('====== diversification ======\n');
+                fprintf('!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!');
+                fprintf(' diversification ');
+                fprintf('!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n');
                 cntDevers = cntDevers + 1;
                 lastDevers = cntIter;
                 [popRankMat, popPnltVec] = popGeneration(lossMat,nPopulation);
@@ -68,38 +74,20 @@ function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
                 popRankMat(:,1) = medRankMat(:,indRandMed);
                 popPnltVec(1) = medPnltVec(indRandMed);
             else
-                fprintf('====== quantile ======\n');
+                fprintf('<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<');
+                fprintf('  update  ');
+                fprintf('>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n');
                 isQuant = true;
                 lastAugPop = cntIter;
             end
         end
         end 
-        % stats
-        sortPopPnltVec = sort(popPnltVec);
-        minMedPnlt = min(medPnltVec);
-        fprintf('---> step %i: time %g\n',...
-            cntIter,toc)
-        fprintf('----- min: %i ------- min_SQ: %g \n',fix(minMedPnlt),...
-            1e2*(minMedPnlt-fix(minMedPnlt)));
-        fprintf('----- nNewPop = %i, nNewMed = %i \n',nNewPop, nNewMed)
-        fprintf('------- best_Pop:')
-        tmpVec = sortPopPnltVec(1:5);
-        fprintf('   %i',fix(tmpVec))
-        fprintf('\n------- best_SQ:')
-        fprintf('   %g',1e2*(tmpVec - fix(tmpVec)))
-        
-%         fprintf('\n------- worst_Pop:')
-%         fprintf('   %i',popPnltVec(end-4:end))
-        fprintf('\n------- med :   %i\n', fix(median(popPnltVec)))
+        dispStats(popPnltVec,medPnltVec,nNewPop,nNewMed,cntIter,toc)
         %
-        fprintf(fileID,'% 5.1i',cntIter);
-        fprintf(fileID,'% 20.9f% 6.1i',minMedPnlt,size(medRankMat,2));
-        fprintf(fileID,'% 17.7f% 17.7f% 17.7f',sortPopPnltVec(1),...
-            mean(popPnltVec),sortPopPnltVec(end));
-        fprintf(fileID,'% 3.1i% 3.1i',nNewPop,nNewMed);
-        fprintf(fileID,'% 4.1i% 4.1i% 4.1i% 4.1i',lastRestart,lastDevers,...
-            cntRestart,cntDevers);
-        fprintf(fileID,'\n');
+        if isFilePrint
+            printFileStats(fileID,popPnltVec,medPnltVec,nNewPop,nNewMed,...
+                       cntIter,lastRestart,lastDevers,cntRestart,cntDevers)
+        end
         %
         cntIter = cntIter + 1;
     end

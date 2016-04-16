@@ -1,26 +1,14 @@
 isEqConsid = false;
-initDate = '2012/07/01';
+initDate = '2008/07/01';
 suffix = '1YNoAugNoWdr2008Init';
 sector = 'Bank';
-folder = 'Data\';
 statFile = 'Stats\stats';
-switch sector
-    case 'Union'
-            bankTable = readtable([folder,'Bank',suffix,'.csv'],'delimiter',';');
-            corpTable = readtable([folder,'Corp',suffix,'.csv'],'delimiter',';');
-            corpTable.Properties.VariableNames = bankTable.Properties.VariableNames; 
-            mainTable = vertcat(bankTable,corpTable);
-    otherwise
-            mainTable = readtable([folder,sector,suffix,'.csv'],'delimiter',';');
-end
-maskDate = (mainTable.date>=datenum(initDate,'yyyy/mm/dd'));
-nscRankMat = mainTable{maskDate,[5 7 9 10 11 13 14]};
-iscRankMat = nan(size(nscRankMat));
-%iscRankMat(:,[1 2 3 6]) = mainTable{maskDate,[4 6 8 12]};
-agName = mainTable.Properties.VariableNames([5 7 9 10 11 13 14]);
-timeVec = mainTable{maskDate,1};
+%[ timeVec,nscRankMat,iscRankMat,agName] = getData( initDate,suffix,sector);
+[timeVec,nscRankMat,iscRankMat,agName] = getNewData( initDate,suffix,sector,true);
 % нулевые измерения
+iscRankMat = nan(size(nscRankMat));
 maskExRatesVec = sum(~(isnan(nscRankMat)&isnan(iscRankMat)),2)>=1;
+fprintf('-- > observations with 1 or greater ranks: %i\n',sum(maskExRatesVec));
 nscRankMat = nscRankMat(maskExRatesVec,:);
 iscRankMat = iscRankMat(maskExRatesVec,:);
 timeVec = timeVec(maskExRatesVec);
@@ -33,9 +21,10 @@ try
     end
     open(filename)
     %
-    OptimFnc = @(lMat)genetic(lMat,60,40,15,0.1,fileID);
-    consRankVec = taskShareSC(timeVec , nscRankMat, iscRankMat,...
+    OptimFnc = @(lMat)genetic(lMat,100,100,30,50,0.1,fileID);
+    consRankMat = taskShareSC(timeVec , nscRankMat, iscRankMat,...
         isEqConsid, OptimFnc);
+    fclose(fileID);
 catch err
     if ~(strcmp(err.identifier,'classification:fopen'))
         fclose(fileID);
@@ -43,15 +32,17 @@ catch err
     rethrow(err);
 end
 %% best agency
+consRankVec = consRankMat(:,1);
 relMatrixArr = relationMatrix(timeVec, nscRankMat, iscRankMat, isEqConsid);
 indProxy = findProxy( relMatrixArr,agName);
 proxRankVec = nscRankMat(:,indProxy);
-kemRankVec = roundRifling(proxRankVec , consRankVec );
+isNanProxVec = ~isnan(proxRankVec);
+kemRankVec = classify1(consRankVec,consRankVec(isNanProxVec),proxRankVec(isNanProxVec),true);
+%kemRankVec = roundRifling(proxRankVec , consRankVec );
 %consRankVec = rifling( nscRankMat(:,indProxy), consRankVec );
 %[mainTable(maskDate,:), array2table(kemRankVec)];
 plot(consRankVec,kemRankVec,'+')
-pMask = ~isnan(proxRankVec);
-plot(consRankVec(pMask),proxRankVec(pMask),'^g')
+plot(consRankVec(isNanProxVec),proxRankVec(isNanProxVec),'^g')
 %% save results
 quantiles = [0.5 0.4 0.3 0.2 0.1];
 [medianKemMat, quantArr ,medianNumCell] = getStats(nscRankMat, kemRankVec, quantiles );

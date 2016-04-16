@@ -9,7 +9,7 @@ function indWorst = popWorstElem(pnltVec, distVec)
     if distStd == 0
         distStd = 1;
     end
-    utilVec = pnltVec/pnltStd + 0.5*distVec/distStd;
+    utilVec = pnltVec/pnltStd + 0.3*distVec/distStd;
     minSum = min(utilVec);
     indWorst = find(utilVec == minSum);
     minPen = min(pnltVec(indWorst));

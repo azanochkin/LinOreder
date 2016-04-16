@@ -8,6 +8,7 @@ function [popRankMat,popPnltVec,popDistMat,nNewPop] = popSelection(...
     nLacking = nPopulation - length(indUniq); 
     if nLacking > 0
         indUniq = [indUniq(1)*ones(nLacking,1); indUniq];
+        unRankMat = [repmat(unRankMat(:,1),1,nLacking), unRankMat];
     end
     %
     unPnltVec = [popPnltVec, offspPnltVec];

@@ -8,5 +8,8 @@ function [rankMat,penVec] = taskShare(lossMat, OptimFnc )
     % Optimization
     [rankMat(isFrstUniqVec,:),penVec] = OptimFnc(grpLossMat);
     rankMat = rankMat(indEqVec,:);
+    % sort 
+    [penVec,indSortPen] = sort(penVec);
+    rankMat = rankMat(:,indSortPen);
 end
 

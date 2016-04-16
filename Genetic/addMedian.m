@@ -19,6 +19,10 @@ function [medRankMat, medPnltVec, nNewMed] = addMedian(medRankMat,...
         isOffspMed = fixOffSpPnlt == minOffspPnlt;
         medOffspRankMat = offspRankMat(:,isOffspMed);
         medOffspPnltVec = offspPnltVec(isOffspMed);
+%         unMedOffspRankMat = unique([medPnltVec medOffspPnltVec; ...
+%                                     medRankMat medOffspRankMat]','rows');
+%         medRankMat = unMedOffspRankMat(:,2:end)';
+%         medPnltVec = unMedOffspRankMat(:,1)';
         [unMedOffspRankMat,indUnMedOffspVec] = unique(medOffspRankMat','stable','rows');
         unMedOffspPnltVec = medOffspPnltVec(indUnMedOffspVec);
         if nMed == 0
@@ -28,6 +32,11 @@ function [medRankMat, medPnltVec, nNewMed] = addMedian(medRankMat,...
         end
         medRankMat = [medRankMat, unMedOffspRankMat(isNewMedVec,:)'];
         medPnltVec = [medPnltVec, unMedOffspPnltVec(isNewMedVec)];
+        if length(medPnltVec)>2000
+            [medPnltVec,indSortVec] = sort(medPnltVec);
+            medPnltVec = medPnltVec(1:2000);
+            medRankMat = medRankMat(:,indSortVec(1:2000));
+        end
     end
     nNewMed = size(medRankMat,2) - nMed;
 end

@@ -4,7 +4,7 @@ function rankMat = taskShareSC(timeVec, nscRankMat, iscRankMat, isEqConsid, Opti
     % убрать единичные наблюдения
     maskMinRatesVec = sum(~(isnan(nscRankMat)&isnan(iscRankMat)),2)>=2;
     lossMat = fullLossMat(maskMinRatesVec,maskMinRatesVec);
-    fprintf('-- > emitents with 1 or greater ranks: %i\n',sum(maskMinRatesVec));
+    fprintf('-- > observations with 2 or greater ranks: %i\n',sum(maskMinRatesVec));
     %% квадратичный штраф
 %     fullLossSqMat = lossSqMatrix(timeVec,nscRankMat,iscRankMat,isEqConsid);
 %     lossSqMat = fullLossSqMat(maskMinRatesVec,maskMinRatesVec);
@@ -33,6 +33,7 @@ function rankMat = taskShareSC(timeVec, nscRankMat, iscRankMat, isEqConsid, Opti
     for i = 1:size(tmpRankMat,2)
         [rankMat(indVec,i), ~] = bestInsertion(fullLossCompMat,true,...
             tmpRankMat(:,i),0);%penLinVec(i)+penAddVec(i)/normSqConst);
+        rankMat(indVec,i) = renumber(rankMat(indVec,i));
     end
 end
 
