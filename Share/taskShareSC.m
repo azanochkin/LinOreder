@@ -11,12 +11,13 @@ function rankMat = taskShareSC(timeVec, nscRankMat, iscRankMat, isEqConsid, Opti
 %     normSqConst = abs(sum(lossSqMat(:)));
     %% метризованное среднее
     nscCutRankMat = nscRankMat(maskMinRatesVec,:);
-    [lossMetrMat,normMetrConst] = lossMetrMatrix(nscCutRankMat,max(nscRankMat));
+    [lossMetrMat,normMetrConst] = lossMetrMatrix(nscCutRankMat);
     %% вычисление медианы
     %lossCompMat = lossMat;
     %lossCompMat = lossMat+lossSqMat/normSqConst;
     lossCompMat = lossMat+lossMetrMat/normMetrConst;
     [tmpRankMat,penVec] = taskShare(lossCompMat,OptimFnc);
+    save('Results\midRes.mat','tmpRankMat');
     %% восстановление значений функционалов
 %     penLinVec = fix(penVec);
 %     penAddVec = round((penVec - penLinVec)*normSqConst);
@@ -26,7 +27,7 @@ function rankMat = taskShareSC(timeVec, nscRankMat, iscRankMat, isEqConsid, Opti
     %
 %     normSqConst = abs(sum(fullLossSqMat(:)));
 %     fullLossCompMat = fullLossMat + fullLossSqMat/normSqConst;
-    [fullLossMetrMat,normMetrConst] = lossMetrMatrix(nscRankMat,max(nscRankMat));
+    [fullLossMetrMat,normMetrConst] = lossMetrMatrix(nscRankMat);
     fullLossCompMat = fullLossMat + fullLossMetrMat/normMetrConst;
     %
     fullLossCompMat = fullLossCompMat(indVec,indVec);

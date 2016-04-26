@@ -1,8 +1,8 @@
 function [rankMat,penVec] = taskShare(lossMat, OptimFnc )
     % удалить повторы
-    [indEqVec, isFrstUniqVec] = fndEqElLossMatrix(round(lossMat));
+    [indEqVec, isFrstUniqVec] = fndEqElLossMatrix(round(lossMat)); % пересмотреть!!!!!!!!!
     grpLossMat = groupLossMatrix(lossMat, indEqVec);
-    fprintf('Alternatives in lossMat: %i\n',sum(isFrstUniqVec));
+    fprintf('Unique alternatives in lossMat: %i\n',sum(isFrstUniqVec));
     % Рассматриваем возможность разделить задачу
     buzdShare( round(grpLossMat) );
     % Optimization

@@ -60,9 +60,9 @@ function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
         if lastAugPop < cntIter - 10
             if isQuant
                 isQuant = false;
-                fprintf('!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!');
+                fprintf('\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!');
                 fprintf(' diversification ');
-                fprintf('!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n');
+                fprintf('!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n');
                 cntDevers = cntDevers + 1;
                 lastDevers = cntIter;
                 [popRankMat, popPnltVec] = popGeneration(lossMat,nPopulation);
@@ -74,9 +74,9 @@ function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
                 popRankMat(:,1) = medRankMat(:,indRandMed);
                 popPnltVec(1) = medPnltVec(indRandMed);
             else
-                fprintf('<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<');
+                fprintf('\n<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<');
                 fprintf('  update  ');
-                fprintf('>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n');
+                fprintf('>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n\n');
                 isQuant = true;
                 lastAugPop = cntIter;
             end

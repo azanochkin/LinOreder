@@ -5,6 +5,9 @@ function [medianKemCell,quantCell,medianCell] = ...
     medianCell = cell(size(medianNumCell));
     for i = 1:length(agGradeName)
         dict = agGradeName{i};
+%         for j=1:10
+%             dict{j} = num2str(j);
+%         end
         %
         mask = ~isnan(medianKemMat(:,i));
         medianKemCell(mask,i) = dict(1+medianKemMat(mask,i));

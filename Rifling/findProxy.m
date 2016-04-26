@@ -4,10 +4,8 @@ function indProxy = findProxy( relMatrixArr,agNames )
     sumVec = sum(rMat,2)./ volVec ;
     [~,indProxy] = min(sumVec);
     fprintf('-- > best agency: %s \n',agNames{indProxy});
-    format compact
-    array2table([sumVec volVec],'VariableNames',{'Summ_dist', 'Volume'},'RowNames',agNames)
-    array2table(distMat,'VariableNames',agNames,'RowNames',agNames)
-    array2table(volMat,'VariableNames',agNames,'RowNames',agNames)
-    format short
+    resTbl = array2table([sumVec volVec],'VariableNames',{'Summ_dist', 'Volume'},'RowNames',agNames)
+    distTbl = array2table(distMat,'VariableNames',agNames,'RowNames',agNames)
+    volTbl = array2table(volMat,'VariableNames',agNames,'RowNames',agNames)
 end
 
