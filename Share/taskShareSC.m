@@ -17,7 +17,6 @@ function rankMat = taskShareSC(timeVec, nscRankMat, iscRankMat, isEqConsid, Opti
     %lossCompMat = lossMat+lossSqMat/normSqConst;
     lossCompMat = lossMat+lossMetrMat/normMetrConst;
     [tmpRankMat,penVec] = taskShare(lossCompMat,OptimFnc);
-    save('Results\midRes.mat','tmpRankMat');
     %% восстановление значений функционалов
 %     penLinVec = fix(penVec);
 %     penAddVec = round((penVec - penLinVec)*normSqConst);

@@ -1,19 +1,18 @@
-function [ newRankVec, newRankPen ] = insertionRegRnd(rankVec, rankPen,...
-    lossMat, eqPen, shiftPen)
-%
-    function ind = indFind(maskVec,n)
-        indVec = find(maskVec,n);
-        ind = indVec(n);
-    end
-%
+function [ newRankVec, newRankPen ] = insertionRegRnd( rankVec, rankPen,...
+    lossMat, eqPen, shiftPen,varargin)
     nAltern = size(lossMat,1);
     [sortRankVec,orderVec] = sort(rankVec(:));
     isEqVec = [false; (sortRankVec(1:end-1)==sortRankVec(2:end))];
     isnCVec = true(nAltern,1);
-    isScanVec = true(nAltern,1);
-    for nRest = nAltern:-1:1
-        cPos = indFind(isScanVec,randi(nRest));
-        cOrd = orderVec(cPos);
+    if isempty(varargin)
+        scanOrdVec = randperm(nAltern);
+    else
+        scanOrdVec = varargin{1};
+    end
+    %for cOrd = scanOrdVec
+    for i = 1:length(scanOrdVec)
+        cOrd = scanOrdVec(i);
+        cPos= find(orderVec==cOrd,1);
         isnCVec(cPos) = false;
         lVec = lossMat(orderVec(isnCVec),cOrd)';
         gVec = lossMat(cOrd,orderVec(isnCVec));
@@ -46,9 +45,6 @@ function [ newRankVec, newRankPen ] = insertionRegRnd(rankVec, rankPen,...
             cOrd = orderVec(cPos);
             orderVec(lDiapVec) = orderVec(rDiapVec);
             orderVec(nPos) = cOrd;
-            %
-            isScanVec(lDiapVec) = isScanVec(rDiapVec);
-            isScanVec(nPos) = false;
             %
             rankPen = rankPen + minPen - remPen;
         end

@@ -1,13 +1,7 @@
 function [ind,isEq,minPen] = bestInsPosRand(nePenVec,eqPenVec,eqPen,shiftPen)
     penVec = [nePenVec,eqPenVec+eqPen];
-    minPen = min(penVec) + shiftPen;
-%     minPen = floor(min(penVec));
-%     if shift>0
-%         minPen = minPen + shift;
-%     else
-%         minPen = quantile(penVec(penVec<=minPen+1),0.95);
-%     end
-    indQuantVec = find(penVec <= minPen);
+    minPen = min(penVec);
+    indQuantVec = find(penVec <= minPen + shiftPen);
     ind = indQuantVec(randi(length(indQuantVec)));
     minPen = penVec(ind);
     isEq = ind>length(nePenVec);

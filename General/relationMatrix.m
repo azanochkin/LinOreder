@@ -4,24 +4,37 @@ function relMatArr = relationMatrix(timeVec, prefRankMat, subRankMat, varargin)
         nAltern = size(timeVec,1);
         %
         repPrefRankMat = repmat(prefRankVec,1,nAltern);
-        repSubRankMat = repmat(subRankVec,1,nAltern);
-        repTimeMat = repmat(timeVec(:),1,nAltern);
-        %
-        maskTime = repTimeMat == repTimeMat';
         maskPrefLE = repPrefRankMat <= repPrefRankMat';
-        maskPrefG = repPrefRankMat > repPrefRankMat';
-        maskSubLE = repSubRankMat <= repSubRankMat';
-        maskSubG = repSubRankMat > repSubRankMat';
-        %
-        maskG = (maskSubG & maskTime & ~maskPrefG')| maskPrefG;
-        if isEqConsid
-            maskLE = (((maskPrefLE | maskSubLE) & maskTime) | maskG') & ~maskG;
-        else 
-            maskLE = (((maskPrefG' | maskSubG') & maskTime) | maskG') & ~maskG;
+        if all(isnan(subRankVec))
+            if isEqConsid
+                maskLE = maskPrefLE;
+            else
+                %maskLE = repPrefRankMat < repPrefRankMat';
+                maskLE = maskPrefLE & ~maskPrefLE';
+            end
+            maskLE = maskLE|eye(nAltern);
+        else
+            maskPrefG = repPrefRankMat > repPrefRankMat';
+            %
+            repTimeMat = repmat(timeVec(:),1,nAltern);
+            maskTime = repTimeMat == repTimeMat';
+            %
+            repSubRankMat = repmat(subRankVec,1,nAltern);
+            maskSubLE = repSubRankMat <= repSubRankMat';
+            maskSubLE = maskSubLE & maskTime;
+            maskSubG = repSubRankMat > repSubRankMat';
+            maskSubG = maskSubG & maskTime;
+            %
+            maskG = (maskSubG & ~maskPrefG')| maskPrefG;
+            if isEqConsid
+                maskLE = ((maskPrefLE | maskSubLE ) | maskG') & ~maskG;
+            else 
+                maskLE = ((maskPrefG' | maskSubG' ) | maskG') & ~maskG;
+            end
+            % transitive closure
+            maskLE = maskLE|eye(nAltern);
+            maskLE = transClosure(maskLE);
         end
-        % transitive closure
-        maskLE = maskLE|eye(nAltern);
-        maskLE = transClosure(maskLE);
     end
     %
     if nargin > 3

@@ -1,5 +1,5 @@
 function [medRankMat, medPnltVec, nNewMed] = addMedian(medRankMat,...
-    medPnltVec,offspRankMat,offspPnltVec)
+    medPnltVec,offspRankMat,offspPnltVec,maxMedAmnt)
 %ADDMEDIAN Refill median set
 %   Detailed explanation goes here
     fixOffSpPnlt = fix(offspPnltVec);
@@ -32,10 +32,10 @@ function [medRankMat, medPnltVec, nNewMed] = addMedian(medRankMat,...
         end
         medRankMat = [medRankMat, unMedOffspRankMat(isNewMedVec,:)'];
         medPnltVec = [medPnltVec, unMedOffspPnltVec(isNewMedVec)];
-        if length(medPnltVec)>2000
+        if length(medPnltVec)>maxMedAmnt
             [medPnltVec,indSortVec] = sort(medPnltVec);
-            medPnltVec = medPnltVec(1:2000);
-            medRankMat = medRankMat(:,indSortVec(1:2000));
+            medPnltVec = medPnltVec(1:maxMedAmnt);
+            medRankMat = medRankMat(:,indSortVec(1:maxMedAmnt));
         end
     end
     nNewMed = size(medRankMat,2) - nMed;

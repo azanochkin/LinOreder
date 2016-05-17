@@ -1,7 +1,6 @@
 function [lossMetrMat,normMetrConst] = lossMetrMatrix(rankMetrMat)
     nAltern = size(rankMetrMat,1);
     normRankMetrMat = rankMetrMat;
-    %normRankMetrMat = rankMetrMat./repmat(normVec,nAltern,1);
     gambRankMetrVec = GambMean(normRankMetrMat);
     repGambRankMetrMat = repmat(gambRankMetrVec,1,nAltern);
     lossMetrMat = repGambRankMetrMat - repGambRankMetrMat';

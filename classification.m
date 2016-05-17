@@ -1,13 +1,14 @@
-isEqConsid = true;
 initDate = '2008/07/01';
 %suffix = '1YNoAugNoWdr2008Init';
 suffix = 'NscQrt';
 sector = 'Bank';
 resFile = 'Results\';
 isRgh = false;
+isNorm = true;
+isEqConsid = true;
 %[ timeVec,nscRankMat,iscRankMat,agName] = getData( initDate,suffix,sector);
 %[timeVec,nscRankMat,iscRankMat,agName] = getNewData( initDate,suffix,sector,isRgh);
-[timeVec,nscRankMat,iscRankMat,agName] = getNewData_qrt( initDate,suffix,sector,isRgh);
+[timeVec,nscRankMat,iscRankMat,agName] = getNewData_qrt( initDate,sector,isRgh,isNorm);
 % нулевые измерения
 iscRankMat = nan(size(nscRankMat));
 maskExRatesVec = sum(~(isnan(nscRankMat)&isnan(iscRankMat)),2)>=1;
@@ -24,7 +25,7 @@ try
     end
     open(filename)
     %
-    OptimFnc = @(lMat)genetic(lMat,100,100,30,800,0.1,fileID);
+    OptimFnc = @(lMat)genetic(lMat,100,100,30,10,0.1,fileID);
     consRankMat = taskShareSC(timeVec , nscRankMat, iscRankMat,...
         isEqConsid, OptimFnc);
     fclose(fileID);
@@ -38,14 +39,17 @@ end
 consRankVec = srenumber(consRankMat(:,1));
 % relMatrixArr = relationMatrix(timeVec, nscRankMat, iscRankMat, isEqConsid);
 % indProxy = findProxy( relMatrixArr,agName);
-indProxy = 7;
+indProxy = 2;
 proxRankVec = nscRankMat(:,indProxy);
 isNanProxVec = ~isnan(proxRankVec);
-kemRankVec = classify1(consRankVec,consRankVec(isNanProxVec),proxRankVec(isNanProxVec),true);
+isMinRatVec = sum(~(isnan(nscRankMat)&isnan(iscRankMat)),2)>=2;
+isObsVec = isNanProxVec;
+%isObsVec = isNanProxVec & isMinRatVec;
+kemRankVec = classifyu(consRankVec,consRankVec(isObsVec),proxRankVec(isObsVec),true);
 %kemRankVec = roundRifling(proxRankVec , consRankVec );
 %consRankVec = rifling( nscRankMat(:,indProxy), consRankVec );
 plot(consRankVec,kemRankVec,'+')
-plot(consRankVec(isNanProxVec),proxRankVec(isNanProxVec),'^g')
+plot(consRankVec(isObsVec),proxRankVec(isObsVec),'^g')
 %% save results
 quantiles = [0.5 0.4 0.3 0.2 0.1];
 [medianKemMat, quantArr ,medianNumCell] = getStats(nscRankMat, kemRankVec, quantiles );

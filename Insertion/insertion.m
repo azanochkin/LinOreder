@@ -1,8 +1,4 @@
 function [ newRankVec, newRankPen ] = insertion(rankVec, rankPen, lossMat, eqPen, shiftPen)
-    function ind = indFind(maskVec,n)
-        indVec = find(maskVec,n);
-        ind = indVec(n);
-    end
     nAltern = size(lossMat,1);
     [sortRankVec,orderVec] = sort(rankVec(:));
     isEqVec = [false; (sortRankVec(1:end-1)==sortRankVec(2:end))];
@@ -16,10 +12,10 @@ function [ newRankVec, newRankPen ] = insertion(rankVec, rankPen, lossMat, eqPen
         lVec = lossMat(orderVec(isnCVec),cOrd)';
         gVec = lossMat(cOrd,orderVec(isnCVec));
         isEqCVec = isEqVec(isnCVec);
-        isnCVec(cPos) = true;
         if cPos < nAltern
-            isEqCVec(cPos) = isEqCVec(cPos) && isEqVec(cPos);
+            isEqCVec(cPos) = isEqVec(cPos+1) && isEqVec(cPos);
         end
+        isnCVec(cPos) = true;
         [nePenVec,eqPenVec] = getInsertPen(lVec, gVec, isEqCVec);
         remPen = getRemPen(cPos,nePenVec,eqPenVec,isEqVec);
         [indPos,isEq,minPen] = bestInsPosRand(nePenVec,eqPenVec,eqPen,shiftPen);
@@ -33,7 +29,7 @@ function [ newRankVec, newRankPen ] = insertion(rankVec, rankPen, lossMat, eqPen
                 rDiapVec = cPos+1:nPos;
             end
             if cPos < nAltern
-                isEqVec(cPos+1) = isEqCVec(cPos);
+                isEqVec(cPos+1) = isEqVec(cPos+1) && isEqVec(cPos);
             end
             isEqVec(lDiapVec) = isEqVec(rDiapVec);
             isEqVec(nPos) = false;

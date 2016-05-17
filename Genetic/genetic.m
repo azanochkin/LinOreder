@@ -18,6 +18,7 @@ function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
     lastAugPop = 1;
     lastDevers = 1;
     lastRestart = 1;
+    maxMedAmnt = 20;
     %
     nBest = 0;
     medRankMat = zeros(nAltern,nBest);
@@ -34,7 +35,7 @@ function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
         [popRankMat, popPnltVec, popDistMat, nNewPop] = ...
             popSelection(popRankMat,popPnltVec,popDistMat,offspRankMat,offspPnltVec);
         [medRankMat, medPnltVec, nNewMed] = ...
-            addMedian(medRankMat,medPnltVec,offspRankMat,offspPnltVec);
+            addMedian(medRankMat,medPnltVec,offspRankMat,offspPnltVec,maxMedAmnt);
         %
         %[meanRankVec,devVec] = popMean( medRankMat );
         %
@@ -88,6 +89,7 @@ function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
             printFileStats(fileID,popPnltVec,medPnltVec,nNewPop,nNewMed,...
                        cntIter,lastRestart,lastDevers,cntRestart,cntDevers)
         end
+        save('Results\midRes.mat','medRankMat');
         %
         cntIter = cntIter + 1;
     end

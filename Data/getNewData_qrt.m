@@ -1,4 +1,4 @@
-function [ timeVec,nscRankMat,iscRankMat,agName] = getNewData_qrt( initDate,suffix,sector,isRgh)
+function [ timeVec,nscRankMat,iscRankMat,agName] = getNewData_qrt( initDate,sector,isRgh,isNorm)
 %GETDATA Summary of this function goes here
 %   Detailed explanation goes here
     load('SnapBanks_qrt_18042016.mat')
@@ -16,9 +16,14 @@ function [ timeVec,nscRankMat,iscRankMat,agName] = getNewData_qrt( initDate,suff
         dictMat = eval(['scales_',nameAgVec{i},'_Nsc(:,2:3)']);
         if isRgh
             mainTable(maskVec,i) = dictMat(mainTable{maskVec,i}+1,2);
+            normconst = max(dictMat{dictMat{:,2}<100,2});
+        else
+            normconst = max(dictMat{dictMat{:,1}<100,1});
         end
-        normconst = max(dictMat{dictMat{:,1}<100,1});
-        %mainTable(:,i) = array2table(mainTable{:,i} / normconst);
+        if isNorm
+            %normconst = max(mainTable{:,i});
+            mainTable(:,i) = array2table(mainTable{:,i} / normconst);
+        end
     end
     maskDate = (mainTable.date>=datenum(initDate,'yyyy/mm/dd'));
     nscRankMat = mainTable{maskDate,[2 4 6 7 8 10 11]};
