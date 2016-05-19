@@ -1,7 +1,7 @@
-function [ timeVec,nscRankMat,iscRankMat,agName] = getNewData_qrt( initDate,sector,isRgh,isNorm)
+function [ timeVec,nscRankMat,iscRankMat,agName] = getNewData_qrt(initDate,sector,isRgh,isNorm, input_filename)
 %GETDATA Summary of this function goes here
 %   Detailed explanation goes here
-    load('SnapBanks_qrt_18042016.mat')
+    load(input_filename)
     switch sector
         case 'Bank'
             mainTable = rat_mat_bank_qrt;
