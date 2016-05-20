@@ -16,11 +16,10 @@ elseif isunix
     resFile = './Results/';
 end
 isRgh = false;
-isNorm = true;
 isEqConsid = true;
-% 
-[timeVec,nscRankMat,iscRankMat,agName] = getNewData_qrt( initDate,sector,isRgh,isNorm);
-%
+%[ timeVec,nscRankMat,iscRankMat,agName] = getData( initDate,suffix,sector);
+%[timeVec,nscRankMat,iscRankMat,agName] = getNewData( initDate,suffix,sector,isRgh);
+[timeVec,nscRankMat,iscRankMat,nscNormVec,agName] = getNewData_qrt( initDate,sector,isRgh);
 iscRankMat = nan(size(nscRankMat));
 maskExRatesVec = sum(~(isnan(nscRankMat)&isnan(iscRankMat)),2)>=1;
 fprintf('-- > observations with 1 or greater ranks: %i\n',sum(maskExRatesVec));
@@ -36,8 +35,9 @@ try
     end
     open(filename)
     %
-    OptimFnc = @(lMat)genetic(lMat,30,30,10,50,0.15,fileID);
-    consRankMat = taskShareSC(timeVec , nscRankMat, iscRankMat,...
+    OptimFnc = @(lMat)genetic(lMat,100,100,30,10,0.1,fileID);
+    normNscRankMat =  nscRankMat./repmat(nscNormVec(:)',size(nscRankMat,1),1);
+    consRankMat = taskShareSC(timeVec , normNscRankMat , iscRankMat,...
         isEqConsid, OptimFnc);
     fclose(fileID);
 catch err
