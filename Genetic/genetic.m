@@ -28,7 +28,10 @@ function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
     %
     [popRankMat, popPnltVec] = popGeneration(lossMat,nPopulation);
     popDistMat = linOrderPrwDist(popRankMat);
-    while ~isRestart
+    
+    global isAborted
+    
+    while (~isRestart) && (~isAborted)
         tic
         [offspRankMat, offspPnltVec] = ...
             getNextGen(lossMat,popRankMat,nCrossover,nMutation,nPerMut,isQuant);
@@ -92,6 +95,7 @@ function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
         save('Results\midRes.mat','medRankMat');
         %
         cntIter = cntIter + 1;
+        pause(10);
     end
 end
 
