@@ -69,10 +69,10 @@ function init_button_Callback(hObject, eventdata, handles)
     
     handles.nscRankMat = nscRankMat;
     handles.iscRankMat = iscRankMat;
+    handles.agName = agName;
     handles.timeVec = timeVec;
     guidata(gcbo, handles);
     
-    init_check_form(agName);
     set(handles.aglist, 'String', agName);
     set(handles.genetic_panel, 'Visible', 'On');
     
@@ -126,8 +126,6 @@ function start_abort_Callback(hObject, eventdata, handles)
     
     set(handles.start_abort, 'Enable', 'On');
     set(handles.rifling_panel, 'Visible', 'On');
-    
-    consRank(consRankMat);
 
 function abort_button_Callback(hObject, eventdata, handles)
     global isAborted
@@ -135,41 +133,67 @@ function abort_button_Callback(hObject, eventdata, handles)
     set(hObject, 'Enable', 'Off');
     drawnow update;
 
-function genetic_settings_Callback(hObject, eventdata, handles)
-
-
-% --- Executes on selection change in aglist.
-function aglist_Callback(hObject, eventdata, handles)
-% hObject    handle to aglist (see GCBO)
-% eventdata  reserved - to be defined in a future version of MATLAB
-% handles    structure with handles and user data (see GUIDATA)
-
-% Hints: contents = cellstr(get(hObject,'String')) returns aglist contents as cell array
-%        contents{get(hObject,'Value')} returns selected item from aglist
-
-
-% --- Executes during object creation, after setting all properties.
 function aglist_CreateFcn(hObject, eventdata, handles)
-% hObject    handle to aglist (see GCBO)
-% eventdata  reserved - to be defined in a future version of MATLAB
-% handles    empty - handles not created until after all CreateFcns called
-
-% Hint: popupmenu controls usually have a white background on Windows.
-%       See ISPC and COMPUTER.
 if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
     set(hObject,'BackgroundColor','white');
 end
 
-
-% --- Executes on button press in rifling_button.
 function rifling_button_Callback(hObject, eventdata, handles)
-% hObject    handle to rifling_button (see GCBO)
-% eventdata  reserved - to be defined in a future version of MATLAB
-% handles    structure with handles and user data (see GUIDATA)
+    consRankVec = handles.consRankVec;
+    % relMatrixArr = relationMatrix(timeVec, nscRankMat, iscRankMat, isEqConsid);
+    % indProxy = findProxy( relMatrixArr,agName);
+    indProxy = 2;
+    handles.indProxy = indProxy;
+    proxRankVec = handles.nscRankMat(:,indProxy);
+    isNanProxVec = ~isnan(proxRankVec);
+    isMinRatVec = sum(~(isnan(handles.nscRankMat)&isnan(handles.iscRankMat)),2)>=2;
+    isObsVec = isNanProxVec;
+    %isObsVec = isNanProxVec & isMinRatVec;
+    kemRankVec = classifyu(consRankVec,consRankVec(isObsVec),proxRankVec(isObsVec),true);
+    
+    handles.kemRankVec = kemRankVec;
+    guidata(gcbo, handles);
+    
+    %kemRankVec = roundRifling(proxRankVec , consRankVec );
+    %consRankVec = rifling( nscRankMat(:,indProxy), consRankVec );
+    plot(consRankVec,kemRankVec,'+')
+    plot(consRankVec(isObsVec),proxRankVec(isObsVec),'^g')
 
-
-% --- Executes on button press in rifling_settings.
-function rifling_settings_Callback(hObject, eventdata, handles)
-% hObject    handle to rifling_settings (see GCBO)
-% eventdata  reserved - to be defined in a future version of MATLAB
-% handles    structure with handles and user data (see GUIDATA)
+    set(handles.save_panel, 'Visible', 'On');
+    
+function save_button_Callback(hObject, eventdata, handles)
+    agName = handles.agName;
+    nscRankMat = handles.nscRankMat;
+    kemRankVec = handles.kemRankVec;
+    
+    quantiles = [0.5 0.4 0.3 0.2 0.1];
+    [medianKemMat, quantArr ,medianNumCell] = getStats(nscRankMat, kemRankVec, quantiles );
+    load('agGradeName.mat')
+    filename = [handles.resFile,'result',handles.sector,...
+        handles.suffix,handles.initDate(1:4),agName{indProxy},'.xls'];
+    [medianKemCell,quantCell,medianCell] = ...
+        convertStat(medianKemMat,quantArr,medianNumCell,agGradeName);
+    dict = agGradeName{indProxy};
+    % for j=1:10
+    %             dict{j} = num2str(j);
+    %         end
+    proxyGrades = dict(1+unique(kemRankVec));
+    %
+    qNames = cell(size(quantiles));
+    for k = 1:length(quantiles)
+        qNames{k} = ['Quan_',num2str(100*quantiles(k)),'pr'];
+    end
+    %
+    for i = 1:length(agGradeName)
+        tbl = cell2table(quantCell(:,:,i));
+        tbl = [medianKemCell(:,i) tbl];
+        tbl = [medianCell(:,i) tbl];   
+        tbl.Properties.VariableNames = ['Median_ag' 'Median_Cons' qNames];
+        %
+        tbl.Properties.RowNames = proxyGrades;
+        writetable(tbl,filename,'Sheet',agName{i},'WriteRowNames',true);
+    end
+    tbl = cell2table(medianCell);
+    tbl.Properties.RowNames = proxyGrades;
+    tbl.Properties.VariableNames = agName;
+    writetable(tbl,filename,'Sheet','Median_ag','WriteRowNames',true);
