@@ -4,11 +4,10 @@ suffix = 'NscQrt';
 sector = 'Bank';
 resFile = 'Results\';
 isRgh = false;
-isNorm = true;
 isEqConsid = true;
 %[ timeVec,nscRankMat,iscRankMat,agName] = getData( initDate,suffix,sector);
 %[timeVec,nscRankMat,iscRankMat,agName] = getNewData( initDate,suffix,sector,isRgh);
-[timeVec,nscRankMat,iscRankMat,agName] = getNewData_qrt( initDate,sector,isRgh,isNorm);
+[timeVec,nscRankMat,iscRankMat,nscNormVec,agName] = getNewData_qrt( initDate,sector,isRgh);
 % нулевые измерения
 iscRankMat = nan(size(nscRankMat));
 maskExRatesVec = sum(~(isnan(nscRankMat)&isnan(iscRankMat)),2)>=1;
@@ -26,7 +25,8 @@ try
     open(filename)
     %
     OptimFnc = @(lMat)genetic(lMat,100,100,30,10,0.1,fileID);
-    consRankMat = taskShareSC(timeVec , nscRankMat, iscRankMat,...
+    normNscRankMat =  nscRankMat./repmat(nscNormVec(:)',size(nscRankMat,1),1);
+    consRankMat = taskShareSC(timeVec , normNscRankMat , iscRankMat,...
         isEqConsid, OptimFnc);
     fclose(fileID);
 catch err
