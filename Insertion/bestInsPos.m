@@ -7,15 +7,13 @@ function [ind,isEq,minPen] = bestInsPos(nePenVec,eqPenVec,isEqPrior)
     end 
     if isEq
         minPen = minEqPen;
-        %ind = indEqPen;
-        ind = find(eqPenVec == minEqPen);
-        ind = ind(randi(length(ind)));
+        ind = indEqPen;
+%         ind = find(eqPenVec == minEqPen);
+%         ind = ind(randi(length(ind)));
     else
         minPen = minNePen;
-        %ind = indNePen;
-        ind = find(nePenVec == minNePen);
-        ind = ind(randi(length(ind)));
+        ind = indNePen;
+%         ind = find(nePenVec == minNePen);
+%         ind = ind(randi(length(ind)));
     end
 end
-
-

@@ -10,6 +10,7 @@ function [medianKemCell,quantCell,medianCell] = ...
 %         end
         %
         mask = ~isnan(medianKemMat(:,i));
+        
         medianKemCell(mask,i) = dict(1+medianKemMat(mask,i));
         %
         for j = 1:size(quantArr,2)

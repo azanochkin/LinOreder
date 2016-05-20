@@ -27,11 +27,76 @@ function main_OpeningFcn(hObject, eventdata, handles, varargin)
     % Choose default command line output for main
     handles.output = hObject;
 
+    handles.initDate = '2008/07/01';
+    handles.suffix = 'NscQrt';
+    handles.sector = 'Bank';
+    handles.resFile = 'Results\';
+    handles.isRgh = false;
+%     handles.isNorm = true;
+    handles.isEqConsid = true;
+    handles.indProxy = 2;
+    handles.input_filename = 'SnapBanks_qrt_18042016.mat';
+    
+    
+    global global_popNum
+    global global_nCross
+    global global_nMutat
+    global global_alphaMutat
+    global global_logfile
+    
+    handles.popNum = 100;
+    handles.nCross = 100;
+    handles.nMutat = 30;
+    handles.nItercount = 20;
+    handles.alphaMutat = 0.1;
+    handles.logfile = 'logfile.txt';
+    
+    
+%     guidata(gcbo, handles);
+    
     % Update handles structure
     guidata(hObject, handles);
 
 function varargout = main_OutputFcn(hObject, eventdata, handles) 
     varargout{1} = handles.output;
+    
+
+function init_settings_button_Callback(hObject, eventdata, handles)
+    init_settings_h = init_settings(handles);
+    
+    waitfor(init_settings_h);
+    
+    global global_initDate
+    global global_sector
+    global global_isRgh
+    global global_isEqConsid
+    
+    handles.initDate = global_initDate;
+    handles.sector = global_sector;
+    handles.isRgh = global_isRgh;
+    handles.isEqConsid = global_isEqConsid;
+    
+    guidata(gcbo, handles);
+    
+function genetic_settings_Callback(hObject, eventdata, handles)
+    genetic_settings_h = genetic_settings(handles);
+    
+    waitfor(genetic_settings_h);
+    
+    global global_popNum
+    global global_nCross
+    global global_nMutat
+    global global_alphaMutat
+    global global_logfile
+    
+    handles.popNum = global_popNum;
+    handles.nCross = global_nCross;
+    handles.nMutat = global_nMutat;
+    handles.alphaMutat = global_alphaMutat;
+    handles.logfile = global_logfile;
+   
+    guidata(gcbo, handles);
+    
 
 
 function input_file_button_Callback(hObject, eventdata, handles)
@@ -46,18 +111,9 @@ function input_file_name_CreateFcn(hObject, eventdata, handles)
     end
     
 function init_button_Callback(hObject, eventdata, handles)
-    handles.initDate = '2008/07/01';
-    handles.suffix = 'NscQrt';
-    handles.sector = 'Bank';
-    handles.resFile = 'Results\';
-    handles.isRgh = false;
-    handles.isNorm = true;
-    handles.isEqConsid = true;
-    guidata(gcbo, handles);
-    
-    [timeVec, nscRankMat, iscRankMat, agName] = ...
+    [timeVec, nscRankMat, iscRankMat, nscNormVec, agName] = ...
         getNewData_qrt(handles.initDate, handles.sector, ...
-            handles.isRgh, handles.isNorm, handles.input_filename);
+            handles.isRgh, handles.input_filename);
     
     % нулевые измерения
     iscRankMat = nan(size(nscRankMat));
@@ -66,7 +122,7 @@ function init_button_Callback(hObject, eventdata, handles)
     nscRankMat = nscRankMat(maskExRatesVec,:);
     iscRankMat = iscRankMat(maskExRatesVec,:);
     timeVec = timeVec(maskExRatesVec);
-    
+    handles.nscNormVec = nscNormVec;
     handles.nscRankMat = nscRankMat;
     handles.iscRankMat = iscRankMat;
     handles.agName = agName;
@@ -83,6 +139,7 @@ end
 
 function nIter_slider_Callback(hObject, eventdata, handles)
     value = get(hObject, 'Value');
+    handles.nItercount = round(value);
     set(handles.nIter, 'String', num2str(round(value)));
 
 function nIter_slider_CreateFcn(hObject, eventdata, handles)
@@ -98,17 +155,19 @@ function start_abort_Callback(hObject, eventdata, handles)
     drawnow update;
     
     try
-        filename = 'loglog2005.txt'; %[resFile,'stats',initDate(1:4),suffix,sector,datestr(now,'dd_mm(HH-MM-SS)'),'.txt'];
+        filename = handles.logfile;
         fileID = fopen(filename,'w+');
         if fileID == -1
             error('classification:fopen','cannot open file')
         end
 %             open(filename)
         %
-        OptimFnc = @(lMat)genetic(lMat,100,100,30,10,0.1,fileID);
-        consRankMat = taskShareSC(...
+        OptimFnc = @(lMat)genetic(lMat,handles.popNum,handles.nCross,handles.nMutat,handles.nItercount, handles.alphaMutat,fileID);
+        normNscRankMat = ...
+            handles.nscRankMat./repmat(handles.nscNormVec(:)',size(handles.nscRankMat,1),1);
+        consRankMat = taskShareSC( ...
                 handles.timeVec, ...
-                handles.nscRankMat, ...
+                normNscRankMat, ...
                 handles.iscRankMat, ...
                 handles.isEqConsid, ...
                 OptimFnc);
@@ -142,9 +201,8 @@ function rifling_button_Callback(hObject, eventdata, handles)
     consRankVec = handles.consRankVec;
     % relMatrixArr = relationMatrix(timeVec, nscRankMat, iscRankMat, isEqConsid);
     % indProxy = findProxy( relMatrixArr,agName);
-    indProxy = 2;
-    handles.indProxy = indProxy;
-    proxRankVec = handles.nscRankMat(:,indProxy);
+    
+    proxRankVec = handles.nscRankMat(:,handles.indProxy);
     isNanProxVec = ~isnan(proxRankVec);
     isMinRatVec = sum(~(isnan(handles.nscRankMat)&isnan(handles.iscRankMat)),2)>=2;
     isObsVec = isNanProxVec;
@@ -162,6 +220,7 @@ function rifling_button_Callback(hObject, eventdata, handles)
     set(handles.save_panel, 'Visible', 'On');
     
 function save_button_Callback(hObject, eventdata, handles)
+    [FileName,PathName] = uiputfile({'*.xls'}, 'Save file to');
     agName = handles.agName;
     nscRankMat = handles.nscRankMat;
     kemRankVec = handles.kemRankVec;
@@ -169,11 +228,12 @@ function save_button_Callback(hObject, eventdata, handles)
     quantiles = [0.5 0.4 0.3 0.2 0.1];
     [medianKemMat, quantArr ,medianNumCell] = getStats(nscRankMat, kemRankVec, quantiles );
     load('agGradeName.mat')
-    filename = [handles.resFile,'result',handles.sector,...
-        handles.suffix,handles.initDate(1:4),agName{indProxy},'.xls'];
+    
+    filename = strcat(PathName, FileName);
+    
     [medianKemCell,quantCell,medianCell] = ...
         convertStat(medianKemMat,quantArr,medianNumCell,agGradeName);
-    dict = agGradeName{indProxy};
+    dict = agGradeName{handles.indProxy};
     % for j=1:10
     %             dict{j} = num2str(j);
     %         end
@@ -197,3 +257,14 @@ function save_button_Callback(hObject, eventdata, handles)
     tbl.Properties.RowNames = proxyGrades;
     tbl.Properties.VariableNames = agName;
     writetable(tbl,filename,'Sheet','Median_ag','WriteRowNames',true);
+
+function aglist_Callback(hObject, eventdata, handles)
+    handles.indProxy = get(hObject, 'Value');
+    guidata(gcbo, handles);
+
+function output_file_edit_Callback(hObject, eventdata, handles)
+
+function output_file_edit_CreateFcn(hObject, eventdata, handles)
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end

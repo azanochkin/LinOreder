@@ -4,6 +4,6 @@ function scatterRanks( rankMat )
     [unRankMat,~,indVec] = unique(rankMat,'rows');
     s = 2+(accumarray(indVec,ones(1,length(indVec))));
     c = linspace(1,10,length(s));
-    scatter(unRankMat(:,1),unRankMat(:,2),s,c,'fill')
+    [~,ordVec] = sort(-s);
+    scatter(unRankMat(ordVec,1),unRankMat(ordVec,2),s(ordVec),c(ordVec),'fill')
 end
-
