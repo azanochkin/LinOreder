@@ -32,6 +32,7 @@ function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
     global isAborted
     
     while (~isRestart) && (~isAborted)
+        pause(0.01);
         tic
         [offspRankMat, offspPnltVec] = ...
             getNextGen(lossMat,popRankMat,nCrossover,nMutation,nPerMut,isQuant);
@@ -92,10 +93,9 @@ function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
             printFileStats(fileID,popPnltVec,medPnltVec,nNewPop,nNewMed,...
                        cntIter,lastRestart,lastDevers,cntRestart,cntDevers)
         end
-        save('Results\midRes.mat','medRankMat');
+%         save('Results\midRes.mat','medRankMat');
         %
         cntIter = cntIter + 1;
-        pause(10);
     end
 end
 

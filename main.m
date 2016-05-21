@@ -147,6 +147,10 @@ if isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColo
     set(hObject,'BackgroundColor',[.9 .9 .9]);
 end
 
+function nIter_Callback(hObject, eventdata, handles)
+    handles.nItercount = str2num(get(hObject, 'String'));
+    guidata(gcbo, handles);
+
 function start_abort_Callback(hObject, eventdata, handles)
     global isAborted
     isAborted = false;
@@ -160,8 +164,7 @@ function start_abort_Callback(hObject, eventdata, handles)
         if fileID == -1
             error('classification:fopen','cannot open file')
         end
-%             open(filename)
-        %
+
         OptimFnc = @(lMat)genetic(lMat,handles.popNum,handles.nCross,handles.nMutat,handles.nItercount, handles.alphaMutat,fileID);
         normNscRankMat = ...
             handles.nscRankMat./repmat(handles.nscNormVec(:)',size(handles.nscRankMat,1),1);
