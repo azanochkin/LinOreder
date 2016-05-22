@@ -3,7 +3,7 @@
 addpath(genpath(pwd))
 
 % Starting date. Earlier data will be removed
-initDate = '2015/07/01';
+initDate = '2008/07/01';
 
 % Switch sector between 'Bank' and 'Corp'.
 % sector = '�����';
@@ -68,6 +68,12 @@ catch err
     end
     rethrow(err);
 end
+%%
+consRankVec = nan(size(isAppropVec));
+consRankVec(isAppropVec) = srenumber(consRankMat(:,1));
+tbl = array2table([consRankVec, data.nscRankMat, data.dateVec, data.idVec]);
+tbl.Properties.VariableNames = [{'consRank'}, agNamesCVec, {'date'}, {'ent_id'}];
+writetable(tbl,strcat(resFile,'result.xls'));
 %% Building a consensus rating on a reference agency
 consRankVec = srenumber(consRankMat(:,1));
 indProxy = find(strcmpi(regAgName,agNamesCVec));
