@@ -4,7 +4,8 @@ function scales = getScales( agNames )
 scales = [];
 for i = 1:length(agNames)
     tblName = strcat(agNames{i},'_Nsc');
-    fileName = strcat('scales_',tblName,'.csv');
+    %fileName = strcat('scales_',tblName,'.csv');
+    fileName = strcat(agNames{i},'_dic_Nsc.csv');
     tbl = readtable(fileName,'Delimiter',';','readRowNames',false);
     scales = setfield(scales,tblName,tbl);
 end
