@@ -1,41 +1,63 @@
-%% Set settings
+%% Settings
 % Add directories to path 
 addpath(genpath(pwd))
 
 % Starting date. Earlier data will be removed
-initDate = '2008/07/01';
+initDate = '2015/07/01';
 
-% Data type name
-suffix = 'NscQrt';
+% Switch sector between 'Bank' and 'Corp'.
+% sector = '�����';
+sector = 'Банки';
 
-% Switch sector between 'Bank' and 'Corp'. Now 'Corp' is not supported
-sector = 'Bank';
+% Directory for results
 if ispc
     resFile = 'Results\';
 elseif isunix
     resFile = './Results/';
 end
-isRgh = false;
+
+% Flag set up the equivalence of issuers with the same ratings
 isEqConsid = true;
-%[ timeVec,nscRankMat,iscRankMat,agName] = getData( initDate,suffix,sector);
-%[timeVec,nscRankMat,iscRankMat,agName] = getNewData( initDate,suffix,sector,isRgh);
-[timeVec,nscRankMat,iscRankMat,nscNormVec,agName] = getNewData_qrt( initDate,sector,isRgh);
-iscRankMat = nan(size(nscRankMat));
-maskExRatesVec = sum(~(isnan(nscRankMat)&isnan(iscRankMat)),2)>=1;
-fprintf('-- > observations with 1 or greater ranks: %i\n',sum(maskExRatesVec));
-nscRankMat = nscRankMat(maskExRatesVec,:);
-iscRankMat = iscRankMat(maskExRatesVec,:);
-timeVec = timeVec(maskExRatesVec);
-%% using genetic
+
+% Cutting is performed on observations with more than two ratings
+isObs2Vec = true;
+
+% List of agencies
+agNamesCVec = {'MDS','SP','FCH','EXP','NRA','RUS','AKM'};
+% Reference agency
+regAgName = 'MDS';
+% Source file
+fileName = 'dataFile_18042016.xls';
+% Dictionary number:(1,2,3)
+indVocab = 1;
+%% Data preparation
+data = getRankData( fileName, agNamesCVec, indVocab);
+% Reject international scale
+data.iscRankMat = nan(size(data.iscRankMat));
+% Reject another sector
+isSectorVec = strcmpi(sector,data.sectorCVec);
+% Reject earlier data
+isDateVec = data.dateVec>=datenum(initDate,'yyyy/mm/dd');
+% At least two observations
+isObsVec = sum(~(isnan(data.nscRankMat)&isnan(data.iscRankMat)),2)>=1;
+% Observations satisfying all features
+isAppropVec = isSectorVec & isDateVec & isObsVec;
+fprintf('-- > appropriate observations : %i\n',sum(isAppropVec));
+%%
+nscNormVec = data.normRankVec;
+nscRankMat = data.nscRankMat(isAppropVec,:);
+iscRankMat = data.iscRankMat(isAppropVec,:);
+timeVec = data.dateVec(isAppropVec);
+%% Building consensus rankings
 try
-    filename = [resFile,'stats',initDate(1:4),suffix,sector,datestr(now,'dd_mm(HH-MM-SS)'),'.txt'];
-    fileID = fopen(filename,'w+');
+    logFileName = [resFile,'stats',initDate(1:4),sector,datestr(now,'dd_mm(HH-MM-SS)'),'.txt'];
+    fileID = fopen(logFileName,'w+');
     if fileID == -1
         error('classification:fopen','cannot open file')
     end
-    open(filename)
+    open(logFileName)
     %
-    OptimFnc = @(lMat)genetic(lMat,100,100,30,10,0.1,fileID);
+    OptimFnc = @(lMat)genetic(lMat,100,100,30,5,0.1,fileID);
     normNscRankMat =  nscRankMat./repmat(nscNormVec(:)',size(nscRankMat,1),1);
     consRankMat = taskShareSC(timeVec , normNscRankMat , iscRankMat,...
         isEqConsid, OptimFnc);
@@ -46,27 +68,30 @@ catch err
     end
     rethrow(err);
 end
-%% best agency
+%% Building a consensus rating on a reference agency
 consRankVec = srenumber(consRankMat(:,1));
-% relMatrixArr = relationMatrix(timeVec, nscRankMat, iscRankMat, isEqConsid);
-% indProxy = findProxy( relMatrixArr,agName);
-indProxy = 2;
+indProxy = find(strcmpi(regAgName,agNamesCVec));
 proxRankVec = nscRankMat(:,indProxy);
 isNanProxVec = ~isnan(proxRankVec);
-isMinRatVec = sum(~(isnan(nscRankMat)&isnan(iscRankMat)),2)>=2;
-isObsVec = isNanProxVec;
-%isObsVec = isNanProxVec & isMinRatVec;
-kemRankVec = classifyu(consRankVec,consRankVec(isObsVec),proxRankVec(isObsVec),true);
-%kemRankVec = roundRifling(proxRankVec , consRankVec );
-%consRankVec = rifling( nscRankMat(:,indProxy), consRankVec );
-plot(consRankVec,kemRankVec,'+')
-plot(consRankVec(isObsVec),proxRankVec(isObsVec),'^g')
-%% save results
+if isObs2Vec
+    isMinRatVec = sum(~(isnan(nscRankMat)&isnan(iscRankMat)),2)>=2;
+    isClassVec = isNanProxVec & isMinRatVec;
+else
+    isClassVec = isNanProxVec;
+end
+kemRankVec = classifyu(consRankVec,consRankVec(isClassVec),proxRankVec(isClassVec),false);
+%% Save results
+resMat = nan(length(isAppropVec),2);
+resMat(isAppropVec,1) = consRankVec;
+resMat(isAppropVec,2) = kemRankVec;
+tbl = array2table(resMat,'VariableNames',{'consRank','rifConsRank'});
+writetable(tbl,strcat(resFile,'consRank.csv'));
+%% Save stats
 quantiles = [0.5 0.4 0.3 0.2 0.1];
 [medianKemMat, quantArr ,medianNumCell] = getStats(nscRankMat, kemRankVec, quantiles );
-%%
+%
 load('agGradeName.mat')
-filename = [resFile,'result',sector,suffix,initDate(1:4),agName{indProxy},'.xls'];
+logFileName = [resFile,'result',sector,initDate(1:4),agNamesCVec{indProxy},'.xls'];
 [medianKemCell,quantCell,medianCell] = ...
     convertStat(medianKemMat,quantArr,medianNumCell,agGradeName);
 dict = agGradeName{indProxy};
@@ -87,9 +112,9 @@ for i = 1:length(agGradeName)
     tbl.Properties.VariableNames = ['Median_ag' 'Median_Cons' qNames];
     %
     tbl.Properties.RowNames = proxyGrades;
-    writetable(tbl,filename,'Sheet',agName{i},'WriteRowNames',true);
+    writetable(tbl,logFileName,'Sheet',agNamesCVec{i},'WriteRowNames',true);
 end
 tbl = cell2table(medianCell);
 tbl.Properties.RowNames = proxyGrades;
-tbl.Properties.VariableNames = agName;
-writetable(tbl,filename,'Sheet','Median_ag','WriteRowNames',true);
+tbl.Properties.VariableNames = agNamesCVec;
+writetable(tbl,logFileName,'Sheet','Median_ag','WriteRowNames',true);
