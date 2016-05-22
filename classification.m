@@ -1,5 +1,5 @@
 %% Входные параметры
-initDate = '2015/07/01';
+initDate = '2008/07/01';
 sector = 'Банки';
 % директория для сохранения результатов
 resFile = 'Results\';
@@ -53,6 +53,12 @@ catch err
     end
     rethrow(err);
 end
+%%
+consRankVec = nan(size(isAppropVec));
+consRankVec(isAppropVec) = srenumber(consRankMat(:,1));
+tbl = array2table([consRankVec, data.nscRankMat, data.dateVec, data.idVec]);
+tbl.Properties.VariableNames = [{'consRank'}, agNamesCVec, {'date'}, {'ent_id'}];
+writetable(tbl,strcat(resFile,'result.xls'));
 %% Построение консенсусного рейтинга по референтному агентству
 consRankVec = srenumber(consRankMat(:,1));
 indProxy = find(strcmpi(regAgName,agNamesCVec));
@@ -70,7 +76,7 @@ resMat = nan(length(isAppropVec),2);
 resMat(isAppropVec,1) = consRankVec;
 resMat(isAppropVec,2) = kemRankVec;
 tbl = array2table(resMat);
-%tbl.Properties.VariableNames = ['consRank' ;'rifConsRank'];
+tbl.Properties.VariableNames = [{'consRank'} {'rifConsRank'}];
 writetable(tbl,strcat(resFile,'consRank.csv'));
 %% save results
 quantiles = [0.5 0.4 0.3 0.2 0.1];
