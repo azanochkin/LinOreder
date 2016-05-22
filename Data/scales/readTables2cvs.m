@@ -1,2 +1,2 @@
-agNames = {'MDS','SPC','FCH','EXP','NRA','RUS','AKM'};
+agNames = {'MDS','SPI','FCH','EXP','NRA','RUS','AKM'};
 scales = getScales( agNames )
