@@ -1,4 +1,5 @@
-function dispStats(popPnltVec,medPnltVec,nNewPop,nNewMed,cntIter,time)
+function dispStats(popPnltVec,medPnltVec,nNewPop,nNewMed,cntIter,...
+                    lastRestart,lastDevers,lastMetrEmpl,time)
 %DISPSTATS Summary of this function goes here
 %   Detailed explanation goes here
     sortPopPnltVec = sort(popPnltVec);
@@ -20,5 +21,20 @@ function dispStats(popPnltVec,medPnltVec,nNewPop,nNewMed,cntIter,time)
     fprintf('\n')
 %         fprintf('\n------- worst_Pop:')
 %         fprintf('   %i',popPnltVec(end-4:end))
+    %
+    switch cntIter
+        case lastRestart
+            fprintf('\n{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{');
+            fprintf(' restart ');
+            fprintf('}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}\n\n');
+        case lastDevers
+            fprintf('\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!');
+            fprintf(' diversification ');
+            fprintf('!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n');
+        case lastMetrEmpl
+            fprintf('\n<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<');
+            fprintf('  update  ');
+            fprintf('>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n\n');
+    end
 end
 

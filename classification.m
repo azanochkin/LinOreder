@@ -43,12 +43,13 @@ isObsVec = sum(~(isnan(data.nscRankMat)&isnan(data.iscRankMat)),2)>=1;
 % Observations satisfying all features
 isAppropVec = isSectorVec & isDateVec & isObsVec;
 fprintf('-- > appropriate observations : %i\n',sum(isAppropVec));
-%%
+% Useful observations
 nscNormVec = data.normRankVec;
 nscRankMat = data.nscRankMat(isAppropVec,:);
 iscRankMat = data.iscRankMat(isAppropVec,:);
 timeVec = data.dateVec(isAppropVec);
 %% Building consensus rankings
+nGeneticIter = 10;
 try
     logFileName = [resFile,'stats',initDate(1:4),sector,datestr(now,'dd_mm(HH-MM-SS)'),'.txt'];
     fileID = fopen(logFileName,'w+');
@@ -56,8 +57,7 @@ try
         error('classification:fopen','cannot open file')
     end
     open(logFileName)
-    %
-    OptimFnc = @(lMat)genetic(lMat,100,100,30,5,0.1,fileID);
+    OptimFnc = @(lMat)genetic(lMat,100,100,30,nGeneticIter,0.1,fileID);
     normNscRankMat =  nscRankMat./repmat(nscNormVec(:)',size(nscRankMat,1),1);
     consRankMat = taskShareSC(timeVec , normNscRankMat , iscRankMat,...
         isEqConsid, OptimFnc);

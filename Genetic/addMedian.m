@@ -33,11 +33,16 @@ function [medRankMat, medPnltVec, nNewMed] = addMedian(medRankMat,...
         medRankMat = [medRankMat, unMedOffspRankMat(isNewMedVec,:)'];
         medPnltVec = [medPnltVec, unMedOffspPnltVec(isNewMedVec)];
         if length(medPnltVec)>maxMedAmnt
-            [medPnltVec,indSortVec] = sort(medPnltVec);
-            medPnltVec = medPnltVec(1:maxMedAmnt);
-            medRankMat = medRankMat(:,indSortVec(1:maxMedAmnt));
+            [~,indSortVec] = sort(medPnltVec);
+            indCutSortVec = indSortVec(1:maxMedAmnt);
+            medPnltVec = medPnltVec(indCutSortVec);
+            medRankMat = medRankMat(:,indCutSortVec);
+            nNewMed = sum(indCutSortVec > nMed);
+        else
+            nNewMed = size(medRankMat,2) - nMed;
         end
+    else
+        nNewMed = 0;
     end
-    nNewMed = size(medRankMat,2) - nMed;
 end
 
