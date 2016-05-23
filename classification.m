@@ -1,5 +1,5 @@
 %% Входные параметры
-initDate = '2008/07/01';
+initDate = '2014/07/01';
 sector = 'Банки';
 % директория для сохранения результатов
 resFile = 'Results\';
@@ -28,21 +28,21 @@ isObsVec = sum(~(isnan(data.nscRankMat)&isnan(data.iscRankMat)),2)>=1;
 % Набор наблюдений, удовлетворяющих всем признакам
 isAppropVec = isSectorVec & isDateVec & isObsVec;
 fprintf('-- > appropriate observations : %i\n',sum(isAppropVec));
-%%
+% удаление лишнего
 nscNormVec = data.normRankVec;
 nscRankMat = data.nscRankMat(isAppropVec,:);
 iscRankMat = data.iscRankMat(isAppropVec,:);
 timeVec = data.dateVec(isAppropVec);
 %% Построение консенсусного ранжирования
+nGeneticIter = 150;
 try
     logFileName = [resFile,'stats',initDate(1:4),sector,datestr(now,'dd_mm(HH-MM-SS)'),'.txt'];
     fileID = fopen(logFileName,'w+');
     if fileID == -1
         error('classification:fopen','cannot open file')
     end
-    %open(logFileName)
-    %
-    OptimFnc = @(lMat)genetic(lMat,100,100,30,5,0.1,fileID);
+    open(logFileName)
+    OptimFnc = @(lMat)genetic(lMat,100,100,30,nGeneticIter,0.1,fileID);
     normNscRankMat =  nscRankMat./repmat(nscNormVec(:)',size(nscRankMat,1),1);
     consRankMat = taskShareSC(timeVec , normNscRankMat , iscRankMat,...
         isEqConsid, OptimFnc);
