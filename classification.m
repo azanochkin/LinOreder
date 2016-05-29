@@ -57,7 +57,7 @@ try
         error('classification:fopen','cannot open file')
     end
     open(logFileName)
-    OptimFnc = @(lMat)genetic(lMat,100,100,30,nGeneticIter,0.1,fileID);
+    OptimFnc = @(lMat)genetic(lMat,60,60,15,nGeneticIter,0.1,fileID);
     normNscRankMat =  nscRankMat./repmat(nscNormVec(:)',size(nscRankMat,1),1);
     consRankMat = taskShareSC(timeVec , normNscRankMat , iscRankMat,...
         isEqConsid, OptimFnc);

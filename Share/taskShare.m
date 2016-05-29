@@ -4,7 +4,7 @@ function [rankMat,penVec] = taskShare(lossMat, OptimFnc )
     grpLossMat = groupLossMatrix(lossMat, indEqVec);
     fprintf('Unique alternatives in lossMat: %i\n',sum(isFrstUniqVec));
     % –ассматриваем возможность разделить задачу
-    buzdShare( round(grpLossMat) );
+    %buzdShare( round(grpLossMat) );
     % Optimization
     [rankMat(isFrstUniqVec,:),penVec] = OptimFnc(grpLossMat);
     rankMat = rankMat(indEqVec,:);
