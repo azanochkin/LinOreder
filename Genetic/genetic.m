@@ -45,7 +45,7 @@ function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
         if nNewMed > 0
             lastAugMed = cntIter;
         end
-        isTerminate = cntIter > nMaxIter;
+        isTerminate = cntIter >= nMaxIter;
         if lastAugMed < cntIter - 30
             cntRestart = cntRestart + 1;
             lastRestart = cntIter;
