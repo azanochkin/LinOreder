@@ -16,7 +16,7 @@ fileName = 'dataFile_18042016.xls';
 % номер пары словарей
 indVocab = 1;
 %% Подготовка данных
-data = getRankData( fileName, agNamesCVec, indVocab);
+data = getRankData(fileName, agNamesCVec, indVocab);
 % Отбрасываем междунарожную шкалу
 data.iscRankMat = nan(size(data.iscRankMat));
 % Принадлежности к заданному сектору
