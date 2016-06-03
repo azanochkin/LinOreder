@@ -33,11 +33,9 @@ function data = getDataFromFile(fileName)
             if strcmp(agName,varNameStr(1:length(agName)))
                 if isNscVec(j)
                     nscRankMat(:,i) = dataTbl{:,j};
-                    rankNamesCVec = [rankNamesCVec, {strcat(agName, ' National')}];
                 end
                 if isIscVec(j)
                     iscRankMat(:,i) = dataTbl{:,j};
-                    rankNamesCVec = [rankNamesCVec, {strcat(agName, ' International')}];
                 end
             end
         end    
@@ -47,7 +45,7 @@ function data = getDataFromFile(fileName)
     idVec = dataTbl{:,'ent_id'};
     entityCVec = dataTbl{:,'entity'};
     sectorCVec = dataTbl{:,'sector'};
-    data = struct('agNamesVec',{agNamesCVec},'rankNamesVec',{rankNamesCVec},...
+    data = struct('agNamesVec',{agNamesCVec},...
               'IscRankMat',{iscRankMat},'NscRankMat',{nscRankMat},...   
               'dateVec',{dateVec},'idVec',{idVec},...
               'entityCVec',{entityCVec},'sectorCVec',{sectorCVec});

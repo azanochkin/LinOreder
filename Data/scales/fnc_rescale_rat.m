@@ -14,8 +14,6 @@ function [ret,sett]=fnc_rescale_rat(data_structure,...
     if ~isstruct(data_structure)
         error('data_structure не €вл€етс€ структурой.')
     end
-   
-    disp(data_structure.agNamesVec);
     
     if ~ismember(data_structure.agNamesVec,agency_id)
        error(['¬ agNamesVec структуры data_structure отсутствует информаци€ об агентстве ',agency_id,'.'])
