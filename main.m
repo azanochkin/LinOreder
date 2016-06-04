@@ -16,24 +16,80 @@ else
     gui_mainfcn(gui_State, varargin{:});
 end
 
-function main_OpeningFcn(hObject, eventdata, handles, varargin)
-handles.output = hObject;
-set(handles.next1_button, 'Enable', 'Off');
-handles.dateFormat = 'yyyy/mm/dd';
-
-
-if evalin('base', 'exist(''init_data'', ''var'')')
-    set(handles.openMat_button, 'Enable', 'On');
-else
-    set(handles.openMat_button, 'Enable', 'Off');
+%   Block of function signatures and default actions
+function fileName_edit_Callback(hObject, eventdata, handles)
+function fileName_edit_CreateFcn(hObject, eventdata, handles)
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
 end
-guidata(hObject, handles);
+function rankings_list_Callback(hObject, eventdata, handles)
+function rankings_list_CreateFcn(hObject, eventdata, handles)
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+function min_date_edit_Callback(hObject, eventdata, handles)
+function min_date_edit_CreateFcn(hObject, eventdata, handles)
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+function max_date_edit_Callback(hObject, eventdata, handles)
+function max_date_edit_CreateFcn(hObject, eventdata, handles)
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+function sector_listbox_Callback(hObject, eventdata, handles)
+function sector_listbox_CreateFcn(hObject, eventdata, handles)
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+function scales_listbox_Callback(hObject, eventdata, handles)
+function scales_listbox_CreateFcn(hObject, eventdata, handles)
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+function openMatfile_edit_CreateFcn(hObject, eventdata, handles)
+function openMat_button_CreateFcn(hObject, eventdata, handles)
+%   End block of function signatures and default actions
 
+
+function activate_panel(handles, panel)
+    %   Resizes main window to panel size,
+    %   moves panel to working place
+    
+    window_size = get(handles.figure1, 'Position');
+    panel_size = get(panel, 'Position');
+    set(handles.figure1, 'Position', [window_size(1:2), ...
+        panel_size(3:4)]); 
+    set(panel, 'Position', [0 0 panel_size(3:4)]);
+    
+function main_OpeningFcn(hObject, eventdata, handles, varargin)
+    %   Creates window, 
+    %   sets initialization variables
+    
+    handles.output = hObject;
+    handles.dateFormat = 'yyyy/mm/dd';
+    guidata(hObject, handles);
+    show1panel(handles)
+    
 function varargout = main_OutputFcn(hObject, eventdata, handles) 
-varargout{1} = handles.output;
+    %   Closes windows
+    
+    varargout{1} = handles.output;
+
+function show1panel(handles)
+    %   Shows first panel block, 
+    %   checks if init_data structure is in workspace
+    
+    set(handles.next1_button, 'Enable', 'Off');
+    activate_panel(handles, handles.panel1);
+    if evalin('base', 'exist(''init_data'', ''var'')')
+        set(handles.openMat_button, 'Enable', 'On');
+    else
+        set(handles.openMat_button, 'Enable', 'Off');
+    end
 
 function fileName_button_Callback(hObject, eventdata, handles)
-    % Open file with rankings
+    % Opens file with rankings
   
     [FileName,PathName] = uigetfile({'*.xls'; '*.csv'}, 'Select file to open');
     
@@ -50,91 +106,61 @@ function fileName_button_Callback(hObject, eventdata, handles)
     end
     
 function next1_button_Callback(hObject, eventdata, handles)
-    % Move action to new panel
+    % 	Sends user to second block
+    %   sets up all ui elements
+    %   checks if ext_data is in workspace
+    
+    activate_panel(handles, handles.panel2);
+    %
     set(handles.panel2, 'Visible', 'On');
     set(handles.panel1, 'Visible', 'Off');
-    
+    %
     set(handles.min_date_edit, 'String', datestr(min(handles.data.dateVec), handles.dateFormat));
     set(handles.max_date_edit, 'String', datestr(max(handles.data.dateVec), handles.dateFormat));
-    
+    %
     set(handles.sector_listbox, 'String', unique(handles.data.sectorCVec));
     set(handles.sector_listbox, 'Max', numel(unique(handles.data.sectorCVec)));
-    
+    %
     set(handles.rank_listbox, 'String', handles.data.rankNamesVec);
-    
     set(handles.rank_listbox, 'Max', numel(handles.data.rankNamesVec));
-    
+    %
     handles.data.scales_names = getScalesNames(handles.data.scales);
-    
+    %
     set(handles.scales_listbox, 'String', handles.data.scales_names);
-    
+    %
     guidata(gcbo, handles);
-
+    %
+    if evalin('base', 'exist(''ext_data'', ''var'')')
+        set(handles.skip2_button, 'Enable', 'On');
+    else
+        set(handles.skip2_button, 'Enable', 'Off');
+    end
+    %
     assignin('base', 'init_data', handles.data);
 
-function fileName_edit_Callback(hObject, eventdata, handles)
-
-function fileName_edit_CreateFcn(hObject, eventdata, handles)
-if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
-    set(hObject,'BackgroundColor','white');
-end
-
-function rankings_list_Callback(hObject, eventdata, handles)
-
-function rankings_list_CreateFcn(hObject, eventdata, handles)
-if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
-    set(hObject,'BackgroundColor','white');
-end
-
-function min_date_edit_Callback(hObject, eventdata, handles)
-
-function min_date_edit_CreateFcn(hObject, eventdata, handles)
-if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
-    set(hObject,'BackgroundColor','white');
-end
-
-function max_date_edit_Callback(hObject, eventdata, handles)
-
-function max_date_edit_CreateFcn(hObject, eventdata, handles)
-if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
-    set(hObject,'BackgroundColor','white');
-end
-
-function sector_listbox_Callback(hObject, eventdata, handles)
-
-function sector_listbox_CreateFcn(hObject, eventdata, handles)
-if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
-    set(hObject,'BackgroundColor','white');
-end
-
-function scales_listbox_Callback(hObject, eventdata, handles)
-
-function scales_listbox_CreateFcn(hObject, eventdata, handles)
-if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
-    set(hObject,'BackgroundColor','white');
-end
-
-function openMatfile_edit_CreateFcn(hObject, eventdata, handles)
-
-function openMat_button_CreateFcn(hObject, eventdata, handles)
-
 function ret = getSettingStep2(handles)
-    ret = handles.data;
+    %   Gets all data user sets
+    %   rewrite it to main data structure
     
+    ret = handles.data;
+    %
     ret.min_date_selected = datenum(get(handles.min_date_edit, 'String'));
     ret.max_date_selected = datenum(get(handles.max_date_edit, 'String'));
-    
+    %
     index_selected = get(handles.sector_listbox, 'Value');
     ret.sector_selected = handles.data.sectorCVec(index_selected);
-    
+    %
     index_selected = get(handles.scales_listbox, 'Value');
     ret.scales_selected = index_selected;
-    
+    %
     index_selected = get(handles.rank_listbox, 'Value');
-    
+    %
     ret.rank_names_selected = handles.data.rankNamesVec(index_selected);
     
 function openMat_button_Callback(hObject, eventdata, handles)  
+    %   Loads init_data structure from workspace
+    %   throws error in case of not-existing
+    
     try 
         handles.data = evalin('base', 'init_data');
         guidata(gcbo, handles);
@@ -144,20 +170,23 @@ function openMat_button_Callback(hObject, eventdata, handles)
     end
           
 function save2_button_Callback(hObject, eventdata, handles)
-    % Button saves data structure to *.mat file
+    %   Saves data structure to *.mat file
+    
     [FileName,~] = uiputfile({'*.mat'}, 'Select file to save');
     getSettingStep2(handles);
     data = handles.data;
     save(FileName, 'data');
+    
+function show3step(handles)
+    set(handles.panel_3, 'Visible', 'On');
+    set(handles.panel2, 'Visible', 'Off');
+    activate_panel(handles, panel_3);
 
 function next2_button_Callback(hObject, eventdata, handles)
     handles.data = getSettingStep2(handles);
-
-    set(handles.panel2, 'Visible', 'Off');
-
     handles.data.scAggrType = 1;
     
-    % ????
+    % Why do we do it????
     % handles.data.iscRankMat = nan(size(handles.data.iscRankMat));
     
     handles.data.isSectorVec = ...
@@ -195,8 +224,12 @@ function next2_button_Callback(hObject, eventdata, handles)
     end
     assignin('base', 'ext_data', handles.data);
     
+    set(handles.panel2, 'Visible', 'Off');
+
     disp('All done');
     guidata(gcbo, handles);
+    
+    show3step(handles);
     
 function rank_listbox_Callback(hObject, eventdata, handles)
 
@@ -205,9 +238,69 @@ if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgr
     set(hObject,'BackgroundColor','white');
 end
 
+function skip2_button_Callback(hObject, eventdata, handles)
+    try 
+        handles.data = evalin('base', 'ext_data');
+        guidata(gcbo, handles);
+        show3step(handles);
+    catch 
+        error('Data structure is not in workspace!');
+    end
 
-% --- Executes on button press in pushbutton7.
-function pushbutton7_Callback(hObject, eventdata, handles)
-% hObject    handle to pushbutton7 (see GCBO)
-% eventdata  reserved - to be defined in a future version of MATLAB
-% handles    structure with handles and user data (see GUIDATA)
+function start_button_Callback(hObject, eventdata, handles)
+    try 
+        handles.data.nGeneticIter = str2num(get(handles.nIter_edit, 'String'));
+    catch 
+        msgbox('Number of iterations must be integer value!');
+        return;
+    end
+    
+    %Kostyl' :D
+    try
+        logFileName = [handles.data.resFile,'stats', ...
+            handles.data.sector,datestr(now,'dd_mm(HH-MM-SS)'),'.txt'];
+        fileID = fopen(logFileName,'w+');
+        if fileID == -1
+            error('classification:fopen','cannot open file')
+        end
+        open(logFileName)
+        OptimFnc = @(lMat)genetic(lMat,60,60,15,...
+            handles.data.nGeneticIter,0.1,fileID);
+        handles.data.normNscRankMat =  handles.data.NscRankMat./...
+            repmat(handles.data.NscNormVec(:)',size(handles.data.NscRankMat,1),1);
+        handles.data.consRankMat = taskShareSC(handles.data.timeVec,...
+            handles.data.normNscRankMat, handles.data.IscRankMat,...
+            handles.data.isEqConsid, OptimFnc);
+        fclose(fileID);
+    catch err
+        if ~(strcmp(err.identifier,'classification:fopen'))
+%             fclose(fileID);
+        end
+        rethrow(err);
+    end
+    
+    guidata(gcbo, handles);
+    
+function nIter_edit_Callback(hObject, eventdata, handles)
+
+function nIter_edit_CreateFcn(hObject, eventdata, handles)
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+function resFile_edit_Callback(hObject, eventdata, handles)
+
+function resFile_edit_CreateFcn(hObject, eventdata, handles)
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+function save3_button_Callback(hObject, eventdata, handles)
+    [FileName,PathName] = uiputfile('.xls', 'Select file to open');
+    
+    if FileName
+        handles.data.resFile = strcat(PathName, FileName);
+        set(handles.resFile_edit, 'String', handles.data.resFile);
+        guidata(gcbo, handles); 
+        set(handles.start_button, 'Enable', 'On');
+    end
