@@ -20,6 +20,7 @@ function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
     unMedPnltVec = [];
     %
     while ~(isTerminate||isPropStop)
+        disp('In th eforst while loop');
         [popRankMat, popPnltVec] = popGeneration(lossMat,nPopulation);
         popDistMat = linOrderPrwDist(popRankMat);
         medRankMat = [];

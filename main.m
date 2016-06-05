@@ -49,6 +49,16 @@ if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgr
 end
 function openMatfile_edit_CreateFcn(hObject, eventdata, handles)
 function openMat_button_CreateFcn(hObject, eventdata, handles)
+function nIter_edit_Callback(hObject, eventdata, handles)
+function nIter_edit_CreateFcn(hObject, eventdata, handles)
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+function resFile_edit_Callback(hObject, eventdata, handles)
+function resFile_edit_CreateFcn(hObject, eventdata, handles)
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
 %   End block of function signatures and default actions
 
 
@@ -178,9 +188,9 @@ function save2_button_Callback(hObject, eventdata, handles)
     save(FileName, 'data');
     
 function show3step(handles)
-    set(handles.panel_3, 'Visible', 'On');
+    set(handles.panel3, 'Visible', 'On');
     set(handles.panel2, 'Visible', 'Off');
-    activate_panel(handles, panel_3);
+    activate_panel(handles, handles.panel3);
 
 function next2_button_Callback(hObject, eventdata, handles)
     handles.data = getSettingStep2(handles);
@@ -255,17 +265,22 @@ function start_button_Callback(hObject, eventdata, handles)
         return;
     end
     
+    handles.data.isEqConsid = true;
+    
     %Kostyl' :D
     try
         logFileName = [handles.data.resFile,'stats', ...
-            handles.data.sector,datestr(now,'dd_mm(HH-MM-SS)'),'.txt'];
+            datestr(now,'dd_mm(HH-MM-SS)'),'.txt'];
+        
         fileID = fopen(logFileName,'w+');
         if fileID == -1
             error('classification:fopen','cannot open file')
         end
-        open(logFileName)
+        %open(logFileName);
+        
         OptimFnc = @(lMat)genetic(lMat,60,60,15,...
             handles.data.nGeneticIter,0.1,fileID);
+        
         handles.data.normNscRankMat =  handles.data.NscRankMat./...
             repmat(handles.data.NscNormVec(:)',size(handles.data.NscRankMat,1),1);
         handles.data.consRankMat = taskShareSC(handles.data.timeVec,...
@@ -281,23 +296,9 @@ function start_button_Callback(hObject, eventdata, handles)
     
     guidata(gcbo, handles);
     
-function nIter_edit_Callback(hObject, eventdata, handles)
-
-function nIter_edit_CreateFcn(hObject, eventdata, handles)
-if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
-    set(hObject,'BackgroundColor','white');
-end
-
-function resFile_edit_Callback(hObject, eventdata, handles)
-
-function resFile_edit_CreateFcn(hObject, eventdata, handles)
-if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
-    set(hObject,'BackgroundColor','white');
-end
-
 function save3_button_Callback(hObject, eventdata, handles)
     [FileName,PathName] = uiputfile('.xls', 'Select file to open');
-    
+    %
     if FileName
         handles.data.resFile = strcat(PathName, FileName);
         set(handles.resFile_edit, 'String', handles.data.resFile);
