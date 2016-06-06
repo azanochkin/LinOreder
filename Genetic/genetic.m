@@ -19,8 +19,11 @@ function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
     unMedRankMat = [];
     unMedPnltVec = [];
     %
-    while ~(isTerminate||isPropStop)
-        disp('In th eforst while loop');
+    isAborted = evalin('base', 'isAborted');
+    % Pause is needed to synchro 
+    pause(0.1);
+    %
+    while ~(isTerminate||isPropStop||isAborted)
         [popRankMat, popPnltVec] = popGeneration(lossMat,nPopulation);
         popDistMat = linOrderPrwDist(popRankMat);
         medRankMat = [];
@@ -34,7 +37,10 @@ function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
         lastAugPop = cntIter;
         lastDevers = cntIter;
         lastMetrEmpl = cntIter;
-        while ~(isRestart||isTerminate)
+        % Pause is needed to synchro 
+        pause(0.1);
+        isAborted = evalin('base', 'isAborted');
+        while ~(isRestart||isTerminate||isAborted)
             tic
             cntIter = cntIter + 1;
             [offspRankMat, offspPnltVec] = ...
@@ -83,6 +89,10 @@ function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
                            cntIter,lastRestart,lastDevers,cntRestart,cntDevers)
             end
             %save('Results\midRes.mat','medRankMat');
+            %
+            % Pause is needed to synchro 
+            pause(0.1);
+            isAborted = evalin('base', 'isAborted');
         end
         if isempty(unMedPnltVec)
             isNewMin = true;
@@ -93,6 +103,9 @@ function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
             addMedian(unMedRankMat,unMedPnltVec,medRankMat,medPnltVec,maxMedAmnt);
         isPropStop = ~isNewMin && (nUnNewMed < minMed2Stop);
         cntRestart = cntRestart + 1;
+        % Pause is needed to synchro 
+        pause(0.1);
+        isAborted = evalin('base', 'isAborted');
     end
 end
 

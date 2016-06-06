@@ -24,8 +24,8 @@ function data = getDataFromFile(fileName)
     iscRankMat = nan(nAltern,nAgenc);
     nscRankMat = nan(nAltern,nAgenc);
     
-    rankNamesCVec = {};
-    
+    nscRankMat_header = {};
+    iscRankMat_header = {};
     for i = 1:nAgenc
         agName = agNamesCVec{i};
         for j = 1:nVariab
@@ -33,9 +33,11 @@ function data = getDataFromFile(fileName)
             if strcmp(agName,varNameStr(1:length(agName)))
                 if isNscVec(j)
                     nscRankMat(:,i) = dataTbl{:,j};
+                    nscRankMat_header = [nscRankMat_header, agName];
                 end
                 if isIscVec(j)
                     iscRankMat(:,i) = dataTbl{:,j};
+                    iscRankMat_header = [iscRankMat_header, agName];
                 end
             end
         end    
@@ -48,5 +50,7 @@ function data = getDataFromFile(fileName)
     data = struct('agNamesVec',{agNamesCVec},...
               'IscRankMat',{iscRankMat},'NscRankMat',{nscRankMat},...   
               'dateVec',{dateVec},'idVec',{idVec},...
-              'entityCVec',{entityCVec},'sectorCVec',{sectorCVec});
+              'entityCVec',{entityCVec},'sectorCVec',{sectorCVec}, ...
+              'NscRankMat_header', {nscRankMat_header}, ...
+              'IscRankMat_header', {iscRankMat_header});
 end

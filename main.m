@@ -59,8 +59,12 @@ function resFile_edit_CreateFcn(hObject, eventdata, handles)
 if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
     set(hObject,'BackgroundColor','white');
 end
+function rank_listbox_Callback(hObject, eventdata, handles)
+function rank_listbox_CreateFcn(hObject, eventdata, handles)
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
 %   End block of function signatures and default actions
-
 
 function activate_panel(handles, panel)
     %   Resizes main window to panel size,
@@ -109,7 +113,7 @@ function fileName_button_Callback(hObject, eventdata, handles)
         
         handles.data = getDataFromFile(handles.upload_data.fileName);
         handles.data.scales = getScales(handles.data.agNamesVec);
-        
+        handles.data.normRankVec = getMaxScale(handles.data.scales, 1);
         handles.data.rankNamesVec = fieldnames(handles.data.scales);
         guidata(gcbo, handles); 
         set(handles.next1_button, 'Enable', 'On');
@@ -166,6 +170,18 @@ function ret = getSettingStep2(handles)
     index_selected = get(handles.rank_listbox, 'Value');
     %
     ret.rank_names_selected = handles.data.rankNamesVec(index_selected);
+    ret.Nsc_indeces_selected = []
+    ret.Isc_indeces_selected = []
+    for i=1:numel(ret.rank_names_selected)
+        current = ret.rank_names_selected{i};
+        if strcmp(current(end-2:end), 'Nsc')
+            ret.Nsc_indeces_selected = [ret.Nsc_indeces_selected, ...
+                find(strcmp(ret.NscRankMat_header, current(1:end-4)))];
+        elseif strcmp(current(end-2:end), 'Isc')
+            ret.Isc_indeces_selected = [ret.Isc_indeces_selected, ...
+                find(strcmp(ret.IscRankMat_header, current(1:end-4)))];
+        end
+    end
     
 function openMat_button_Callback(hObject, eventdata, handles)  
     %   Loads init_data structure from workspace
@@ -181,7 +197,7 @@ function openMat_button_Callback(hObject, eventdata, handles)
           
 function save2_button_Callback(hObject, eventdata, handles)
     %   Saves data structure to *.mat file
-    
+   
     [FileName,~] = uiputfile({'*.mat'}, 'Select file to save');
     getSettingStep2(handles);
     data = handles.data;
@@ -195,32 +211,35 @@ function show3step(handles)
 function next2_button_Callback(hObject, eventdata, handles)
     handles.data = getSettingStep2(handles);
     handles.data.scAggrType = 1;
-    
-    % Why do we do it????
-    % handles.data.iscRankMat = nan(size(handles.data.iscRankMat));
-    
+    %
     handles.data.isSectorVec = ...
         strcmpi(handles.data.sector_selected, handles.data.sectorCVec);
     handles.data.isDateVec = ...
         handles.data.dateVec >= handles.data.min_date_selected & ...
         handles.data.dateVec <= handles.data.max_date_selected;
-    
+    %
     handles.data.isObsVec = ...
         sum(~(isnan(handles.data.NscRankMat)&isnan(handles.data.IscRankMat)),2)>=1;
     handles.data.isAppropVec = handles.data.isSectorVec & ...
         handles.data.isDateVec & ...
         handles.data.isObsVec;
-    
+    %
     fprintf('-- > appropriate observations : %i\n',sum(handles.data.isAppropVec));
-    
+    %
     handles.data.normRankVec = getMaxScale(handles.data.scales, ...
         handles.data.scales_selected);
     handles.data.NscNormVec = handles.data.normRankVec;
+    % 
+    % Leave only date-, sector-selected
     handles.data.NscRankMat = handles.data.NscRankMat(handles.data.isAppropVec,:);
     handles.data.IscRankMat = handles.data.IscRankMat(handles.data.isAppropVec,:);
+    handles.data.dateVec = handles.data.dateVec(handles.data.isAppropVec,:);
+    handles.data.entityCVec = handles.data.entityCVec(handles.data.isAppropVec,:);
+    handles.data.sectorCVec = handles.data.sectorCVec(handles.data.isAppropVec,:);
+    %
     handles.data.timeVec = handles.data.dateVec(handles.data.isAppropVec);
-    handles.data.nGeneticIter = 500;
-    
+    handles.data.nGeneticIter = 200;
+    %
     for i = 1:numel(handles.data.rank_names_selected)
         current = handles.data.rank_names_selected{i};
         current_name = current(1:3);
@@ -232,21 +251,22 @@ function next2_button_Callback(hObject, eventdata, handles)
         ind=strcmp(handles.data.agNamesVec,current_name); %#ok<NASGU>
         eval(['handles.data.',current_scale_type,'RankMat(:,ind) = scaledRank;']); 
     end
+    % Leaves ony selected agences
+    % Not selected columns changed to NaN-value.
+    handles.data.NscRankMat(:, setdiff(1:end, handles.data.Nsc_indeces_selected)) = NaN;
+    handles.data.NscNormVec(setdiff(1:end, handles.data.Nsc_indeces_selected)) = NaN;
+    handles.data.IscRankMat(:, setdiff(1:end, handles.data.Isc_indeces_selected)) = NaN;
+    
+%     Old version -- columns were removed
+%
+%     handles.data.NscRankMat = handles.data.NscRankMat(:, handles.data.Nsc_indeces_selected);
+%     handles.data.NscNormVec = handles.data.NscNormVec(handles.data.Nsc_indeces_selected);
+%     handles.data.IscRankMat = handles.data.IscRankMat(:, handles.data.Isc_indeces_selected);
+    %
     assignin('base', 'ext_data', handles.data);
-    
-    set(handles.panel2, 'Visible', 'Off');
-
-    disp('All done');
+    %
     guidata(gcbo, handles);
-    
     show3step(handles);
-    
-function rank_listbox_Callback(hObject, eventdata, handles)
-
-function rank_listbox_CreateFcn(hObject, eventdata, handles)
-if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
-    set(hObject,'BackgroundColor','white');
-end
 
 function skip2_button_Callback(hObject, eventdata, handles)
     try 
@@ -265,36 +285,63 @@ function start_button_Callback(hObject, eventdata, handles)
         return;
     end
     
+    set(handles.start_button, 'Enable', 'Off');
+    set(handles.abort3_button, 'Enable', 'On');
+    
     handles.data.isEqConsid = true;
     
-    %Kostyl' :D
     try
-        logFileName = [handles.data.resFile,'stats', ...
+        handles.data.logFileName = [handles.data.resFile,'stats', ...
             datestr(now,'dd_mm(HH-MM-SS)'),'.txt'];
         
-        fileID = fopen(logFileName,'w+');
+        fileID = fopen(handles.data.logFileName,'w+');
         if fileID == -1
             error('classification:fopen','cannot open file')
         end
-        %open(logFileName);
+        
+        assignin('base', 'isAborted', false);
         
         OptimFnc = @(lMat)genetic(lMat,60,60,15,...
             handles.data.nGeneticIter,0.1,fileID);
-        
+        disp(handles.data.NscNormVec(:)');
+        disp(size(repmat(handles.data.NscNormVec(:)',size(handles.data.NscRankMat,1),1)));
+        disp(size(handles.data.NscRankMat));
         handles.data.normNscRankMat =  handles.data.NscRankMat./...
             repmat(handles.data.NscNormVec(:)',size(handles.data.NscRankMat,1),1);
+
         handles.data.consRankMat = taskShareSC(handles.data.timeVec,...
             handles.data.normNscRankMat, handles.data.IscRankMat,...
             handles.data.isEqConsid, OptimFnc);
         fclose(fileID);
     catch err
         if ~(strcmp(err.identifier,'classification:fopen'))
-%             fclose(fileID);
+             fclose(fileID);
         end
         rethrow(err);
     end
     
+    handles.data.consRankVec = nan(size(handles.data.isAppropVec));
+    handles.data.consRankVec(handles.data.isAppropVec) = ...
+        srenumber(handles.data.consRankMat(:,1));
+    tbl = array2table([handles.data.consRankVec, handles.data.nscRankMat, ...
+        handles.data.dateVec, handles.data.idVec]);
+    tbl.Properties.VariableNames = [{'consRank'}, handles.data.agNamesCVec, ...
+        {'date'}, {'ent_id'}];
+    writetable(tbl,strcat(handles.data.resFile,'result.xls'));
+   
+    set(handles.start_button, 'Enable', 'On');
+    set(handles.abort3_button, 'Enable', 'Off');
     guidata(gcbo, handles);
+    assignin('base', 'ext_data', handles.data);
+    
+    handles.data.ConsRanking = struct('consRankVec', {handles.data.consRankVec}, ...
+        'nIteration', handles.data.nGeneticIter, ...
+        'log', handles.data.logFileName);
+    
+    assignin('base', 'ConsRanking', handles.data.consRanking);
+    
+    % TODO: save to xls
+    
     
 function save3_button_Callback(hObject, eventdata, handles)
     [FileName,PathName] = uiputfile('.xls', 'Select file to open');
@@ -305,3 +352,7 @@ function save3_button_Callback(hObject, eventdata, handles)
         guidata(gcbo, handles); 
         set(handles.start_button, 'Enable', 'On');
     end
+
+function abort3_button_Callback(hObject, eventdata, handles)
+    assignin('base', 'isAborted', true);
+    
