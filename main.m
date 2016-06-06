@@ -64,6 +64,60 @@ function rank_listbox_CreateFcn(hObject, eventdata, handles)
 if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
     set(hObject,'BackgroundColor','white');
 end
+function agences4_listbox_Callback(hObject, eventdata, handles)
+function agences4_listbox_CreateFcn(hObject, eventdata, handles)
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+function scale_name_listbox_Callback(hObject, eventdata, handles)
+function scale_name_listbox_CreateFcn(hObject, eventdata, handles)
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+function edit13_Callback(hObject, eventdata, handles)
+function edit13_CreateFcn(hObject, eventdata, handles)
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+function edit14_Callback(hObject, eventdata, handles)
+function edit14_CreateFcn(hObject, eventdata, handles)
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+function clas_type_popup_Callback(hObject, eventdata, handles)
+function clas_type_popup_CreateFcn(hObject, eventdata, handles)
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+function cd_index_popup_Callback(hObject, eventdata, handles)
+function cd_index_popup_CreateFcn(hObject, eventdata, handles)
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+function aggrtype_popup_Callback(hObject, eventdata, handles)
+function aggrtype_popup_CreateFcn(hObject, eventdata, handles)
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end 
+function mapped_aggr_type_popup_Callback(hObject, eventdata, handles)
+function mapped_aggr_type_popup_CreateFcn(hObject, eventdata, handles)
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+function quantile_edit_Callback(hObject, eventdata, handles)
+function quantile_edit_CreateFcn(hObject, eventdata, handles)
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+function mapping_approach_popup_CreateFcn(hObject, eventdata, handles)
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+function group_start_edit_Callback(hObject, eventdata, handles)
+function group_start_edit_CreateFcn(hObject, eventdata, handles)
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
 %   End block of function signatures and default actions
 
 function activate_panel(handles, panel)
@@ -170,8 +224,8 @@ function ret = getSettingStep2(handles)
     index_selected = get(handles.rank_listbox, 'Value');
     %
     ret.rank_names_selected = handles.data.rankNamesVec(index_selected);
-    ret.Nsc_indeces_selected = []
-    ret.Isc_indeces_selected = []
+    ret.Nsc_indeces_selected = [];
+    ret.Isc_indeces_selected = [];
     for i=1:numel(ret.rank_names_selected)
         current = ret.rank_names_selected{i};
         if strcmp(current(end-2:end), 'Nsc')
@@ -323,26 +377,48 @@ function start_button_Callback(hObject, eventdata, handles)
     handles.data.consRankVec = nan(size(handles.data.isAppropVec));
     handles.data.consRankVec(handles.data.isAppropVec) = ...
         srenumber(handles.data.consRankMat(:,1));
-    tbl = array2table([handles.data.consRankVec, handles.data.nscRankMat, ...
+    tbl = array2table([handles.data.consRankVec, handles.data.NscRankMat, ...
         handles.data.dateVec, handles.data.idVec]);
-    tbl.Properties.VariableNames = [{'consRank'}, handles.data.agNamesCVec, ...
+    tbl.Properties.VariableNames = [{'consRank'}, handles.data.agNamesVec, ...
         {'date'}, {'ent_id'}];
-    writetable(tbl,strcat(handles.data.resFile,'result.xls'));
-   
+    writetable(tbl,handles.data.resFile);
+    %
     set(handles.start_button, 'Enable', 'On');
     set(handles.abort3_button, 'Enable', 'Off');
-    guidata(gcbo, handles);
-    assignin('base', 'ext_data', handles.data);
-    
+    %
     handles.data.ConsRanking = struct('consRankVec', {handles.data.consRankVec}, ...
         'nIteration', handles.data.nGeneticIter, ...
         'log', handles.data.logFileName);
+    assignin('base', 'cons_data', handles.data);
+    assignin('base', 'ConsRanking', handles.data.ConsRanking);
+   
+    % TODO : save to xls
+    % TODO : skip this block
+    % TODO : restructure log
+
+    show4step(handles);
+    guidata(gcbo, handles);
     
-    assignin('base', 'ConsRanking', handles.data.consRanking);
-    
-    % TODO: save to xls
-    
-    
+function show4step(handles)
+    set(handles.panel4, 'Visible', 'On');
+    set(handles.panel3, 'Visible', 'Off');
+    activate_panel(handles, handles.panel4);
+    %
+    handles.data.name_scale_string = handles.data.rankNamesVec;
+    %
+    set(handles.scale_name_listbox, 'String', handles.data.name_scale_string);
+    set(handles.scale_name_listbox, 'Max', numel(handles.data.name_scale_string));
+    %
+    set(handles.agences4_listbox, 'String', handles.data.rank_names_selected);
+    %
+    set(handles.cons_aggrtype_text, 'String', ...
+        handles.data.scales_names(handles.data.scales_selected));
+    %
+    set(handles.mapped_aggr_type_popup, 'String', handles.data.scales_names);
+    %
+    set(handles.aggrtype_popup, 'String', handles.data.scales_names);
+    guidata(gcbo, handles);
+       
 function save3_button_Callback(hObject, eventdata, handles)
     [FileName,PathName] = uiputfile('.xls', 'Select file to open');
     %
@@ -356,3 +432,92 @@ function save3_button_Callback(hObject, eventdata, handles)
 function abort3_button_Callback(hObject, eventdata, handles)
     assignin('base', 'isAborted', true);
     
+function next4_button_Callback(hObject, eventdata, handles)
+    handles.data.name_scale_string = handles.data.rankNamesVec;
+    %
+    handles.data.ref_ag_id = ...
+        handles.data.rank_names_selected{get(handles.agences4_listbox, 'Value')}(1:3);
+    %
+    handles.data.ref_scale_type = ...
+        handles.data.rank_names_selected{get(handles.agences4_listbox, 'Value')}(5:end);
+    %
+    handles.data.ref_sc_aggr_type = get(handles.aggrtype_popup, 'Value');
+    %
+    handles.data.rankScale_to_compare = ...
+        handles.data.name_scale_string(get(handles.scale_name_listbox, 'Value'));
+    %
+    handles.data.ref_ag = ...
+        handles.data.rank_names_selected(get(handles.agences4_listbox, 'Value'));
+    %
+    handles.data.condition_flag = get(handles.cd_index_popup, 'Value');
+    %
+    handles.data.ref_sc_method = get(handles.clas_type_popup, 'Value');
+    %
+    handles.data.mapped_aggr_type = ...
+        get(handles.mapped_aggr_type_popup, 'Value');
+    %
+    handles.data.joint_dists = {};
+    %
+    for i=1:numel(handles.data.rankScale_to_compare)
+        current = handles.data.rankScale_to_compare{i};
+        cur_ag = current(1:3);
+        cur_scale = current(5:end);
+        %
+        result = fnc_get_joint_distrs(handles.data, ...
+            handles.data.ref_ag_id(1:3), ...
+            handles.data.ref_scale_type, ...
+            handles.data.ref_sc_aggr_type, ...
+            cur_ag, cur_scale, ...
+            handles.data.mapped_aggr_type, ...
+            handles.data.condition_flag, ...
+            handles.data.ref_sc_method, 0);
+        %
+        handles.data.joint_dists = [handles.data.joint_dists, result];
+    end
+    
+    guidata(gcbo, handles); 
+    assignin('base', 'comp_data', handles.data);
+    show5step(handles);
+    
+function skip3_button_Callback(hObject, eventdata, handles)
+    try 
+        handles.data = evalin('base', 'cons_data');
+    catch 
+        error('Data structure is not in workspace!');
+    end
+    guidata(gcbo, handles);
+    show4step(handles);
+
+function skip4_button_Callback(hObject, eventdata, handles)
+    try 
+        handles.data = evalin('base', 'comp_data');
+    catch 
+        error('Data structure is not in workspace!');
+    end
+    guidata(gcbo, handles);
+    show5step(handles);
+
+ function show5step(handles)
+    set(handles.panel5, 'Visible', 'On');
+    set(handles.panel4, 'Visible', 'Off');
+    activate_panel(handles, handles.panel5);
+   
+function finish_button_Callback(hObject, eventdata, handles)
+    handles.data.mapping_approach = get(handles.mapping_approach_popup, 'Value');
+    %
+    handles.data.quantile = str2double(get(handles.quantile_edit, 'String'));
+    %
+    handles.data.group_start = str2num(get(handles.group_start_edit, 'String'));
+    
+    result = fnc_get_mapping(handles.data.joint_dists, ...
+        handles.data.mapping_approach, ...
+        handles.data.group_start, ...
+        handles.data.quantile);
+    
+    assignin('base', 'mapping', result);
+    guidata(gcbo, handles); 
+        
+function mapping_approach_popup_Callback(hObject, eventdata, handles)
+    if get(hObject, 'Value') == 3
+        set(handles.quantile_edit, 'String', '0.9');
+    end
