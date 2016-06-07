@@ -287,11 +287,11 @@ function next2_button_Callback(hObject, eventdata, handles)
     % Leave only date-, sector-selected
     handles.data.NscRankMat = handles.data.NscRankMat(handles.data.isAppropVec,:);
     handles.data.IscRankMat = handles.data.IscRankMat(handles.data.isAppropVec,:);
-    handles.data.dateVec = handles.data.dateVec(handles.data.isAppropVec,:);
+    handles.data.dateVec = handles.data.dateVec(handles.data.isAppropVec);
     handles.data.entityCVec = handles.data.entityCVec(handles.data.isAppropVec,:);
     handles.data.sectorCVec = handles.data.sectorCVec(handles.data.isAppropVec,:);
     %
-    handles.data.timeVec = handles.data.dateVec(handles.data.isAppropVec);
+    handles.data.timeVec = handles.data.dateVec;
     handles.data.nGeneticIter = 200;
     %
     for i = 1:numel(handles.data.rank_names_selected)
@@ -357,12 +357,10 @@ function start_button_Callback(hObject, eventdata, handles)
         
         OptimFnc = @(lMat)genetic(lMat,60,60,15,...
             handles.data.nGeneticIter,0.1,fileID);
-        disp(handles.data.NscNormVec(:)');
-        disp(size(repmat(handles.data.NscNormVec(:)',size(handles.data.NscRankMat,1),1)));
-        disp(size(handles.data.NscRankMat));
+        %
         handles.data.normNscRankMat =  handles.data.NscRankMat./...
             repmat(handles.data.NscNormVec(:)',size(handles.data.NscRankMat,1),1);
-
+        %
         handles.data.consRankMat = taskShareSC(handles.data.timeVec,...
             handles.data.normNscRankMat, handles.data.IscRankMat,...
             handles.data.isEqConsid, OptimFnc);
@@ -404,7 +402,7 @@ function show4step(handles)
     set(handles.panel3, 'Visible', 'Off');
     activate_panel(handles, handles.panel4);
     %
-    handles.data.name_scale_string = handles.data.rankNamesVec;
+    handles.data.name_scale_string = handles.data.rank_names_selected;
     %
     set(handles.scale_name_listbox, 'String', handles.data.name_scale_string);
     set(handles.scale_name_listbox, 'Max', numel(handles.data.name_scale_string));
