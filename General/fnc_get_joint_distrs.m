@@ -84,22 +84,23 @@ function results=fnc_get_joint_distrs(data_structure,...
     eval(['r_dick=data_structure.scales.',rn,'_',rs,';']);
     if ~ismember(ref_sc_aggr_type,[1:width(r_dick)/2])  
            warning(['Недопустимое значение ref_sc_aggr_type. Приcвоено значение по умолчанию. Максимум значения ',num2str(width(r_dick)/2),'.'])
-           ref_sc_aggr_type=data_structure.scAggrType;
+           ref_sc_aggr_type=data_structure.scAggr4Cons;
     end
     rf=ref_sc_aggr_type; 
      
     eval(['a_dick=data_structure.scales.',an,'_',as,';']);
     
-    disp(mapped_sc_aggr_type);
-    disp([1:width(a_dick)/2]);
+%     disp(mapped_sc_aggr_type);
+%     disp([1:width(a_dick)/2]);
     
     if ~ismember(mapped_sc_aggr_type,[1:width(a_dick)/2])  
            warning(['Недопустимое значение mapped_sc_aggr_type. Приcвоено значение по умолчанию. Максимум значения ',num2str(width(a_dick)/2),'.'])
-           mapped_sc_aggr_type=data_structure.scAggrType;
+           mapped_sc_aggr_type=data_structure.scAggr4Cons;
     end
     af=mapped_sc_aggr_type; 
     
-
+display(['ref=',rn,', mapped=',an,'.'])
+    
 switch nargin
     case 7
     condition_flag=0;

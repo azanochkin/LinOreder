@@ -16,7 +16,7 @@ function rankMat = taskShareSC(timeVec, nscRankMat, iscRankMat, isEqConsid, Opti
     %lossCompMat = lossMat;
     %lossCompMat = lossMat+lossSqMat/normSqConst;
     lossCompMat = lossMat+lossMetrMat/normMetrConst;
-    [tmpRankMat,penVec] = taskShare(lossCompMat,OptimFnc);
+        [tmpRankMat,penVec] = taskShare(lossCompMat,OptimFnc);
     %% восстановление значений функционалов
 %     penLinVec = fix(penVec);
 %     penAddVec = round((penVec - penLinVec)*normSqConst);
@@ -27,7 +27,7 @@ function rankMat = taskShareSC(timeVec, nscRankMat, iscRankMat, isEqConsid, Opti
 %     normSqConst = abs(sum(fullLossSqMat(:)));
 %     fullLossCompMat = fullLossMat + fullLossSqMat/normSqConst;
     [fullLossMetrMat,normMetrConst] = lossMetrMatrix(nscRankMat);
-    fullLossCompMat = fullLossMat + fullLossMetrMat/normMetrConst;
+    fullLossCompMat = fullLossMat + fullLossMetrMat/normMetrConst;  
     %
     fullLossCompMat = fullLossCompMat(indVec,indVec);
     for i = 1:size(tmpRankMat,2)

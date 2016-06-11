@@ -53,11 +53,11 @@ function [ret,sett]=fnc_impl_rat(data_structure,...
      
    switch method_type
        case 1
-   ret=classify1(data_structure.ConsRanking.consRankVec,data_structure.ConsRanking.consRankVec(r_ind),rr(r_ind),false);
+   ret=classify1(data_structure.consRanking,data_structure.consRanking(r_ind),rr(r_ind),false);
        case 2
-   ret=classifyl(data_structure.ConsRanking.consRankVec,data_structure.ConsRanking.consRankVec(r_ind),rr(r_ind),false);
+   ret=classifyl(data_structure.consRanking,data_structure.consRanking(r_ind),rr(r_ind),false);
        case 3
-   ret=classifyu(data_structure.ConsRanking.consRankVec,data_structure.ConsRanking.consRankVec(r_ind),rr(r_ind),false);
+   ret=classifyu(data_structure.consRanking,data_structure.consRanking(r_ind),rr(r_ind),false);
   
    otherwise
        error('Недопустимый метод классификации.')
