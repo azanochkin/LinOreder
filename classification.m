@@ -1,15 +1,26 @@
+%% Set settings
+% Add directories to path 
+addpath(genpath(pwd))
+
+% Starting date. Earlier data will be removed
 initDate = '2008/07/01';
-%suffix = '1YNoAugNoWdr2008Init';
+
+% Data type name
 suffix = 'NscQrt';
+
+% Switch sector between 'Bank' and 'Corp'. Now 'Corp' is not supported
 sector = 'Bank';
-resFile = 'Results\';
+if ispc
+    resFile = 'Results\';
+elseif isunix
+    resFile = './Results/';
+end
 isRgh = false;
 isNorm = true;
 isEqConsid = true;
-%[ timeVec,nscRankMat,iscRankMat,agName] = getData( initDate,suffix,sector);
-%[timeVec,nscRankMat,iscRankMat,agName] = getNewData( initDate,suffix,sector,isRgh);
+% 
 [timeVec,nscRankMat,iscRankMat,agName] = getNewData_qrt( initDate,sector,isRgh,isNorm);
-% нулевые измерения
+%
 iscRankMat = nan(size(nscRankMat));
 maskExRatesVec = sum(~(isnan(nscRankMat)&isnan(iscRankMat)),2)>=1;
 fprintf('-- > observations with 1 or greater ranks: %i\n',sum(maskExRatesVec));
@@ -25,7 +36,7 @@ try
     end
     open(filename)
     %
-    OptimFnc = @(lMat)genetic(lMat,100,100,30,10,0.1,fileID);
+    OptimFnc = @(lMat)genetic(lMat,30,30,10,50,0.15,fileID);
     consRankMat = taskShareSC(timeVec , nscRankMat, iscRankMat,...
         isEqConsid, OptimFnc);
     fclose(fileID);

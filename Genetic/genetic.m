@@ -1,10 +1,10 @@
 function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
-    nMutation,nIter,alphaMut,varargin)
+    nMutation,nIter,alphaMut,fileID)
 %GENETIC Summary of this function goes here
 %   Detailed explanation goes here
     isFilePrint = nargin>6;
     if isFilePrint
-        fileID = varargin{1};
+        printFileStats(fileID);
     end
     nAltern = size(lossMat,1);
     nPerMut = round(alphaMut*nAltern);
@@ -24,7 +24,7 @@ function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
     medRankMat = zeros(nAltern,nBest);
     medPnltVec = zeros(1,nBest);
     %
-%     meanRankVec = zeros(nAltern,1); % может стоит сделать пробный прогон вне цикла
+%     meanRankVec = zeros(nAltern,1);
     %
     [popRankMat, popPnltVec] = popGeneration(lossMat,nPopulation);
     popDistMat = linOrderPrwDist(popRankMat);
@@ -39,7 +39,7 @@ function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
         %
         %[meanRankVec,devVec] = popMean( medRankMat );
         %
-        if nNewPop >= nPopulation/10;
+        if nNewPop >= nPopulation/10
             lastAugPop = cntIter ;
         end
         if nNewMed > 1
@@ -89,7 +89,7 @@ function [ medRankMat, medPnltVec ] = genetic(lossMat,nPopulation,nCrossover,...
             printFileStats(fileID,popPnltVec,medPnltVec,nNewPop,nNewMed,...
                        cntIter,lastRestart,lastDevers,cntRestart,cntDevers)
         end
-        save('Results\midRes.mat','medRankMat');
+%         save('./Results/midRes.mat','medRankMat');
         %
         cntIter = cntIter + 1;
     end
