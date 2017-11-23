@@ -1,13 +1,10 @@
 %% Settings
-% Add directories to path 
-addpath(genpath(pwd))
-
 % Starting date. Earlier data will be removed
 initDate = '2008/07/01';
 
 % Switch sector between 'Bank' and 'Corp'.
-% sector = '�����';
-sector = 'Банки';
+sector = '�����';
+% sector = 'Банки';
 
 % Directory for results
 if ispc
@@ -24,32 +21,49 @@ isObs2Vec = true;
 
 % List of agencies
 agNamesCVec = {'MDS','SP','FCH','EXP','NRA','RUS','AKM'};
+
+% Dictionary number: 
+%   (1-original; 2-group defolt scales; 3-rough scale)
+indVocab = 1;
+
 % Reference agency
 regAgName = 'MDS';
+
 % Source file
 fileName = 'dataFile_18042016.xls';
-% Dictionary number:(1,2,3)
-indVocab = 1;
+%% Optimisation model settings
+% Number of iteration
+nGeneticIter = 100;
+% Population size
+nPopulation = 60;
+% Number of offsprings
+nCrossover = 60;
+% Number of mutants
+nMutation = 15;
+% Fraction of mutating (in [0 1])
+alphaMutation = 0.1;
 %% Data preparation
+% Add directories to path 
+addpath(genpath(pwd))
+% Initial data 
 data = getRankData( fileName, agNamesCVec, indVocab);
-% Reject international scale
+% Reject international scale(now we don't use international scale)
 data.iscRankMat = nan(size(data.iscRankMat));
 % Reject another sector
 isSectorVec = strcmpi(sector,data.sectorCVec);
 % Reject earlier data
 isDateVec = data.dateVec>=datenum(initDate,'yyyy/mm/dd');
-% At least two observations
-isObsVec = sum(~(isnan(data.nscRankMat)&isnan(data.iscRankMat)),2)>=1;
+% At least one observation
+isObsVec = sum(~(isnan(data.nscRankMat) & isnan(data.iscRankMat)),2)>=1;
 % Observations satisfying all features
 isAppropVec = isSectorVec & isDateVec & isObsVec;
 fprintf('-- > appropriate observations : %i\n',sum(isAppropVec));
-% Useful observations
+%% Get useful observations
 nscNormVec = data.normRankVec;
 nscRankMat = data.nscRankMat(isAppropVec,:);
 iscRankMat = data.iscRankMat(isAppropVec,:);
 timeVec = data.dateVec(isAppropVec);
 %% Building consensus rankings
-nGeneticIter = 10;
 try
     logFileName = [resFile,'stats',initDate(1:4),sector,datestr(now,'dd_mm(HH-MM-SS)'),'.txt'];
     fileID = fopen(logFileName,'w+');
@@ -57,7 +71,8 @@ try
         error('classification:fopen','cannot open file')
     end
     open(logFileName)
-    OptimFnc = @(lMat)genetic(lMat,60,60,15,nGeneticIter,0.1,fileID);
+    OptimFnc = @(lMat)genetic(lMat,nPopulation,nCrossover,nMutation,...
+        nGeneticIter,alphaMutation,fileID);
     normNscRankMat =  nscRankMat./repmat(nscNormVec(:)',size(nscRankMat,1),1);
     consRankMat = taskShareSC(timeVec , normNscRankMat , iscRankMat,...
         isEqConsid, OptimFnc);
@@ -68,7 +83,7 @@ catch err
     end
     rethrow(err);
 end
-%%
+%% 
 consRankVec = nan(size(isAppropVec));
 consRankVec(isAppropVec) = srenumber(consRankMat(:,1));
 tbl = array2table([consRankVec, data.nscRankMat, data.dateVec, data.idVec]);
@@ -101,16 +116,11 @@ logFileName = [resFile,'result',sector,initDate(1:4),agNamesCVec{indProxy},'.xls
 [medianKemCell,quantCell,medianCell] = ...
     convertStat(medianKemMat,quantArr,medianNumCell,agGradeName);
 dict = agGradeName{indProxy};
-% for j=1:10
-%             dict{j} = num2str(j);
-%         end
 proxyGrades = dict(1+unique(kemRankVec));
-%
 qNames = cell(size(quantiles));
 for k = 1:length(quantiles)
     qNames{k} = ['Quan_',num2str(100*quantiles(k)),'pr'];
 end
-%
 for i = 1:length(agGradeName)
     tbl = cell2table(quantCell(:,:,i));
     tbl = [medianKemCell(:,i) tbl];
